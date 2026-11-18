@@ -46,12 +46,6 @@ jobs:
       - name: Make Gradle wrapper executable
         run: chmod +x ./gradlew
 
-      - name: Refresh Gradle verification metadata for Android resources
-        run: ./gradlew --write-verification-metadata sha256 :extensions:instagram:compileReleaseNavigationResources
-        env:
-          GITHUB_ACTOR: \${{ github.actor }}
-          GITHUB_TOKEN: \${{ secrets.MORPHE_GITHUB_TOKEN }}
-
       - name: Generate patch list
         run: ./gradlew :patches:generatePatchesList
         env:
