@@ -43,6 +43,9 @@ jobs:
       - name: Generate translation catalog
         run: python scripts/gen-l10n.py
 
+      - name: Make Gradle wrapper executable
+        run: chmod +x ./gradlew
+
       - name: Generate patch list
         run: ./gradlew :patches:generatePatchesList
         env:
