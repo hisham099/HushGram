@@ -186,7 +186,7 @@ Never save AV1 video	عدم حفظ فيديوهات AV1 مطلقاً
 Never save HDR video	عدم حفظ فيديوهات HDR مطلقاً
 For apps that show HDR with a yellow or green cast, such as Messenger. A video Instagram has at full size only in HDR is saved at its largest standard size instead.	للتطبيقات التي تعرض فيديو HDR بميل إلى الأصفر أو الأخضر، مثل Messenger. إذا كان Instagram يوفّر الفيديو بالحجم الكامل بصيغة HDR فقط، فسيُحفظ بدلاً من ذلك بأكبر حجم متاح بالجودة القياسية.
 Save videos as MKV	حفظ الفيديوهات بصيغة MKV
-Saves videos as .mkv files instead of .mp4, for galleries that show no thumbnail for VP9 or AV1 videos. Nothing is re-encoded. A video Instagram sends as one file stays .mp4.	يحفظ الفيديوهات بصيغة ‎.mkv بدلاً من ‎.mp4، لتطبيقات المعرض التي لا تعرض صورة مصغرة لفيديوهات VP9 أو AV1. لا يُعاد ترميز أي ملف. ويظل الفيديو الذي يرسله Instagram كملف واحد بصيغة ‎.mp4.
+Saves videos as .mkv files instead of .mp4, for galleries that show no thumbnail for VP9 or AV1 videos. Nothing is re-encoded. A video Instagram sends as one file stays .mp4.	يحفظ الفيديوهات بصيغة .mkv بدلاً من .mp4، لتطبيقات المعرض التي لا تعرض صورة مصغرة لفيديوهات VP9 أو AV1. لا يُعاد ترميز أي ملف. ويظل الفيديو الذي يرسله Instagram كملف واحد بصيغة .mp4.
 Saves videos other apps can open, at full size. A video Instagram only has as VP9 or AV1 is converted to H.264 on your phone instead of saved smaller. Slower, and videos over 3 minutes or in HDR stay smaller.	يحفظ الفيديوهات بالحجم الكامل بصيغة تستطيع التطبيقات الأخرى فتحها. إذا كان Instagram يوفّر الفيديو بصيغة VP9 أو AV1 فقط، فسيحوّله الهاتف إلى H.264 بدلاً من حفظه بحجم أصغر. العملية أبطأ، وتظل الفيديوهات التي تزيد مدتها على 3 دقائق أو التي تعمل بتقنية HDR بالحجم الأصغر.
 Converting to H.264	جارٍ التحويل إلى H.264
 Download quality	جودة التنزيل
@@ -1273,7 +1273,7 @@ Text size	حجم النص
 Instagram's font	خط Instagram
 Your phone's font	خط هاتفك
 A font file	ملف خط
-Instagram's own font. You can also pick your phone's font or a .ttf or .otf file. Restart Instagram to see a change.	خط Instagram الأصلي. يمكنك أيضاً اختيار خط هاتفك أو ملف بصيغة ‎.ttf أو ‎.otf. أعد تشغيل Instagram لرؤية التغيير.
+Instagram's own font. You can also pick your phone's font or a .ttf or .otf file. Restart Instagram to see a change.	خط Instagram الأصلي. يمكنك أيضاً اختيار خط هاتفك أو ملف بصيغة .ttf أو .otf. أعد تشغيل Instagram لرؤية التغيير.
 Instagram's text uses your phone's font. Restart Instagram to see a change.	يستخدم نص Instagram خط هاتفك. أعد تشغيل Instagram لرؤية التغيير.
 Instagram's text uses the font file you picked. Pick it again to change the file. Restart Instagram to see a change.	يستخدم نص Instagram ملف الخط الذي اخترته. اختر ملفاً آخر لتغييره. أعد تشغيل Instagram لرؤية التغيير.
 That file isn't a usable font. Yours didn't change.	هذا الملف ليس خطاً صالحاً للاستخدام. لم يتغير الخط الحالي.
@@ -1447,8 +1447,8 @@ the home screen icon you picked	أيقونة الشاشة الرئيسية ال�
 Your fonts in story text	خطوطك في نصوص القصص
 Adds the fonts below to the story text editor alongside Instagram's own fonts, which all stay. Pick one there like any other font.	يضيف الخطوط أدناه إلى محرر نصوص القصص بجانب خطوط Instagram الأصلية، مع الاحتفاظ بها جميعاً. اختر أحدها من المحرر كما تختار أي خط آخر.
 Your story fonts	خطوط القصص الخاصة بك
-Add .ttf or .otf files from your phone. Uncheck one to take it out.	أضف ملفات ‎.ttf أو ‎.otf من هاتفك. أزل تحديد أي خط لإزالته.
-No fonts added yet. Add a .ttf or .otf file and it shows up in the story text editor alongside Instagram's fonts.	لم تتم إضافة أي خطوط بعد. أضف ملف ‎.ttf أو ‎.otf ليظهر في محرر نصوص القصص بجانب خطوط Instagram.
+Add .ttf or .otf files from your phone. Uncheck one to take it out.	أضف ملفات .ttf أو .otf من هاتفك. أزل تحديد أي خط لإزالته.
+No fonts added yet. Add a .ttf or .otf file and it shows up in the story text editor alongside Instagram's fonts.	لم تتم إضافة أي خطوط بعد. أضف ملف .ttf أو .otf ليظهر في محرر نصوص القصص بجانب خطوط Instagram.
 Add a font file	إضافة ملف خط
 Removed from your story fonts	تمت إزالته من خطوط القصص
 That file isn't a usable font. Nothing was added.	هذا الملف ليس خطاً صالحاً للاستخدام. لم تتم إضافة أي شيء.
@@ -2068,7 +2068,7 @@ A wavy line for the part played, with a tall handle, on feed videos only.	خط �
 Time on the seek bar	الوقت على شريط التقدم
 Shows the time played and the video's length over the seek bar on feed videos, like 0:12 / 0:45. Tap the time to see the time left instead.	يعرض الوقت المنقضي والمدة الكاملة للفيديو فوق شريط التقدم في فيديوهات الموجز، مثل 0:12 / 0:45. اضغط على الوقت لعرض الوقت المتبقي بدلًا منه.
 Show the time left	عرض الوقت المتبقي
-The time on the seek bar counts down what's left of the video, like -0:33 / 0:45. A tap on the time switches back.	يعرض الوقت على شريط التقدم المدة المتبقية من الفيديو تنازليًا، مثل ‎-0:33 / 0:45. اضغط على الوقت للعودة إلى العرض السابق.
+The time on the seek bar counts down what's left of the video, like -0:33 / 0:45. A tap on the time switches back.	يعرض الوقت على شريط التقدم المدة المتبقية من الفيديو تنازليًا، مثل -0:33 / 0:45. اضغط على الوقت للعودة إلى العرض السابق.
 Taps on feed videos stay in the feed	إبقاء النقر على فيديوهات الموجز داخل الموجز
 A tap on a feed video, or on the screen it shows when it ends, no longer opens it full screen in Reels. Tap a feed video to pause it still pauses it, and the buttons on that screen still work.	لن يؤدي النقر على فيديو في الموجز، أو على الشاشة التي تظهر عند انتهائه، إلى فتحه بملء الشاشة في تبويب الريلز. يظل النقر على الفيديو لإيقافه مؤقتًا يعمل كالمعتاد، وكذلك الأزرار الظاهرة على الشاشة.
 Report	إبلاغ
