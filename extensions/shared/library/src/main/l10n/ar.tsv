@@ -1,147 +1,147 @@
 # Arabic for HushGram: English key, tab, Arabic translation.
 # Existing reviewed Arabic entries are retained. Remaining entries temporarily use English fallback until reviewed.
-%1$d of them because storage is low.	%1$d of them because storage is low.
-%1$s of %2$s	%1$s of %2$s
-%1$s so far	%1$s so far
+%1$d of them because storage is low.	%1$d منها بسبب انخفاض مساحة التخزين.
+%1$s of %2$s	%1$s من %2$s
+%1$s so far	%1$s حتى الآن
 %1$s. It was set when you patched, so Pause can't turn it off. To rule it out, patch again and leave out that patch.	%1$s. It was set when you patched, so Pause can't turn it off. To rule it out, patch again and leave out that patch.
 %1$s. They were set when you patched, so Pause can't turn them off. To rule one out, patch again and leave out the patch in brackets after it.	%1$s. They were set when you patched, so Pause can't turn them off. To rule one out, patch again and leave out the patch in brackets after it.
-A diagnostic report is already being saved.	A diagnostic report is already being saved.
-A file named %1$s in %2$s paused HushGram.	A file named %1$s in %2$s paused HushGram.
+A diagnostic report is already being saved.	يجري بالفعل حفظ تقرير التشخيص.
+A file named %1$s in %2$s paused HushGram.	أوقف HushGram ملف باسم %1$s في %2$s.
 About	حول
-Add the source to saved photos and videos	Add the source to saved photos and videos
+Add the source to saved photos and videos	إضافة المصدر إلى الصور والفيديوهات المحفوظة
 Ads and privacy	الإعلانات والخصوصية
 Asks Android to run Instagram at your screen's fastest refresh rate, at the same resolution. Some phones keep their own limit for apps, and battery saver can still lower it.	Asks Android to run Instagram at your screen's fastest refresh rate, at the same resolution. Some phones keep their own limit for apps, and battery saver can still lower it.
 Back	رجوع
-Before you sign in	Before you sign in
+Before you sign in	قبل تسجيل الدخول
 Cancel	إلغاء
-Chat saved in Downloads/HushGram.	Chat saved in Downloads/HushGram.
-Chat saved in the app's Download folder.	Chat saved in the app's Download folder.
-Clear diagnostic data	Clear diagnostic data
-Copy a quick report or save the full one to %1$s. Links, IDs, cookies and sign-in details are left out. Check it for other private text before you share it.	Copy a quick report or save the full one to %1$s. Links, IDs, cookies and sign-in details are left out. Check it for other private text before you share it.
-Copy a short report to the clipboard.	Copy a short report to the clipboard.
-Copy quick report	Copy quick report
-Copying to the gallery	Copying to the gallery
-Couldn't find this chat's messages.	Couldn't find this chat's messages.
-Couldn't put back the diagnostic data. Try again.	Couldn't put back the diagnostic data. Try again.
-Couldn't save the chat.	Couldn't save the chat.
-Couldn't start the report export. Try again shortly.	Couldn't start the report export. Try again shortly.
-Couldn't turn HushGram back on. Try again.	Couldn't turn HushGram back on. Try again.
-Debug logging	Debug logging
-Diagnostic data cleared. Tap again to put it back.	Diagnostic data cleared. Tap again to put it back.
-Diagnostic data put back.	Diagnostic data put back.
-Diagnostic report copied to the clipboard.	Diagnostic report copied to the clipboard.
+Chat saved in Downloads/HushGram.	تم حفظ المحادثة في Downloads/HushGram.
+Chat saved in the app's Download folder.	تم حفظ المحادثة في مجلد التنزيلات الخاص بالتطبيق.
+Clear diagnostic data	مسح بيانات التشخيص
+Copy a quick report or save the full one to %1$s. Links, IDs, cookies and sign-in details are left out. Check it for other private text before you share it.	انسخ تقريراً مختصراً أو احفظ التقرير الكامل في %1$s. تُستثنى الروابط والمعرّفات وملفات تعريف الارتباط وبيانات تسجيل الدخول. راجعه بحثاً عن أي معلومات خاصة أخرى قبل مشاركته.
+Copy a short report to the clipboard.	نسخ تقرير مختصر إلى الحافظة.
+Copy quick report	نسخ التقرير المختصر
+Copying to the gallery	جارٍ النسخ إلى المعرض
+Couldn't find this chat's messages.	تعذّر العثور على رسائل هذه المحادثة.
+Couldn't put back the diagnostic data. Try again.	تعذّر استعادة بيانات التشخيص. حاول مجدداً.
+Couldn't save the chat.	تعذّر حفظ المحادثة.
+Couldn't start the report export. Try again shortly.	تعذّر بدء تصدير التقرير. حاول مجدداً بعد قليل.
+Couldn't turn HushGram back on. Try again.	تعذّر إعادة تشغيل HushGram. حاول مجدداً.
+Debug logging	تسجيل معلومات تصحيح الأخطاء
+Diagnostic data cleared. Tap again to put it back.	تم مسح بيانات التشخيص. اضغط مجدداً لاستعادتها.
+Diagnostic data put back.	تمت استعادة بيانات التشخيص.
+Diagnostic report copied to the clipboard.	تم نسخ تقرير التشخيص إلى الحافظة.
 Download failed	فشل التنزيل
 Downloading	جارٍ التنزيل
-Empties the activity log and any kept crash that a diagnostic report would include.	Empties the activity log and any kept crash that a diagnostic report would include.
-Every switch but Debug logging acts as if it were off, and what was set when you patched stays in. Your settings stay as they are.	Every switch but Debug logging acts as if it were off, and what was set when you patched stays in. Your settings stay as they are.
-Export a chat as text	Export a chat as text
-Export chat	Export chat
-Export diagnostic report	Export diagnostic report
-From the next start, every switch but Debug logging acts as if it were off. Changes made when you patched stay in, and your choices stay saved.	From the next start, every switch but Debug logging acts as if it were off. Changes made when you patched stay in, and your choices stay saved.
-Here it is.	Here it is.
-Jump to a date	Jump to a date
-Jump to the first message	Jump to the first message
-Jump to the first message or a date	Jump to the first message or a date
-Loading older messages.	Loading older messages.
-Loading older messages. %1$d message so far.	Loading older messages. %1$d message so far.
-Loading older messages. %1$d messages so far.	Loading older messages. %1$d messages so far.
-Lock these settings	Lock these settings
-Mark a chat seen when you reply	Mark a chat seen when you reply
-No messages found to save.	No messages found to save.
-Pick a wait from 1 to 72 hours. Locked, nothing here changes until you ask to unlock and the wait is over.	Pick a wait from 1 to 72 hours. Locked, nothing here changes until you ask to unlock and the wait is over.
-Ask to unlock	Ask to unlock
-Saved to %1$s in lower quality because storage is low	Saved to %1$s in lower quality because storage is low
-Saved to the gallery in lower quality because storage is low	Saved to the gallery in lower quality because storage is low
+Empties the activity log and any kept crash that a diagnostic report would include.	يمسح سجل النشاط وأي بيانات أعطال محفوظة قد يتضمنها تقرير التشخيص.
+Every switch but Debug logging acts as if it were off, and what was set when you patched stays in. Your settings stay as they are.	تُعامل جميع المفاتيح، باستثناء تسجيل معلومات تصحيح الأخطاء، كما لو كانت متوقفة. وتظل التغييرات التي طُبّقت عند إنشاء الرقعة فعّالة، مع الاحتفاظ بإعداداتك الحالية.
+Export a chat as text	تصدير المحادثة كنص
+Export chat	تصدير المحادثة
+Export diagnostic report	تصدير تقرير التشخيص
+From the next start, every switch but Debug logging acts as if it were off. Changes made when you patched stay in, and your choices stay saved.	ابتداءً من التشغيل التالي، ستُعامل جميع المفاتيح، باستثناء تسجيل معلومات تصحيح الأخطاء، كما لو كانت متوقفة. وستظل تغييرات إنشاء الرقعة محفوظة، وكذلك اختياراتك.
+Here it is.	تفضل.
+Jump to a date	الانتقال إلى تاريخ
+Jump to the first message	الانتقال إلى الرسالة الأولى
+Jump to the first message or a date	الانتقال إلى الرسالة الأولى أو إلى تاريخ محدد
+Loading older messages.	جارٍ تحميل الرسائل الأقدم.
+Loading older messages. %1$d message so far.	جارٍ تحميل الرسائل الأقدم. تم تحميل %1$d رسالة حتى الآن.
+Loading older messages. %1$d messages so far.	جارٍ تحميل الرسائل الأقدم. تم تحميل %1$d رسالة حتى الآن.
+Lock these settings	قفل هذه الإعدادات
+Mark a chat seen when you reply	وضع علامة مقروء على المحادثة عند الرد
+No messages found to save.	لم يتم العثور على رسائل لحفظها.
+Pick a wait from 1 to 72 hours. Locked, nothing here changes until you ask to unlock and the wait is over.	اختر مدة انتظار من ساعة إلى 72 ساعة. أثناء القفل لن يتغير أي شيء هنا حتى تطلب إلغاء القفل وتنتهي مدة الانتظار.
+Ask to unlock	طلب إلغاء القفل
+Saved to %1$s in lower quality because storage is low	تم الحفظ في %1$s بجودة أقل بسبب انخفاض مساحة التخزين
+Saved to the gallery in lower quality because storage is low	تم الحفظ في المعرض بجودة أقل بسبب انخفاض مساحة التخزين
 Sending a message in a chat lets the other person see that you've read what they sent before it. Chats you don't answer stay unseen to them.	Sending a message in a chat lets the other person see that you've read what they sent before it. Chats you don't answer stay unseen to them.
-That's as far back as this chat goes.	That's as far back as this chat goes.
+That's as far back as this chat goes.	هذه أقدم الرسائل المتاحة في هذه المحادثة.
 These settings are locked. Tap to start the %1$s wait, then they open for 10 minutes.	These settings are locked. Tap to start the %1$s wait, then they open for 10 minutes.
-Unlock asked	Unlock asked
+Unlock asked	تم طلب إلغاء القفل
 These settings open at %1$s, for 10 minutes.	These settings open at %1$s, for 10 minutes.
 These settings open at %1$s, for 10 minutes. Tap to stop the wait.	These settings open at %1$s, for 10 minutes. Tap to stop the wait.
-Stop the wait	Stop the wait
-Keep waiting	Keep waiting
-Use the highest refresh rate	Use the highest refresh rate
-Wait stopped. These settings stay locked.	Wait stopped. These settings stay locked.
-Settings are open	Settings are open
+Stop the wait	إيقاف الانتظار
+Keep waiting	متابعة الانتظار
+Use the highest refresh rate	استخدام أعلى معدل تحديث
+Wait stopped. These settings stay locked.	توقف الانتظار. ستظل هذه الإعدادات مقفلة.
+Settings are open	الإعدادات مفتوحة
 They lock again at %1$s. Tap to lock them now or turn the lock off.	They lock again at %1$s. Tap to lock them now or turn the lock off.
 %1$d hour	%1$d hour
 %1$d hours	%1$d hours
-Turn the lock off	Turn the lock off
-Settings locked	Settings locked
-Lock turned off	Lock turned off
-These settings are locked. Ask to unlock first.	These settings are locked. Ask to unlock first.
-Full report saved to %1$s	Full report saved to %1$s
+Turn the lock off	إيقاف القفل
+Settings locked	تم قفل الإعدادات
+Lock turned off	تم إيقاف القفل
+These settings are locked. Ask to unlock first.	هذه الإعدادات مقفلة. اطلب إلغاء القفل أولاً.
+Full report saved to %1$s	تم حفظ التقرير الكامل في %1$s
 GPL-3.0, with the notices of the projects this is built on	GPL-3.0, with the notices of the projects this is built on
-Gray out stories you've watched	Gray out stories you've watched
+Gray out stories you've watched	إظهار القصص التي شاهدتها بلون باهت
 Hide ads	إخفاء الإعلانات
-How far a photo or video you're saving has got, with a button to cancel it	How far a photo or video you're saving has got, with a button to cancel it
+How far a photo or video you're saving has got, with a button to cancel it	عرض تقدم حفظ الصورة أو الفيديو، مع زر لإلغاء العملية
 HushGram %1$s on Instagram %2$s	HushGram %1$s on Instagram %2$s
-HushGram is on	HushGram is on
-HushGram is paused	HushGram is paused
-HushGram pauses when Instagram restarts.	HushGram pauses when Instagram restarts.
-HushGram saves	HushGram saves
-HushGram settings	HushGram settings
-HushGram settings couldn't open	HushGram settings couldn't open
-HushGram settings are locked	HushGram settings are locked
+HushGram is on	HushGram قيد التشغيل
+HushGram is paused	تم إيقاف HushGram مؤقتاً
+HushGram pauses when Instagram restarts.	يتوقف HushGram مؤقتاً عند إعادة تشغيل Instagram.
+HushGram saves	عمليات الحفظ في HushGram
+HushGram settings	إعدادات HushGram
+HushGram settings couldn't open	تعذّر فتح إعدادات HushGram
+HushGram settings are locked	إعدادات HushGram مقفلة
 HushGram turns back on when Instagram restarts.	HushGram turns back on when Instagram restarts.
 Instagram crashed or froze within a minute of starting three times in a row, so HushGram paused itself.	Instagram crashed or froze within a minute of starting three times in a row, so HushGram paused itself.
 Instagram stops showing the screen that says this version is too old. A patched build doesn't update on its own, so this keeps it usable.	Instagram stops showing the screen that says this version is too old. A patched build doesn't update on its own, so this keeps it usable.
 Instagram's own checks of who signed the app keep passing on this patched build.	Instagram's own checks of who signed the app keep passing on this patched build.
 Joining the picture and sound	Joining the picture and sound
 Licenses	Licenses
-Link expired. Reopen the item and try again.	Link expired. Reopen the item and try again.
+Link expired. Reopen the item and try again.	انتهت صلاحية الرابط. افتح العنصر مجدداً وحاول مرة أخرى.
 Nobody outside Meta knows what gets an account suspended. A patched Instagram can't pass Google's check that it came from the Play Store, and no patch changes that. If you'd rather not risk your account, try a spare one first. Installing updates over the top with the same signing key keeps Instagram's data and your sign-in. On a rooted phone, a Root Mount install keeps the sign-in you already have.	Nobody outside Meta knows what gets an account suspended. A patched Instagram can't pass Google's check that it came from the Play Store, and no patch changes that. If you'd rather not risk your account, try a spare one first. Installing updates over the top with the same signing key keeps Instagram's data and your sign-in. On a rooted phone, a Root Mount install keeps the sign-in you already have.
-No app can open this link.	No app can open this link.
+No app can open this link.	لا يوجد تطبيق يمكنه فتح هذا الرابط.
 No app can open the bug report.	No app can open the bug report.
-Not saved: that isn't an Instagram photo or video	Not saved: that isn't an Instagram photo or video
-Not saved: the file is over 512 MB	Not saved: the file is over 512 MB
+Not saved: that isn't an Instagram photo or video	لم يتم الحفظ: هذا ليس صورة أو فيديو من Instagram
+Not saved: the file is over 512 MB	لم يتم الحفظ: حجم الملف يتجاوز 512 ميجابايت
 OK	موافق
 Pause HushGram	إيقاف HushGram مؤقتاً
-Pause and diagnostics	Pause and diagnostics
-Instagram accepts this build	Instagram accepts this build
-Record patch activity and show errors for a bug report. Leave off during normal use.	Record patch activity and show errors for a bug report. Leave off during normal use.
-Remove build expired popup	Remove build expired popup
+Pause and diagnostics	الإيقاف المؤقت والتشخيص
+Instagram accepts this build	Instagram يقبل هذا الإصدار
+Record patch activity and show errors for a bug report. Leave off during normal use.	تسجيل نشاط الرقع وعرض الأخطاء عند إعداد تقرير عن مشكلة. اتركه متوقفاً أثناء الاستخدام العادي.
+Remove build expired popup	إزالة تنبيه انتهاء صلاحية الإصدار
 Retry	إعادة المحاولة
 Sanitize sharing links	تنظيف روابط المشاركة
 Save canceled	تم إلغاء الحفظ
-Save full report	Save full report
-Save the full report in %1$s.	Save the full report in %1$s.
+Save full report	حفظ التقرير الكامل
+Save the full report in %1$s.	حفظ التقرير الكامل في %1$s.
 Saved to %1$s	تم الحفظ في %1$s
-Saved to %1$s in lower quality than on Instagram	Saved to %1$s in lower quality than on Instagram
+Saved to %1$s in lower quality than on Instagram	تم الحفظ في %1$s بجودة أقل من الجودة المعروضة في Instagram
 Saved to the gallery	تم الحفظ في المعرض
-Saved to the gallery in lower quality than on Instagram	Saved to the gallery in lower quality than on Instagram
-Saved. Restart Instagram to apply this change.	Saved. Restart Instagram to apply this change.
+Saved to the gallery in lower quality than on Instagram	تم الحفظ في المعرض بجودة أقل من الجودة المعروضة في Instagram
+Saved. Restart Instagram to apply this change.	تم الحفظ. أعد تشغيل Instagram لتطبيق هذا التغيير.
 Saving a photo	جارٍ حفظ الصورة
 Saving a video	جارٍ حفظ الفيديو
 Saving...	جارٍ الحفظ...
-Saving... You can cancel from Downloads in HushGram settings.	Saving... You can cancel from Downloads in HushGram settings.
-Set when you patched	Set when you patched
+Saving... You can cancel from Downloads in HushGram settings.	جارٍ الحفظ... يمكنك إلغاء العملية من قسم التنزيلات في إعدادات HushGram.
+Set when you patched	تم تحديده عند إنشاء الرقعة
 Settings couldn't open	Settings couldn't open
-Settings couldn't refresh completely. Reopen settings and try again.	Settings couldn't refresh completely. Reopen settings and try again.
-Source code and issues	Source code and issues
+Settings couldn't refresh completely. Reopen settings and try again.	تعذّر تحديث الإعدادات بالكامل. أعد فتح الإعدادات وحاول مجدداً.
+Source code and issues	الكود المصدري والمشكلات
 Hides sponsored posts, reels, stories and the ad in comments. No empty gap is left where an ad would have been.	يخفي المنشورات ومقاطع ريلز والقصص الدعائية، وكذلك الإعلانات في التعليقات، دون ترك فراغ في موضع الإعلان.
 Hide Instagram Plus prompts	إخفاء عروض Instagram Plus
 Takes Instagram's offers to try Plus out of chats, stories and menus. Nothing that comes with Plus is turned on.	Takes Instagram's offers to try Plus out of chats, stories and menus. Nothing that comes with Plus is turned on.
-Stays in while paused	Stays in while paused
+Stays in while paused	يظل مفعّلاً أثناء الإيقاف المؤقت
 Removes tracking tags from links you copy or share, and opens bio links without Instagram's click tracker. The link still opens the same post, reel or profile.	Removes tracking tags from links you copy or share, and opens bio links without Instagram's click tracker. The link still opens the same post, reel or profile.
-Tap to hide this.	Tap to hide this.
-Couldn't hide this notice. Try again.	Couldn't hide this notice. Try again.
-Tap to turn it back on.	Tap to turn it back on.
-The report isn't saved yet. Try again in a moment.	The report isn't saved yet. Try again in a moment.
-Couldn't save the diagnostic report. Try again.	Couldn't save the diagnostic report. Try again.
+Tap to hide this.	اضغط لإخفاء هذا.
+Couldn't hide this notice. Try again.	تعذّر إخفاء هذا الإشعار. حاول مجدداً.
+Tap to turn it back on.	اضغط لإعادة تشغيله.
+The report isn't saved yet. Try again in a moment.	لم يُحفظ التقرير بعد. حاول مجدداً بعد لحظات.
+Couldn't save the diagnostic report. Try again.	تعذّر حفظ تقرير التشخيص. حاول مجدداً.
 The file %1$s couldn't be removed. Delete it from %2$s to turn HushGram back on.	The file %1$s couldn't be removed. Delete it from %2$s to turn HushGram back on.
-Couldn't finish that change. Showing what's saved.	Couldn't finish that change. Showing what's saved.
-There's no diagnostic data to clear.	There's no diagnostic data to clear.
-There's no diagnostic data to put back.	There's no diagnostic data to put back.
-Try again, or go back to Instagram.	Try again, or go back to Instagram.
+Couldn't finish that change. Showing what's saved.	تعذّر إكمال هذا التغيير. يتم عرض الإعدادات المحفوظة.
+There's no diagnostic data to clear.	لا توجد بيانات تشخيص لمسحها.
+There's no diagnostic data to put back.	لا توجد بيانات تشخيص لاستعادتها.
+Try again, or go back to Instagram.	حاول مجدداً أو ارجع إلى Instagram.
 Updates	التحديثات
 Version	الإصدار
 Version %1$s for Instagram %2$s	Version %1$s for Instagram %2$s
 While you view anonymously, a story you've watched turns gray and moves to the end of the row, on this phone only. Instagram still isn't told you watched it.	While you view anonymously, a story you've watched turns gray and moves to the end of the row, on this phone only. Instagram still isn't told you watched it.
 Writes the account that posted, the post date and a link to the post into a saved photo or video, in the EXIF or MP4 tags a gallery or exiftool reads. JPEG photos and MP4 videos only, and only what the save knows. The picture and the sound are unchanged.	Writes the account that posted, the post date and a link to the post into a saved photo or video, in the EXIF or MP4 tags a gallery or exiftool reads. JPEG photos and MP4 videos only, and only what the save knows. The picture and the sound are unchanged.
-You	You
-You paused HushGram.	You paused HushGram.
-the re-signed build fix	the re-signed build fix
+You	أنت
+You paused HushGram.	لقد أوقفت HushGram مؤقتاً.
+the re-signed build fix	إصلاح إصدار التطبيق المعاد توقيعه
 Don't send reel watch history	عدم إرسال سجل مشاهدة مقاطع ريلز
 Stops telling Instagram which reels you watched or how far you got. Instagram uses that to pick your Reels. Watched reels may come back.	Stops telling Instagram which reels you watched or how far you got. Instagram uses that to pick your Reels. Watched reels may come back.
 Reels	ريلز
