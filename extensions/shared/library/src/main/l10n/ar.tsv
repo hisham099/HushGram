@@ -3,14 +3,14 @@
 %1$d of them because storage is low.	%1$d منها بسبب انخفاض مساحة التخزين.
 %1$s of %2$s	%1$s من %2$s
 %1$s so far	%1$s حتى الآن
-%1$s. It was set when you patched, so Pause can't turn it off. To rule it out, patch again and leave out that patch.	%1$s. It was set when you patched, so Pause can't turn it off. To rule it out, patch again and leave out that patch.
-%1$s. They were set when you patched, so Pause can't turn them off. To rule one out, patch again and leave out the patch in brackets after it.	%1$s. They were set when you patched, so Pause can't turn them off. To rule one out, patch again and leave out the patch in brackets after it.
+%1$s. It was set when you patched, so Pause can't turn it off. To rule it out, patch again and leave out that patch.	%1$s. تم تفعيله عند إنشاء الرقعة، لذلك لا يمكن للإيقاف المؤقت تعطيله. لاستبعاده، أنشئ الرقعة مجدداً مع عدم تضمين تلك الرقعة.
+%1$s. They were set when you patched, so Pause can't turn them off. To rule one out, patch again and leave out the patch in brackets after it.	%1$s. تم تفعيلها عند إنشاء الرقعة، لذلك لا يمكن للإيقاف المؤقت تعطيلها. لاستبعاد أحدها، أنشئ الرقعة مجدداً دون تضمين الرقعة الموضحة بين القوسين بعده.
 A diagnostic report is already being saved.	يجري بالفعل حفظ تقرير التشخيص.
 A file named %1$s in %2$s paused HushGram.	أوقف HushGram ملف باسم %1$s في %2$s.
 About	حول
 Add the source to saved photos and videos	إضافة المصدر إلى الصور والفيديوهات المحفوظة
 Ads and privacy	الإعلانات والخصوصية
-Asks Android to run Instagram at your screen's fastest refresh rate, at the same resolution. Some phones keep their own limit for apps, and battery saver can still lower it.	Asks Android to run Instagram at your screen's fastest refresh rate, at the same resolution. Some phones keep their own limit for apps, and battery saver can still lower it.
+Asks Android to run Instagram at your screen's fastest refresh rate, at the same resolution. Some phones keep their own limit for apps, and battery saver can still lower it.	يطلب من Android تشغيل Instagram بأعلى معدل تحديث تدعمه شاشتك، مع الحفاظ على الدقة نفسها. تفرض بعض الهواتف حداً خاصاً بالتطبيقات، وقد يؤدي وضع توفير البطارية إلى خفض المعدل.
 Back	رجوع
 Before you sign in	قبل تسجيل الدخول
 Cancel	إلغاء
@@ -52,30 +52,30 @@ Pick a wait from 1 to 72 hours. Locked, nothing here changes until you ask to un
 Ask to unlock	طلب إلغاء القفل
 Saved to %1$s in lower quality because storage is low	تم الحفظ في %1$s بجودة أقل بسبب انخفاض مساحة التخزين
 Saved to the gallery in lower quality because storage is low	تم الحفظ في المعرض بجودة أقل بسبب انخفاض مساحة التخزين
-Sending a message in a chat lets the other person see that you've read what they sent before it. Chats you don't answer stay unseen to them.	Sending a message in a chat lets the other person see that you've read what they sent before it. Chats you don't answer stay unseen to them.
+Sending a message in a chat lets the other person see that you've read what they sent before it. Chats you don't answer stay unseen to them.	إرسال رسالة في محادثة يُظهر للطرف الآخر أنك قرأت رسائله السابقة. أما المحادثات التي لا ترد عليها فستظل غير مقروءة من وجهة نظره.
 That's as far back as this chat goes.	هذه أقدم الرسائل المتاحة في هذه المحادثة.
-These settings are locked. Tap to start the %1$s wait, then they open for 10 minutes.	These settings are locked. Tap to start the %1$s wait, then they open for 10 minutes.
+These settings are locked. Tap to start the %1$s wait, then they open for 10 minutes.	هذه الإعدادات مقفلة. اضغط لبدء مدة الانتظار البالغة %1$s، وبعد انتهائها ستُفتح الإعدادات لمدة 10 دقائق.
 Unlock asked	تم طلب إلغاء القفل
-These settings open at %1$s, for 10 minutes.	These settings open at %1$s, for 10 minutes.
-These settings open at %1$s, for 10 minutes. Tap to stop the wait.	These settings open at %1$s, for 10 minutes. Tap to stop the wait.
+These settings open at %1$s, for 10 minutes.	ستُفتح هذه الإعدادات عند %1$s لمدة 10 دقائق.
+These settings open at %1$s, for 10 minutes. Tap to stop the wait.	ستُفتح هذه الإعدادات عند %1$s لمدة 10 دقائق. اضغط لإيقاف الانتظار.
 Stop the wait	إيقاف الانتظار
 Keep waiting	متابعة الانتظار
 Use the highest refresh rate	استخدام أعلى معدل تحديث
 Wait stopped. These settings stay locked.	توقف الانتظار. ستظل هذه الإعدادات مقفلة.
 Settings are open	الإعدادات مفتوحة
-They lock again at %1$s. Tap to lock them now or turn the lock off.	They lock again at %1$s. Tap to lock them now or turn the lock off.
-%1$d hour	%1$d hour
-%1$d hours	%1$d hours
+They lock again at %1$s. Tap to lock them now or turn the lock off.	سيُعاد قفلها عند %1$s. اضغط لقفلها الآن أو لإيقاف القفل.
+%1$d hour	ساعة واحدة (%1$d)
+%1$d hours	%1$d ساعات
 Turn the lock off	إيقاف القفل
 Settings locked	تم قفل الإعدادات
 Lock turned off	تم إيقاف القفل
 These settings are locked. Ask to unlock first.	هذه الإعدادات مقفلة. اطلب إلغاء القفل أولاً.
 Full report saved to %1$s	تم حفظ التقرير الكامل في %1$s
-GPL-3.0, with the notices of the projects this is built on	GPL-3.0, with the notices of the projects this is built on
+GPL-3.0, with the notices of the projects this is built on	GPL-3.0، مع إشعارات التراخيص الخاصة بالمشروعات التي بُني عليها هذا التطبيق
 Gray out stories you've watched	إظهار القصص التي شاهدتها بلون باهت
 Hide ads	إخفاء الإعلانات
 How far a photo or video you're saving has got, with a button to cancel it	عرض تقدم حفظ الصورة أو الفيديو، مع زر لإلغاء العملية
-HushGram %1$s on Instagram %2$s	HushGram %1$s on Instagram %2$s
+HushGram %1$s on Instagram %2$s	HushGram %1$s على Instagram %2$s
 HushGram is on	HushGram قيد التشغيل
 HushGram is paused	تم إيقاف HushGram مؤقتاً
 HushGram pauses when Instagram restarts.	يتوقف HushGram مؤقتاً عند إعادة تشغيل Instagram.
@@ -83,16 +83,16 @@ HushGram saves	عمليات الحفظ في HushGram
 HushGram settings	إعدادات HushGram
 HushGram settings couldn't open	تعذّر فتح إعدادات HushGram
 HushGram settings are locked	إعدادات HushGram مقفلة
-HushGram turns back on when Instagram restarts.	HushGram turns back on when Instagram restarts.
-Instagram crashed or froze within a minute of starting three times in a row, so HushGram paused itself.	Instagram crashed or froze within a minute of starting three times in a row, so HushGram paused itself.
-Instagram stops showing the screen that says this version is too old. A patched build doesn't update on its own, so this keeps it usable.	Instagram stops showing the screen that says this version is too old. A patched build doesn't update on its own, so this keeps it usable.
-Instagram's own checks of who signed the app keep passing on this patched build.	Instagram's own checks of who signed the app keep passing on this patched build.
-Joining the picture and sound	Joining the picture and sound
-Licenses	Licenses
+HushGram turns back on when Instagram restarts.	يُعاد تشغيل HushGram عند إعادة تشغيل Instagram.
+Instagram crashed or froze within a minute of starting three times in a row, so HushGram paused itself.	تعطّل Instagram أو تجمّد خلال دقيقة من بدء التشغيل ثلاث مرات متتالية، لذلك أوقف HushGram نفسه مؤقتاً.
+Instagram stops showing the screen that says this version is too old. A patched build doesn't update on its own, so this keeps it usable.	يمنع Instagram من عرض الشاشة التي تفيد بأن هذا الإصدار قديم جداً. لا يتلقى الإصدار المعدّل تحديثاته تلقائياً، وهذا الخيار يساعد على إبقائه قابلاً للاستخدام.
+Instagram's own checks of who signed the app keep passing on this patched build.	تظل عمليات التحقق التي يجريها Instagram من الجهة التي وقّعت التطبيق ناجحة في هذا الإصدار المعدّل.
+Joining the picture and sound	دمج الصورة والصوت
+Licenses	التراخيص
 Link expired. Reopen the item and try again.	انتهت صلاحية الرابط. افتح العنصر مجدداً وحاول مرة أخرى.
-Nobody outside Meta knows what gets an account suspended. A patched Instagram can't pass Google's check that it came from the Play Store, and no patch changes that. If you'd rather not risk your account, try a spare one first. Installing updates over the top with the same signing key keeps Instagram's data and your sign-in. On a rooted phone, a Root Mount install keeps the sign-in you already have.	Nobody outside Meta knows what gets an account suspended. A patched Instagram can't pass Google's check that it came from the Play Store, and no patch changes that. If you'd rather not risk your account, try a spare one first. Installing updates over the top with the same signing key keeps Instagram's data and your sign-in. On a rooted phone, a Root Mount install keeps the sign-in you already have.
+Nobody outside Meta knows what gets an account suspended. A patched Instagram can't pass Google's check that it came from the Play Store, and no patch changes that. If you'd rather not risk your account, try a spare one first. Installing updates over the top with the same signing key keeps Instagram's data and your sign-in. On a rooted phone, a Root Mount install keeps the sign-in you already have.	لا يعرف أحد خارج Meta على وجه اليقين ما الذي يؤدي إلى تعليق الحساب. لا يستطيع Instagram المعدّل اجتياز تحقق Google الذي يثبت أن التطبيق من متجر Play، ولا يمكن لأي رقعة تغيير ذلك. إذا كنت لا تريد المخاطرة بحسابك، فجرّب حساباً احتياطياً أولاً. تثبيت التحديثات فوق الإصدار الحالي باستخدام مفتاح التوقيع نفسه يحافظ على بيانات Instagram وتسجيل دخولك. وعلى الهاتف الذي لديه صلاحيات root، يحافظ التثبيت باستخدام Root Mount على تسجيل الدخول الحالي.
 No app can open this link.	لا يوجد تطبيق يمكنه فتح هذا الرابط.
-No app can open the bug report.	No app can open the bug report.
+No app can open the bug report.	لا يوجد تطبيق يمكنه فتح تقرير الأخطاء.
 Not saved: that isn't an Instagram photo or video	لم يتم الحفظ: هذا ليس صورة أو فيديو من Instagram
 Not saved: the file is over 512 MB	لم يتم الحفظ: حجم الملف يتجاوز 512 ميجابايت
 OK	موافق
@@ -116,111 +116,111 @@ Saving a video	جارٍ حفظ الفيديو
 Saving...	جارٍ الحفظ...
 Saving... You can cancel from Downloads in HushGram settings.	جارٍ الحفظ... يمكنك إلغاء العملية من قسم التنزيلات في إعدادات HushGram.
 Set when you patched	تم تحديده عند إنشاء الرقعة
-Settings couldn't open	Settings couldn't open
+Settings couldn't open	تعذّر فتح الإعدادات
 Settings couldn't refresh completely. Reopen settings and try again.	تعذّر تحديث الإعدادات بالكامل. أعد فتح الإعدادات وحاول مجدداً.
 Source code and issues	الكود المصدري والمشكلات
 Hides sponsored posts, reels, stories and the ad in comments. No empty gap is left where an ad would have been.	يخفي المنشورات ومقاطع ريلز والقصص الدعائية، وكذلك الإعلانات في التعليقات، دون ترك فراغ في موضع الإعلان.
 Hide Instagram Plus prompts	إخفاء عروض Instagram Plus
-Takes Instagram's offers to try Plus out of chats, stories and menus. Nothing that comes with Plus is turned on.	Takes Instagram's offers to try Plus out of chats, stories and menus. Nothing that comes with Plus is turned on.
+Takes Instagram's offers to try Plus out of chats, stories and menus. Nothing that comes with Plus is turned on.	يزيل عروض تجربة Plus من المحادثات والقصص والقوائم في Instagram. ولا يؤدي ذلك إلى تفعيل أي ميزة من ميزات Plus.
 Stays in while paused	يظل مفعّلاً أثناء الإيقاف المؤقت
-Removes tracking tags from links you copy or share, and opens bio links without Instagram's click tracker. The link still opens the same post, reel or profile.	Removes tracking tags from links you copy or share, and opens bio links without Instagram's click tracker. The link still opens the same post, reel or profile.
+Removes tracking tags from links you copy or share, and opens bio links without Instagram's click tracker. The link still opens the same post, reel or profile.	يزيل وسوم التتبع من الروابط التي تنسخها أو تشاركها، ويفتح روابط النبذة الشخصية دون أداة تتبع النقرات في Instagram. وسيظل الرابط يفتح المنشور أو مقطع ريلز أو الملف الشخصي نفسه.
 Tap to hide this.	اضغط لإخفاء هذا.
 Couldn't hide this notice. Try again.	تعذّر إخفاء هذا الإشعار. حاول مجدداً.
 Tap to turn it back on.	اضغط لإعادة تشغيله.
 The report isn't saved yet. Try again in a moment.	لم يُحفظ التقرير بعد. حاول مجدداً بعد لحظات.
 Couldn't save the diagnostic report. Try again.	تعذّر حفظ تقرير التشخيص. حاول مجدداً.
-The file %1$s couldn't be removed. Delete it from %2$s to turn HushGram back on.	The file %1$s couldn't be removed. Delete it from %2$s to turn HushGram back on.
+The file %1$s couldn't be removed. Delete it from %2$s to turn HushGram back on.	تعذّر حذف الملف %1$s. احذفه من %2$s لإعادة تشغيل HushGram.
 Couldn't finish that change. Showing what's saved.	تعذّر إكمال هذا التغيير. يتم عرض الإعدادات المحفوظة.
 There's no diagnostic data to clear.	لا توجد بيانات تشخيص لمسحها.
 There's no diagnostic data to put back.	لا توجد بيانات تشخيص لاستعادتها.
 Try again, or go back to Instagram.	حاول مجدداً أو ارجع إلى Instagram.
 Updates	التحديثات
 Version	الإصدار
-Version %1$s for Instagram %2$s	Version %1$s for Instagram %2$s
-While you view anonymously, a story you've watched turns gray and moves to the end of the row, on this phone only. Instagram still isn't told you watched it.	While you view anonymously, a story you've watched turns gray and moves to the end of the row, on this phone only. Instagram still isn't told you watched it.
-Writes the account that posted, the post date and a link to the post into a saved photo or video, in the EXIF or MP4 tags a gallery or exiftool reads. JPEG photos and MP4 videos only, and only what the save knows. The picture and the sound are unchanged.	Writes the account that posted, the post date and a link to the post into a saved photo or video, in the EXIF or MP4 tags a gallery or exiftool reads. JPEG photos and MP4 videos only, and only what the save knows. The picture and the sound are unchanged.
+Version %1$s for Instagram %2$s	الإصدار %1$s الخاص بـ Instagram %2$s
+While you view anonymously, a story you've watched turns gray and moves to the end of the row, on this phone only. Instagram still isn't told you watched it.	أثناء المشاهدة المجهولة، تتحول القصة التي شاهدتها إلى اللون الرمادي وتنتقل إلى نهاية الصف على هذا الهاتف فقط. ولن يُبلّغ Instagram بأنك شاهدتها.
+Writes the account that posted, the post date and a link to the post into a saved photo or video, in the EXIF or MP4 tags a gallery or exiftool reads. JPEG photos and MP4 videos only, and only what the save knows. The picture and the sound are unchanged.	يضيف اسم الحساب الناشر وتاريخ المنشور ورابطه إلى الصورة أو الفيديو المحفوظ، ضمن بيانات EXIF أو وسوم MP4 التي تستطيع تطبيقات المعرض أو أداة exiftool قراءتها. يقتصر ذلك على صور JPEG وفيديوهات MP4، وعلى المعلومات المتاحة أثناء الحفظ فقط. لا تتغير الصورة أو الصوت.
 You	أنت
 You paused HushGram.	لقد أوقفت HushGram مؤقتاً.
 the re-signed build fix	إصلاح إصدار التطبيق المعاد توقيعه
 Don't send reel watch history	عدم إرسال سجل مشاهدة مقاطع ريلز
-Stops telling Instagram which reels you watched or how far you got. Instagram uses that to pick your Reels. Watched reels may come back.	Stops telling Instagram which reels you watched or how far you got. Instagram uses that to pick your Reels. Watched reels may come back.
+Stops telling Instagram which reels you watched or how far you got. Instagram uses that to pick your Reels. Watched reels may come back.	يمنع إخبار Instagram بمقاطع ريلز التي شاهدتها أو مقدار ما شاهدته منها. يستخدم Instagram هذه المعلومات لاختيار المقاطع التي يعرضها لك. وقد تظهر المقاطع التي شاهدتها مجدداً.
 Reels	ريلز
 Stop Story auto-advance	إيقاف الانتقال التلقائي بين القصص
-A finished story stays on screen until you tap or swipe. Turn this off for Instagram's timing.	A finished story stays on screen until you tap or swipe. Turn this off for Instagram's timing.
+A finished story stays on screen until you tap or swipe. Turn this off for Instagram's timing.	تبقى القصة بعد انتهائها معروضة على الشاشة حتى تضغط أو تسحب للانتقال. عطّل هذا الخيار للعودة إلى توقيت Instagram المعتاد.
 Loop a story	تكرار القصة
-A story plays again from the start when it ends, until you tap or swipe to move on. Ads still move on. With Stop Story auto-advance on too, stories loop.	A story plays again from the start when it ends, until you tap or swipe to move on. Ads still move on. With Stop Story auto-advance on too, stories loop.
+A story plays again from the start when it ends, until you tap or swipe to move on. Ads still move on. With Stop Story auto-advance on too, stories loop.	تُعاد القصة من بدايتها عند انتهائها حتى تضغط أو تسحب للانتقال إلى التالية. تستمر الإعلانات في الانتقال كالمعتاد. وإذا فعّلت أيضاً خيار إيقاف الانتقال التلقائي للقصص، فستستمر القصص في التكرار.
 Show a story's exact time	إظهار التوقيت الدقيق للقصة
-A story's header shows its time the way the choice below says, instead of how long ago. It follows your phone's language and 12 or 24-hour setting.	A story's header shows its time the way the choice below says, instead of how long ago. It follows your phone's language and 12 or 24-hour setting.
+A story's header shows its time the way the choice below says, instead of how long ago. It follows your phone's language and 12 or 24-hour setting.	يعرض رأس القصة وقت نشرها بالطريقة المحددة أدناه بدلاً من عرض المدة التي مضت على نشرها. ويتبع لغة هاتفك وإعداد تنسيق الوقت بنظام 12 أو 24 ساعة.
 How the time shows	طريقة عرض الوقت
 Date and time	التاريخ والوقت
 Time left	الوقت المتبقي
 Time posted	وقت النشر
-The date and time the story was posted, like Oct 2, 3:45 PM.	The date and time the story was posted, like Oct 2, 3:45 PM.
-How long until the story expires, like 18h 14m left. Older stories show the date and time.	How long until the story expires, like 18h 14m left. Older stories show the date and time.
-Only the time the story was posted, like 3:45 PM. Stories posted before today show the date and time.	Only the time the story was posted, like 3:45 PM. Stories posted before today show the date and time.
-Turn on Show a story's exact time to use this choice.	Turn on Show a story's exact time to use this choice.
-%1$dh %2$dm left	%1$dh %2$dm left
-%1$dm left	%1$dm left
-1m left	1m left
+The date and time the story was posted, like Oct 2, 3:45 PM.	تاريخ نشر القصة ووقته، مثل 2 أكتوبر، 3:45 مساءً.
+How long until the story expires, like 18h 14m left. Older stories show the date and time.	المدة المتبقية حتى انتهاء القصة، مثل 18 ساعة و14 دقيقة. أما القصص الأقدم فتعرض تاريخ ووقت نشرها.
+Only the time the story was posted, like 3:45 PM. Stories posted before today show the date and time.	وقت نشر القصة فقط، مثل 3:45 مساءً. أما القصص المنشورة قبل اليوم فتعرض التاريخ والوقت.
+Turn on Show a story's exact time to use this choice.	فعّل خيار إظهار التوقيت الدقيق للقصة لاستخدام هذا الاختيار.
+%1$dh %2$dm left	متبقي %1$d ساعة و%2$d دقيقة
+%1$dm left	متبقي %1$d دقيقة
+1m left	متبقي دقيقة واحدة
 Stories	القصص
 Hide Reels in the feed	إخفاء مقاطع ريلز من الموجز
-The rows of suggested reels between posts in your home feed. A reel someone you follow posts stays.	The rows of suggested reels between posts in your home feed. A reel someone you follow posts stays.
+The rows of suggested reels between posts in your home feed. A reel someone you follow posts stays.	صفوف مقاطع ريلز المقترحة التي تظهر بين المنشورات في موجز الصفحة الرئيسية. وتبقى المقاطع التي ينشرها الأشخاص الذين تتابعهم.
 Hide the Follow button	إخفاء زر المتابعة
-The Follow and Subscribe buttons beside a reel's author. Their profile still has them.	The Follow and Subscribe buttons beside a reel's author. Their profile still has them.
+The Follow and Subscribe buttons beside a reel's author. Their profile still has them.	زرا المتابعة والاشتراك بجانب ناشر مقطع ريلز. يظلان متاحين في ملفه الشخصي.
 Hide promotion buttons on reels	إخفاء أزرار الترويج في مقاطع ريلز
 Hide suggested searches on reels	إخفاء عمليات البحث المقترحة في مقاطع ريلز
-The search terms Instagram suggests near a reel's author.	The search terms Instagram suggests near a reel's author.
+The search terms Instagram suggests near a reel's author.	عبارات البحث التي يقترحها Instagram بجانب ناشر مقطع ريلز.
 Hide shopping buttons on reels	إخفاء أزرار التسوق في مقاطع ريلز
-The product tag and shopping buttons near a reel's author.	The product tag and shopping buttons near a reel's author.
+The product tag and shopping buttons near a reel's author.	وسم المنتج وأزرار التسوق بجانب ناشر مقطع ريلز.
 Hide poll prompts on reels	إخفاء استطلاعات الرأي في مقاطع ريلز
-The poll and vote prompts near a reel's author.	The poll and vote prompts near a reel's author.
-Hides the buttons that push Edits, templates, Meta AI and Ray-Ban Meta glasses. Live badges and state-controlled media labels stay.	Hides the buttons that push Edits, templates, Meta AI and Ray-Ban Meta glasses. Live badges and state-controlled media labels stay.
+The poll and vote prompts near a reel's author.	مطالبات الاستطلاع والتصويت بجانب ناشر مقطع ريلز.
+Hides the buttons that push Edits, templates, Meta AI and Ray-Ban Meta glasses. Live badges and state-controlled media labels stay.	يخفي الأزرار التي تروّج لتطبيق Edits والقوالب وMeta AI ونظارات Ray-Ban Meta. وتظل شارات البث المباشر وتسميات الوسائط التي تتحكم بها الحالة ظاهرة.
 Hide friends' activity and comment previews	إخفاء نشاط الأصدقاء ومعاينات التعليقات
-The bubbles of friends who liked or commented, the Followed by and Liked by lines with their faces, the comment shown under a reel and the row of friends who saw it. Comments are still a tap away.	The bubbles of friends who liked or commented, the Followed by and Liked by lines with their faces, the comment shown under a reel and the row of friends who saw it. Comments are still a tap away.
+The bubbles of friends who liked or commented, the Followed by and Liked by lines with their faces, the comment shown under a reel and the row of friends who saw it. Comments are still a tap away.	يخفي فقاعات الأصدقاء الذين أبدوا إعجابهم أو علّقوا، وعبارات «يتابعه» و«أعجب به» المصحوبة بصورهم، والتعليق الظاهر أسفل مقطع ريلز، وصف الأصدقاء الذين شاهدوه. وتظل التعليقات متاحة بلمسة واحدة.
 Downloads	التنزيلات
 Save videos other apps can open	حفظ الفيديوهات بصيغة تدعمها التطبيقات الأخرى
-For WhatsApp, video editors such as CapCut and InShot, or a gallery or player that plays saves without sound. May lower quality.	For WhatsApp, video editors such as CapCut and InShot, or a gallery or player that plays saves without sound. May lower quality.
-Convert to keep the full size	Convert to keep the full size
-For phones that play AV1 badly. A video Instagram has at full size only as AV1 is saved as VP9 when it has one, or at its largest H.264 size. Convert to keep the full size then converts only VP9.	For phones that play AV1 badly. A video Instagram has at full size only as AV1 is saved as VP9 when it has one, or at its largest H.264 size. Convert to keep the full size then converts only VP9.
+For WhatsApp, video editors such as CapCut and InShot, or a gallery or player that plays saves without sound. May lower quality.	مناسب لتطبيق WhatsApp ومحررات الفيديو مثل CapCut وInShot، أو تطبيقات المعرض ومشغلات الفيديو التي تحفظ الملفات دون صوت. قد يؤدي ذلك إلى خفض الجودة.
+Convert to keep the full size	التحويل للحفاظ على الحجم الكامل
+For phones that play AV1 badly. A video Instagram has at full size only as AV1 is saved as VP9 when it has one, or at its largest H.264 size. Convert to keep the full size then converts only VP9.	للهواتف التي لا تشغّل AV1 جيداً. إذا كان Instagram يوفّر الفيديو بالحجم الكامل بصيغة AV1 فقط، فسيُحفظ بصيغة VP9 إن توفرت، أو بأكبر حجم متاح بصيغة H.264. عند تفعيل التحويل للحفاظ على الحجم الكامل، تُحوّل ملفات VP9 فقط.
 Never save AV1 video	عدم حفظ فيديوهات AV1 مطلقاً
 Never save HDR video	عدم حفظ فيديوهات HDR مطلقاً
-For apps that show HDR with a yellow or green cast, such as Messenger. A video Instagram has at full size only in HDR is saved at its largest standard size instead.	For apps that show HDR with a yellow or green cast, such as Messenger. A video Instagram has at full size only in HDR is saved at its largest standard size instead.
+For apps that show HDR with a yellow or green cast, such as Messenger. A video Instagram has at full size only in HDR is saved at its largest standard size instead.	للتطبيقات التي تعرض فيديو HDR بميل إلى الأصفر أو الأخضر، مثل Messenger. إذا كان Instagram يوفّر الفيديو بالحجم الكامل بصيغة HDR فقط، فسيُحفظ بدلاً من ذلك بأكبر حجم متاح بالجودة القياسية.
 Save videos as MKV	حفظ الفيديوهات بصيغة MKV
-Saves videos as .mkv files instead of .mp4, for galleries that show no thumbnail for VP9 or AV1 videos. Nothing is re-encoded. A video Instagram sends as one file stays .mp4.	Saves videos as .mkv files instead of .mp4, for galleries that show no thumbnail for VP9 or AV1 videos. Nothing is re-encoded. A video Instagram sends as one file stays .mp4.
-Saves videos other apps can open, at full size. A video Instagram only has as VP9 or AV1 is converted to H.264 on your phone instead of saved smaller. Slower, and videos over 3 minutes or in HDR stay smaller.	Saves videos other apps can open, at full size. A video Instagram only has as VP9 or AV1 is converted to H.264 on your phone instead of saved smaller. Slower, and videos over 3 minutes or in HDR stay smaller.
-Converting to H.264	Converting to H.264
+Saves videos as .mkv files instead of .mp4, for galleries that show no thumbnail for VP9 or AV1 videos. Nothing is re-encoded. A video Instagram sends as one file stays .mp4.	يحفظ الفيديوهات بصيغة ‎.mkv بدلاً من ‎.mp4، لتطبيقات المعرض التي لا تعرض صورة مصغرة لفيديوهات VP9 أو AV1. لا يُعاد ترميز أي ملف. ويظل الفيديو الذي يرسله Instagram كملف واحد بصيغة ‎.mp4.
+Saves videos other apps can open, at full size. A video Instagram only has as VP9 or AV1 is converted to H.264 on your phone instead of saved smaller. Slower, and videos over 3 minutes or in HDR stay smaller.	يحفظ الفيديوهات بالحجم الكامل بصيغة تستطيع التطبيقات الأخرى فتحها. إذا كان Instagram يوفّر الفيديو بصيغة VP9 أو AV1 فقط، فسيحوّله الهاتف إلى H.264 بدلاً من حفظه بحجم أصغر. العملية أبطأ، وتظل الفيديوهات التي تزيد مدتها على 3 دقائق أو التي تعمل بتقنية HDR بالحجم الأصغر.
+Converting to H.264	جارٍ التحويل إلى H.264
 Download quality	جودة التنزيل
-Best	Best
-Smallest	Smallest
-Each video saves at the best quality Instagram offers for it.	Each video saves at the best quality Instagram offers for it.
-Each video saves at its lowest quality, for the smallest file.	Each video saves at its lowest quality, for the smallest file.
-Each video saves at %1$s or the closest quality below it. A video with nothing that low saves at the closest quality above.	Each video saves at %1$s or the closest quality below it. A video with nothing that low saves at the closest quality above.
+Best	الأفضل
+Smallest	الأصغر
+Each video saves at the best quality Instagram offers for it.	يُحفظ كل فيديو بأفضل جودة يوفّرها Instagram له.
+Each video saves at its lowest quality, for the smallest file.	يُحفظ كل فيديو بأقل جودة ممكنة للحصول على أصغر حجم للملف.
+Each video saves at %1$s or the closest quality below it. A video with nothing that low saves at the closest quality above.	يُحفظ كل فيديو بجودة %1$s أو بأقرب جودة أقل منها. وإذا لم تتوفر جودة بهذا المستوى أو أقل، فسيُحفظ بأقرب جودة أعلى.
 Save folder	مجلد الحفظ
-Choose a folder name under Movies and Pictures. Invalid characters become underscores. Leave it blank to use the default folder, %1$s. For an SD card or anywhere else, use Choose a folder.	Choose a folder name under Movies and Pictures. Invalid characters become underscores. Leave it blank to use the default folder, %1$s. For an SD card or anywhere else, use Choose a folder.
-Use Choose a folder for a path or an SD card.	Use Choose a folder for a path or an SD card.
+Choose a folder name under Movies and Pictures. Invalid characters become underscores. Leave it blank to use the default folder, %1$s. For an SD card or anywhere else, use Choose a folder.	اختر اسماً لمجلد ضمن مجلدي Movies أو Pictures. تتحول الأحرف غير الصالحة إلى شرطات سفلية. اترك الحقل فارغاً لاستخدام المجلد الافتراضي %1$s. لاختيار بطاقة SD أو موقع آخر، استخدم خيار اختيار مجلد.
+Use Choose a folder for a path or an SD card.	استخدم خيار اختيار مجلد لتحديد مسار أو بطاقة SD.
 Save	حفظ
-Folder name	Folder name
-Folder set to %1$s.	Folder set to %1$s.
+Folder name	اسم المجلد
+Folder set to %1$s.	تم تعيين المجلد إلى %1$s.
 Download file name	اسم ملف التنزيل
 %1$s becomes the date and time of the save, %2$s the video's number on Instagram, %3$s who posted it and %4$s the day it was posted. What a save doesn't know is left out, and a name with none of these gets the date added. When the name is already in the folder, the time of the save goes on the end. Invalid characters become underscores. Leave it blank to use the default, %5$s.	%1$s becomes the date and time of the save, %2$s the video's number on Instagram, %3$s who posted it and %4$s the day it was posted. What a save doesn't know is left out, and a name with none of these gets the date added. When the name is already in the folder, the time of the save goes on the end. Invalid characters become underscores. Leave it blank to use the default, %5$s.
-File name	File name
-File name set to %1$s.	File name set to %1$s.
+File name	اسم الملف
+File name set to %1$s.	تم تعيين اسم الملف إلى %1$s.
 Videos go to %1$s and photos to %2$s.	تُحفظ الفيديوهات في %1$s والصور في %2$s.
-Example file name	Example file name
+Example file name	مثال على اسم الملف
 Cancel saving this video	إلغاء حفظ هذا الفيديو
 Cancel saving this photo	إلغاء حفظ هذه الصورة
 Download on reels	إضافة خيار التنزيل إلى مقاطع ريلز
-Adds Download to every reel's more menu, saved at your download quality. Off or paused, Instagram's own menu returns.	Adds Download to every reel's more menu, saved at your download quality. Off or paused, Instagram's own menu returns.
-Videos are named %1$s. Photos are named %2$s followed by the date and time.	Videos are named %1$s. Photos are named %2$s followed by the date and time.
-With Name saves by account and post time on, only a save that doesn't know who posted or when is named this way.	With Name saves by account and post time on, only a save that doesn't know who posted or when is named this way.
+Adds Download to every reel's more menu, saved at your download quality. Off or paused, Instagram's own menu returns.	يضيف خيار التنزيل إلى قائمة المزيد في كل مقطع ريلز، ويحفظه بجودة التنزيل التي اخترتها. عند تعطيله أو إيقافه مؤقتاً، تعود قائمة Instagram الأصلية.
+Videos are named %1$s. Photos are named %2$s followed by the date and time.	تُسمّى الفيديوهات %1$s، وتُسمّى الصور %2$s متبوعة بالتاريخ والوقت.
+With Name saves by account and post time on, only a save that doesn't know who posted or when is named this way.	عند تفعيل تسمية الملفات بحسب الحساب ووقت النشر، لا يُستخدم هذا الاسم إلا إذا تعذّر تحديد ناشر المحتوى أو وقت نشره.
 Download	تنزيل
 Download as video	تنزيل كفيديو
 Download as photo	تنزيل كصورة
 Download on stories	إضافة خيار التنزيل إلى القصص
-Adds Download to the menu of anyone's story, photo or video, saved at your download quality. Off or paused, Instagram's own menu returns.	Adds Download to the menu of anyone's story, photo or video, saved at your download quality. Off or paused, Instagram's own menu returns.
+Adds Download to the menu of anyone's story, photo or video, saved at your download quality. Off or paused, Instagram's own menu returns.	يضيف خيار التنزيل إلى قائمة قصة أي شخص أو صوره أو فيديوهاته، ويحفظها بجودة التنزيل التي اخترتها. عند تعطيله أو إيقافه مؤقتاً، تعود قائمة Instagram الأصلية.
 Upload stories at full quality	رفع القصص بأعلى جودة
-Video stories you post are sent at 1080p and a higher bitrate, as with Instagram's own Upload at highest quality setting on. Instagram still shrinks story videos to 720p on its servers, so the difference viewers see is small. Photo stories already go up larger than Instagram keeps.	Video stories you post are sent at 1080p and a higher bitrate, as with Instagram's own Upload at highest quality setting on. Instagram still shrinks story videos to 720p on its servers, so the difference viewers see is small. Photo stories already go up larger than Instagram keeps.
-Upload quality applies to	Upload quality applies to
+Video stories you post are sent at 1080p and a higher bitrate, as with Instagram's own Upload at highest quality setting on. Instagram still shrinks story videos to 720p on its servers, so the difference viewers see is small. Photo stories already go up larger than Instagram keeps.	تُرفع قصص الفيديو التي تنشرها بدقة 1080p ومعدل بت أعلى، كما يحدث عند تفعيل خيار الرفع بأعلى جودة في Instagram. ومع ذلك، يخفض Instagram دقة فيديوهات القصص إلى 720p على خوادمه، لذلك يكون الفرق الذي يراه المشاهدون محدوداً. أما قصص الصور فتُرفع بالفعل بدقة أعلى مما يحتفظ به Instagram.
+Upload quality applies to	تنطبق جودة الرفع على
 Stories only	القصص فقط
 Stories, posts and reels	القصص والمنشورات ومقاطع ريلز
 Video bitrate	معدل بت الفيديو
@@ -228,33 +228,33 @@ Video resolution	دقة الفيديو
 Video frame rate	معدل إطارات الفيديو
 Photo quality	جودة الصور
 Photo size	حجم الصورة
-%1$s Mbps	%1$s Mbps
+%1$s Mbps	%1$s ميجابت/ثانية
 Download feed videos	تنزيل فيديوهات الموجز
-Adds Download to the menu of a post in your feed with a video. Uses the quality below. Off or paused, Instagram's own menu returns.	Adds Download to the menu of a post in your feed with a video. Uses the quality below. Off or paused, Instagram's own menu returns.
-Playback	Playback
-Tap to play	Tap to play
-Videos wait for your tap where the choice below says. Feed videos show a play button, as they do when you use less mobile data.	Videos wait for your tap where the choice below says. Feed videos show a play button, as they do when you use less mobile data.
+Adds Download to the menu of a post in your feed with a video. Uses the quality below. Off or paused, Instagram's own menu returns.	يضيف خيار التنزيل إلى قائمة المنشور الذي يحتوي على فيديو في موجزك، ويستخدم الجودة المحددة أدناه. عند تعطيله أو إيقافه مؤقتاً، تعود قائمة Instagram الأصلية.
+Playback	التشغيل
+Tap to play	اضغط للتشغيل
+Videos wait for your tap where the choice below says. Feed videos show a play button, as they do when you use less mobile data.	تنتظر الفيديوهات ضغطك عليها في المواضع التي يحددها الخيار أدناه. وتظهر على فيديوهات الموجز علامة تشغيل، كما يحدث عند استخدام وضع تقليل استهلاك بيانات الهاتف.
 Where videos wait	متى تتوقف الفيديوهات
-Everywhere	Everywhere
+Everywhere	في كل مكان
 Everywhere but Reels	في كل مكان باستثناء ريلز
 Only in Reels	في مقاطع ريلز فقط
-Feed videos, reels and stories all wait for your tap.	Feed videos, reels and stories all wait for your tap.
-Feed videos and stories wait for your tap. Reels play as you swipe to them.	Feed videos and stories wait for your tap. Reels play as you swipe to them.
-Reels wait for your tap. Feed videos and stories play as Instagram plays them.	Reels wait for your tap. Feed videos and stories play as Instagram plays them.
-Turn on Tap to play to use this choice.	Turn on Tap to play to use this choice.
+Feed videos, reels and stories all wait for your tap.	تنتظر فيديوهات الموجز ومقاطع ريلز والقصص ضغطك للتشغيل.
+Feed videos and stories wait for your tap. Reels play as you swipe to them.	تنتظر فيديوهات الموجز والقصص ضغطك للتشغيل، بينما تعمل مقاطع ريلز عند التمرير إليها.
+Reels wait for your tap. Feed videos and stories play as Instagram plays them.	تنتظر مقاطع ريلز ضغطك للتشغيل، بينما تعمل فيديوهات الموجز والقصص بالطريقة المعتادة في Instagram.
+Turn on Tap to play to use this choice.	فعّل خيار الضغط للتشغيل لاستخدام هذا الاختيار.
 Resume long videos	استئناف الفيديوهات الطويلة
-Videos and reels over two minutes pick up where you left off. Seek to start elsewhere. Live videos and ads start as usual.	Videos and reels over two minutes pick up where you left off. Seek to start elsewhere. Live videos and ads start as usual.
-Default playback quality	Default playback quality
-Videos, reels and stories play at the quality below, starting with the next one you open. When your connection can't keep up, a video drops to the next lower quality.	Videos, reels and stories play at the quality below, starting with the next one you open. When your connection can't keep up, a video drops to the next lower quality.
-Playback quality	Playback quality
-Auto	Auto
-Data saver	Data saver
-Up to %1$s	Up to %1$s
-Highest	Highest
-Instagram picks the quality as each video plays, from your connection.	Instagram picks the quality as each video plays, from your connection.
-Videos play at the lowest quality Instagram offers for each.	Videos play at the lowest quality Instagram offers for each.
-Videos play at the best quality up to %1$s that Instagram offers for each, or the closest above.	Videos play at the best quality up to %1$s that Instagram offers for each, or the closest above.
-Videos play at the highest quality Instagram offers for each.	Videos play at the highest quality Instagram offers for each.
+Videos and reels over two minutes pick up where you left off. Seek to start elsewhere. Live videos and ads start as usual.	تستأنف الفيديوهات ومقاطع ريلز التي تزيد مدتها على دقيقتين التشغيل من الموضع الذي توقفت عنده. حرّك شريط التقدم للبدء من موضع آخر. وتبدأ فيديوهات البث المباشر والإعلانات كالمعتاد.
+Default playback quality	جودة التشغيل الافتراضية
+Videos, reels and stories play at the quality below, starting with the next one you open. When your connection can't keep up, a video drops to the next lower quality.	تُشغّل الفيديوهات ومقاطع ريلز والقصص بالجودة المحددة أدناه، بدءاً من المحتوى التالي الذي تفتحه. وعندما لا يستطيع اتصالك مواكبة الجودة، تنخفض جودة الفيديو إلى المستوى الأدنى التالي.
+Playback quality	جودة التشغيل
+Auto	تلقائي
+Data saver	توفير البيانات
+Up to %1$s	حتى %1$s
+Highest	الأعلى
+Instagram picks the quality as each video plays, from your connection.	يختار Instagram جودة كل فيديو أثناء تشغيله وفقاً لاتصالك بالإنترنت.
+Videos play at the lowest quality Instagram offers for each.	تُشغّل الفيديوهات بأقل جودة يوفّرها Instagram لكل فيديو.
+Videos play at the best quality up to %1$s that Instagram offers for each, or the closest above.	تُشغّل الفيديوهات بأفضل جودة يوفّرها Instagram حتى %1$s، أو بأقرب جودة أعلى منها.
+Videos play at the highest quality Instagram offers for each.	تُشغّل الفيديوهات بأعلى جودة يوفّرها Instagram لكل فيديو.
 View stories anonymously	مشاهدة القصص دون إظهار هويتك
 Instagram isn't told which stories you watch, so you stay off their viewer lists. Replying or reacting still shows you, and stories you've watched keep showing as new.	Instagram isn't told which stories you watch, so you stay off their viewer lists. Replying or reacting still shows you, and stories you've watched keep showing as new.
 Advertising ID removed	Advertising ID removed
