@@ -2065,57 +2065,57 @@ A thin line with no handle on the bottom edge of feed videos, which grows while 
 A thicker rounded bar with no handle, on feed videos only.	شريط أكثر سماكة بحواف مستديرة ومن دون مقبض، لفيديوهات الموجز فقط.
 A rounded bar split by a tall handle, on feed videos only.	شريط مستدير يقسمه مقبض طويل، لفيديوهات الموجز فقط.
 A wavy line for the part played, with a tall handle, on feed videos only.	خط متموج يوضح الجزء الذي تم تشغيله، مع مقبض طويل، لفيديوهات الموجز فقط.
-Time on the seek bar	Time on the seek bar
-Shows the time played and the video's length over the seek bar on feed videos, like 0:12 / 0:45. Tap the time to see the time left instead.	Shows the time played and the video's length over the seek bar on feed videos, like 0:12 / 0:45. Tap the time to see the time left instead.
-Show the time left	Show the time left
-The time on the seek bar counts down what's left of the video, like -0:33 / 0:45. A tap on the time switches back.	The time on the seek bar counts down what's left of the video, like -0:33 / 0:45. A tap on the time switches back.
-Taps on feed videos stay in the feed	Taps on feed videos stay in the feed
-A tap on a feed video, or on the screen it shows when it ends, no longer opens it full screen in Reels. Tap a feed video to pause it still pauses it, and the buttons on that screen still work.	A tap on a feed video, or on the screen it shows when it ends, no longer opens it full screen in Reels. Tap a feed video to pause it still pauses it, and the buttons on that screen still work.
-Report	Report
-Unfollow	Unfollow
-Interested	Interested
-Why you're seeing this post	Why you're seeing this post
-Items in the three-dot menus	Items in the three-dot menus
-Every item shows. Untick the ones you don't want in the menus behind the three dots on posts, reels and stories.	Every item shows. Untick the ones you don't want in the menus behind the three dots on posts, reels and stories.
-Left off the three-dot menus: %1$s.	Left off the three-dot menus: %1$s.
-Keep 2x after you let go	Keep 2x after you let go
-A feed video you hold for 2x keeps playing at 2x after you let go. Hold it again to go back to normal speed.	A feed video you hold for 2x keeps playing at 2x after you let go. Hold it again to go back to normal speed.
-Ring thickness	Ring thickness
-Instagram's thickness	Instagram's thickness
-Custom ring color	Custom ring color
-A color as six hex digits, like #4A6B82. Saving it picks Custom under Ring color. Restart Instagram to see it.	A color as six hex digits, like #4A6B82. Saving it picks Custom under Ring color. Restart Instagram to see it.
-None yet. Custom keeps Instagram's colors until you type one.	None yet. Custom keeps Instagram's colors until you type one.
-Custom ring end color	Custom ring end color
-A second color as six hex digits, like #FF8A00, that the ring fades into. Leave it empty for one solid color. Restart Instagram to see it.	A second color as six hex digits, like #FF8A00, that the ring fades into. Leave it empty for one solid color. Restart Instagram to see it.
-None. The ring is one solid color.	None. The ring is one solid color.
-Friendship status	Friendship status
-Yes	Yes
-No	No
-You follow them	You follow them
-Asked to follow you	Asked to follow you
-You asked to follow them	You asked to follow them
-On your Close Friends list	On your Close Friends list
-In your Favorites	In your Favorites
-You restricted them	You restricted them
-You blocked them	You blocked them
-You hide your story from them	You hide your story from them
-You muted their posts	You muted their posts
-You muted their story	You muted their story
-You muted their notes	You muted their notes
-You muted their notes on posts and reels	You muted their notes on posts and reels
-You muted their reposts	You muted their reposts
-You muted their Instants	You muted their Instants
-Their account is private	Their account is private
-You're subscribed to them	You're subscribed to them
-Instagram hasn't said anything about this account yet.	Instagram hasn't said anything about this account yet.
-This profile hasn't loaded its own answer yet, so this is only what Instagram keeps on the account.	This profile hasn't loaded its own answer yet, so this is only what Instagram keeps on the account.
-Other flags	Other flags
-Not sent for this profile	Not sent for this profile
+Time on the seek bar	الوقت على شريط التقدم
+Shows the time played and the video's length over the seek bar on feed videos, like 0:12 / 0:45. Tap the time to see the time left instead.	يعرض الوقت المنقضي والمدة الكاملة للفيديو فوق شريط التقدم في فيديوهات الموجز، مثل 0:12 / 0:45. اضغط على الوقت لعرض الوقت المتبقي بدلًا منه.
+Show the time left	عرض الوقت المتبقي
+The time on the seek bar counts down what's left of the video, like -0:33 / 0:45. A tap on the time switches back.	يعرض الوقت على شريط التقدم المدة المتبقية من الفيديو تنازليًا، مثل ‎-0:33 / 0:45. اضغط على الوقت للعودة إلى العرض السابق.
+Taps on feed videos stay in the feed	إبقاء النقر على فيديوهات الموجز داخل الموجز
+A tap on a feed video, or on the screen it shows when it ends, no longer opens it full screen in Reels. Tap a feed video to pause it still pauses it, and the buttons on that screen still work.	لن يؤدي النقر على فيديو في الموجز، أو على الشاشة التي تظهر عند انتهائه، إلى فتحه بملء الشاشة في تبويب الريلز. يظل النقر على الفيديو لإيقافه مؤقتًا يعمل كالمعتاد، وكذلك الأزرار الظاهرة على الشاشة.
+Report	إبلاغ
+Unfollow	إلغاء المتابعة
+Interested	مهتم
+Why you're seeing this post	سبب ظهور هذا المنشور لك
+Items in the three-dot menus	عناصر قوائم النقاط الثلاث
+Every item shows. Untick the ones you don't want in the menus behind the three dots on posts, reels and stories.	تظهر جميع العناصر افتراضيًا. أزل تحديد العناصر التي لا تريد ظهورها في القوائم التي تفتحها النقاط الثلاث في المنشورات والريلز والقصص.
+Left off the three-dot menus: %1$s.	العناصر المستبعدة من قوائم النقاط الثلاث: %1$s.
+Keep 2x after you let go	الإبقاء على سرعة 2x بعد رفع إصبعك
+A feed video you hold for 2x keeps playing at 2x after you let go. Hold it again to go back to normal speed.	يستمر فيديو الموجز الذي تضغط عليه مطولًا لتشغيله بسرعة 2x بهذه السرعة بعد رفع إصبعك. اضغط مطولًا مرة أخرى للعودة إلى السرعة العادية.
+Ring thickness	سُمك الحلقة
+Instagram's thickness	السُمك الافتراضي في إنستغرام
+Custom ring color	لون الحلقة المخصص
+A color as six hex digits, like #4A6B82. Saving it picks Custom under Ring color. Restart Instagram to see it.	أدخل لونًا بصيغة ستة أرقام سداسية عشرية، مثل #4A6B82. يؤدي حفظه إلى اختيار «مخصص» ضمن إعداد لون الحلقة. أعد تشغيل إنستغرام لرؤية التغيير.
+None yet. Custom keeps Instagram's colors until you type one.	لا يوجد لون بعد. يحتفظ الخيار المخصص بألوان إنستغرام حتى تُدخل لونًا.
+Custom ring end color	لون نهاية الحلقة المخصص
+A second color as six hex digits, like #FF8A00, that the ring fades into. Leave it empty for one solid color. Restart Instagram to see it.	أدخل لونًا ثانيًا بصيغة ستة أرقام سداسية عشرية، مثل #FF8A00، لتتلاشى الحلقة تدريجيًا نحوه. اتركه فارغًا لاستخدام لون موحد. أعد تشغيل إنستغرام لرؤية التغيير.
+None. The ring is one solid color.	لا يوجد لون ثانٍ. الحلقة بلون موحد.
+Friendship status	حالة العلاقة
+Yes	نعم
+No	لا
+You follow them	أنت تتابع هذا الحساب
+Asked to follow you	أرسل طلبًا لمتابعتك
+You asked to follow them	أرسلت طلبًا لمتابعة هذا الحساب
+On your Close Friends list	ضمن قائمة أصدقائك المقربين
+In your Favorites	ضمن المفضلة لديك
+You restricted them	قيّدت هذا الحساب
+You blocked them	حظرت هذا الحساب
+You hide your story from them	أخفيت قصتك عن هذا الحساب
+You muted their posts	كتمت منشورات هذا الحساب
+You muted their story	كتمت قصص هذا الحساب
+You muted their notes	كتمت ملاحظات هذا الحساب
+You muted their notes on posts and reels	كتمت ملاحظات هذا الحساب على المنشورات والريلز
+You muted their reposts	كتمت عمليات إعادة النشر لهذا الحساب
+You muted their Instants	كتمت لقطات هذا الحساب
+Their account is private	حساب هذا المستخدم خاص
+You're subscribed to them	أنت مشترك في هذا الحساب
+Instagram hasn't said anything about this account yet.	لم تعرض إنستغرام أي معلومات عن هذا الحساب حتى الآن.
+This profile hasn't loaded its own answer yet, so this is only what Instagram keeps on the account.	لم يحمّل هذا الملف الشخصي معلوماته الخاصة بعد؛ لذلك فالمعروض هنا هو فقط ما تحتفظ به إنستغرام عن الحساب.
+Other flags	مؤشرات أخرى
+Not sent for this profile	لم تُرسل لهذا الملف الشخصي
 Save changed pictures to the gallery	حفظ الصور المعدّلة في المعرض
-When a profile you open has a new picture, puts the old picture and the new one in your gallery, each once. Needs Keep profile history.	When a profile you open has a new picture, puts the old picture and the new one in your gallery, each once. Needs Keep profile history.
-Cache size limit	Cache size limit
-%1$d MB	%1$d MB
-Saved photos and videos take up %1$s now.	Saved photos and videos take up %1$s now.
+When a profile you open has a new picture, puts the old picture and the new one in your gallery, each once. Needs Keep profile history.	عندما يغيّر ملف شخصي تفتحه صورته، يحفظ الصورة القديمة والجديدة في معرض الصور مرة واحدة لكل منهما. يتطلب تفعيل «الاحتفاظ بسجل الملفات الشخصية».
+Cache size limit	الحد الأقصى لحجم ذاكرة التخزين المؤقت
+%1$d MB	%1$d ميجابايت
+Saved photos and videos take up %1$s now.	تشغل الصور ومقاطع الفيديو المحفوظة حاليًا مساحة %1$s.
 Glass lens under your finger	Glass lens under your finger
 Hold a finger on the liquid pill's bubble, or slide it across the tabs, and the bubble swells and bends what's behind it harder, like glass under a fingertip. It eases back when you let go. The bend needs Blur behind the tab bar and Android 13 or newer. Restart Instagram after changing it.	Hold a finger on the liquid pill's bubble, or slide it across the tabs, and the bubble swells and bends what's behind it harder, like glass under a fingertip. It eases back when you let go. The bend needs Blur behind the tab bar and Android 13 or newer. Restart Instagram after changing it.
 Keep story viewers	Keep story viewers
