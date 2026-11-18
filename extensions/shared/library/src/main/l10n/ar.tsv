@@ -1989,45 +1989,45 @@ Hide the other profile banners	إخفاء لافتات الملفات الشخص
 Takes the rest of the banners under the bio off other people's profiles, like events, fundraisers, schools and business hours. Yours keeps them.	يزيل بقية اللافتات التي تظهر أسفل نبذات الآخرين، مثل الفعاليات وجمع التبرعات والمدارس وساعات العمل. تبقى لافتاتك ظاهرة.
 Hide links	إخفاء الروابط
 Takes the row of links, like a website or a business's links, from under the bio on other people's profiles. Yours keeps it.	يزيل صف الروابط، مثل روابط المواقع أو روابط الأنشطة التجارية، من أسفل نبذات الآخرين. تبقى روابطك ظاهرة.
-Save profile	Save profile
-Saved @%s	Saved @%s
-Removed @%s from saved	Removed @%s from saved
-Save to folder	Save to folder
-New folder	New folder
-Rename folder	Rename folder
-Remove folder	Remove folder
-Saved @%1$s to %2$s	Saved @%1$s to %2$s
-Removed the folder %s	Removed the folder %s
-Renamed the folder to %s	Renamed the folder to %s
-Choose folders	Choose folders
-@%s is in no folder now	@%s is in no folder now
-@%1$s is in %2$s now	@%1$s is in %2$s now
-@%1$s is in %2$d folders now	@%1$s is in %2$d folders now
-Saved @%1$s to %2$d folders	Saved @%1$s to %2$d folders
-Saved profiles is full.	Saved profiles is full.
+Save profile	حفظ الملف الشخصي
+Saved @%s	تم حفظ @%s
+Removed @%s from saved	تمت إزالة @%s من المحفوظات
+Save to folder	حفظ في مجلد
+New folder	مجلد جديد
+Rename folder	إعادة تسمية المجلد
+Remove folder	إزالة المجلد
+Saved @%1$s to %2$s	تم حفظ @%1$s في %2$s
+Removed the folder %s	تمت إزالة المجلد %s
+Renamed the folder to %s	تمت إعادة تسمية المجلد إلى %s
+Choose folders	اختيار المجلدات
+@%s is in no folder now	لم يعد @%s ضمن أي مجلد
+@%1$s is in %2$s now	أصبح @%1$s ضمن %2$s
+@%1$s is in %2$d folders now	أصبح @%1$s ضمن %2$d مجلدات
+Saved @%1$s to %2$d folders	تم حفظ @%1$s في %2$d مجلدات
+Saved profiles is full.	قائمة الملفات الشخصية المحفوظة ممتلئة.
 Saved profiles	الملفات الشخصية المحفوظة
-Adds Save profile to the menu on someone's profile, even one you don't follow. The list stays on this phone, apart from Instagram's Favorites and Following.	Adds Save profile to the menu on someone's profile, even one you don't follow. The list stays on this phone, apart from Instagram's Favorites and Following.
-Your saved profiles	Your saved profiles
-Nothing saved yet. With Saved profiles on, tap Save profile in the menu on someone's profile and it shows up here.	Nothing saved yet. With Saved profiles on, tap Save profile in the menu on someone's profile and it shows up here.
-Remove @%s from saved	Remove @%s from saved
-Saved profiles added: %d.	Saved profiles added: %d.
-Choose a file for your installed patches' settings and saved profiles. Your login and history stay on this device.	Choose a file for your installed patches' settings and saved profiles. Your login and history stay on this device.
-Ask before a follow	Ask before a follow
-Asks before a Follow or Follow back button follows someone or sends them a request, so a stray tap on a profile or in a Followers or Following list doesn't do it for you.	Asks before a Follow or Follow back button follows someone or sends them a request, so a stray tap on a profile or in a Followers or Following list doesn't do it for you.
-Follow @%1$s?	Follow @%1$s?
-Follow this account?	Follow this account?
-Follow	Follow
-Sent follow requests	Sent follow requests
-Keeps a list of the accounts you've asked to follow that haven't let you in yet, from what their follow buttons show while this is on. Nothing extra is asked of Instagram, and the list stays on your phone.	Keeps a list of the accounts you've asked to follow that haven't let you in yet, from what their follow buttons show while this is on. Nothing extra is asked of Instagram, and the list stays on your phone.
-Your sent requests	Your sent requests
-No requests waiting. With Sent follow requests on, a request you send, or one whose follow button you see, shows up here.	No requests waiting. With Sent follow requests on, a request you send, or one whose follow button you see, shows up here.
-Clear sent requests	Clear sent requests
-Forgets every request on the list, for all your accounts. The requests stay sent on Instagram.	Forgets every request on the list, for all your accounts. The requests stay sent on Instagram.
-Sent requests cleared.	Sent requests cleared.
-Couldn't clear the sent requests. Try again.	Couldn't clear the sent requests. Try again.
-Tap an account to open its profile, where its follow button cancels the request. Instagram asks before it does.	Tap an account to open its profile, where its follow button cancels the request. Instagram asks before it does.
-Remove from the list	Remove from the list
-Removed @%s from the list	Removed @%s from the list
+Adds Save profile to the menu on someone's profile, even one you don't follow. The list stays on this phone, apart from Instagram's Favorites and Following.	يضيف خيار «حفظ الملف الشخصي» إلى قائمة ملف أي شخص، حتى إن لم تكن تتابعه. تُحفظ القائمة على هذا الهاتف بصورة مستقلة عن قائمتي المفضلة والمتابَعين في إنستغرام.
+Your saved profiles	الملفات الشخصية المحفوظة
+Nothing saved yet. With Saved profiles on, tap Save profile in the menu on someone's profile and it shows up here.	لم تحفظ أي ملف شخصي بعد. عند تفعيل «الملفات الشخصية المحفوظة»، اضغط على «حفظ الملف الشخصي» من قائمة ملف أي شخص ليظهر هنا.
+Remove @%s from saved	إزالة @%s من المحفوظات
+Saved profiles added: %d.	عدد الملفات الشخصية المحفوظة المضافة: %d.
+Choose a file for your installed patches' settings and saved profiles. Your login and history stay on this device.	اختر ملفًا لحفظ إعدادات التعديلات المثبتة والملفات الشخصية المحفوظة. تظل بيانات تسجيل الدخول وسجل النشاط على هذا الجهاز.
+Ask before a follow	التأكيد قبل المتابعة
+Asks before a Follow or Follow back button follows someone or sends them a request, so a stray tap on a profile or in a Followers or Following list doesn't do it for you.	يطلب التأكيد قبل أن يؤدي زر «متابعة» أو «متابعة بالمثل» إلى متابعة شخص أو إرسال طلب إليه، لتجنب تنفيذ ذلك بلمسة غير مقصودة في ملف شخصي أو قائمة المتابعين أو المتابَعين.
+Follow @%1$s?	هل تريد متابعة @%1$s؟
+Follow this account?	هل تريد متابعة هذا الحساب؟
+Follow	متابعة
+Sent follow requests	طلبات المتابعة المرسلة
+Keeps a list of the accounts you've asked to follow that haven't let you in yet, from what their follow buttons show while this is on. Nothing extra is asked of Instagram, and the list stays on your phone.	يحتفظ بقائمة الحسابات التي أرسلت إليها طلبات متابعة ولم تقبلها بعد، اعتمادًا على ما تعرضه أزرار المتابعة أثناء تفعيل هذا الخيار. لا يطلب أي بيانات إضافية من إنستغرام، وتبقى القائمة على هاتفك.
+Your sent requests	طلباتك المرسلة
+No requests waiting. With Sent follow requests on, a request you send, or one whose follow button you see, shows up here.	لا توجد طلبات معلقة. عند تفعيل «طلبات المتابعة المرسلة»، يظهر هنا أي طلب ترسله أو يظهر زر المتابعة الخاص به.
+Clear sent requests	مسح الطلبات المرسلة
+Forgets every request on the list, for all your accounts. The requests stay sent on Instagram.	يمسح جميع الطلبات من القائمة لكل حساباتك، دون إلغاء إرسالها على إنستغرام.
+Sent requests cleared.	تم مسح الطلبات المرسلة.
+Couldn't clear the sent requests. Try again.	تعذّر مسح الطلبات المرسلة. حاول مرة أخرى.
+Tap an account to open its profile, where its follow button cancels the request. Instagram asks before it does.	اضغط على حساب لفتح ملفه الشخصي، ثم استخدم زر المتابعة لإلغاء الطلب. سيطلب إنستغرام التأكيد قبل تنفيذ ذلك.
+Remove from the list	إزالة من القائمة
+Removed @%s from the list	تمت إزالة @%s من القائمة
 Open reel links on that reel	Open reel links on that reel
 A reel link opens on the reel it points to. Instagram doesn't play another reel it kept on your phone while that one loads.	A reel link opens on the reel it points to. Instagram doesn't play another reel it kept on your phone while that one loads.
 Speed in the story menu	Speed in the story menu
