@@ -2028,43 +2028,43 @@ Couldn't clear the sent requests. Try again.	تعذّر مسح الطلبات ا
 Tap an account to open its profile, where its follow button cancels the request. Instagram asks before it does.	اضغط على حساب لفتح ملفه الشخصي، ثم استخدم زر المتابعة لإلغاء الطلب. سيطلب إنستغرام التأكيد قبل تنفيذ ذلك.
 Remove from the list	إزالة من القائمة
 Removed @%s from the list	تمت إزالة @%s من القائمة
-Open reel links on that reel	Open reel links on that reel
-A reel link opens on the reel it points to. Instagram doesn't play another reel it kept on your phone while that one loads.	A reel link opens on the reel it points to. Instagram doesn't play another reel it kept on your phone while that one loads.
-Speed in the story menu	Speed in the story menu
-Adds Playback speed to the menu a video story's three dots open, with the same 1x, 1.5x and 2x, and keeps the speed button off the story. Later video stories keep the speed you pick until you change it or restart Instagram.	Adds Playback speed to the menu a video story's three dots open, with the same 1x, 1.5x and 2x, and keeps the speed button off the story. Later video stories keep the speed you pick until you change it or restart Instagram.
-Hide the Create button on saved reels	Hide the Create button on saved reels
-Takes the plus button off the top of reels you open from Saved or a collection and closes up the gap. The Reels tab and other reels keep theirs.	Takes the plus button off the top of reels you open from Saved or a collection and closes up the gap. The Reels tab and other reels keep theirs.
-Seek bar position	Seek bar position
-Above the Send message box	Above the Send message box
-Below the Send message box	Below the Send message box
-The bar sits just above the Send message box at the bottom of a story.	The bar sits just above the Send message box at the bottom of a story.
-The bar sits in the space under the Send message box. Where there's no room under it, the bar stays above it.	The bar sits in the space under the Send message box. Where there's no room under it, the bar stays above it.
-Launch screen in the accent color	Launch screen in the accent color
-Fills that screen with the accent color, or Instagram's blue while Accent color is off. A custom color shows as the closest one in the list. It shows from the next start.	Fills that screen with the accent color, or Instagram's blue while Accent color is off. A custom color shows as the closest one in the list. It shows from the next start.
-Haptic strength	Haptic strength
-Tap sound on the tab bar	Tap sound on the tab bar
-A click each time the highlight moves to another tab, even with the phone's touch sounds off. Silent and vibrate mode keep it quiet.	A click each time the highlight moves to another tab, even with the phone's touch sounds off. Silent and vibrate mode keep it quiet.
-Tap sound volume	Tap sound volume
-Auto scroll in Home	Auto scroll in Home
-Moves Home on to the next post by itself. A video moves on when it ends, a photo or carousel after Time on each post. Touch the screen to hold it.	Moves Home on to the next post by itself. A video moves on when it ends, a photo or carousel after Time on each post. Touch the screen to hold it.
-Time on each post	Time on each post
-Control the reel above comments	Control the reel above comments
-With a reel's comments open, tap the reel above them to pause or play it, or hold it to play at 2x. The comments stay open.	With a reel's comments open, tap the reel above them to pause or play it, or hold it to play at 2x. The comments stay open.
-Hide the speed lock message	Hide the speed lock message
-Keeps the message Instagram shows when you lock a reel's speed, and when the lock ends, off the screen. The lock still works.	Keeps the message Instagram shows when you lock a reel's speed, and when the lock ends, off the screen. The lock still works.
-Remove hidden data from saved photos	Remove hidden data from saved photos
-Takes Meta's FBMD tracking tag out of each photo you save, along with any camera, place and time details. The picture and its colors stay the same. With Add the source on, the source still goes in afterward. JPEG photos only.	Takes Meta's FBMD tracking tag out of each photo you save, along with any camera, place and time details. The picture and its colors stay the same. With Add the source on, the source still goes in afterward. JPEG photos only.
-Ask for VP9 instead of AV1	Ask for VP9 instead of AV1
-Tells Instagram your phone has no AV1 decoder. Instagram doesn't always listen, so videos can still come as AV1. If they do, Convert to keep the full size gives you H.264. Takes a restart.	Tells Instagram your phone has no AV1 decoder. Instagram doesn't always listen, so videos can still come as AV1. If they do, Convert to keep the full size gives you H.264. Takes a restart.
-Two arrows flash on the side you double tapped, with the seconds skipped under them.	Two arrows flash on the side you double tapped, with the seconds skipped under them.
+Open reel links on that reel	فتح روابط الريلز على الريل المقصود
+A reel link opens on the reel it points to. Instagram doesn't play another reel it kept on your phone while that one loads.	يفتح رابط الريل الريل الذي يشير إليه مباشرة. لا تشغّل إنستغرام ريلًا آخر محفوظًا على هاتفك أثناء تحميل الريل المطلوب.
+Speed in the story menu	السرعة في قائمة القصة
+Adds Playback speed to the menu a video story's three dots open, with the same 1x, 1.5x and 2x, and keeps the speed button off the story. Later video stories keep the speed you pick until you change it or restart Instagram.	يضيف خيار «سرعة التشغيل» إلى قائمة النقاط الثلاث في قصص الفيديو، بسرعات 1x و1.5x و2x، دون إظهار زر السرعة على القصة. تحتفظ قصص الفيديو التالية بالسرعة التي تختارها حتى تغيّرها أو تعيد تشغيل إنستغرام.
+Hide the Create button on saved reels	إخفاء زر الإنشاء في الريلز المحفوظة
+Takes the plus button off the top of reels you open from Saved or a collection and closes up the gap. The Reels tab and other reels keep theirs.	يزيل زر الإضافة من أعلى الريلز التي تفتحها من المحفوظات أو من مجموعة، ويغلق المساحة الناتجة. يبقى الزر ظاهرًا في تبويب الريلز والريلز الأخرى.
+Seek bar position	موضع شريط التقدم
+Above the Send message box	فوق مربع إرسال رسالة
+Below the Send message box	أسفل مربع إرسال رسالة
+The bar sits just above the Send message box at the bottom of a story.	يظهر الشريط مباشرة فوق مربع إرسال رسالة أسفل القصة.
+The bar sits in the space under the Send message box. Where there's no room under it, the bar stays above it.	يظهر الشريط في المساحة أسفل مربع إرسال رسالة. إذا لم تتوفر مساحة كافية، يبقى فوق المربع.
+Launch screen in the accent color	شاشة البدء بلون التمييز
+Fills that screen with the accent color, or Instagram's blue while Accent color is off. A custom color shows as the closest one in the list. It shows from the next start.	يملأ شاشة البدء بلون التمييز، أو بأزرق إنستغرام عند إيقاف لون التمييز. يظهر اللون المخصص بأقرب درجة متاحة في القائمة. يسري التغيير عند التشغيل التالي.
+Haptic strength	قوة الاهتزاز اللمسي
+Tap sound on the tab bar	صوت النقر على شريط التبويبات
+A click each time the highlight moves to another tab, even with the phone's touch sounds off. Silent and vibrate mode keep it quiet.	يصدر صوت نقرة كلما انتقل التحديد إلى تبويب آخر، حتى عند إيقاف أصوات اللمس في الهاتف. يظل الصوت مكتومًا في الوضع الصامت ووضع الاهتزاز.
+Tap sound volume	مستوى صوت النقر
+Auto scroll in Home	التمرير التلقائي في الصفحة الرئيسية
+Moves Home on to the next post by itself. A video moves on when it ends, a photo or carousel after Time on each post. Touch the screen to hold it.	ينتقل بالموجز تلقائيًا إلى المنشور التالي. ينتقل الفيديو عند انتهائه، أما الصورة أو المنشور المتعدد فينتقل بعد المدة المحددة في «وقت عرض كل منشور». المس الشاشة لإيقاف التمرير مؤقتًا.
+Time on each post	مدة عرض كل منشور
+Control the reel above comments	التحكم بالريل فوق التعليقات
+With a reel's comments open, tap the reel above them to pause or play it, or hold it to play at 2x. The comments stay open.	عند فتح تعليقات الريل، اضغط على الريل الظاهر فوقها لإيقافه مؤقتًا أو تشغيله، أو اضغط مطولًا لتشغيله بسرعة 2x. تظل التعليقات مفتوحة.
+Hide the speed lock message	إخفاء رسالة تثبيت السرعة
+Keeps the message Instagram shows when you lock a reel's speed, and when the lock ends, off the screen. The lock still works.	يخفي الرسالة التي تعرضها إنستغرام عند تثبيت سرعة الريل وعند انتهاء التثبيت. تظل ميزة تثبيت السرعة تعمل.
+Remove hidden data from saved photos	إزالة البيانات المخفية من الصور المحفوظة
+Takes Meta's FBMD tracking tag out of each photo you save, along with any camera, place and time details. The picture and its colors stay the same. With Add the source on, the source still goes in afterward. JPEG photos only.	يزيل وسم التتبع FBMD الخاص بـ Meta من كل صورة تحفظها، إلى جانب بيانات الكاميرا والموقع والوقت إن وجدت. لا تتغير الصورة أو ألوانها. إذا كان خيار «إضافة المصدر» مفعّلًا، فستُضاف معلومات المصدر بعد ذلك. يقتصر ذلك على صور JPEG.
+Ask for VP9 instead of AV1	طلب VP9 بدلًا من AV1
+Tells Instagram your phone has no AV1 decoder. Instagram doesn't always listen, so videos can still come as AV1. If they do, Convert to keep the full size gives you H.264. Takes a restart.	يخبر إنستغرام أن هاتفك لا يحتوي على مفكك ترميز AV1. قد لا يستجيب إنستغرام دائمًا، وقد تصل الفيديوهات بصيغة AV1 رغم ذلك. عند حدوث ذلك، يمنحك خيار «التحويل مع الحفاظ على الحجم الكامل» صيغة H.264. يتطلب التغيير إعادة التشغيل.
+Two arrows flash on the side you double tapped, with the seconds skipped under them.	يومض سهمان على الجانب الذي نقرت عليه مرتين، وتظهر أسفلهما مدة التقديم أو الترجيع بالثواني.
 Feed seek bar shape	شكل شريط التقدم في الخلاصة
-Same as Seek bar shape	Same as Seek bar shape
-Feed videos use the shape picked in Seek bar shape.	Feed videos use the shape picked in Seek bar shape.
-The bar and round handle you know, on feed videos only.	The bar and round handle you know, on feed videos only.
-A thin line with no handle on the bottom edge of feed videos, which grows while you drag it.	A thin line with no handle on the bottom edge of feed videos, which grows while you drag it.
-A thicker rounded bar with no handle, on feed videos only.	A thicker rounded bar with no handle, on feed videos only.
-A rounded bar split by a tall handle, on feed videos only.	A rounded bar split by a tall handle, on feed videos only.
-A wavy line for the part played, with a tall handle, on feed videos only.	A wavy line for the part played, with a tall handle, on feed videos only.
+Same as Seek bar shape	مثل شكل شريط التقدم
+Feed videos use the shape picked in Seek bar shape.	تستخدم فيديوهات الموجز الشكل المحدد في إعداد «شكل شريط التقدم».
+The bar and round handle you know, on feed videos only.	الشريط والمقبض الدائري المعتادان، لفيديوهات الموجز فقط.
+A thin line with no handle on the bottom edge of feed videos, which grows while you drag it.	خط رفيع بلا مقبض عند الحافة السفلية لفيديوهات الموجز، يمتد أثناء سحبه.
+A thicker rounded bar with no handle, on feed videos only.	شريط أكثر سماكة بحواف مستديرة ومن دون مقبض، لفيديوهات الموجز فقط.
+A rounded bar split by a tall handle, on feed videos only.	شريط مستدير يقسمه مقبض طويل، لفيديوهات الموجز فقط.
+A wavy line for the part played, with a tall handle, on feed videos only.	خط متموج يوضح الجزء الذي تم تشغيله، مع مقبض طويل، لفيديوهات الموجز فقط.
 Time on the seek bar	Time on the seek bar
 Shows the time played and the video's length over the seek bar on feed videos, like 0:12 / 0:45. Tap the time to see the time left instead.	Shows the time played and the video's length over the seek bar on feed videos, like 0:12 / 0:45. Tap the time to see the time left instead.
 Show the time left	Show the time left
