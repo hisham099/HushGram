@@ -1436,91 +1436,91 @@ The sounds you hid with the music icon. Uncheck one to see its reels again.	ال
 No sounds are hidden yet. Turn on Hide reels by sound, then tap the music icon beside a reel.	لم يتم إخفاء أي أصوات بعد. فعّل خيار إخفاء مقاطع ريلز حسب الصوت، ثم اضغط على أيقونة الموسيقى بجانب أحد المقاطع.
 New	جديد
 App icon	أيقونة التطبيق
-Instagram on black	Instagram on black
-Instagram on plum	Instagram on plum
-Instagram in black on white	Instagram in black on white
-Hand-drawn Instagram	Hand-drawn Instagram
-Instagram's own	Instagram's own
-Instagram's own. Pick another to change the icon on your home screen and in the app drawer.	Instagram's own. Pick another to change the icon on your home screen and in the app drawer.
-%1$s. It shows once you leave Instagram. If the icon is gone from your home screen, add it again from the app drawer.	%1$s. It shows once you leave Instagram. If the icon is gone from your home screen, add it again from the app drawer.
-the home screen icon you picked	the home screen icon you picked
-Your fonts in story text	Your fonts in story text
-Adds the fonts below to the story text editor alongside Instagram's own fonts, which all stay. Pick one there like any other font.	Adds the fonts below to the story text editor alongside Instagram's own fonts, which all stay. Pick one there like any other font.
-Your story fonts	Your story fonts
-Add .ttf or .otf files from your phone. Uncheck one to take it out.	Add .ttf or .otf files from your phone. Uncheck one to take it out.
-No fonts added yet. Add a .ttf or .otf file and it shows up in the story text editor alongside Instagram's fonts.	No fonts added yet. Add a .ttf or .otf file and it shows up in the story text editor alongside Instagram's fonts.
-Add a font file	Add a font file
-Removed from your story fonts	Removed from your story fonts
-That file isn't a usable font. Nothing was added.	That file isn't a usable font. Nothing was added.
-Added %1$s. Pick it in the story text editor.	Added %1$s. Pick it in the story text editor.
-Logo and titles at the start	Logo and titles at the start
-Puts Instagram's logo and every bar's title at the start of the bar, where Instagram used to show them. Turn it on if Instagram centers them for you. It wins over the centering switches above. Restart Instagram to see the change on Home.	Puts Instagram's logo and every bar's title at the start of the bar, where Instagram used to show them. Turn it on if Instagram centers them for you. It wins over the centering switches above. Restart Instagram to see the change on Home.
-Emoji font in story text	Emoji font in story text
-Emoji you type in story text draw from an emoji font file you pick. Turning it on asks for the file. Off, Instagram's emoji come back.	Emoji you type in story text draw from an emoji font file you pick. Turning it on asks for the file. Off, Instagram's emoji come back.
-That file isn't a usable font. Emoji didn't change.	That file isn't a usable font. Emoji didn't change.
-Emoji font saved. Emoji in story text draw in it.	Emoji font saved. Emoji in story text draw in it.
-Rows in Instagram's settings	Rows in Instagram's settings
-Every row of Instagram's Settings and activity shows. Untick the ones you don't use.	Every row of Instagram's Settings and activity shows. Untick the ones you don't use.
-%1$d row is left off Instagram's Settings and activity.	%1$d row is left off Instagram's Settings and activity.
-%1$d rows are left off Instagram's Settings and activity.	%1$d rows are left off Instagram's Settings and activity.
-Open Settings and activity in Instagram once, then come back here. Its rows show up in this list to untick.	Open Settings and activity in Instagram once, then come back here. Its rows show up in this list to untick.
-Date in backup file names	Date in backup file names
-Add the current date and time when exporting settings. Off keeps HushGram-settings.json.	Add the current date and time when exporting settings. Off keeps HushGram-settings.json.
-%1$s is the post's shortcode. Stories and unknown posts leave it out. Using it also names photos.	%1$s is the post's shortcode. Stories and unknown posts leave it out. Using it also names photos.
-Videos and photos use %1$s. Unknown codes are left out.	Videos and photos use %1$s. Unknown codes are left out.
-Tab bar layout	Tab bar layout
-Swipe between tabs	Swipe between tabs
-Classic	Classic
-Instagram's choice	Instagram's choice
-Keeps the newer bar, with Messages on it, and you can swipe sideways between every tab, even if Instagram moves your account back to the older one. Restart Instagram to see the change.	Keeps the newer bar, with Messages on it, and you can swipe sideways between every tab, even if Instagram moves your account back to the older one. Restart Instagram to see the change.
-Keeps the older bar, with Create on it and Messages at the top of Home. Swiping only moves between Home and the screens beside it. Restart Instagram to see the change.	Keeps the older bar, with Create on it and Messages at the top of Home. Swiping only moves between Home and the screens beside it. Restart Instagram to see the change.
-Instagram picks the tab bar for your account, and it can switch between the two on its own.	Instagram picks the tab bar for your account, and it can switch between the two on its own.
-Group or mute Instagram's notifications, and take suggestions off the Notifications page.	Group or mute Instagram's notifications, and take suggestions off the Notifications page.
-Take suggestions and Featured off the Notifications page.	Take suggestions and Featured off the Notifications page.
-Version warnings	Version warnings
-Pause HushGram, lock these settings, or make a report when something breaks.	Pause HushGram, lock these settings, or make a report when something breaks.
-Choose a folder	Choose a folder
-Saves go to Movies and Pictures. Pick any folder instead, a hidden one too, and every photo and video goes there.	Saves go to Movies and Pictures. Pick any folder instead, a hidden one too, and every photo and video goes there.
-Photos and videos go to %1$s. Tap to pick another folder.	Photos and videos go to %1$s. Tap to pick another folder.
-HushGram can't reach %1$s anymore, so saves go to Movies and Pictures. Pick the folder again.	HushGram can't reach %1$s anymore, so saves go to Movies and Pictures. Pick the folder again.
-Use Movies and Pictures	Use Movies and Pictures
-Stop using the folder you picked. Saves go back to Movies and Pictures.	Stop using the folder you picked. Saves go back to Movies and Pictures.
-Couldn't use that folder. Saves go where they did.	Couldn't use that folder. Saves go where they did.
-Saves go to Movies and Pictures again.	Saves go to Movies and Pictures again.
-%1$s didn't take this save, so it went to Movies and Pictures.	%1$s didn't take this save, so it went to Movies and Pictures.
-Start reels with sound	Start reels with sound
-A reel you open from the Reels tab, a profile or a post on Home plays with sound, and Home is muted again when you go back. Your phone's ringer and volume still count.	A reel you open from the Reels tab, a profile or a post on Home plays with sound, and Home is muted again when you go back. Your phone's ringer and volume still count.
-Keep your place in Home	Keep your place in Home
-Coming back to Instagram leaves Home on the post you were on, however long you were away. Pull down to refresh still reloads it.	Coming back to Instagram leaves Home on the post you were on, however long you were away. Pull down to refresh still reloads it.
-Filter the Stories tray by verified accounts	Filter the Stories tray by verified accounts
-The row of stories at the top of Home keeps only the accounts the choice below names, by Instagram's verified badge. Your own story stays. Turn it off to see every story.	The row of stories at the top of Home keeps only the accounts the choice below names, by Instagram's verified badge. Your own story stays. Turn it off to see every story.
-Stories to keep	Stories to keep
-Only verified accounts	Only verified accounts
-Only accounts that aren't verified	Only accounts that aren't verified
-Pinch to zoom	Pinch to zoom
-Two fingers zoom into a playing reel, the way a photo zooms. Lift them and it goes back. Restart Instagram to see the change.	Two fingers zoom into a playing reel, the way a photo zooms. Lift them and it goes back. Restart Instagram to see the change.
-Double tap to skip	Double tap to skip
-A double tap on the left side of a reel goes back, and on the right side it goes ahead, as far as Skip length says. A double tap in the middle still likes it. Reels no longer than that don't skip.	A double tap on the left side of a reel goes back, and on the right side it goes ahead, as far as Skip length says. A double tap in the middle still likes it. Reels no longer than that don't skip.
-Show the skip arrows	Show the skip arrows
-Two arrows flash on the side you double tapped, with the seconds skipped under them, like on feed videos.	Two arrows flash on the side you double tapped, with the seconds skipped under them, like on feed videos.
-Hide the 2x popup	Hide the 2x popup
-Takes the 2x label off a reel while you hold it to play faster. The speed-up still works.	Takes the 2x label off a reel while you hold it to play faster. The speed-up still works.
-Mute notification types	Mute notification types
-Stops the notification types you tick, even ones Instagram's own notification settings can't turn off.	Stops the notification types you tick, even ones Instagram's own notification settings can't turn off.
-%1$d notification type is muted.	%1$d notification type is muted.
-%1$d notification types are muted.	%1$d notification types are muted.
-Instagram hasn't set up its notification types on this phone yet. Open Instagram once, then come back here.	Instagram hasn't set up its notification types on this phone yet. Open Instagram once, then come back here.
-Unmute all	Unmute all
-Settings button on Home's header	Settings button on Home's header
-Adds a gear at the top of Home that opens HushGram settings. Restart Instagram to see the change.	Adds a gear at the top of Home that opens HushGram settings. Restart Instagram to see the change.
-Download button on stories	Download button on stories
-Puts a Download button at the top of a story, beside the three dots. One tap saves the photo or video in front, the same as Download in the menu.	Puts a Download button at the top of a story, beside the three dots. One tap saves the photo or video in front, the same as Download in the menu.
-Start reels muted	Start reels muted
-Every reel starts silent, wherever you open it from. The volume keys or the speaker icon unmute it. Wins over Start reels with sound.	Every reel starts silent, wherever you open it from. The volume keys or the speaker icon unmute it. Wins over Start reels with sound.
-Hide captions	Hide captions
-Takes the caption off posts in your feed and off reels. The post stays, and the comments sheet still shows it.	Takes the caption off posts in your feed and off reels. The post stays, and the comments sheet still shows it.
-Keep Home's top bar	Keep Home's top bar
-Keeps the Instagram logo and the buttons beside it at the top of Home while you scroll, instead of sliding them away.	Keeps the Instagram logo and the buttons beside it at the top of Home while you scroll, instead of sliding them away.
+Instagram on black	Instagram باللون الأسود
+Instagram on plum	Instagram باللون البرقوقي
+Instagram in black on white	Instagram بالأسود على خلفية بيضاء
+Hand-drawn Instagram	Instagram بأسلوب مرسوم يدوياً
+Instagram's own	الافتراضي في Instagram
+Instagram's own. Pick another to change the icon on your home screen and in the app drawer.	أيقونة Instagram الأصلية. اختر تصميماً آخر لتغيير الأيقونة على الشاشة الرئيسية وفي درج التطبيقات.
+%1$s. It shows once you leave Instagram. If the icon is gone from your home screen, add it again from the app drawer.	%1$s. ستظهر بعد مغادرة Instagram. إذا اختفت الأيقونة من الشاشة الرئيسية، فأضفها مجدداً من درج التطبيقات.
+the home screen icon you picked	أيقونة الشاشة الرئيسية التي اخترتها
+Your fonts in story text	خطوطك في نصوص القصص
+Adds the fonts below to the story text editor alongside Instagram's own fonts, which all stay. Pick one there like any other font.	يضيف الخطوط أدناه إلى محرر نصوص القصص بجانب خطوط Instagram الأصلية، مع الاحتفاظ بها جميعاً. اختر أحدها من المحرر كما تختار أي خط آخر.
+Your story fonts	خطوط القصص الخاصة بك
+Add .ttf or .otf files from your phone. Uncheck one to take it out.	أضف ملفات ‎.ttf أو ‎.otf من هاتفك. أزل تحديد أي خط لإزالته.
+No fonts added yet. Add a .ttf or .otf file and it shows up in the story text editor alongside Instagram's fonts.	لم تتم إضافة أي خطوط بعد. أضف ملف ‎.ttf أو ‎.otf ليظهر في محرر نصوص القصص بجانب خطوط Instagram.
+Add a font file	إضافة ملف خط
+Removed from your story fonts	تمت إزالته من خطوط القصص
+That file isn't a usable font. Nothing was added.	هذا الملف ليس خطاً صالحاً للاستخدام. لم تتم إضافة أي شيء.
+Added %1$s. Pick it in the story text editor.	تمت إضافة %1$s. اختره من محرر نصوص القصص.
+Logo and titles at the start	وضع الشعار والعناوين في بداية الشريط
+Puts Instagram's logo and every bar's title at the start of the bar, where Instagram used to show them. Turn it on if Instagram centers them for you. It wins over the centering switches above. Restart Instagram to see the change on Home.	يضع شعار Instagram وعنوان كل شريط في بدايته، كما كان Instagram يعرضهما سابقاً. فعّل هذا الخيار إذا كان Instagram يوسّطهما لديك. تكون له الأولوية على خيارات التوسيط أعلاه. أعد تشغيل Instagram لرؤية التغيير في الصفحة الرئيسية.
+Emoji font in story text	خط الرموز التعبيرية في نصوص القصص
+Emoji you type in story text draw from an emoji font file you pick. Turning it on asks for the file. Off, Instagram's emoji come back.	تُعرض الرموز التعبيرية التي تكتبها في نصوص القصص باستخدام ملف خط الرموز التعبيرية الذي تختاره. عند تفعيل الخيار سيُطلب منك تحديد الملف. وعند إيقافه تعود رموز Instagram التعبيرية.
+That file isn't a usable font. Emoji didn't change.	هذا الملف ليس خطاً صالحاً للاستخدام. لم تتغير الرموز التعبيرية.
+Emoji font saved. Emoji in story text draw in it.	تم حفظ خط الرموز التعبيرية. ستُعرض به الرموز التعبيرية في نصوص القصص.
+Rows in Instagram's settings	الصفوف في إعدادات Instagram
+Every row of Instagram's Settings and activity shows. Untick the ones you don't use.	تظهر جميع الصفوف في قسم «الإعدادات والنشاط» في Instagram. أزل تحديد الصفوف التي لا تستخدمها.
+%1$d row is left off Instagram's Settings and activity.	تم إخفاء %1$d صف من قسم «الإعدادات والنشاط» في Instagram.
+%1$d rows are left off Instagram's Settings and activity.	تم إخفاء %1$d صفوف من قسم «الإعدادات والنشاط» في Instagram.
+Open Settings and activity in Instagram once, then come back here. Its rows show up in this list to untick.	افتح قسم «الإعدادات والنشاط» في Instagram مرة واحدة، ثم عُد إلى هنا. ستظهر صفوفه في هذه القائمة لتتمكن من إخفائها.
+Date in backup file names	إضافة التاريخ إلى أسماء ملفات النسخ الاحتياطية
+Add the current date and time when exporting settings. Off keeps HushGram-settings.json.	يضيف التاريخ والوقت الحاليين عند تصدير الإعدادات. عند إيقاف الخيار، يُستخدم الاسم HushGram-settings.json.
+%1$s is the post's shortcode. Stories and unknown posts leave it out. Using it also names photos.	يمثل %1$s الرمز المختصر للمنشور. لا يُستخدم مع القصص والمنشورات غير المعروفة. كما يُستخدم لتسمية الصور.
+Videos and photos use %1$s. Unknown codes are left out.	تُسمّى الفيديوهات والصور باستخدام %1$s. وتُستبعد الرموز غير المعروفة.
+Tab bar layout	تخطيط شريط علامات التبويب
+Swipe between tabs	التنقل بين علامات التبويب بالسحب
+Classic	كلاسيكي
+Instagram's choice	اختيار Instagram
+Keeps the newer bar, with Messages on it, and you can swipe sideways between every tab, even if Instagram moves your account back to the older one. Restart Instagram to see the change.	يُبقي شريط علامات التبويب الأحدث، الذي يحتوي على الرسائل، ويتيح لك السحب جانبياً للتنقل بين جميع العلامات، حتى إذا أعاد Instagram حسابك إلى التصميم الأقدم. أعد تشغيل Instagram لتطبيق التغيير.
+Keeps the older bar, with Create on it and Messages at the top of Home. Swiping only moves between Home and the screens beside it. Restart Instagram to see the change.	يُبقي شريط علامات التبويب الأقدم، الذي يحتوي على الإنشاء، مع ظهور الرسائل أعلى الصفحة الرئيسية. يقتصر التنقل بالسحب على الصفحة الرئيسية والشاشات المجاورة لها. أعد تشغيل Instagram لتطبيق التغيير.
+Instagram picks the tab bar for your account, and it can switch between the two on its own.	يختار Instagram تصميم شريط علامات التبويب لحسابك، ويمكنه التبديل تلقائياً بين التصميمين.
+Group or mute Instagram's notifications, and take suggestions off the Notifications page.	جمّع إشعارات Instagram أو اكتمها، وأزل الاقتراحات من صفحة الإشعارات.
+Take suggestions and Featured off the Notifications page.	أزل الاقتراحات والمحتوى المميز من صفحة الإشعارات.
+Version warnings	تحذيرات الإصدار
+Pause HushGram, lock these settings, or make a report when something breaks.	إيقاف HushGram مؤقتاً أو قفل هذه الإعدادات أو إرسال بلاغ عند حدوث مشكلة.
+Choose a folder	اختيار مجلد
+Saves go to Movies and Pictures. Pick any folder instead, a hidden one too, and every photo and video goes there.	تُحفظ الملفات في مجلدي Movies وPictures. يمكنك اختيار أي مجلد بدلاً منهما، حتى المجلدات المخفية، ليتم حفظ جميع الصور والفيديوهات فيه.
+Photos and videos go to %1$s. Tap to pick another folder.	تُحفظ الصور والفيديوهات في %1$s. اضغط لاختيار مجلد آخر.
+HushGram can't reach %1$s anymore, so saves go to Movies and Pictures. Pick the folder again.	لم يعد HushGram قادراً على الوصول إلى %1$s، لذلك ستُحفظ الملفات في مجلدي Movies وPictures. اختر المجلد مجدداً.
+Use Movies and Pictures	استخدام مجلدي Movies وPictures
+Stop using the folder you picked. Saves go back to Movies and Pictures.	التوقف عن استخدام المجلد الذي اخترته. ستعود الملفات إلى مجلدي Movies وPictures.
+Couldn't use that folder. Saves go where they did.	تعذّر استخدام هذا المجلد. ستظل الملفات تُحفظ في موقعها السابق.
+Saves go to Movies and Pictures again.	عادت الملفات لتُحفظ في مجلدي Movies وPictures.
+%1$s didn't take this save, so it went to Movies and Pictures.	تعذّر حفظ هذا الملف في %1$s، لذلك تم حفظه في مجلدي Movies وPictures.
+Start reels with sound	بدء تشغيل مقاطع ريلز مع الصوت
+A reel you open from the Reels tab, a profile or a post on Home plays with sound, and Home is muted again when you go back. Your phone's ringer and volume still count.	يُشغّل مقطع ريلز الذي تفتحه من علامة تبويب ريلز أو ملف شخصي أو منشور في الصفحة الرئيسية مع الصوت. وعند العودة إلى الصفحة الرئيسية يعود كتم الصوت. ويظل وضع رنين الهاتف ومستوى الصوت مؤثرين.
+Keep your place in Home	الاحتفاظ بموضعك في الصفحة الرئيسية
+Coming back to Instagram leaves Home on the post you were on, however long you were away. Pull down to refresh still reloads it.	عند العودة إلى Instagram، تظل الصفحة الرئيسية عند المنشور الذي كنت تشاهده مهما طالت مدة غيابك. ويظل السحب إلى الأسفل لتحديث الصفحة يعيد تحميلها.
+Filter the Stories tray by verified accounts	تصفية شريط القصص حسب الحسابات الموثقة
+The row of stories at the top of Home keeps only the accounts the choice below names, by Instagram's verified badge. Your own story stays. Turn it off to see every story.	يعرض صف القصص أعلى الصفحة الرئيسية القصص التابعة للحسابات المحددة أدناه فقط، وفق شارة التوثيق في Instagram. وتظل قصتك ظاهرة. أوقف الخيار لعرض جميع القصص.
+Stories to keep	القصص المطلوب إظهارها
+Only verified accounts	الحسابات الموثقة فقط
+Only accounts that aren't verified	الحسابات غير الموثقة فقط
+Pinch to zoom	ضم إصبعين للتكبير
+Two fingers zoom into a playing reel, the way a photo zooms. Lift them and it goes back. Restart Instagram to see the change.	استخدم إصبعين لتكبير مقطع ريلز أثناء تشغيله، كما تفعل مع الصور. ارفع إصبعيك للعودة إلى الحجم الأصلي. أعد تشغيل Instagram لتطبيق التغيير.
+Double tap to skip	النقر المزدوج للتقديم أو الرجوع
+A double tap on the left side of a reel goes back, and on the right side it goes ahead, as far as Skip length says. A double tap in the middle still likes it. Reels no longer than that don't skip.	يؤدي النقر المزدوج على الجانب الأيسر من مقطع ريلز إلى الرجوع، وعلى الجانب الأيمن إلى التقديم وفق المدة المحددة في خيار طول التخطي. ويظل النقر المزدوج في المنتصف يسجل الإعجاب. ولا يتم التخطي في المقاطع التي لا تتجاوز تلك المدة.
+Show the skip arrows	إظهار أسهم التخطي
+Two arrows flash on the side you double tapped, with the seconds skipped under them, like on feed videos.	يظهر سهمان مؤقتاً على الجانب الذي نقرت عليه مرتين، مع عرض عدد الثواني التي تم تخطيها أسفلهما، كما في فيديوهات الموجز.
+Hide the 2x popup	إخفاء نافذة 2x المنبثقة
+Takes the 2x label off a reel while you hold it to play faster. The speed-up still works.	يخفي علامة 2x من مقطع ريلز أثناء الضغط المطول لتسريع تشغيله. وتظل ميزة التسريع تعمل.
+Mute notification types	كتم أنواع محددة من الإشعارات
+Stops the notification types you tick, even ones Instagram's own notification settings can't turn off.	يوقف أنواع الإشعارات التي تحددها، حتى الأنواع التي لا تسمح إعدادات إشعارات Instagram الأصلية بإيقافها.
+%1$d notification type is muted.	تم كتم نوع واحد من الإشعارات (%1$d).
+%1$d notification types are muted.	تم كتم %1$d أنواع من الإشعارات.
+Instagram hasn't set up its notification types on this phone yet. Open Instagram once, then come back here.	لم يُعد Instagram أنواع إشعاراته على هذا الهاتف بعد. افتح Instagram مرة واحدة، ثم عُد إلى هنا.
+Unmute all	إلغاء كتم الكل
+Settings button on Home's header	زر الإعدادات في رأس الصفحة الرئيسية
+Adds a gear at the top of Home that opens HushGram settings. Restart Instagram to see the change.	يضيف أيقونة ترس أعلى الصفحة الرئيسية لفتح إعدادات HushGram. أعد تشغيل Instagram لتطبيق التغيير.
+Download button on stories	زر التنزيل في القصص
+Puts a Download button at the top of a story, beside the three dots. One tap saves the photo or video in front, the same as Download in the menu.	يضيف زر تنزيل أعلى القصة بجانب النقاط الثلاث. تؤدي ضغطة واحدة إلى حفظ الصورة أو الفيديو المعروض، كما يفعل خيار التنزيل في القائمة.
+Start reels muted	بدء مقاطع ريلز دون صوت
+Every reel starts silent, wherever you open it from. The volume keys or the speaker icon unmute it. Wins over Start reels with sound.	يبدأ كل مقطع ريلز دون صوت، أياً كان موضع فتحه. يمكنك إلغاء كتمه باستخدام أزرار الصوت أو أيقونة مكبر الصوت. ولهذا الخيار الأولوية على خيار بدء تشغيل مقاطع ريلز مع الصوت.
+Hide captions	إخفاء أوصاف المنشورات
+Takes the caption off posts in your feed and off reels. The post stays, and the comments sheet still shows it.	يخفي وصف المنشورات في موجزك وأوصاف مقاطع ريلز. ويظل المنشور ظاهراً، كما يظل الوصف ظاهراً في لوحة التعليقات.
+Keep Home's top bar	إبقاء الشريط العلوي للصفحة الرئيسية
+Keeps the Instagram logo and the buttons beside it at the top of Home while you scroll, instead of sliding them away.	يُبقي شعار Instagram والأزرار المجاورة له أعلى الصفحة الرئيسية أثناء التمرير، بدلاً من إخفائها.
 See-through top bar	See-through top bar
 Shows your feed blurred under Home's top bar, like frosted glass.	Shows your feed blurred under Home's top bar, like frosted glass.
 Keep the Reels top bar	Keep the Reels top bar
