@@ -1521,92 +1521,92 @@ Hide captions	إخفاء أوصاف المنشورات
 Takes the caption off posts in your feed and off reels. The post stays, and the comments sheet still shows it.	يخفي وصف المنشورات في موجزك وأوصاف مقاطع ريلز. ويظل المنشور ظاهراً، كما يظل الوصف ظاهراً في لوحة التعليقات.
 Keep Home's top bar	إبقاء الشريط العلوي للصفحة الرئيسية
 Keeps the Instagram logo and the buttons beside it at the top of Home while you scroll, instead of sliding them away.	يُبقي شعار Instagram والأزرار المجاورة له أعلى الصفحة الرئيسية أثناء التمرير، بدلاً من إخفائها.
-See-through top bar	See-through top bar
-Shows your feed blurred under Home's top bar, like frosted glass.	Shows your feed blurred under Home's top bar, like frosted glass.
-Keep the Reels top bar	Keep the Reels top bar
-Keeps the Reels title, the Friends tab and the buttons beside them at the top while you swipe through reels, instead of sliding them away.	Keeps the Reels title, the Friends tab and the buttons beside them at the top while you swipe through reels, instead of sliding them away.
-Keep a viewing history	Keep a viewing history
-Remembers the posts, reels, stories and profiles that come up on screen, and who posted them, newest first, on this phone only. The list shows their pictures, loaded from Instagram's image servers and kept on the phone. Turn it off and it stops at once.	Remembers the posts, reels, stories and profiles that come up on screen, and who posted them, newest first, on this phone only. The list shows their pictures, loaded from Instagram's image servers and kept on the phone. Turn it off and it stops at once.
-Find a post, reel, story or profile you saw before.	Find a post, reel, story or profile you saw before.
-Recently seen	Recently seen
-Open profile	Open profile
-Remove from history	Remove from history
-Viewing history	Viewing history
-Nothing here yet. With Keep a viewing history on, what you look at shows up here.	Nothing here yet. With Keep a viewing history on, what you look at shows up here.
-Post	Post
-Reel	Reel
-Story	Story
-Clear viewing history	Clear viewing history
-Forgets every post, reel, story and profile on the list, for all your accounts. The switch stays as it is.	Forgets every post, reel, story and profile on the list, for all your accounts. The switch stays as it is.
-Viewing history cleared.	Viewing history cleared.
-Couldn't clear the viewing history. Try again.	Couldn't clear the viewing history. Try again.
-Mark one-time photos and videos	Mark one-time photos and videos
-Puts a border and Instagram's view once icon on a one-time photo or video in a chat, so you can tell it from the rest before you open it. Only how the chat looks changes.	Puts a border and Instagram's view once icon on a one-time photo or video in a chat, so you can tell it from the rest before you open it. Only how the chat looks changes.
-Fall back to Following	Fall back to Following
-When For you brings an account only suggested posts, page after page, Home opens on Following for that account. A feed you pick at the top of Home stays picked. Restart Instagram to see the change.	When For you brings an account only suggested posts, page after page, Home opens on Following for that account. A feed you pick at the top of Home stays picked. Restart Instagram to see the change.
-Only suggestions in For you. Home will open on Following.	Only suggestions in For you. Home will open on Following.
-Mix in Following	Mix in Following
-For you shows a page of posts from accounts you follow after each page of its own, until you've seen them all. Pull down on Home to start both over. Restart Instagram to see the change.	For you shows a page of posts from accounts you follow after each page of its own, until you've seen them all. Pull down on Home to start both over. Restart Instagram to see the change.
-Explore without personalization	Explore without personalization
-Explore asks for the grid that isn't personalized every time it opens, and stays on it past ten minutes. Instagram only promises that grid in the EU.	Explore asks for the grid that isn't personalized every time it opens, and stays on it past ten minutes. Instagram only promises that grid in the EU.
-Hide Explore's personalized menu	Hide Explore's personalized menu
-Hides the top bar button that switches Explore's personalization, where Instagram shows it (in the EU).	Hides the top bar button that switches Explore's personalization, where Instagram shows it (in the EU).
-Carousel arrows	Carousel arrows
-Puts a back and a next arrow on a carousel post's photos and videos. Tap one to move a page without swiping.	Puts a back and a next arrow on a carousel post's photos and videos. Tap one to move a page without swiping.
-Previous page	Previous page
-Next page	Next page
-Page dots on a pill	Page dots on a pill
-Moves a carousel post's page dots onto a round pill at the bottom of its photo or video, with the page you're on in blue. Hold the pill and slide left or right to move through the pages.	Moves a carousel post's page dots onto a round pill at the bottom of its photo or video, with the page you're on in blue. Hold the pill and slide left or right to move through the pages.
-Hide page number	Hide page number
-Takes the number like 3/5 off the corner of a carousel post's photo or video.	Takes the number like 3/5 off the corner of a carousel post's photo or video.
-Ambient light	Ambient light
-Puts a soft glow in a post's own colors around its photo or video, and in the bands around a reel that doesn't fill the screen. The glow follows a video as it plays.	Puts a soft glow in a post's own colors around its photo or video, and in the bands around a reel that doesn't fill the screen. The glow follows a video as it plays.
-Glow spread	Glow spread
-Glow speed	Glow speed
-Narrow	Narrow
-Medium	Medium
-Wide	Wide
-Slow	Slow
-Fast	Fast
-Copy text button on reels	Copy text button on reels
-Puts a Lens icon beside a reel. Tap it and Google Lens opens on what's showing, so you can select and copy its text.	Puts a Lens icon beside a reel. Tap it and Google Lens opens on what's showing, so you can select and copy its text.
-Copy text button on stories	Copy text button on stories
-Puts a Lens icon at the top of a story, beside the three dots. Tap it and Google Lens opens on what's showing, so you can select and copy its text.	Puts a Lens icon at the top of a story, beside the three dots. Tap it and Google Lens opens on what's showing, so you can select and copy its text.
-Story buttons at the bottom	Story buttons at the bottom
-Moves the Mark as seen and Download buttons to the bottom right of a story, next to Like and Share, where your thumb is. Stories without Like and Share keep them at the top.	Moves the Mark as seen and Download buttons to the bottom right of a story, next to Like and Share, where your thumb is. Stories without Like and Share keep them at the top.
-Copy text	Copy text
-Copy text with	Copy text with
-Couldn't copy this screen	Couldn't copy this screen
-No app here can read text	No app here can read text
-App-only proxy	App-only proxy
-Sends Instagram through the HTTP proxy set below. Other apps and your phone's own settings aren't changed.	Sends Instagram through the HTTP proxy set below. Other apps and your phone's own settings aren't changed.
-Proxy server	Proxy server
-An HTTP proxy's address and port, with a colon between them, like 192.168.1.10:8080. Proxies that need a password, and SOCKS proxies, don't work here. Instagram needs a restart to use it.	An HTTP proxy's address and port, with a colon between them, like 192.168.1.10:8080. Proxies that need a password, and SOCKS proxies, don't work here. Instagram needs a restart to use it.
-That isn't a proxy server. Try 10.0.0.2:8080.	That isn't a proxy server. Try 10.0.0.2:8080.
-No server set. Until there is one, Instagram goes out directly.	No server set. Until there is one, Instagram goes out directly.
-Instagram goes through %1$s.	Instagram goes through %1$s.
-Smooth story opening	Smooth story opening
-A story you tap in the stories row opens with a slower zoom that doesn't bounce, and closes the same way.	A story you tap in the stories row opens with a slower zoom that doesn't bounce, and closes the same way.
-Emoji pack	Emoji pack
-Your phone's emoji	Your phone's emoji
-An emoji font file	An emoji font file
-Your phone's emoji, or Google's with the switch above on. You can also download a free emoji pack or pick a color emoji font file.	Your phone's emoji, or Google's with the switch above on. You can also download a free emoji pack or pick a color emoji font file.
-Emoji draw as %1$s, downloaded from its maker. Restart Instagram to see a change.	Emoji draw as %1$s, downloaded from its maker. Restart Instagram to see a change.
-Emoji draw from the emoji font file you picked. Pick it again to change the file. Restart Instagram to see a change.	Emoji draw from the emoji font file you picked. Pick it again to change the file. Restart Instagram to see a change.
-Downloading the emoji...	Downloading the emoji...
-Couldn't download the emoji. Try again.	Couldn't download the emoji. Try again.
-Emoji saved. Restart Instagram to see them.	Emoji saved. Restart Instagram to see them.
-No color emoji in that file. Nothing changed.	No color emoji in that file. Nothing changed.
-Couldn't load your emoji, so the phone's show.	Couldn't load your emoji, so the phone's show.
-Ambient light in stories	Ambient light in stories
-Fills the bands above and below a story that doesn't fill the screen with a soft glow in its own colors. Glow spread and Glow speed, under Feed, set it too.	Fills the bands above and below a story that doesn't fill the screen with a soft glow in its own colors. Glow spread and Glow speed, under Feed, set it too.
-Skip the contacts and location popups	Skip the contacts and location popups
-The screens asking you to sync your contacts and turn on location services stop opening each time Instagram starts. Nothing else is skipped.	The screens asking you to sync your contacts and turn on location services stop opening each time Instagram starts. Nothing else is skipped.
-Skip the ad data reminder	Skip the ad data reminder
-Instagram's reminder to review whether it can process your data for ads stops opening by itself. Your ad choice doesn't change, and nothing is answered for you.	Instagram's reminder to review whether it can process your data for ads stops opening by itself. Your ad choice doesn't change, and nothing is answered for you.
-Keep photo locations from Instagram	Keep photo locations from Instagram
-Instagram can't read where the photos and videos in your gallery were taken.	Instagram can't read where the photos and videos in your gallery were taken.
-Stop videos looping	Stop videos looping
+See-through top bar	شريط علوي شبه شفاف
+Shows your feed blurred under Home's top bar, like frosted glass.	يعرض موجزك ضبابياً أسفل الشريط العلوي للصفحة الرئيسية، بمظهر يشبه الزجاج المصنفر.
+Keep the Reels top bar	إبقاء الشريط العلوي في ريلز
+Keeps the Reels title, the Friends tab and the buttons beside them at the top while you swipe through reels, instead of sliding them away.	يُبقي عنوان ريلز وعلامة تبويب الأصدقاء والأزرار المجاورة لها ظاهرة في الأعلى أثناء التنقل بين المقاطع، بدلاً من إخفائها.
+Keep a viewing history	الاحتفاظ بسجل المشاهدة
+Remembers the posts, reels, stories and profiles that come up on screen, and who posted them, newest first, on this phone only. The list shows their pictures, loaded from Instagram's image servers and kept on the phone. Turn it off and it stops at once.	يتذكر المنشورات ومقاطع ريلز والقصص والملفات الشخصية التي تظهر على الشاشة، مع أسماء ناشريها، ويرتبها من الأحدث إلى الأقدم على هذا الهاتف فقط. تعرض القائمة صورها التي تُحمّل من خوادم صور Instagram وتُحفظ على الهاتف. أوقف الخيار لإيقاف التسجيل فوراً.
+Find a post, reel, story or profile you saw before.	اعثر على منشور أو مقطع ريلز أو قصة أو ملف شخصي شاهدته سابقاً.
+Recently seen	تمت مشاهدته مؤخراً
+Open profile	فتح الملف الشخصي
+Remove from history	إزالة من السجل
+Viewing history	سجل المشاهدة
+Nothing here yet. With Keep a viewing history on, what you look at shows up here.	لا يوجد شيء هنا بعد. عند تفعيل الاحتفاظ بسجل المشاهدة، ستظهر هنا العناصر التي تشاهدها.
+Post	منشور
+Reel	ريلز
+Story	قصة
+Clear viewing history	مسح سجل المشاهدة
+Forgets every post, reel, story and profile on the list, for all your accounts. The switch stays as it is.	يمحو جميع المنشورات ومقاطع ريلز والقصص والملفات الشخصية الموجودة في القائمة، من جميع حساباتك. ويظل مفتاح الخيار على حالته.
+Viewing history cleared.	تم مسح سجل المشاهدة.
+Couldn't clear the viewing history. Try again.	تعذّر مسح سجل المشاهدة. حاول مرة أخرى.
+Mark one-time photos and videos	تمييز الصور والفيديوهات ذات العرض لمرة واحدة
+Puts a border and Instagram's view once icon on a one-time photo or video in a chat, so you can tell it from the rest before you open it. Only how the chat looks changes.	يضيف إطاراً وأيقونة العرض لمرة واحدة الخاصة بـ Instagram إلى الصورة أو الفيديو المرسل لمرة واحدة في المحادثة، لتتمكن من تمييزه قبل فتحه. لا يتغير سوى مظهر المحادثة.
+Fall back to Following	الانتقال إلى «المتابَعون» عند الحاجة
+When For you brings an account only suggested posts, page after page, Home opens on Following for that account. A feed you pick at the top of Home stays picked. Restart Instagram to see the change.	عندما يعرض قسم «لك» منشورات مقترحة فقط من حساب ما، صفحة بعد أخرى، تفتح الصفحة الرئيسية على موجز «المتابَعون» لذلك الحساب. ويظل الموجز الذي تختاره من أعلى الصفحة الرئيسية محدداً. أعد تشغيل Instagram لتطبيق التغيير.
+Only suggestions in For you. Home will open on Following.	تظهر اقتراحات فقط في قسم «لك». ستفتح الصفحة الرئيسية على موجز «المتابَعون».
+Mix in Following	إضافة منشورات المتابَعين
+For you shows a page of posts from accounts you follow after each page of its own, until you've seen them all. Pull down on Home to start both over. Restart Instagram to see the change.	يعرض قسم «لك» صفحة من منشورات الحسابات التي تتابعها بعد كل صفحة من منشوراته المقترحة، حتى تشاهدها جميعاً. اسحب الصفحة الرئيسية إلى الأسفل لإعادة البدء من جديد. أعد تشغيل Instagram لتطبيق التغيير.
+Explore without personalization	استكشاف دون تخصيص
+Explore asks for the grid that isn't personalized every time it opens, and stays on it past ten minutes. Instagram only promises that grid in the EU.	يعرض قسم الاستكشاف الشبكة غير المخصصة في كل مرة تفتحه، ويظل عليها لأكثر من عشر دقائق. يضمن Instagram هذه الشبكة في الاتحاد الأوروبي فقط.
+Hide Explore's personalized menu	إخفاء قائمة التخصيص في الاستكشاف
+Hides the top bar button that switches Explore's personalization, where Instagram shows it (in the EU).	يخفي الزر الموجود في الشريط العلوي لتغيير تخصيص صفحة الاستكشاف، في المواضع التي يعرضه فيها Instagram (في الاتحاد الأوروبي).
+Carousel arrows	أسهم المنشورات المتعددة
+Puts a back and a next arrow on a carousel post's photos and videos. Tap one to move a page without swiping.	يضيف سهمي السابق والتالي إلى صور وفيديوهات المنشور المتعدد. اضغط على أحدهما للانتقال بين الصفحات دون السحب.
+Previous page	الصفحة السابقة
+Next page	الصفحة التالية
+Page dots on a pill	مؤشرات الصفحات داخل شريط بيضاوي
+Moves a carousel post's page dots onto a round pill at the bottom of its photo or video, with the page you're on in blue. Hold the pill and slide left or right to move through the pages.	ينقل مؤشرات صفحات المنشور المتعدد إلى شريط بيضاوي أسفل الصورة أو الفيديو، مع تمييز الصفحة الحالية باللون الأزرق. اضغط مطولاً على الشريط واسحب يميناً أو يساراً للتنقل بين الصفحات.
+Hide page number	إخفاء رقم الصفحة
+Takes the number like 3/5 off the corner of a carousel post's photo or video.	يزيل رقم الصفحة، مثل 3/5، من زاوية صورة أو فيديو المنشور المتعدد.
+Ambient light	الإضاءة المحيطة
+Puts a soft glow in a post's own colors around its photo or video, and in the bands around a reel that doesn't fill the screen. The glow follows a video as it plays.	يضيف توهجاً ناعماً بألوان المنشور حول صورته أو الفيديو الخاص به، وكذلك في الأشرطة المحيطة بمقطع ريلز الذي لا يملأ الشاشة. ويتحرك التوهج مع الفيديو أثناء تشغيله.
+Glow spread	انتشار التوهج
+Glow speed	سرعة التوهج
+Narrow	ضيق
+Medium	متوسط
+Wide	واسع
+Slow	بطيء
+Fast	سريع
+Copy text button on reels	زر نسخ النص في ريلز
+Puts a Lens icon beside a reel. Tap it and Google Lens opens on what's showing, so you can select and copy its text.	يضيف أيقونة Lens بجانب مقطع ريلز. اضغط عليها لفتح Google Lens على المحتوى المعروض، حتى تتمكن من تحديد النص ونسخه.
+Copy text button on stories	زر نسخ النص في القصص
+Puts a Lens icon at the top of a story, beside the three dots. Tap it and Google Lens opens on what's showing, so you can select and copy its text.	يضيف أيقونة Lens أعلى القصة بجانب النقاط الثلاث. اضغط عليها لفتح Google Lens على المحتوى المعروض، حتى تتمكن من تحديد النص ونسخه.
+Story buttons at the bottom	أزرار القصة في الأسفل
+Moves the Mark as seen and Download buttons to the bottom right of a story, next to Like and Share, where your thumb is. Stories without Like and Share keep them at the top.	ينقل زري «وضع علامة تمت المشاهدة» و«تنزيل» إلى أسفل يمين القصة بجانب زري الإعجاب والمشاركة، حيث يسهل الوصول إليهما بإبهامك. وتظل الأزرار في الأعلى في القصص التي لا تحتوي على الإعجاب والمشاركة.
+Copy text	نسخ النص
+Copy text with	نسخ النص باستخدام
+Couldn't copy this screen	تعذّر نسخ النص من هذه الشاشة
+No app here can read text	لا يوجد تطبيق يمكنه قراءة النص
+App-only proxy	وكيل للتطبيق فقط
+Sends Instagram through the HTTP proxy set below. Other apps and your phone's own settings aren't changed.	يوجّه اتصال Instagram عبر وكيل HTTP المحدد أدناه. لا تتغير إعدادات هاتفك أو اتصالات التطبيقات الأخرى.
+Proxy server	خادم الوكيل
+An HTTP proxy's address and port, with a colon between them, like 192.168.1.10:8080. Proxies that need a password, and SOCKS proxies, don't work here. Instagram needs a restart to use it.	أدخل عنوان وكيل HTTP ورقم المنفذ، مع وضع نقطتين بينهما، مثل 192.168.1.10:8080. لا تعمل هنا الخوادم التي تتطلب كلمة مرور أو خوادم SOCKS. يجب إعادة تشغيل Instagram لاستخدامه.
+That isn't a proxy server. Try 10.0.0.2:8080.	هذا ليس عنوان خادم وكيل صالحاً. جرّب 10.0.0.2:8080.
+No server set. Until there is one, Instagram goes out directly.	لم يتم تحديد خادم. سيستمر Instagram في الاتصال مباشرة حتى يتم تحديده.
+Instagram goes through %1$s.	يمر اتصال Instagram عبر %1$s.
+Smooth story opening	فتح القصص بسلاسة
+A story you tap in the stories row opens with a slower zoom that doesn't bounce, and closes the same way.	تُفتح القصة التي تضغط عليها في صف القصص بتأثير تكبير أبطأ وأكثر سلاسة دون ارتداد، وتُغلق بالطريقة نفسها.
+Emoji pack	حزمة الرموز التعبيرية
+Your phone's emoji	رموز هاتفك التعبيرية
+An emoji font file	ملف خط للرموز التعبيرية
+Your phone's emoji, or Google's with the switch above on. You can also download a free emoji pack or pick a color emoji font file.	رموز هاتفك التعبيرية، أو رموز Google عند تفعيل المفتاح أعلاه. يمكنك أيضاً تنزيل حزمة رموز مجانية أو اختيار ملف خط ملون للرموز التعبيرية.
+Emoji draw as %1$s, downloaded from its maker. Restart Instagram to see a change.	تُعرض الرموز التعبيرية بتصميم %1$s، الذي تم تنزيله من مطوّره. أعد تشغيل Instagram لرؤية التغيير.
+Emoji draw from the emoji font file you picked. Pick it again to change the file. Restart Instagram to see a change.	تُعرض الرموز التعبيرية باستخدام ملف الخط الذي اخترته. اختر ملفاً آخر لتغييره. أعد تشغيل Instagram لرؤية التغيير.
+Downloading the emoji...	جارٍ تنزيل الرموز التعبيرية...
+Couldn't download the emoji. Try again.	تعذّر تنزيل الرموز التعبيرية. حاول مرة أخرى.
+Emoji saved. Restart Instagram to see them.	تم حفظ الرموز التعبيرية. أعد تشغيل Instagram لتطبيقها.
+No color emoji in that file. Nothing changed.	لا يحتوي هذا الملف على رموز تعبيرية ملونة. لم يتغير شيء.
+Couldn't load your emoji, so the phone's show.	تعذّر تحميل الرموز التعبيرية التي اخترتها، لذلك ستُعرض رموز الهاتف.
+Ambient light in stories	الإضاءة المحيطة في القصص
+Fills the bands above and below a story that doesn't fill the screen with a soft glow in its own colors. Glow spread and Glow speed, under Feed, set it too.	يملأ الشريطين أعلى القصة وأسفلها، عندما لا تملأ الشاشة، بتوهج ناعم من ألوان القصة نفسها. يمكنك ضبط انتشار التوهج وسرعته من قسم الموجز.
+Skip the contacts and location popups	تخطي نوافذ جهات الاتصال والموقع
+The screens asking you to sync your contacts and turn on location services stop opening each time Instagram starts. Nothing else is skipped.	يمنع ظهور الشاشات التي تطلب منك مزامنة جهات الاتصال وتفعيل خدمات الموقع عند كل تشغيل لـ Instagram. ولا يتم تخطي أي شيء آخر.
+Skip the ad data reminder	تخطي تذكير بيانات الإعلانات
+Instagram's reminder to review whether it can process your data for ads stops opening by itself. Your ad choice doesn't change, and nothing is answered for you.	يمنع ظهور تذكير Instagram بمراجعة السماح بمعالجة بياناتك لأغراض الإعلانات تلقائياً. لا يتغير اختيارك المتعلق بالإعلانات، ولا تتم الإجابة عن أي شيء نيابةً عنك.
+Keep photo locations from Instagram	منع Instagram من الوصول إلى مواقع الصور
+Instagram can't read where the photos and videos in your gallery were taken.	يمنع Instagram من معرفة المواقع التي التُقطت فيها الصور والفيديوهات الموجودة في معرضك.
+Stop videos looping	إيقاف تكرار تشغيل الفيديوهات
 Feed videos and reels stop at their last frame instead of playing again. Reels still loop while auto scroll is on, so it can move on.	Feed videos and reels stop at their last frame instead of playing again. Reels still loop while auto scroll is on, so it can move on.
 Not used while you've picked a folder. Saves go there.	Not used while you've picked a folder. Saves go there.
 All	الكل
