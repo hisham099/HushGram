@@ -202,7 +202,7 @@ Save	حفظ
 Folder name	اسم المجلد
 Folder set to %1$s.	تم تعيين المجلد إلى %1$s.
 Download file name	اسم ملف التنزيل
-%1$s becomes the date and time of the save, %2$s the video's number on Instagram, %3$s who posted it and %4$s the day it was posted. What a save doesn't know is left out, and a name with none of these gets the date added. When the name is already in the folder, the time of the save goes on the end. Invalid characters become underscores. Leave it blank to use the default, %5$s.	%1$s becomes the date and time of the save, %2$s the video's number on Instagram, %3$s who posted it and %4$s the day it was posted. What a save doesn't know is left out, and a name with none of these gets the date added. When the name is already in the folder, the time of the save goes on the end. Invalid characters become underscores. Leave it blank to use the default, %5$s.
+%1$s becomes the date and time of the save, %2$s the video's number on Instagram, %3$s who posted it and %4$s the day it was posted. What a save doesn't know is left out, and a name with none of these gets the date added. When the name is already in the folder, the time of the save goes on the end. Invalid characters become underscores. Leave it blank to use the default, %5$s.	يمثل %1$s تاريخ الحفظ ووقته، ويمثل %2$s رقم الفيديو على Instagram، ويمثل %3$s ناشر المحتوى، ويمثل %4$s يوم نشره. تُحذف المعلومات غير المتاحة عند الحفظ، ويُضاف التاريخ إلى الاسم إذا لم يتضمن أياً من هذه العناصر. إذا كان الاسم موجوداً مسبقاً في المجلد، يُضاف وقت الحفظ إلى نهايته. تتحول الأحرف غير الصالحة إلى شرطات سفلية. اتركه فارغاً لاستخدام الاسم الافتراضي %5$s.
 File name	اسم الملف
 File name set to %1$s.	تم تعيين اسم الملف إلى %1$s.
 Videos go to %1$s and photos to %2$s.	تُحفظ الفيديوهات في %1$s والصور في %2$s.
@@ -256,196 +256,196 @@ Videos play at the lowest quality Instagram offers for each.	تُشغّل الف
 Videos play at the best quality up to %1$s that Instagram offers for each, or the closest above.	تُشغّل الفيديوهات بأفضل جودة يوفّرها Instagram حتى %1$s، أو بأقرب جودة أعلى منها.
 Videos play at the highest quality Instagram offers for each.	تُشغّل الفيديوهات بأعلى جودة يوفّرها Instagram لكل فيديو.
 View stories anonymously	مشاهدة القصص دون إظهار هويتك
-Instagram isn't told which stories you watch, so you stay off their viewer lists. Replying or reacting still shows you, and stories you've watched keep showing as new.	Instagram isn't told which stories you watch, so you stay off their viewer lists. Replying or reacting still shows you, and stories you've watched keep showing as new.
-Advertising ID removed	Advertising ID removed
-Instagram can't read your phone's advertising ID or tell Android's ad services which ads you saw or tapped. The permissions for them are gone from this build.	Instagram can't read your phone's advertising ID or tell Android's ad services which ads you saw or tapped. The permissions for them are gone from this build.
-the removed advertising ID permissions	the removed advertising ID permissions
-Turn off double tap to like	Turn off double tap to like
-A double tap on a post or reel no longer likes it or shows a heart. A single tap and the Like button work as before.	A double tap on a post or reel no longer likes it or shows a heart. A single tap and the Like button work as before.
-On posts	On posts
-A double tap on a post doesn't like it. Turn this off to keep double tap to like on posts.	A double tap on a post doesn't like it. Turn this off to keep double tap to like on posts.
+Instagram isn't told which stories you watch, so you stay off their viewer lists. Replying or reacting still shows you, and stories you've watched keep showing as new.	لا يُبلّغ Instagram بالقصص التي تشاهدها، لذلك لن يظهر اسمك في قوائم المشاهدين. لكن الرد أو التفاعل سيُظهر أنك شاهدتها، وستظل القصص التي شاهدتها تظهر لك كأنها جديدة.
+Advertising ID removed	تمت إزالة معرّف الإعلانات
+Instagram can't read your phone's advertising ID or tell Android's ad services which ads you saw or tapped. The permissions for them are gone from this build.	لن يتمكن Instagram من قراءة معرّف الإعلانات على هاتفك أو إخبار خدمات الإعلانات في Android بالإعلانات التي شاهدتها أو ضغطت عليها. أُزيلت الأذونات المرتبطة بذلك من هذا الإصدار.
+the removed advertising ID permissions	أذونات معرّف الإعلانات التي تمت إزالتها
+Turn off double tap to like	تعطيل الإعجاب بالنقر المزدوج
+A double tap on a post or reel no longer likes it or shows a heart. A single tap and the Like button work as before.	لن يؤدي النقر المزدوج على منشور أو مقطع ريلز إلى الإعجاب به أو إظهار قلب. يظل النقر مرة واحدة وزر الإعجاب يعملان كالمعتاد.
+On posts	في المنشورات
+A double tap on a post doesn't like it. Turn this off to keep double tap to like on posts.	لن يؤدي النقر المزدوج على المنشور إلى الإعجاب به. عطّل هذا الخيار لإعادة الإعجاب بالنقر المزدوج على المنشورات.
 On reels	في مقاطع ريلز
-A double tap on a reel doesn't like it. Turn this off to keep double tap to like on reels.	A double tap on a reel doesn't like it. Turn this off to keep double tap to like on reels.
+A double tap on a reel doesn't like it. Turn this off to keep double tap to like on reels.	لن يؤدي النقر المزدوج على مقطع ريلز إلى الإعجاب به. عطّل هذا الخيار لإعادة الإعجاب بالنقر المزدوج على مقاطع ريلز.
 Hide the Reels tab	إخفاء علامة تبويب ريلز
-Takes Reels off the tab bar. Reels in your feed and reels people send you still open. Restart Instagram to see the change.	Takes Reels off the tab bar. Reels in your feed and reels people send you still open. Restart Instagram to see the change.
+Takes Reels off the tab bar. Reels in your feed and reels people send you still open. Restart Instagram to see the change.	يزيل علامة تبويب ريلز من شريط التنقل. تظل مقاطع ريلز الموجودة في موجزك أو التي يرسلها الآخرون إليك قابلة للفتح. أعد تشغيل Instagram لرؤية التغيير.
 Show the Reels tab	إظهار علامة تبويب ريلز
-Puts Reels back on the tab bar if Instagram left it off yours. Hide the Reels tab wins if both are on. Restart Instagram to see the change.	Puts Reels back on the tab bar if Instagram left it off yours. Hide the Reels tab wins if both are on. Restart Instagram to see the change.
+Puts Reels back on the tab bar if Instagram left it off yours. Hide the Reels tab wins if both are on. Restart Instagram to see the change.	يعيد علامة تبويب ريلز إلى شريط التنقل إذا كان Instagram قد أزالها. إذا فُعّل هذا الخيار وخيار إخفاء علامة تبويب ريلز معاً، فستكون الأولوية للإخفاء. أعد تشغيل Instagram لرؤية التغيير.
 Show the Messages tab	إظهار علامة تبويب الرسائل
-Puts Messages on the tab bar, before Profile, if Instagram left it off yours. Tab order can move it. Restart Instagram to see the change.	Puts Messages on the tab bar, before Profile, if Instagram left it off yours. Tab order can move it. Restart Instagram to see the change.
+Puts Messages on the tab bar, before Profile, if Instagram left it off yours. Tab order can move it. Restart Instagram to see the change.	يضيف علامة تبويب الرسائل إلى شريط التنقل قبل الملف الشخصي إذا لم تكن موجودة. قد يؤدي تغيير ترتيب علامات التبويب إلى نقلها. أعد تشغيل Instagram لرؤية التغيير.
 Hide the Messages tab	إخفاء علامة تبويب الرسائل
-Takes the Messages button off the tab bar. A Messages button on Home's header still opens your chats, and so do notifications.	Takes the Messages button off the tab bar. A Messages button on Home's header still opens your chats, and so do notifications.
+Takes the Messages button off the tab bar. A Messages button on Home's header still opens your chats, and so do notifications.	يزيل زر الرسائل من شريط التنقل. يظل زر الرسائل في رأس الصفحة الرئيسية قادراً على فتح محادثاتك، وكذلك الإشعارات.
 Show the Activity tab	إظهار علامة تبويب النشاط
-Puts Activity, the screen the heart opens, on the tab bar before Profile. Tab order can move it, and Hide notifications on Home's header takes the heart away. Restart Instagram to see the change.	Puts Activity, the screen the heart opens, on the tab bar before Profile. Tab order can move it, and Hide notifications on Home's header takes the heart away. Restart Instagram to see the change.
+Puts Activity, the screen the heart opens, on the tab bar before Profile. Tab order can move it, and Hide notifications on Home's header takes the heart away. Restart Instagram to see the change.	يضيف علامة تبويب النشاط، وهي الشاشة التي يفتحها رمز القلب، إلى شريط التنقل قبل الملف الشخصي. قد يؤدي تغيير ترتيب علامات التبويب إلى نقلها، كما أن إخفاء الإشعارات من رأس الصفحة الرئيسية يزيل رمز القلب. أعد تشغيل Instagram لرؤية التغيير.
 Keep the reel speed	الاحتفاظ بسرعة تشغيل ريلز
-Keep a seek bar	Keep a seek bar
-Instagram's seek bar stays under every reel, short ones too, with the time played and the reel's length above it. Ads keep Instagram's own rules.	Instagram's seek bar stays under every reel, short ones too, with the time played and the reel's length above it. Ads keep Instagram's own rules.
-Keep auto scroll on	Keep auto scroll on
-Once you turn on Instagram's auto scroll in Reels, it stays on after a restart or after you leave Reels, until you turn it off.	Once you turn on Instagram's auto scroll in Reels, it stays on after a restart or after you leave Reels, until you turn it off.
+Keep a seek bar	إبقاء شريط التقدم
+Instagram's seek bar stays under every reel, short ones too, with the time played and the reel's length above it. Ads keep Instagram's own rules.	يُبقي Instagram شريط التقدم أسفل كل مقطع ريلز، بما في ذلك المقاطع القصيرة، مع عرض وقت التشغيل ومدة المقطع أعلاه. وتظل الإعلانات خاضعة لقواعد Instagram.
+Keep auto scroll on	إبقاء التمرير التلقائي مفعّلاً
+Once you turn on Instagram's auto scroll in Reels, it stays on after a restart or after you leave Reels, until you turn it off.	بعد تفعيل التمرير التلقائي في مقاطع ريلز، سيظل مفعّلاً حتى بعد إعادة التشغيل أو مغادرة ريلز، إلى أن تقوم بإيقافه.
 Move on when a reel ends	الانتقال إلى المقطع التالي عند انتهاء ريلز
-When a reel ends, Reels moves on to the next one instead of playing it again. It uses Instagram's own auto scroll, even on accounts where Instagram doesn't offer it. While it's on, Instagram's own Auto scroll switch can't turn it off. Restart Instagram to see the change.	When a reel ends, Reels moves on to the next one instead of playing it again. It uses Instagram's own auto scroll, even on accounts where Instagram doesn't offer it. While it's on, Instagram's own Auto scroll switch can't turn it off. Restart Instagram to see the change.
+When a reel ends, Reels moves on to the next one instead of playing it again. It uses Instagram's own auto scroll, even on accounts where Instagram doesn't offer it. While it's on, Instagram's own Auto scroll switch can't turn it off. Restart Instagram to see the change.	عند انتهاء مقطع ريلز، ينتقل التطبيق إلى المقطع التالي بدلاً من إعادة تشغيله. يستخدم هذا الخيار ميزة التمرير التلقائي الأصلية في Instagram، حتى للحسابات التي لا تتوفر فيها الميزة. أثناء تفعيله، لن يتمكن مفتاح التمرير التلقائي في Instagram من إيقافها. أعد تشغيل Instagram لرؤية التغيير.
 Stop Reels scrolling	إيقاف التمرير التلقائي لمقاطع ريلز
-Still scroll reels from a profile	Still scroll reels from a profile
-With Stop Reels scrolling on, reels you open from a profile still move on when you swipe.	With Stop Reels scrolling on, reels you open from a profile still move on when you swipe.
-Still scroll reels from Search and Explore	Still scroll reels from Search and Explore
-With Stop Reels scrolling on, reels you open from Search, Explore, a hashtag or a place still move on when you swipe.	With Stop Reels scrolling on, reels you open from Search, Explore, a hashtag or a place still move on when you swipe.
-Still scroll reels from a song page	Still scroll reels from a song page
-With Stop Reels scrolling on, reels you open from a song or audio page still move on when you swipe.	With Stop Reels scrolling on, reels you open from a song or audio page still move on when you swipe.
-Play only the reel you opened	Play only the reel you opened
-A reel you open from a post on Home, a suggested reels row or a message plays on its own. Swiping, pulling down and auto scroll won't move on to another reel, so it plays again when it ends. The Reels tab scrolls as usual. With Swipe through a chat's reels on, a chat's reels still swipe.	A reel you open from a post on Home, a suggested reels row or a message plays on its own. Swiping, pulling down and auto scroll won't move on to another reel, so it plays again when it ends. The Reels tab scrolls as usual. With Swipe through a chat's reels on, a chat's reels still swipe.
-A swipe in Reels no longer moves on to the next reel, and pulling down doesn't load new ones. The reel you opened still plays. Restart Instagram to see the change.	A swipe in Reels no longer moves on to the next reel, and pulling down doesn't load new ones. The reel you opened still plays. Restart Instagram to see the change.
-Lock a reel at 2x (hold its edge, then slide down) and the next reels play at 2x too. Slide the lock off, or hold the edge and let go, to go back to normal speed.	Lock a reel at 2x (hold its edge, then slide down) and the next reels play at 2x too. Slide the lock off, or hold the edge and let go, to go back to normal speed.
+Still scroll reels from a profile	السماح بتمرير مقاطع ريلز من الملف الشخصي
+With Stop Reels scrolling on, reels you open from a profile still move on when you swipe.	عند تفعيل إيقاف التمرير في ريلز، تظل المقاطع التي تفتحها من ملف شخصي تنتقل إلى التالية عند السحب.
+Still scroll reels from Search and Explore	السماح بتمرير مقاطع ريلز من البحث والاستكشاف
+With Stop Reels scrolling on, reels you open from Search, Explore, a hashtag or a place still move on when you swipe.	عند تفعيل إيقاف التمرير في ريلز، تظل المقاطع التي تفتحها من البحث أو الاستكشاف أو وسم أو موقع تنتقل إلى التالية عند السحب.
+Still scroll reels from a song page	السماح بتمرير مقاطع ريلز من صفحة أغنية
+With Stop Reels scrolling on, reels you open from a song or audio page still move on when you swipe.	عند تفعيل إيقاف التمرير في ريلز، تظل المقاطع التي تفتحها من صفحة أغنية أو صوت تنتقل إلى التالية عند السحب.
+Play only the reel you opened	تشغيل مقطع ريلز الذي فتحته فقط
+A reel you open from a post on Home, a suggested reels row or a message plays on its own. Swiping, pulling down and auto scroll won't move on to another reel, so it plays again when it ends. The Reels tab scrolls as usual. With Swipe through a chat's reels on, a chat's reels still swipe.	يعمل مقطع ريلز الذي تفتحه من منشور في الصفحة الرئيسية أو من صف المقاطع المقترحة أو من رسالة بشكل مستقل. لن يؤدي السحب أو التمرير لأسفل أو التمرير التلقائي إلى الانتقال لمقطع آخر، لذلك سيُعاد تشغيله عند انتهائه. تظل علامة تبويب ريلز تعمل كالمعتاد. وإذا فعّلت خيار التنقل بين مقاطع ريلز في المحادثة، فستظل مقاطع المحادثة قابلة للسحب.
+A swipe in Reels no longer moves on to the next reel, and pulling down doesn't load new ones. The reel you opened still plays. Restart Instagram to see the change.	لن يؤدي السحب في ريلز إلى الانتقال للمقطع التالي، كما لن يؤدي السحب لأسفل إلى تحميل مقاطع جديدة. سيظل المقطع الذي فتحته قيد التشغيل. أعد تشغيل Instagram لرؤية التغيير.
+Lock a reel at 2x (hold its edge, then slide down) and the next reels play at 2x too. Slide the lock off, or hold the edge and let go, to go back to normal speed.	عند تثبيت سرعة مقطع ريلز على 2x (اضغط مطولاً على حافته ثم اسحب لأسفل)، ستعمل المقاطع التالية بالسرعة نفسها. أزل التثبيت بالسحب، أو اضغط مطولاً على الحافة ثم ارفع إصبعك، للعودة إلى السرعة العادية.
 Open links in external browser	فتح الروابط في متصفح خارجي
-Web links you tap open in your usual browser, without Instagram's click tracker. Ads and Meta's own sites (Instagram, Facebook, Messenger, Threads) still open in the app.	Web links you tap open in your usual browser, without Instagram's click tracker. Ads and Meta's own sites (Instagram, Facebook, Messenger, Threads) still open in the app.
+Web links you tap open in your usual browser, without Instagram's click tracker. Ads and Meta's own sites (Instagram, Facebook, Messenger, Threads) still open in the app.	تُفتح روابط الويب التي تضغط عليها في متصفحك المعتاد دون أداة تتبع النقرات في Instagram. وتظل الإعلانات ومواقع Meta نفسها (Instagram وFacebook وMessenger وThreads) تُفتح داخل التطبيق.
 Feed	الخلاصة
 Hide suggested accounts	إخفاء الحسابات المقترحة
 Hide paid partnership Reels	إخفاء مقاطع ريلز الخاصة بالشراكات المدفوعة
-Hides the rows of accounts, shops and hashtags Instagram suggests you follow.	Hides the rows of accounts, shops and hashtags Instagram suggests you follow.
+Hides the rows of accounts, shops and hashtags Instagram suggests you follow.	يخفي صفوف الحسابات والمتاجر والوسوم التي يقترح Instagram عليك متابعتها.
 Hide suggested posts	إخفاء المنشورات المقترحة
-Hides posts and reels from accounts you don't follow, marked Suggested for you. Posts from accounts you follow stay.	Hides posts and reels from accounts you don't follow, marked Suggested for you. Posts from accounts you follow stay.
+Hides posts and reels from accounts you don't follow, marked Suggested for you. Posts from accounts you follow stay.	يخفي المنشورات ومقاطع ريلز من الحسابات التي لا تتابعها والموسومة بعبارة «مقترح لك». وتظل منشورات الحسابات التي تتابعها ظاهرة.
 Hide Threads posts	إخفاء منشورات Threads
-Hides the posts, accounts and communities from Threads that Instagram mixes into your feed.	Hides the posts, accounts and communities from Threads that Instagram mixes into your feed.
-Stop swipe to create	Stop swipe to create
+Hides the posts, accounts and communities from Threads that Instagram mixes into your feed.	يخفي المنشورات والحسابات والمجتمعات من Threads التي يضيفها Instagram إلى موجزك.
+Stop swipe to create	منع السحب لفتح الكاميرا
 Full resolution photos	الصور بأعلى دقة
-Loads photos in your feed, carousels and opened posts at the largest size Instagram offers. This can use more data.	Loads photos in your feed, carousels and opened posts at the largest size Instagram offers. This can use more data.
-A sideways swipe on Home no longer opens the camera. The + button and every other way into the camera still work.	A sideways swipe on Home no longer opens the camera. The + button and every other way into the camera still work.
+Loads photos in your feed, carousels and opened posts at the largest size Instagram offers. This can use more data.	يحمّل الصور في موجزك والمنشورات المتعددة والمنشورات المفتوحة بأكبر حجم يوفّره Instagram. قد يستهلك ذلك مزيداً من البيانات.
+A sideways swipe on Home no longer opens the camera. The + button and every other way into the camera still work.	لن يؤدي السحب جانبياً في الصفحة الرئيسية إلى فتح الكاميرا. يظل زر + وجميع الطرق الأخرى لفتح الكاميرا تعمل كالمعتاد.
 Swipe left for Messages	اسحب لليسار لفتح الرسائل
-Swiping left on Home opens Messages, like Instagram used to. Carousels and the stories row still slide as before.	Swiping left on Home opens Messages, like Instagram used to. Carousels and the stories row still slide as before.
+Swiping left on Home opens Messages, like Instagram used to. Carousels and the stories row still slide as before.	يؤدي السحب إلى اليسار في الصفحة الرئيسية إلى فتح الرسائل، كما كان الحال سابقاً في Instagram. وتظل المنشورات المتعددة وصف القصص قابلين للسحب كالمعتاد.
 Meta AI	Meta AI
-Hide Meta AI in search and Home's bar	Hide Meta AI in search and Home's bar
-Gives Search and your messages a plain search bar and removes Meta AI's buttons, follow-up bar and inbox row. Restart Instagram to see the change.	Gives Search and your messages a plain search bar and removes Meta AI's buttons, follow-up bar and inbox row. Restart Instagram to see the change.
+Hide Meta AI in search and Home's bar	إخفاء Meta AI من البحث وشريط الصفحة الرئيسية
+Gives Search and your messages a plain search bar and removes Meta AI's buttons, follow-up bar and inbox row. Restart Instagram to see the change.	يعرض شريط بحث بسيطاً في البحث والرسائل، ويزيل أزرار Meta AI وشريط المتابعة وصف صندوق الوارد الخاص به. أعد تشغيل Instagram لرؤية التغيير.
 Hide Meta AI posts	إخفاء منشورات Meta AI
-Hides Meta AI's videos, chats and pictures of you that Instagram puts in your home feed.	Hides Meta AI's videos, chats and pictures of you that Instagram puts in your home feed.
-Hide About this reel	Hide About this reel
-Removes the summary, Sources and Ask Meta AI box from a reel's more menu. In your feed the audio row goes too. Other options stay.	Removes the summary, Sources and Ask Meta AI box from a reel's more menu. In your feed the audio row goes too. Other options stay.
-Hide Ask Meta AI in About this reel	Hide Ask Meta AI in About this reel
-About this reel keeps its summary and Sources, and only the Ask Meta AI box under them goes.	About this reel keeps its summary and Sources, and only the Ask Meta AI box under them goes.
-Hide Meta AI in the share sheet	Hide Meta AI in the share sheet
-Removes Meta AI from the row at the bottom of the share sheet. Some accounts see it as Muse.	Removes Meta AI from the row at the bottom of the share sheet. Some accounts see it as Muse.
-Hide the Muse card	Hide the Muse card
-Removes the Meet Muse card, with its Try Muse button, from Home and your profile. Your other cards stay.	Removes the Meet Muse card, with its Try Muse button, from Home and your profile. Your other cards stay.
-Hide the Muse button on your profile	Hide the Muse button on your profile
-Removes the Muse button from the top bar of your profile. Your username and the menu stay.	Removes the Muse button from the top bar of your profile. Your username and the menu stay.
-Hide Blend on reels	Hide Blend on reels
-Removes the Blend invite button from reels. Everything else on a reel stays.	Removes the Blend invite button from reels. Everything else on a reel stays.
+Hides Meta AI's videos, chats and pictures of you that Instagram puts in your home feed.	يخفي فيديوهات Meta AI ومحادثاته وصورك التي يضعها Instagram في موجز الصفحة الرئيسية.
+Hide About this reel	إخفاء «حول مقطع ريلز هذا»
+Removes the summary, Sources and Ask Meta AI box from a reel's more menu. In your feed the audio row goes too. Other options stay.	يزيل الملخص والمصادر ومربع «اسأل Meta AI» من قائمة المزيد في مقطع ريلز. وفي الموجز، يزيل أيضاً صف الصوت. وتظل الخيارات الأخرى متاحة.
+Hide Ask Meta AI in About this reel	إخفاء «اسأل Meta AI» ضمن «حول مقطع ريلز هذا»
+About this reel keeps its summary and Sources, and only the Ask Meta AI box under them goes.	يُبقي قسم «حول مقطع ريلز هذا» على الملخص والمصادر، ويزيل فقط مربع «اسأل Meta AI» الموجود أسفلهما.
+Hide Meta AI in the share sheet	إخفاء Meta AI من قائمة المشاركة
+Removes Meta AI from the row at the bottom of the share sheet. Some accounts see it as Muse.	يزيل Meta AI من الصف الموجود أسفل قائمة المشاركة. وقد يظهر باسم Muse لدى بعض الحسابات.
+Hide the Muse card	إخفاء بطاقة Muse
+Removes the Meet Muse card, with its Try Muse button, from Home and your profile. Your other cards stay.	يزيل بطاقة «تعرّف على Muse» وزر «جرّب Muse» من الصفحة الرئيسية وملفك الشخصي. وتظل البطاقات الأخرى ظاهرة.
+Hide the Muse button on your profile	إخفاء زر Muse في ملفك الشخصي
+Removes the Muse button from the top bar of your profile. Your username and the menu stay.	يزيل زر Muse من الشريط العلوي لملفك الشخصي. ويظل اسم المستخدم والقائمة ظاهرين.
+Hide Blend on reels	إخفاء Blend في مقاطع ريلز
+Removes the Blend invite button from reels. Everything else on a reel stays.	يزيل زر الدعوة إلى Blend من مقاطع ريلز. وتظل جميع عناصر المقطع الأخرى كما هي.
 Explore	استكشاف
-Hide the Explore grid	Hide the Explore grid
-Hides the grid of posts and reels under the Search tab's bar. Search, recent searches and results stay.	Hides the grid of posts and reels under the Search tab's bar. Search, recent searches and results stay.
-Hide suggested accounts in search	Hide suggested accounts in search
-Leaves the Suggested for you accounts out of what shows when you tap the search bar. Recent searches stay.	Leaves the Suggested for you accounts out of what shows when you tap the search bar. Recent searches stay.
-Hide You may also like in search	Hide You may also like in search
-Leaves out the You may also like posts Instagram adds below your search results. The results you searched for stay.	Leaves out the You may also like posts Instagram adds below your search results. The results you searched for stay.
+Hide the Explore grid	إخفاء شبكة الاستكشاف
+Hides the grid of posts and reels under the Search tab's bar. Search, recent searches and results stay.	يخفي شبكة المنشورات ومقاطع ريلز أسفل شريط علامة تبويب البحث. ويظل البحث وعمليات البحث الأخيرة والنتائج متاحة.
+Hide suggested accounts in search	إخفاء الحسابات المقترحة في البحث
+Leaves the Suggested for you accounts out of what shows when you tap the search bar. Recent searches stay.	يمنع ظهور الحسابات المقترحة لك عند الضغط على شريط البحث. وتظل عمليات البحث الأخيرة ظاهرة.
+Hide You may also like in search	إخفاء قسم «قد يعجبك أيضاً» في البحث
+Leaves out the You may also like posts Instagram adds below your search results. The results you searched for stay.	يخفي المنشورات التي يضيفها Instagram ضمن قسم «قد يعجبك أيضاً» أسفل نتائج البحث. وتظل نتائج البحث التي طلبتها ظاهرة.
 Messages	الرسائل
 Hide the notes row	إخفاء صف الملاحظات
-Takes the row of notes off the top of your messages, the Map bubble in it too. Your chats, search and requests stay.	Takes the row of notes off the top of your messages, the Map bubble in it too. Your chats, search and requests stay.
+Takes the row of notes off the top of your messages, the Map bubble in it too. Your chats, search and requests stay.	يزيل صف الملاحظات من أعلى الرسائل، بما في ذلك فقاعة الخريطة الموجودة فيه. وتظل محادثاتك والبحث وطلبات المراسلة متاحة.
 Hide the search bar in Messages	إخفاء شريط البحث في الرسائل
-Takes the search bar and its Filter button off the top of your messages, the Meta AI bar too. Your chats, notes and requests stay.	Takes the search bar and its Filter button off the top of your messages, the Meta AI bar too. Your chats, notes and requests stay.
+Takes the search bar and its Filter button off the top of your messages, the Meta AI bar too. Your chats, notes and requests stay.	يزيل شريط البحث وزر التصفية من أعلى الرسائل، وكذلك شريط Meta AI. وتظل محادثاتك وملاحظاتك وطلبات المراسلة متاحة.
 Hide Instants	إخفاء الصور الفورية
-Removes the stack of Instants (quick photos from friends) from your messages. Restart Instagram to see the change.	Removes the stack of Instants (quick photos from friends) from your messages. Restart Instagram to see the change.
+Removes the stack of Instants (quick photos from friends) from your messages. Restart Instagram to see the change.	يزيل مجموعة Instants (الصور السريعة من الأصدقاء) من الرسائل. أعد تشغيل Instagram لرؤية التغيير.
 Read messages without the seen receipt	قراءة الرسائل دون إظهار علامة المشاهدة
-Opening a chat doesn't tell people you've seen their messages, and you still see when they've seen yours. To let one chat know, long press it in your messages and tap Mark as read.	Opening a chat doesn't tell people you've seen their messages, and you still see when they've seen yours. To let one chat know, long press it in your messages and tap Mark as read.
-Keep chats unread here	Keep chats unread here
-A chat you open stays unread in your messages on this phone until you long press it and tap Mark as read. A newer message in it stays unread too. Turned off, a chat you open stays read on this phone until a newer message comes in, even after your messages refresh.	A chat you open stays unread in your messages on this phone until you long press it and tap Mark as read. A newer message in it stays unread too. Turned off, a chat you open stays read on this phone until a newer message comes in, even after your messages refresh.
-Marked as read	Marked as read
-Couldn't mark as read	Couldn't mark as read
+Opening a chat doesn't tell people you've seen their messages, and you still see when they've seen yours. To let one chat know, long press it in your messages and tap Mark as read.	لن يؤدي فتح محادثة إلى إخبار الطرف الآخر بأنك شاهدت رسائله، وستظل قادراً على معرفة ما إذا كان قد شاهد رسائلك. لإبلاغ محادثة واحدة بأنك قرأت رسائلها، اضغط مطولاً على المحادثة في الرسائل ثم اختر «وضع علامة مقروء».
+Keep chats unread here	إبقاء المحادثات غير مقروءة هنا
+A chat you open stays unread in your messages on this phone until you long press it and tap Mark as read. A newer message in it stays unread too. Turned off, a chat you open stays read on this phone until a newer message comes in, even after your messages refresh.	تظل المحادثة التي تفتحها غير مقروءة في رسائلك على هذا الهاتف حتى تضغط عليها مطولاً وتختار «وضع علامة مقروء». وتظل الرسائل الأحدث فيها غير مقروءة أيضاً. عند تعطيل الخيار، تُسجّل المحادثة التي تفتحها كمقروءة على هذا الهاتف حتى تصل رسالة جديدة، حتى بعد تحديث الرسائل.
+Marked as read	تم وضع علامة مقروء
+Couldn't mark as read	تعذّر وضع علامة مقروء
 Hide that you're typing	إخفاء مؤشر الكتابة
-People you're chatting with don't see the typing dots while you write, and you still see theirs.	People you're chatting with don't see the typing dots while you write, and you still see theirs.
+People you're chatting with don't see the typing dots while you write, and you still see theirs.	لن يرى الأشخاص الذين تتحدث معهم مؤشر الكتابة أثناء كتابتك، بينما ستظل ترى مؤشر الكتابة لديهم.
 Hide your active status	إخفاء حالة نشاطك
-People don't see Active now for you while you use Instagram, and you still see when they're active. It takes effect the next time you come back to Instagram.	People don't see Active now for you while you use Instagram, and you still see when they're active. It takes effect the next time you come back to Instagram.
-Start Home on Following	Start Home on Following
-Opens Home on posts from accounts you follow instead of For you. Tap the top of Home to switch. Restart Instagram to see the change.	Opens Home on posts from accounts you follow instead of For you. Tap the top of Home to switch. Restart Instagram to see the change.
+People don't see Active now for you while you use Instagram, and you still see when they're active. It takes effect the next time you come back to Instagram.	لن يرى الآخرون حالة «نشط الآن» الخاصة بك أثناء استخدام Instagram، وستظل ترى حالة نشاطهم. يبدأ تطبيق التغيير عند عودتك إلى Instagram في المرة التالية.
+Start Home on Following	فتح الصفحة الرئيسية على «المتابَعون»
+Opens Home on posts from accounts you follow instead of For you. Tap the top of Home to switch. Restart Instagram to see the change.	يفتح الصفحة الرئيسية على منشورات الحسابات التي تتابعها بدلاً من «لك». اضغط أعلى الصفحة الرئيسية للتبديل. أعد تشغيل Instagram لرؤية التغيير.
 Hide suggested stories	إخفاء القصص المقترحة
-Hides stories from accounts you don't follow, and accounts Instagram suggests, in the row at the top of Home. Stories from accounts you follow stay.	Hides stories from accounts you don't follow, and accounts Instagram suggests, in the row at the top of Home. Stories from accounts you follow stay.
+Hides stories from accounts you don't follow, and accounts Instagram suggests, in the row at the top of Home. Stories from accounts you follow stay.	يخفي في الصف أعلى الصفحة الرئيسية قصص الحسابات التي لا تتابعها والحسابات التي يقترحها Instagram. وتظل قصص الحسابات التي تتابعها ظاهرة.
 Hide the Stories tray	إخفاء شريط القصص
-Takes the whole row of stories off the top of Home, Your story included. Stories still open from a profile or a message.	Takes the whole row of stories off the top of Home, Your story included. Stories still open from a profile or a message.
+Takes the whole row of stories off the top of Home, Your story included. Stories still open from a profile or a message.	يزيل صف القصص بالكامل من أعلى الصفحة الرئيسية، بما في ذلك قصتك. وتظل القصص قابلة للفتح من الملف الشخصي أو الرسائل.
 Keep the Stories tray in the feed	إبقاء شريط القصص ضمن الموجز
-Stops Instagram from floating the row of stories over Home when you come back to it mid-feed or scroll up fast. The row stays at the top of the feed and scrolls away with it.	Stops Instagram from floating the row of stories over Home when you come back to it mid-feed or scroll up fast. The row stays at the top of the feed and scrolls away with it.
+Stops Instagram from floating the row of stories over Home when you come back to it mid-feed or scroll up fast. The row stays at the top of the feed and scrolls away with it.	يمنع Instagram من جعل صف القصص عائماً فوق الصفحة الرئيسية عند العودة إليها من منتصف الموجز أو عند التمرير سريعاً إلى الأعلى. يبقى الصف في أعلى الموجز ويتحرك معه أثناء التمرير.
 Hide the Music for you card	إخفاء بطاقة موسيقى مقترحة لك
-Keeps Instagram's Music for you card from turning up between the stories you watch. The stories themselves stay.	Keeps Instagram's Music for you card from turning up between the stories you watch. The stories themselves stay.
+Keeps Instagram's Music for you card from turning up between the stories you watch. The stories themselves stay.	يمنع ظهور بطاقة «موسيقى مقترحة لك» من Instagram بين القصص التي تشاهدها. وتظل القصص نفسها ظاهرة.
 Hide Suggested for you between stories	إخفاء اقتراحات الحسابات بين القصص
-Leaves out the Suggested for you cards of accounts to follow that Instagram puts between the stories you tap through. The stories themselves stay.	Leaves out the Suggested for you cards of accounts to follow that Instagram puts between the stories you tap through. The stories themselves stay.
+Leaves out the Suggested for you cards of accounts to follow that Instagram puts between the stories you tap through. The stories themselves stay.	يخفي بطاقات الحسابات المقترحة للمتابعة التي يضعها Instagram بين القصص التي تتنقل بينها. وتظل القصص نفسها ظاهرة.
 Hide Add Yours cards between stories	إخفاء بطاقات أضف قصتك بين القصص
-Leaves out the Add Yours cards, like Popular Add Yours and Join a trending Add Yours, that Instagram puts between the stories you tap through. The stories themselves stay.	Leaves out the Add Yours cards, like Popular Add Yours and Join a trending Add Yours, that Instagram puts between the stories you tap through. The stories themselves stay.
+Leaves out the Add Yours cards, like Popular Add Yours and Join a trending Add Yours, that Instagram puts between the stories you tap through. The stories themselves stay.	يخفي بطاقات «أضف قصتك»، مثل «أضف قصتك الشائعة» و«انضم إلى أضف قصتك الرائج»، التي يضعها Instagram بين القصص التي تتنقل بينها. وتظل القصص نفسها ظاهرة.
 Download feed photos	تنزيل صور الموجز
-The same Download on a photo post, and on a carousel showing a photo. Saves the largest size Instagram has.	The same Download on a photo post, and on a carousel showing a photo. Saves the largest size Instagram has.
+The same Download on a photo post, and on a carousel showing a photo. Saves the largest size Instagram has.	يضيف خيار التنزيل نفسه إلى المنشورات التي تحتوي على صورة وإلى المنشورات المتعددة التي تعرض صورة. ويحفظ أكبر حجم متاح لدى Instagram.
 Save photos at full size	حفظ الصور بالحجم الكامل
-Download feed photos saves a photo at the size it was posted, not the 1080 pixel copy Instagram shows. Grid pictures load larger too, which uses more data. Restart Instagram to see the change.	Download feed photos saves a photo at the size it was posted, not the 1080 pixel copy Instagram shows. Grid pictures load larger too, which uses more data. Restart Instagram to see the change.
-the start-up fix for x86 devices	the start-up fix for x86 devices
-Pure black dark mode	Pure black dark mode
-Instagram's dark mode uses pure black instead of its near-black gray, and so do the menus that slide up from the bottom. Buttons keep their own grays.	Instagram's dark mode uses pure black instead of its near-black gray, and so do the menus that slide up from the bottom. Buttons keep their own grays.
-Pure black dark mode isn't in this build	Pure black dark mode isn't in this build
-To make dark mode pure black instead of dark gray, which can save battery on an OLED screen, pick Pure black dark mode in Morphe Manager the next time you patch Instagram.	To make dark mode pure black instead of dark gray, which can save battery on an OLED screen, pick Pure black dark mode in Morphe Manager the next time you patch Instagram.
-the pure black dark mode	the pure black dark mode
-No Play Store updates	No Play Store updates
-Google Play won't offer Meta's updates over this build. To go back to the normal Instagram, uninstall this one first, which deletes Instagram's data on this phone. Later HushGram builds need Change version code too, or they won't install over this one.	Google Play won't offer Meta's updates over this build. To go back to the normal Instagram, uninstall this one first, which deletes Instagram's data on this phone. Later HushGram builds need Change version code too, or they won't install over this one.
-the raised version code	the raised version code
+Download feed photos saves a photo at the size it was posted, not the 1080 pixel copy Instagram shows. Grid pictures load larger too, which uses more data. Restart Instagram to see the change.	يحفظ خيار تنزيل صور الموجز الصورة بالحجم الذي نُشرت به، بدلاً من نسخة 1080 بكسل التي يعرضها Instagram. كما تُحمّل صور الشبكة بحجم أكبر، مما يستهلك بيانات أكثر. أعد تشغيل Instagram لرؤية التغيير.
+the start-up fix for x86 devices	إصلاح بدء التشغيل لأجهزة x86
+Pure black dark mode	الوضع الداكن باللون الأسود الخالص
+Instagram's dark mode uses pure black instead of its near-black gray, and so do the menus that slide up from the bottom. Buttons keep their own grays.	يستخدم الوضع الداكن في Instagram اللون الأسود الخالص بدلاً من الرمادي الداكن القريب من الأسود، وينطبق ذلك أيضاً على القوائم التي تنزلق من أسفل الشاشة. وتحتفظ الأزرار بدرجات الرمادي الخاصة بها.
+Pure black dark mode isn't in this build	الوضع الداكن بالأسود الخالص غير متاح في هذا الإصدار
+To make dark mode pure black instead of dark gray, which can save battery on an OLED screen, pick Pure black dark mode in Morphe Manager the next time you patch Instagram.	لجعل الوضع الداكن أسود خالصاً بدلاً من الرمادي الداكن، مما قد يوفر البطارية على شاشات OLED، اختر «الوضع الداكن بالأسود الخالص» في Morphe Manager عند إنشاء رقعة Instagram التالية.
+the pure black dark mode	الوضع الداكن بالأسود الخالص
+No Play Store updates	منع تحديثات متجر Play
+Google Play won't offer Meta's updates over this build. To go back to the normal Instagram, uninstall this one first, which deletes Instagram's data on this phone. Later HushGram builds need Change version code too, or they won't install over this one.	لن يعرض Google Play تحديثات Meta لهذا الإصدار. للعودة إلى Instagram العادي، أزل تثبيت هذا الإصدار أولاً، وسيؤدي ذلك إلى حذف بيانات Instagram على هذا الهاتف. كما ستحتاج إصدارات HushGram اللاحقة إلى تفعيل خيار تغيير رمز الإصدار حتى يمكن تثبيتها فوق هذا الإصدار.
+the raised version code	رمز الإصدار الذي تمت زيادته
 Sharing	المشاركة
 Hide group buttons	إخفاء أزرار المجموعات
-Leaves New group out of the share sheet, and the button that sends to the people you picked as a group. Send separately stays, and you can still start a group from your messages.	Leaves New group out of the share sheet, and the button that sends to the people you picked as a group. Send separately stays, and you can still start a group from your messages.
+Leaves New group out of the share sheet, and the button that sends to the people you picked as a group. Send separately stays, and you can still start a group from your messages.	يخفي خيار «مجموعة جديدة» من قائمة المشاركة، وكذلك الزر الذي يرسل إلى الأشخاص الذين اخترتهم كمجموعة. يظل خيار الإرسال بشكل منفصل متاحاً، ويمكنك إنشاء مجموعة من الرسائل كالمعتاد.
 Hide the search bar	إخفاء شريط البحث
-Takes the search bar off the top of the share sheet. The people you can send to still show.	Takes the search bar off the top of the share sheet. The people you can send to still show.
-Story ring size	Story ring size
+Takes the search bar off the top of the share sheet. The people you can send to still show.	يزيل شريط البحث من أعلى قائمة المشاركة. وتظل أسماء الأشخاص الذين يمكنك الإرسال إليهم ظاهرة.
+Story ring size	حجم إطار القصة
 Hide rings outside the stories row	إخفاء حلقات القصص خارج صف القصص
-Takes the story and live rings off profile pictures on posts, comments, reels and profiles. The pictures stay, and so do the rings in the stories row.	Takes the story and live rings off profile pictures on posts, comments, reels and profiles. The pictures stay, and so do the rings in the stories row.
-Draws the rings in the stories row at the top of Home at the size below, and the rings of stories you haven't watched in the color below. Story rings take the thickness below. Restart Instagram to see a change.	Draws the rings in the stories row at the top of Home at the size below, and the rings of stories you haven't watched in the color below. Story rings take the thickness below. Restart Instagram to see a change.
-Ring size	Ring size
-Instagram's size	Instagram's size
-The rings are the size Instagram picks for your screen.	The rings are the size Instagram picks for your screen.
-The rings are %1$s of the size Instagram picks for your screen.	The rings are %1$s of the size Instagram picks for your screen.
-Ring color	Ring color
-Instagram's colors	Instagram's colors
-Blue	Blue
-Gold	Gold
+Takes the story and live rings off profile pictures on posts, comments, reels and profiles. The pictures stay, and so do the rings in the stories row.	يزيل إطارات القصص والبث المباشر من الصور الشخصية في المنشورات والتعليقات ومقاطع ريلز والملفات الشخصية. وتظل الصور ظاهرة، وكذلك الإطارات في صف القصص.
+Draws the rings in the stories row at the top of Home at the size below, and the rings of stories you haven't watched in the color below. Story rings take the thickness below. Restart Instagram to see a change.	يعرض إطارات القصص في الصف أعلى الصفحة الرئيسية بالحجم المحدد أدناه، ويعرض إطارات القصص التي لم تشاهدها باللون المحدد أدناه. ويستخدم الإطارات السماكة المحددة أدناه. أعد تشغيل Instagram لرؤية التغيير.
+Ring size	حجم الإطار
+Instagram's size	الحجم الافتراضي في Instagram
+The rings are the size Instagram picks for your screen.	تكون الإطارات بالحجم الذي يحدده Instagram لشاشتك.
+The rings are %1$s of the size Instagram picks for your screen.	يكون حجم الإطارات %1$s من الحجم الذي يحدده Instagram لشاشتك.
+Ring color	لون الإطار
+Instagram's colors	ألوان Instagram
+Blue	أزرق
+Gold	ذهبي
 Hide the Repost button	إخفاء زر إعادة النشر
-Takes Repost and its count off posts and reels, so nothing gets reposted to your followers by mistake. Share still sends a post or reel to someone.	Takes Repost and its count off posts and reels, so nothing gets reposted to your followers by mistake. Share still sends a post or reel to someone.
-Layout	Layout
-Remove the empty space at the bottom	Remove the empty space at the bottom
-Removes the empty gap under Instagram's tab bar that appears when your phone hides its navigation bar or Instagram is in a pop-up window. Restart Instagram to see the change.	Removes the empty gap under Instagram's tab bar that appears when your phone hides its navigation bar or Instagram is in a pop-up window. Restart Instagram to see the change.
-Only accounts you follow	Only accounts you follow
-Removes For you from the choices at the top of Home, so it stays on Following or Favorites. Needs Start Home on Following. Restart Instagram to see the change.	Removes For you from the choices at the top of Home, so it stays on Following or Favorites. Needs Start Home on Following. Restart Instagram to see the change.
-Instagram logo on Home	Instagram logo on Home
-Keeps Instagram's logo at the top of Home in place of the feed's name. Tap it to switch feeds. Restart Instagram to see the change.	Keeps Instagram's logo at the top of Home in place of the feed's name. Tap it to switch feeds. Restart Instagram to see the change.
+Takes Repost and its count off posts and reels, so nothing gets reposted to your followers by mistake. Share still sends a post or reel to someone.	يزيل زر إعادة النشر وعدّاده من المنشورات ومقاطع ريلز، حتى لا يُعاد نشر أي محتوى لمتابعيك عن طريق الخطأ. يظل خيار المشاركة متاحاً لإرسال المنشور أو المقطع إلى شخص آخر.
+Layout	التخطيط
+Remove the empty space at the bottom	إزالة المساحة الفارغة في الأسفل
+Removes the empty gap under Instagram's tab bar that appears when your phone hides its navigation bar or Instagram is in a pop-up window. Restart Instagram to see the change.	يزيل الفراغ الموجود أسفل شريط علامات التبويب في Instagram، والذي يظهر عندما يخفي هاتفك شريط التنقل أو عند تشغيل Instagram في نافذة منبثقة. أعد تشغيل Instagram لرؤية التغيير.
+Only accounts you follow	الحسابات التي تتابعها فقط
+Removes For you from the choices at the top of Home, so it stays on Following or Favorites. Needs Start Home on Following. Restart Instagram to see the change.	يزيل خيار «لك» من الخيارات أعلى الصفحة الرئيسية، لتبقى على «المتابَعون» أو «المفضلة». يتطلب تفعيل خيار فتح الصفحة الرئيسية على «المتابَعون». أعد تشغيل Instagram لرؤية التغيير.
+Instagram logo on Home	شعار Instagram في الصفحة الرئيسية
+Keeps Instagram's logo at the top of Home in place of the feed's name. Tap it to switch feeds. Restart Instagram to see the change.	يُبقي شعار Instagram أعلى الصفحة الرئيسية بدلاً من اسم الموجز. اضغط عليه للتبديل بين الموجزات. أعد تشغيل Instagram لرؤية التغيير.
 Profiles	الملفات الشخصية
 Show if a profile follows you	إظهار ما إذا كان الحساب يتابعك
-Adds Follows you or Doesn't follow you beside the name on someone's profile, after their pronouns if they've set any. Nothing shows until Instagram has checked.	Adds Follows you or Doesn't follow you beside the name on someone's profile, after their pronouns if they've set any. Nothing shows until Instagram has checked.
-Mark who doesn't follow you back	Mark who doesn't follow you back
-On your own Following list, adds Doesn't follow you before the name of each account that doesn't follow you back. Nothing shows until Instagram has checked.	On your own Following list, adds Doesn't follow you before the name of each account that doesn't follow you back. Nothing shows until Instagram has checked.
-Put accounts that don't follow you back first	Put accounts that don't follow you back first
-On your own Following list, moves the accounts that don't follow you back to the top and keeps Instagram's order within each group. Accounts Instagram hasn't checked yet stay below.	On your own Following list, moves the accounts that don't follow you back to the top and keeps Instagram's order within each group. Accounts Instagram hasn't checked yet stay below.
-Follows you	Follows you
-Doesn't follow you	Doesn't follow you
-Hide suggested people	Hide suggested people
-Takes Suggested for you and the Discover people button off profiles, yours included. Bios, counts, posts and follower lists stay.	Takes Suggested for you and the Discover people button off profiles, yours included. Bios, counts, posts and follower lists stay.
-Hide Suggested for you on follow lists	Hide Suggested for you on follow lists
-Leaves the Suggested for you section off the followers, following and mutual lists and the screen where you approve follow requests, and the Suggested tab off other people's follow lists. Every account in the lists and every real request stays.	Leaves the Suggested for you section off the followers, following and mutual lists and the screen where you approve follow requests, and the Suggested tab off other people's follow lists. Every account in the lists and every real request stays.
-Hide Complete your profile	Hide Complete your profile
-Takes the Complete your profile cards, like Add bio and Find people to follow, off your own profile. Your bio, counts and posts stay.	Takes the Complete your profile cards, like Add bio and Find people to follow, off your own profile. Your bio, counts and posts stay.
-Hide People you don't follow back	Hide People you don't follow back
-Takes the People you don't follow back section off the bottom of your notifications. Notifications about new followers stay.	Takes the People you don't follow back section off the bottom of your notifications. Notifications about new followers stay.
-Hide suggestions in notifications	Hide suggestions in notifications
-Takes rows that only suggest something off your notifications, like a thread from an account you don't follow or someone you might know. Likes, comments, mentions and new followers stay.	Takes rows that only suggest something off your notifications, like a thread from an account you don't follow or someone you might know. Likes, comments, mentions and new followers stay.
-Hide channel invites in notifications	Hide channel invites in notifications
-Takes invites to join someone's channel off your notifications. Everything else stays.	Takes invites to join someone's channel off your notifications. Everything else stays.
-Hide Featured in notifications	Hide Featured in notifications
-Takes the Featured section off the top of your notifications, the posts and threads Instagram picks to show you there. Everything under it stays.	Takes the Featured section off the top of your notifications, the posts and threads Instagram picks to show you there. Everything under it stays.
-Keep Featured off the heart's dot	Keep Featured off the heart's dot
-Stops the red dot on the heart from showing up for Featured alone. Likes, comments and new followers still light it.	Stops the red dot on the heart from showing up for Featured alone. Likes, comments and new followers still light it.
-Hide highlights	Hide highlights
-Takes the row of story highlights off profiles, yours included. Bios, counts and posts stay, and so does Add to highlight on your stories.	Takes the row of story highlights off profiles, yours included. Bios, counts and posts stay, and so does Add to highlight on your stories.
-Hide the Threads button	Hide the Threads button
-Takes the Threads button off the top of profiles, yours included. The menu and the other buttons stay where they were.	Takes the Threads button off the top of profiles, yours included. The menu and the other buttons stay where they were.
-Show profile posts as a list	Show profile posts as a list
-Opening someone's profile takes you on to their posts as a scrolling list of full posts. Go Back for the grid. Your own profile keeps its grid.	Opening someone's profile takes you on to their posts as a scrolling list of full posts. Go Back for the grid. Your own profile keeps its grid.
-Jump a profile's posts to a date	Jump a profile's posts to a date
-Puts a calendar on a profile's top bar. Pick a day and the posts grid goes back to that day. Pull down for the newest again.	Puts a calendar on a profile's top bar. Pick a day and the posts grid goes back to that day. Pull down for the newest again.
-Open the profile's posts first	Open the profile's posts first
-Still loading, try again	Still loading, try again
-Going to that date	Going to that date
-Sort reels on profiles	Sort reels on profiles
-Puts the arrow next to Reels on every profile, so you can sort them by Latest or Most viewed where Instagram took the choice away.	Puts the arrow next to Reels on every profile, so you can sort them by Latest or Most viewed where Instagram took the choice away.
-The cards of people and creators to follow that Instagram puts between reels. Every reel still plays.	The cards of people and creators to follow that Instagram puts between reels. Every reel still plays.
-Hide stories in Reels	Hide stories in Reels
-The Catch up with friends pages of stories that Instagram puts between reels. Stories stay at the top of Home.	The Catch up with friends pages of stories that Instagram puts between reels. Stories stay at the top of Home.
-Leaves out reels with a Paid partnership label, and reels Instagram marks as boosted. Ads have their own switch.	Leaves out reels with a Paid partnership label, and reels Instagram marks as boosted. Ads have their own switch.
+Adds Follows you or Doesn't follow you beside the name on someone's profile, after their pronouns if they've set any. Nothing shows until Instagram has checked.	يضيف عبارة «يتابعك» أو «لا يتابعك» بجانب الاسم في الملف الشخصي، بعد ضمائر الشخص إن كان قد حددها. لن يظهر شيء حتى ينتهي Instagram من التحقق.
+Mark who doesn't follow you back	تحديد الحسابات التي لا تتابعك بالمقابل
+On your own Following list, adds Doesn't follow you before the name of each account that doesn't follow you back. Nothing shows until Instagram has checked.	في قائمة الحسابات التي تتابعها، يضيف عبارة «لا يتابعك» قبل اسم كل حساب لا يتابعك بالمقابل. لن يظهر شيء حتى ينتهي Instagram من التحقق.
+Put accounts that don't follow you back first	عرض الحسابات التي لا تتابعك بالمقابل أولاً
+On your own Following list, moves the accounts that don't follow you back to the top and keeps Instagram's order within each group. Accounts Instagram hasn't checked yet stay below.	ينقل الحسابات التي لا تتابعك بالمقابل إلى أعلى قائمة الحسابات التي تتابعها، مع الحفاظ على ترتيب Instagram داخل كل مجموعة. وتبقى الحسابات التي لم يتحقق Instagram منها بعد في الأسفل.
+Follows you	يتابعك
+Doesn't follow you	لا يتابعك
+Hide suggested people	إخفاء الأشخاص المقترحين
+Takes Suggested for you and the Discover people button off profiles, yours included. Bios, counts, posts and follower lists stay.	يزيل قسم «مقترح لك» وزر «اكتشف أشخاصاً» من الملفات الشخصية، بما في ذلك ملفك. وتظل النبذات والأعداد والمنشورات وقوائم المتابعين ظاهرة.
+Hide Suggested for you on follow lists	إخفاء «مقترح لك» في قوائم المتابعة
+Leaves the Suggested for you section off the followers, following and mutual lists and the screen where you approve follow requests, and the Suggested tab off other people's follow lists. Every account in the lists and every real request stays.	يخفي قسم «مقترح لك» من قوائم المتابعين والحسابات التي تتابعها والمتابعين المشتركين، ومن شاشة الموافقة على طلبات المتابعة، كما يخفي علامة تبويب المقترحات من قوائم متابعة الآخرين. وتظل جميع الحسابات والطلبات الفعلية ظاهرة.
+Hide Complete your profile	إخفاء «أكمل ملفك الشخصي»
+Takes the Complete your profile cards, like Add bio and Find people to follow, off your own profile. Your bio, counts and posts stay.	يزيل بطاقات «أكمل ملفك الشخصي»، مثل «إضافة نبذة» و«العثور على أشخاص لمتابعتهم»، من ملفك الشخصي. وتظل نبذتك وأعدادك ومنشوراتك ظاهرة.
+Hide People you don't follow back	إخفاء «أشخاص لا تتابعهم بالمقابل»
+Takes the People you don't follow back section off the bottom of your notifications. Notifications about new followers stay.	يزيل قسم «أشخاص لا تتابعهم بالمقابل» من أسفل الإشعارات. وتظل إشعارات المتابعين الجدد ظاهرة.
+Hide suggestions in notifications	إخفاء الاقتراحات في الإشعارات
+Takes rows that only suggest something off your notifications, like a thread from an account you don't follow or someone you might know. Likes, comments, mentions and new followers stay.	يزيل من الإشعارات الصفوف التي تعرض اقتراحات فقط، مثل منشور من حساب لا تتابعه أو أشخاص قد تعرفهم. وتظل الإعجابات والتعليقات والإشارات والمتابعون الجدد ظاهرة.
+Hide channel invites in notifications	إخفاء دعوات القنوات في الإشعارات
+Takes invites to join someone's channel off your notifications. Everything else stays.	يزيل دعوات الانضمام إلى قنوات الآخرين من إشعاراتك. وتظل جميع الإشعارات الأخرى ظاهرة.
+Hide Featured in notifications	إخفاء قسم «مميز» في الإشعارات
+Takes the Featured section off the top of your notifications, the posts and threads Instagram picks to show you there. Everything under it stays.	يزيل قسم «مميز» من أعلى الإشعارات، وهو المنشورات وسلاسل النقاش التي يختار Instagram عرضها هناك. ويظل كل ما تحته ظاهراً.
+Keep Featured off the heart's dot	عدم إظهار النقطة على رمز القلب بسبب «مميز»
+Stops the red dot on the heart from showing up for Featured alone. Likes, comments and new followers still light it.	يمنع ظهور النقطة الحمراء على رمز القلب بسبب قسم «مميز» وحده. وتظل الإعجابات والتعليقات والمتابعون الجدد يتسببون في ظهورها.
+Hide highlights	إخفاء القصص المميزة
+Takes the row of story highlights off profiles, yours included. Bios, counts and posts stay, and so does Add to highlight on your stories.	يزيل صف القصص المميزة من الملفات الشخصية، بما في ذلك ملفك. وتظل النبذات والأعداد والمنشورات ظاهرة، كما يظل خيار إضافة قصة إلى المميزة متاحاً.
+Hide the Threads button	إخفاء زر Threads
+Takes the Threads button off the top of profiles, yours included. The menu and the other buttons stay where they were.	يزيل زر Threads من أعلى الملفات الشخصية، بما في ذلك ملفك. وتظل القائمة والأزرار الأخرى في أماكنها.
+Show profile posts as a list	عرض منشورات الملف الشخصي كقائمة
+Opening someone's profile takes you on to their posts as a scrolling list of full posts. Go Back for the grid. Your own profile keeps its grid.	عند فتح الملف الشخصي لشخص ما، تظهر منشوراته في قائمة قابلة للتمرير تعرض المنشورات كاملة. استخدم زر الرجوع للعودة إلى الشبكة. ويظل ملفك الشخصي يعرض الشبكة المعتادة.
+Jump a profile's posts to a date	الانتقال بمنشورات الملف الشخصي إلى تاريخ محدد
+Puts a calendar on a profile's top bar. Pick a day and the posts grid goes back to that day. Pull down for the newest again.	يضيف تقويماً إلى الشريط العلوي للملف الشخصي. اختر يوماً للانتقال بشبكة المنشورات إلى ذلك التاريخ. اسحب لأسفل للعودة إلى أحدث المنشورات.
+Open the profile's posts first	فتح منشورات الملف الشخصي أولاً
+Still loading, try again	لا يزال التحميل جارياً، حاول مرة أخرى
+Going to that date	الانتقال إلى ذلك التاريخ
+Sort reels on profiles	ترتيب مقاطع ريلز في الملفات الشخصية
+Puts the arrow next to Reels on every profile, so you can sort them by Latest or Most viewed where Instagram took the choice away.	يضيف سهماً بجانب علامة ريلز في كل ملف شخصي، لتتمكن من ترتيب المقاطع حسب الأحدث أو الأكثر مشاهدة في المواضع التي أزال فيها Instagram هذا الخيار.
+The cards of people and creators to follow that Instagram puts between reels. Every reel still plays.	بطاقات الأشخاص وصنّاع المحتوى الذين يقترح Instagram متابعتهم بين مقاطع ريلز. وتظل جميع المقاطع تعمل.
+Hide stories in Reels	إخفاء القصص داخل ريلز
+The Catch up with friends pages of stories that Instagram puts between reels. Stories stay at the top of Home.	صفحات القصص «تابع أخبار أصدقائك» التي يضعها Instagram بين مقاطع ريلز. وتظل القصص في أعلى الصفحة الرئيسية.
+Leaves out reels with a Paid partnership label, and reels Instagram marks as boosted. Ads have their own switch.	يخفي مقاطع ريلز التي تحمل علامة «شراكة مدفوعة» والمقاطع التي يحددها Instagram على أنها مروّجة. وللإعلانات مفتاح تحكم مستقل.
 Turn on Start Home on Following to use this choice.	Turn on Start Home on Following to use this choice.
 Turn on %1$s to use this slider.	Turn on %1$s to use this slider.
 Turn on Story ring size to use this choice.	Turn on Story ring size to use this choice.
