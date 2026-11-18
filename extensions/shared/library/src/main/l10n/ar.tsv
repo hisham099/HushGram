@@ -30,8 +30,8 @@ Debug logging	Debug logging
 Diagnostic data cleared. Tap again to put it back.	Diagnostic data cleared. Tap again to put it back.
 Diagnostic data put back.	Diagnostic data put back.
 Diagnostic report copied to the clipboard.	Diagnostic report copied to the clipboard.
-Download failed	Download failed
-Downloading	Downloading
+Download failed	فشل التنزيل
+Downloading	جارٍ التنزيل
 Empties the activity log and any kept crash that a diagnostic report would include.	Empties the activity log and any kept crash that a diagnostic report would include.
 Every switch but Debug logging acts as if it were off, and what was set when you patched stays in. Your settings stay as they are.	Every switch but Debug logging acts as if it were off, and what was set when you patched stays in. Your settings stay as they are.
 Export a chat as text	Export a chat as text
@@ -73,7 +73,7 @@ These settings are locked. Ask to unlock first.	These settings are locked. Ask t
 Full report saved to %1$s	Full report saved to %1$s
 GPL-3.0, with the notices of the projects this is built on	GPL-3.0, with the notices of the projects this is built on
 Gray out stories you've watched	Gray out stories you've watched
-Hide ads	Hide ads
+Hide ads	إخفاء الإعلانات
 How far a photo or video you're saving has got, with a button to cancel it	How far a photo or video you're saving has got, with a button to cancel it
 HushGram %1$s on Instagram %2$s	HushGram %1$s on Instagram %2$s
 HushGram is on	HushGram is on
@@ -95,32 +95,32 @@ No app can open this link.	No app can open this link.
 No app can open the bug report.	No app can open the bug report.
 Not saved: that isn't an Instagram photo or video	Not saved: that isn't an Instagram photo or video
 Not saved: the file is over 512 MB	Not saved: the file is over 512 MB
-OK	OK
+OK	موافق
 Pause HushGram	إيقاف HushGram مؤقتاً
 Pause and diagnostics	Pause and diagnostics
 Instagram accepts this build	Instagram accepts this build
 Record patch activity and show errors for a bug report. Leave off during normal use.	Record patch activity and show errors for a bug report. Leave off during normal use.
 Remove build expired popup	Remove build expired popup
-Retry	Retry
-Sanitize sharing links	Sanitize sharing links
-Save canceled	Save canceled
+Retry	إعادة المحاولة
+Sanitize sharing links	تنظيف روابط المشاركة
+Save canceled	تم إلغاء الحفظ
 Save full report	Save full report
 Save the full report in %1$s.	Save the full report in %1$s.
-Saved to %1$s	Saved to %1$s
+Saved to %1$s	تم الحفظ في %1$s
 Saved to %1$s in lower quality than on Instagram	Saved to %1$s in lower quality than on Instagram
-Saved to the gallery	Saved to the gallery
+Saved to the gallery	تم الحفظ في المعرض
 Saved to the gallery in lower quality than on Instagram	Saved to the gallery in lower quality than on Instagram
 Saved. Restart Instagram to apply this change.	Saved. Restart Instagram to apply this change.
-Saving a photo	Saving a photo
-Saving a video	Saving a video
-Saving...	Saving...
+Saving a photo	جارٍ حفظ الصورة
+Saving a video	جارٍ حفظ الفيديو
+Saving...	جارٍ الحفظ...
 Saving... You can cancel from Downloads in HushGram settings.	Saving... You can cancel from Downloads in HushGram settings.
 Set when you patched	Set when you patched
 Settings couldn't open	Settings couldn't open
 Settings couldn't refresh completely. Reopen settings and try again.	Settings couldn't refresh completely. Reopen settings and try again.
 Source code and issues	Source code and issues
-Hides sponsored posts, reels, stories and the ad in comments. No empty gap is left where an ad would have been.	Hides sponsored posts, reels, stories and the ad in comments. No empty gap is left where an ad would have been.
-Hide Instagram Plus prompts	Hide Instagram Plus prompts
+Hides sponsored posts, reels, stories and the ad in comments. No empty gap is left where an ad would have been.	يخفي المنشورات ومقاطع ريلز والقصص الدعائية، وكذلك الإعلانات في التعليقات، دون ترك فراغ في موضع الإعلان.
+Hide Instagram Plus prompts	إخفاء عروض Instagram Plus
 Takes Instagram's offers to try Plus out of chats, stories and menus. Nothing that comes with Plus is turned on.	Takes Instagram's offers to try Plus out of chats, stories and menus. Nothing that comes with Plus is turned on.
 Stays in while paused	Stays in while paused
 Removes tracking tags from links you copy or share, and opens bio links without Instagram's click tracker. The link still opens the same post, reel or profile.	Removes tracking tags from links you copy or share, and opens bio links without Instagram's click tracker. The link still opens the same post, reel or profile.
@@ -134,27 +134,27 @@ Couldn't finish that change. Showing what's saved.	Couldn't finish that change. 
 There's no diagnostic data to clear.	There's no diagnostic data to clear.
 There's no diagnostic data to put back.	There's no diagnostic data to put back.
 Try again, or go back to Instagram.	Try again, or go back to Instagram.
-Updates	Updates
-Version	Version
+Updates	التحديثات
+Version	الإصدار
 Version %1$s for Instagram %2$s	Version %1$s for Instagram %2$s
 While you view anonymously, a story you've watched turns gray and moves to the end of the row, on this phone only. Instagram still isn't told you watched it.	While you view anonymously, a story you've watched turns gray and moves to the end of the row, on this phone only. Instagram still isn't told you watched it.
 Writes the account that posted, the post date and a link to the post into a saved photo or video, in the EXIF or MP4 tags a gallery or exiftool reads. JPEG photos and MP4 videos only, and only what the save knows. The picture and the sound are unchanged.	Writes the account that posted, the post date and a link to the post into a saved photo or video, in the EXIF or MP4 tags a gallery or exiftool reads. JPEG photos and MP4 videos only, and only what the save knows. The picture and the sound are unchanged.
 You	You
 You paused HushGram.	You paused HushGram.
 the re-signed build fix	the re-signed build fix
-Don't send reel watch history	Don't send reel watch history
+Don't send reel watch history	عدم إرسال سجل مشاهدة مقاطع ريلز
 Stops telling Instagram which reels you watched or how far you got. Instagram uses that to pick your Reels. Watched reels may come back.	Stops telling Instagram which reels you watched or how far you got. Instagram uses that to pick your Reels. Watched reels may come back.
 Reels	ريلز
-Stop Story auto-advance	Stop Story auto-advance
+Stop Story auto-advance	إيقاف الانتقال التلقائي بين القصص
 A finished story stays on screen until you tap or swipe. Turn this off for Instagram's timing.	A finished story stays on screen until you tap or swipe. Turn this off for Instagram's timing.
-Loop a story	Loop a story
+Loop a story	تكرار القصة
 A story plays again from the start when it ends, until you tap or swipe to move on. Ads still move on. With Stop Story auto-advance on too, stories loop.	A story plays again from the start when it ends, until you tap or swipe to move on. Ads still move on. With Stop Story auto-advance on too, stories loop.
-Show a story's exact time	Show a story's exact time
+Show a story's exact time	إظهار التوقيت الدقيق للقصة
 A story's header shows its time the way the choice below says, instead of how long ago. It follows your phone's language and 12 or 24-hour setting.	A story's header shows its time the way the choice below says, instead of how long ago. It follows your phone's language and 12 or 24-hour setting.
-How the time shows	How the time shows
-Date and time	Date and time
-Time left	Time left
-Time posted	Time posted
+How the time shows	طريقة عرض الوقت
+Date and time	التاريخ والوقت
+Time left	الوقت المتبقي
+Time posted	وقت النشر
 The date and time the story was posted, like Oct 2, 3:45 PM.	The date and time the story was posted, like Oct 2, 3:45 PM.
 How long until the story expires, like 18h 14m left. Older stories show the date and time.	How long until the story expires, like 18h 14m left. Older stories show the date and time.
 Only the time the story was posted, like 3:45 PM. Stories posted before today show the date and time.	Only the time the story was posted, like 3:45 PM. Stories posted before today show the date and time.
@@ -163,29 +163,29 @@ Turn on Show a story's exact time to use this choice.	Turn on Show a story's exa
 %1$dm left	%1$dm left
 1m left	1m left
 Stories	القصص
-Hide Reels in the feed	Hide Reels in the feed
+Hide Reels in the feed	إخفاء مقاطع ريلز من الموجز
 The rows of suggested reels between posts in your home feed. A reel someone you follow posts stays.	The rows of suggested reels between posts in your home feed. A reel someone you follow posts stays.
-Hide the Follow button	Hide the Follow button
+Hide the Follow button	إخفاء زر المتابعة
 The Follow and Subscribe buttons beside a reel's author. Their profile still has them.	The Follow and Subscribe buttons beside a reel's author. Their profile still has them.
-Hide promotion buttons on reels	Hide promotion buttons on reels
-Hide suggested searches on reels	Hide suggested searches on reels
+Hide promotion buttons on reels	إخفاء أزرار الترويج في مقاطع ريلز
+Hide suggested searches on reels	إخفاء عمليات البحث المقترحة في مقاطع ريلز
 The search terms Instagram suggests near a reel's author.	The search terms Instagram suggests near a reel's author.
-Hide shopping buttons on reels	Hide shopping buttons on reels
+Hide shopping buttons on reels	إخفاء أزرار التسوق في مقاطع ريلز
 The product tag and shopping buttons near a reel's author.	The product tag and shopping buttons near a reel's author.
-Hide poll prompts on reels	Hide poll prompts on reels
+Hide poll prompts on reels	إخفاء استطلاعات الرأي في مقاطع ريلز
 The poll and vote prompts near a reel's author.	The poll and vote prompts near a reel's author.
 Hides the buttons that push Edits, templates, Meta AI and Ray-Ban Meta glasses. Live badges and state-controlled media labels stay.	Hides the buttons that push Edits, templates, Meta AI and Ray-Ban Meta glasses. Live badges and state-controlled media labels stay.
-Hide friends' activity and comment previews	Hide friends' activity and comment previews
+Hide friends' activity and comment previews	إخفاء نشاط الأصدقاء ومعاينات التعليقات
 The bubbles of friends who liked or commented, the Followed by and Liked by lines with their faces, the comment shown under a reel and the row of friends who saw it. Comments are still a tap away.	The bubbles of friends who liked or commented, the Followed by and Liked by lines with their faces, the comment shown under a reel and the row of friends who saw it. Comments are still a tap away.
 Downloads	التنزيلات
-Save videos other apps can open	Save videos other apps can open
+Save videos other apps can open	حفظ الفيديوهات بصيغة تدعمها التطبيقات الأخرى
 For WhatsApp, video editors such as CapCut and InShot, or a gallery or player that plays saves without sound. May lower quality.	For WhatsApp, video editors such as CapCut and InShot, or a gallery or player that plays saves without sound. May lower quality.
 Convert to keep the full size	Convert to keep the full size
 For phones that play AV1 badly. A video Instagram has at full size only as AV1 is saved as VP9 when it has one, or at its largest H.264 size. Convert to keep the full size then converts only VP9.	For phones that play AV1 badly. A video Instagram has at full size only as AV1 is saved as VP9 when it has one, or at its largest H.264 size. Convert to keep the full size then converts only VP9.
-Never save AV1 video	Never save AV1 video
-Never save HDR video	Never save HDR video
+Never save AV1 video	عدم حفظ فيديوهات AV1 مطلقاً
+Never save HDR video	عدم حفظ فيديوهات HDR مطلقاً
 For apps that show HDR with a yellow or green cast, such as Messenger. A video Instagram has at full size only in HDR is saved at its largest standard size instead.	For apps that show HDR with a yellow or green cast, such as Messenger. A video Instagram has at full size only in HDR is saved at its largest standard size instead.
-Save videos as MKV	Save videos as MKV
+Save videos as MKV	حفظ الفيديوهات بصيغة MKV
 Saves videos as .mkv files instead of .mp4, for galleries that show no thumbnail for VP9 or AV1 videos. Nothing is re-encoded. A video Instagram sends as one file stays .mp4.	Saves videos as .mkv files instead of .mp4, for galleries that show no thumbnail for VP9 or AV1 videos. Nothing is re-encoded. A video Instagram sends as one file stays .mp4.
 Saves videos other apps can open, at full size. A video Instagram only has as VP9 or AV1 is converted to H.264 on your phone instead of saved smaller. Slower, and videos over 3 minutes or in HDR stay smaller.	Saves videos other apps can open, at full size. A video Instagram only has as VP9 or AV1 is converted to H.264 on your phone instead of saved smaller. Slower, and videos over 3 minutes or in HDR stay smaller.
 Converting to H.264	Converting to H.264
@@ -201,48 +201,48 @@ Use Choose a folder for a path or an SD card.	Use Choose a folder for a path or 
 Save	حفظ
 Folder name	Folder name
 Folder set to %1$s.	Folder set to %1$s.
-Download file name	Download file name
+Download file name	اسم ملف التنزيل
 %1$s becomes the date and time of the save, %2$s the video's number on Instagram, %3$s who posted it and %4$s the day it was posted. What a save doesn't know is left out, and a name with none of these gets the date added. When the name is already in the folder, the time of the save goes on the end. Invalid characters become underscores. Leave it blank to use the default, %5$s.	%1$s becomes the date and time of the save, %2$s the video's number on Instagram, %3$s who posted it and %4$s the day it was posted. What a save doesn't know is left out, and a name with none of these gets the date added. When the name is already in the folder, the time of the save goes on the end. Invalid characters become underscores. Leave it blank to use the default, %5$s.
 File name	File name
 File name set to %1$s.	File name set to %1$s.
-Videos go to %1$s and photos to %2$s.	Videos go to %1$s and photos to %2$s.
+Videos go to %1$s and photos to %2$s.	تُحفظ الفيديوهات في %1$s والصور في %2$s.
 Example file name	Example file name
-Cancel saving this video	Cancel saving this video
-Cancel saving this photo	Cancel saving this photo
-Download on reels	Download on reels
+Cancel saving this video	إلغاء حفظ هذا الفيديو
+Cancel saving this photo	إلغاء حفظ هذه الصورة
+Download on reels	إضافة خيار التنزيل إلى مقاطع ريلز
 Adds Download to every reel's more menu, saved at your download quality. Off or paused, Instagram's own menu returns.	Adds Download to every reel's more menu, saved at your download quality. Off or paused, Instagram's own menu returns.
 Videos are named %1$s. Photos are named %2$s followed by the date and time.	Videos are named %1$s. Photos are named %2$s followed by the date and time.
 With Name saves by account and post time on, only a save that doesn't know who posted or when is named this way.	With Name saves by account and post time on, only a save that doesn't know who posted or when is named this way.
-Download	Download
-Download as video	Download as video
-Download as photo	Download as photo
-Download on stories	Download on stories
+Download	تنزيل
+Download as video	تنزيل كفيديو
+Download as photo	تنزيل كصورة
+Download on stories	إضافة خيار التنزيل إلى القصص
 Adds Download to the menu of anyone's story, photo or video, saved at your download quality. Off or paused, Instagram's own menu returns.	Adds Download to the menu of anyone's story, photo or video, saved at your download quality. Off or paused, Instagram's own menu returns.
-Upload stories at full quality	Upload stories at full quality
+Upload stories at full quality	رفع القصص بأعلى جودة
 Video stories you post are sent at 1080p and a higher bitrate, as with Instagram's own Upload at highest quality setting on. Instagram still shrinks story videos to 720p on its servers, so the difference viewers see is small. Photo stories already go up larger than Instagram keeps.	Video stories you post are sent at 1080p and a higher bitrate, as with Instagram's own Upload at highest quality setting on. Instagram still shrinks story videos to 720p on its servers, so the difference viewers see is small. Photo stories already go up larger than Instagram keeps.
 Upload quality applies to	Upload quality applies to
-Stories only	Stories only
-Stories, posts and reels	Stories, posts and reels
-Video bitrate	Video bitrate
-Video resolution	Video resolution
-Video frame rate	Video frame rate
-Photo quality	Photo quality
-Photo size	Photo size
+Stories only	القصص فقط
+Stories, posts and reels	القصص والمنشورات ومقاطع ريلز
+Video bitrate	معدل بت الفيديو
+Video resolution	دقة الفيديو
+Video frame rate	معدل إطارات الفيديو
+Photo quality	جودة الصور
+Photo size	حجم الصورة
 %1$s Mbps	%1$s Mbps
-Download feed videos	Download feed videos
+Download feed videos	تنزيل فيديوهات الموجز
 Adds Download to the menu of a post in your feed with a video. Uses the quality below. Off or paused, Instagram's own menu returns.	Adds Download to the menu of a post in your feed with a video. Uses the quality below. Off or paused, Instagram's own menu returns.
 Playback	Playback
 Tap to play	Tap to play
 Videos wait for your tap where the choice below says. Feed videos show a play button, as they do when you use less mobile data.	Videos wait for your tap where the choice below says. Feed videos show a play button, as they do when you use less mobile data.
-Where videos wait	Where videos wait
+Where videos wait	متى تتوقف الفيديوهات
 Everywhere	Everywhere
-Everywhere but Reels	Everywhere but Reels
-Only in Reels	Only in Reels
+Everywhere but Reels	في كل مكان باستثناء ريلز
+Only in Reels	في مقاطع ريلز فقط
 Feed videos, reels and stories all wait for your tap.	Feed videos, reels and stories all wait for your tap.
 Feed videos and stories wait for your tap. Reels play as you swipe to them.	Feed videos and stories wait for your tap. Reels play as you swipe to them.
 Reels wait for your tap. Feed videos and stories play as Instagram plays them.	Reels wait for your tap. Feed videos and stories play as Instagram plays them.
 Turn on Tap to play to use this choice.	Turn on Tap to play to use this choice.
-Resume long videos	Resume long videos
+Resume long videos	استئناف الفيديوهات الطويلة
 Videos and reels over two minutes pick up where you left off. Seek to start elsewhere. Live videos and ads start as usual.	Videos and reels over two minutes pick up where you left off. Seek to start elsewhere. Live videos and ads start as usual.
 Default playback quality	Default playback quality
 Videos, reels and stories play at the quality below, starting with the next one you open. When your connection can't keep up, a video drops to the next lower quality.	Videos, reels and stories play at the quality below, starting with the next one you open. When your connection can't keep up, a video drops to the next lower quality.
@@ -255,7 +255,7 @@ Instagram picks the quality as each video plays, from your connection.	Instagram
 Videos play at the lowest quality Instagram offers for each.	Videos play at the lowest quality Instagram offers for each.
 Videos play at the best quality up to %1$s that Instagram offers for each, or the closest above.	Videos play at the best quality up to %1$s that Instagram offers for each, or the closest above.
 Videos play at the highest quality Instagram offers for each.	Videos play at the highest quality Instagram offers for each.
-View stories anonymously	View stories anonymously
+View stories anonymously	مشاهدة القصص دون إظهار هويتك
 Instagram isn't told which stories you watch, so you stay off their viewer lists. Replying or reacting still shows you, and stories you've watched keep showing as new.	Instagram isn't told which stories you watch, so you stay off their viewer lists. Replying or reacting still shows you, and stories you've watched keep showing as new.
 Advertising ID removed	Advertising ID removed
 Instagram can't read your phone's advertising ID or tell Android's ad services which ads you saw or tapped. The permissions for them are gone from this build.	Instagram can't read your phone's advertising ID or tell Android's ad services which ads you saw or tapped. The permissions for them are gone from this build.
@@ -264,26 +264,26 @@ Turn off double tap to like	Turn off double tap to like
 A double tap on a post or reel no longer likes it or shows a heart. A single tap and the Like button work as before.	A double tap on a post or reel no longer likes it or shows a heart. A single tap and the Like button work as before.
 On posts	On posts
 A double tap on a post doesn't like it. Turn this off to keep double tap to like on posts.	A double tap on a post doesn't like it. Turn this off to keep double tap to like on posts.
-On reels	On reels
+On reels	في مقاطع ريلز
 A double tap on a reel doesn't like it. Turn this off to keep double tap to like on reels.	A double tap on a reel doesn't like it. Turn this off to keep double tap to like on reels.
-Hide the Reels tab	Hide the Reels tab
+Hide the Reels tab	إخفاء علامة تبويب ريلز
 Takes Reels off the tab bar. Reels in your feed and reels people send you still open. Restart Instagram to see the change.	Takes Reels off the tab bar. Reels in your feed and reels people send you still open. Restart Instagram to see the change.
-Show the Reels tab	Show the Reels tab
+Show the Reels tab	إظهار علامة تبويب ريلز
 Puts Reels back on the tab bar if Instagram left it off yours. Hide the Reels tab wins if both are on. Restart Instagram to see the change.	Puts Reels back on the tab bar if Instagram left it off yours. Hide the Reels tab wins if both are on. Restart Instagram to see the change.
-Show the Messages tab	Show the Messages tab
+Show the Messages tab	إظهار علامة تبويب الرسائل
 Puts Messages on the tab bar, before Profile, if Instagram left it off yours. Tab order can move it. Restart Instagram to see the change.	Puts Messages on the tab bar, before Profile, if Instagram left it off yours. Tab order can move it. Restart Instagram to see the change.
-Hide the Messages tab	Hide the Messages tab
+Hide the Messages tab	إخفاء علامة تبويب الرسائل
 Takes the Messages button off the tab bar. A Messages button on Home's header still opens your chats, and so do notifications.	Takes the Messages button off the tab bar. A Messages button on Home's header still opens your chats, and so do notifications.
-Show the Activity tab	Show the Activity tab
+Show the Activity tab	إظهار علامة تبويب النشاط
 Puts Activity, the screen the heart opens, on the tab bar before Profile. Tab order can move it, and Hide notifications on Home's header takes the heart away. Restart Instagram to see the change.	Puts Activity, the screen the heart opens, on the tab bar before Profile. Tab order can move it, and Hide notifications on Home's header takes the heart away. Restart Instagram to see the change.
-Keep the reel speed	Keep the reel speed
+Keep the reel speed	الاحتفاظ بسرعة تشغيل ريلز
 Keep a seek bar	Keep a seek bar
 Instagram's seek bar stays under every reel, short ones too, with the time played and the reel's length above it. Ads keep Instagram's own rules.	Instagram's seek bar stays under every reel, short ones too, with the time played and the reel's length above it. Ads keep Instagram's own rules.
 Keep auto scroll on	Keep auto scroll on
 Once you turn on Instagram's auto scroll in Reels, it stays on after a restart or after you leave Reels, until you turn it off.	Once you turn on Instagram's auto scroll in Reels, it stays on after a restart or after you leave Reels, until you turn it off.
-Move on when a reel ends	Move on when a reel ends
+Move on when a reel ends	الانتقال إلى المقطع التالي عند انتهاء ريلز
 When a reel ends, Reels moves on to the next one instead of playing it again. It uses Instagram's own auto scroll, even on accounts where Instagram doesn't offer it. While it's on, Instagram's own Auto scroll switch can't turn it off. Restart Instagram to see the change.	When a reel ends, Reels moves on to the next one instead of playing it again. It uses Instagram's own auto scroll, even on accounts where Instagram doesn't offer it. While it's on, Instagram's own Auto scroll switch can't turn it off. Restart Instagram to see the change.
-Stop Reels scrolling	Stop Reels scrolling
+Stop Reels scrolling	إيقاف التمرير التلقائي لمقاطع ريلز
 Still scroll reels from a profile	Still scroll reels from a profile
 With Stop Reels scrolling on, reels you open from a profile still move on when you swipe.	With Stop Reels scrolling on, reels you open from a profile still move on when you swipe.
 Still scroll reels from Search and Explore	Still scroll reels from Search and Explore
@@ -294,26 +294,26 @@ Play only the reel you opened	Play only the reel you opened
 A reel you open from a post on Home, a suggested reels row or a message plays on its own. Swiping, pulling down and auto scroll won't move on to another reel, so it plays again when it ends. The Reels tab scrolls as usual. With Swipe through a chat's reels on, a chat's reels still swipe.	A reel you open from a post on Home, a suggested reels row or a message plays on its own. Swiping, pulling down and auto scroll won't move on to another reel, so it plays again when it ends. The Reels tab scrolls as usual. With Swipe through a chat's reels on, a chat's reels still swipe.
 A swipe in Reels no longer moves on to the next reel, and pulling down doesn't load new ones. The reel you opened still plays. Restart Instagram to see the change.	A swipe in Reels no longer moves on to the next reel, and pulling down doesn't load new ones. The reel you opened still plays. Restart Instagram to see the change.
 Lock a reel at 2x (hold its edge, then slide down) and the next reels play at 2x too. Slide the lock off, or hold the edge and let go, to go back to normal speed.	Lock a reel at 2x (hold its edge, then slide down) and the next reels play at 2x too. Slide the lock off, or hold the edge and let go, to go back to normal speed.
-Open links in external browser	Open links in external browser
+Open links in external browser	فتح الروابط في متصفح خارجي
 Web links you tap open in your usual browser, without Instagram's click tracker. Ads and Meta's own sites (Instagram, Facebook, Messenger, Threads) still open in the app.	Web links you tap open in your usual browser, without Instagram's click tracker. Ads and Meta's own sites (Instagram, Facebook, Messenger, Threads) still open in the app.
 Feed	الخلاصة
-Hide suggested accounts	Hide suggested accounts
-Hide paid partnership Reels	Hide paid partnership Reels
+Hide suggested accounts	إخفاء الحسابات المقترحة
+Hide paid partnership Reels	إخفاء مقاطع ريلز الخاصة بالشراكات المدفوعة
 Hides the rows of accounts, shops and hashtags Instagram suggests you follow.	Hides the rows of accounts, shops and hashtags Instagram suggests you follow.
-Hide suggested posts	Hide suggested posts
+Hide suggested posts	إخفاء المنشورات المقترحة
 Hides posts and reels from accounts you don't follow, marked Suggested for you. Posts from accounts you follow stay.	Hides posts and reels from accounts you don't follow, marked Suggested for you. Posts from accounts you follow stay.
-Hide Threads posts	Hide Threads posts
+Hide Threads posts	إخفاء منشورات Threads
 Hides the posts, accounts and communities from Threads that Instagram mixes into your feed.	Hides the posts, accounts and communities from Threads that Instagram mixes into your feed.
 Stop swipe to create	Stop swipe to create
-Full resolution photos	Full resolution photos
+Full resolution photos	الصور بأعلى دقة
 Loads photos in your feed, carousels and opened posts at the largest size Instagram offers. This can use more data.	Loads photos in your feed, carousels and opened posts at the largest size Instagram offers. This can use more data.
 A sideways swipe on Home no longer opens the camera. The + button and every other way into the camera still work.	A sideways swipe on Home no longer opens the camera. The + button and every other way into the camera still work.
-Swipe left for Messages	Swipe left for Messages
+Swipe left for Messages	اسحب لليسار لفتح الرسائل
 Swiping left on Home opens Messages, like Instagram used to. Carousels and the stories row still slide as before.	Swiping left on Home opens Messages, like Instagram used to. Carousels and the stories row still slide as before.
 Meta AI	Meta AI
 Hide Meta AI in search and Home's bar	Hide Meta AI in search and Home's bar
 Gives Search and your messages a plain search bar and removes Meta AI's buttons, follow-up bar and inbox row. Restart Instagram to see the change.	Gives Search and your messages a plain search bar and removes Meta AI's buttons, follow-up bar and inbox row. Restart Instagram to see the change.
-Hide Meta AI posts	Hide Meta AI posts
+Hide Meta AI posts	إخفاء منشورات Meta AI
 Hides Meta AI's videos, chats and pictures of you that Instagram puts in your home feed.	Hides Meta AI's videos, chats and pictures of you that Instagram puts in your home feed.
 Hide About this reel	Hide About this reel
 Removes the summary, Sources and Ask Meta AI box from a reel's more menu. In your feed the audio row goes too. Other options stay.	Removes the summary, Sources and Ask Meta AI box from a reel's more menu. In your feed the audio row goes too. Other options stay.
@@ -335,39 +335,39 @@ Leaves the Suggested for you accounts out of what shows when you tap the search 
 Hide You may also like in search	Hide You may also like in search
 Leaves out the You may also like posts Instagram adds below your search results. The results you searched for stay.	Leaves out the You may also like posts Instagram adds below your search results. The results you searched for stay.
 Messages	الرسائل
-Hide the notes row	Hide the notes row
+Hide the notes row	إخفاء صف الملاحظات
 Takes the row of notes off the top of your messages, the Map bubble in it too. Your chats, search and requests stay.	Takes the row of notes off the top of your messages, the Map bubble in it too. Your chats, search and requests stay.
-Hide the search bar in Messages	Hide the search bar in Messages
+Hide the search bar in Messages	إخفاء شريط البحث في الرسائل
 Takes the search bar and its Filter button off the top of your messages, the Meta AI bar too. Your chats, notes and requests stay.	Takes the search bar and its Filter button off the top of your messages, the Meta AI bar too. Your chats, notes and requests stay.
-Hide Instants	Hide Instants
+Hide Instants	إخفاء الصور الفورية
 Removes the stack of Instants (quick photos from friends) from your messages. Restart Instagram to see the change.	Removes the stack of Instants (quick photos from friends) from your messages. Restart Instagram to see the change.
-Read messages without the seen receipt	Read messages without the seen receipt
+Read messages without the seen receipt	قراءة الرسائل دون إظهار علامة المشاهدة
 Opening a chat doesn't tell people you've seen their messages, and you still see when they've seen yours. To let one chat know, long press it in your messages and tap Mark as read.	Opening a chat doesn't tell people you've seen their messages, and you still see when they've seen yours. To let one chat know, long press it in your messages and tap Mark as read.
 Keep chats unread here	Keep chats unread here
 A chat you open stays unread in your messages on this phone until you long press it and tap Mark as read. A newer message in it stays unread too. Turned off, a chat you open stays read on this phone until a newer message comes in, even after your messages refresh.	A chat you open stays unread in your messages on this phone until you long press it and tap Mark as read. A newer message in it stays unread too. Turned off, a chat you open stays read on this phone until a newer message comes in, even after your messages refresh.
 Marked as read	Marked as read
 Couldn't mark as read	Couldn't mark as read
-Hide that you're typing	Hide that you're typing
+Hide that you're typing	إخفاء مؤشر الكتابة
 People you're chatting with don't see the typing dots while you write, and you still see theirs.	People you're chatting with don't see the typing dots while you write, and you still see theirs.
-Hide your active status	Hide your active status
+Hide your active status	إخفاء حالة نشاطك
 People don't see Active now for you while you use Instagram, and you still see when they're active. It takes effect the next time you come back to Instagram.	People don't see Active now for you while you use Instagram, and you still see when they're active. It takes effect the next time you come back to Instagram.
 Start Home on Following	Start Home on Following
 Opens Home on posts from accounts you follow instead of For you. Tap the top of Home to switch. Restart Instagram to see the change.	Opens Home on posts from accounts you follow instead of For you. Tap the top of Home to switch. Restart Instagram to see the change.
-Hide suggested stories	Hide suggested stories
+Hide suggested stories	إخفاء القصص المقترحة
 Hides stories from accounts you don't follow, and accounts Instagram suggests, in the row at the top of Home. Stories from accounts you follow stay.	Hides stories from accounts you don't follow, and accounts Instagram suggests, in the row at the top of Home. Stories from accounts you follow stay.
-Hide the Stories tray	Hide the Stories tray
+Hide the Stories tray	إخفاء شريط القصص
 Takes the whole row of stories off the top of Home, Your story included. Stories still open from a profile or a message.	Takes the whole row of stories off the top of Home, Your story included. Stories still open from a profile or a message.
-Keep the Stories tray in the feed	Keep the Stories tray in the feed
+Keep the Stories tray in the feed	إبقاء شريط القصص ضمن الموجز
 Stops Instagram from floating the row of stories over Home when you come back to it mid-feed or scroll up fast. The row stays at the top of the feed and scrolls away with it.	Stops Instagram from floating the row of stories over Home when you come back to it mid-feed or scroll up fast. The row stays at the top of the feed and scrolls away with it.
-Hide the Music for you card	Hide the Music for you card
+Hide the Music for you card	إخفاء بطاقة موسيقى مقترحة لك
 Keeps Instagram's Music for you card from turning up between the stories you watch. The stories themselves stay.	Keeps Instagram's Music for you card from turning up between the stories you watch. The stories themselves stay.
-Hide Suggested for you between stories	Hide Suggested for you between stories
+Hide Suggested for you between stories	إخفاء اقتراحات الحسابات بين القصص
 Leaves out the Suggested for you cards of accounts to follow that Instagram puts between the stories you tap through. The stories themselves stay.	Leaves out the Suggested for you cards of accounts to follow that Instagram puts between the stories you tap through. The stories themselves stay.
-Hide Add Yours cards between stories	Hide Add Yours cards between stories
+Hide Add Yours cards between stories	إخفاء بطاقات أضف قصتك بين القصص
 Leaves out the Add Yours cards, like Popular Add Yours and Join a trending Add Yours, that Instagram puts between the stories you tap through. The stories themselves stay.	Leaves out the Add Yours cards, like Popular Add Yours and Join a trending Add Yours, that Instagram puts between the stories you tap through. The stories themselves stay.
-Download feed photos	Download feed photos
+Download feed photos	تنزيل صور الموجز
 The same Download on a photo post, and on a carousel showing a photo. Saves the largest size Instagram has.	The same Download on a photo post, and on a carousel showing a photo. Saves the largest size Instagram has.
-Save photos at full size	Save photos at full size
+Save photos at full size	حفظ الصور بالحجم الكامل
 Download feed photos saves a photo at the size it was posted, not the 1080 pixel copy Instagram shows. Grid pictures load larger too, which uses more data. Restart Instagram to see the change.	Download feed photos saves a photo at the size it was posted, not the 1080 pixel copy Instagram shows. Grid pictures load larger too, which uses more data. Restart Instagram to see the change.
 the start-up fix for x86 devices	the start-up fix for x86 devices
 Pure black dark mode	Pure black dark mode
@@ -379,12 +379,12 @@ No Play Store updates	No Play Store updates
 Google Play won't offer Meta's updates over this build. To go back to the normal Instagram, uninstall this one first, which deletes Instagram's data on this phone. Later HushGram builds need Change version code too, or they won't install over this one.	Google Play won't offer Meta's updates over this build. To go back to the normal Instagram, uninstall this one first, which deletes Instagram's data on this phone. Later HushGram builds need Change version code too, or they won't install over this one.
 the raised version code	the raised version code
 Sharing	المشاركة
-Hide group buttons	Hide group buttons
+Hide group buttons	إخفاء أزرار المجموعات
 Leaves New group out of the share sheet, and the button that sends to the people you picked as a group. Send separately stays, and you can still start a group from your messages.	Leaves New group out of the share sheet, and the button that sends to the people you picked as a group. Send separately stays, and you can still start a group from your messages.
-Hide the search bar	Hide the search bar
+Hide the search bar	إخفاء شريط البحث
 Takes the search bar off the top of the share sheet. The people you can send to still show.	Takes the search bar off the top of the share sheet. The people you can send to still show.
 Story ring size	Story ring size
-Hide rings outside the stories row	Hide rings outside the stories row
+Hide rings outside the stories row	إخفاء حلقات القصص خارج صف القصص
 Takes the story and live rings off profile pictures on posts, comments, reels and profiles. The pictures stay, and so do the rings in the stories row.	Takes the story and live rings off profile pictures on posts, comments, reels and profiles. The pictures stay, and so do the rings in the stories row.
 Draws the rings in the stories row at the top of Home at the size below, and the rings of stories you haven't watched in the color below. Story rings take the thickness below. Restart Instagram to see a change.	Draws the rings in the stories row at the top of Home at the size below, and the rings of stories you haven't watched in the color below. Story rings take the thickness below. Restart Instagram to see a change.
 Ring size	Ring size
@@ -395,7 +395,7 @@ Ring color	Ring color
 Instagram's colors	Instagram's colors
 Blue	Blue
 Gold	Gold
-Hide the Repost button	Hide the Repost button
+Hide the Repost button	إخفاء زر إعادة النشر
 Takes Repost and its count off posts and reels, so nothing gets reposted to your followers by mistake. Share still sends a post or reel to someone.	Takes Repost and its count off posts and reels, so nothing gets reposted to your followers by mistake. Share still sends a post or reel to someone.
 Layout	Layout
 Remove the empty space at the bottom	Remove the empty space at the bottom
@@ -405,7 +405,7 @@ Removes For you from the choices at the top of Home, so it stays on Following or
 Instagram logo on Home	Instagram logo on Home
 Keeps Instagram's logo at the top of Home in place of the feed's name. Tap it to switch feeds. Restart Instagram to see the change.	Keeps Instagram's logo at the top of Home in place of the feed's name. Tap it to switch feeds. Restart Instagram to see the change.
 Profiles	الملفات الشخصية
-Show if a profile follows you	Show if a profile follows you
+Show if a profile follows you	إظهار ما إذا كان الحساب يتابعك
 Adds Follows you or Doesn't follow you beside the name on someone's profile, after their pronouns if they've set any. Nothing shows until Instagram has checked.	Adds Follows you or Doesn't follow you beside the name on someone's profile, after their pronouns if they've set any. Nothing shows until Instagram has checked.
 Mark who doesn't follow you back	Mark who doesn't follow you back
 On your own Following list, adds Doesn't follow you before the name of each account that doesn't follow you back. Nothing shows until Instagram has checked.	On your own Following list, adds Doesn't follow you before the name of each account that doesn't follow you back. Nothing shows until Instagram has checked.
@@ -487,8 +487,8 @@ A save was interrupted	A save was interrupted
 Reopen the media and save again.	Reopen the media and save again.
 Search settings	البحث في الإعدادات
 Clear search	Clear search
-No matching settings	No matching settings
-Try another word. Settings only appear for patches included in this install.	Try another word. Settings only appear for patches included in this install.
+No matching settings	لا توجد إعدادات مطابقة
+Try another word. Settings only appear for patches included in this install.	جرّب كلمة أخرى. لا تظهر إلا إعدادات الرقع المضمّنة في هذا التثبيت.
 Save all	Save all
 Saving a carousel	Saving a carousel
 Cancel saving this carousel	Cancel saving this carousel
@@ -663,11 +663,11 @@ Tells Instagram your phone is at the place set below, for the location sticker, 
 No place set. Until there is one, Instagram is told 0, 0 while Spoof location is on.	No place set. Until there is one, Instagram is told 0, 0 while Spoof location is on.
 Only on mobile data	Only on mobile data
 Loads smaller photos and starts videos, reels and stories at the lowest quality. Grid thumbnails stay as they are. It takes priority over Full resolution photos and the quality above.	Loads smaller photos and starts videos, reels and stories at the lowest quality. Grid thumbnails stay as they are. It takes priority over Full resolution photos and the quality above.
-Place	Place
+Place	المكان
 Send downloads to another app	Send downloads to another app
 Send to	Send to
 Sent to another app. Change this in Downloads.	Sent to another app. Change this in Downloads.
-Spoof location	Spoof location
+Spoof location	تغيير الموقع الظاهري
 Stop after a set number of reels	Stop after a set number of reels
 Reels before swiping stops	Reels before swiping stops
 %1$d reels	%1$d reels
@@ -792,10 +792,10 @@ Close	إغلاق
 Copy media link	Copy media link
 Couldn't copy the media link	Couldn't copy the media link
 Details	Details
-Details in a post's menu	Details in a post's menu
-Block in a post's menu	Block in a post's menu
+Details in a post's menu	تفاصيل في قائمة المنشور
+Block in a post's menu	الحظر من قائمة المنشور
 Adds Block to the menu of someone else's feed post. It opens Instagram's own block sheet, so nothing happens until you confirm there.	Adds Block to the menu of someone else's feed post. It opens Instagram's own block sheet, so nothing happens until you confirm there.
-Speed in a post's menu	Speed in a post's menu
+Speed in a post's menu	السرعة في قائمة المنشور
 Adds Playback speed to a feed video's menu. Pick a speed from 0.5x to 3x for the video that's playing.	Adds Playback speed to a feed video's menu. Pick a speed from 0.5x to 3x for the video that's playing.
 Media ID %1$s	Media ID %1$s
 Media link	Media link
@@ -901,7 +901,7 @@ Material You	Material You
 Material You needs Android 12 or newer, so Instagram's blue stays.	Material You needs Android 12 or newer, so Instagram's blue stays.
 HushGram launch screen	HushGram launch screen
 Shows HushGram's logo instead of Instagram's on the screen you see while Instagram starts, on Android 13 and newer. It shows from the next start.	Shows HushGram's logo instead of Instagram's on the screen you see while Instagram starts, on Android 13 and newer. It shows from the next start.
-Download video covers	Download video covers
+Download video covers	تنزيل أغلفة الفيديوهات
 Adds Download cover to the menu of a feed post with a video, and of a carousel showing one. It saves the still picture shown before the video plays, at its largest size.	Adds Download cover to the menu of a feed post with a video, and of a carousel showing one. It saves the still picture shown before the video plays, at its largest size.
 Download button on feed posts	Download button on feed posts
 Puts a download icon in the row under a post, left of Save, so one tap saves it without opening the menu. On a carousel it asks for this page or all of them. Needs Download feed videos or photos.	Puts a download icon in the row under a post, left of Save, so one tap saves it without opening the menu. On a carousel it asks for this page or all of them. Needs Download feed videos or photos.
@@ -1264,7 +1264,7 @@ Forgets everything Skip what's already saved remembers, for all your accounts. Y
 Download history cleared.	Download history cleared.
 Couldn't clear the download history. Try again.	Couldn't clear the download history. Try again.
 Loading the picture...	Loading the picture...
-Report a problem	Report a problem
+Report a problem	الإبلاغ عن مشكلة
 Opens a GitHub report with your versions and settings filled in. Add what happened.	Opens a GitHub report with your versions and settings filled in. Add what happened.
 Hide the reply bar on reels from chats	Hide the reply bar on reels from chats
 The Reply to box under a reel you open from a chat, with its reactions and plus button. The chat's own message box stays.	The Reply to box under a reel you open from a chat, with its reactions and plus button. The chat's own message box stays.
@@ -1319,7 +1319,7 @@ Full screen Reels and Home hide the status bar and the navigation bar.	Full scre
 Full screen Reels and Home hide only the status bar at the top. The navigation bar stays.	Full screen Reels and Home hide only the status bar at the top. The navigation bar stays.
 Full screen Reels and Home hide only the navigation bar at the bottom. The status bar stays.	Full screen Reels and Home hide only the navigation bar at the bottom. The status bar stays.
 Turn on Full screen Reels, Full screen Home or Full screen Messages to use this choice.	Turn on Full screen Reels, Full screen Home or Full screen Messages to use this choice.
-Choose carousel pages	Choose carousel pages
+Choose carousel pages	اختيار شرائح المنشور المتعدد
 Adds Choose pages to a carousel's menu, after Save all, and to the download icon. Tick the pages you want and only those save, in order.	Adds Choose pages to a carousel's menu, after Save all, and to the download icon. Tick the pages you want and only those save, in order.
 Choose pages	Choose pages
 Page %1$d, video	Page %1$d, video
