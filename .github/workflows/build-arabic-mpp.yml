@@ -1,0 +1,65 @@
+name: Build HushGram Arabic MPP
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - arabic-localization-v0.0.21
+    paths:
+      - 'extensions/shared/library/src/main/l10n/**'
+      - 'extensions/shared/library/src/main/java/**'
+      - 'extensions/instagram/src/main/java/**'
+      - 'scripts/**'
+      - '.github/workflows/build-arabic-mpp.yml'
+      - 'gradle/**'
+      - 'patches/**'
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out source
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+
+      - name: Set up Java
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '21'
+
+      - name: Set up Android SDK
+        uses: android-actions/setup-android@v3
+
+      - name: Generate translation catalog
+        run: python scripts/gen-l10n.py
+
+      - name: Run translation catalog tests
+        run: python scripts/test-l10n.py
+
+      - name: Generate patch list
+        run: ./gradlew :patches:generatePatchesList
+        env:
+          GITHUB_ACTOR: ${{ github.actor }}
+          GITHUB_TOKEN: ${{ secrets.MORPHE_GITHUB_TOKEN }}
+
+      - name: Build Android patch bundle
+        run: ./gradlew :patches:buildAndroid
+        env:
+          GITHUB_ACTOR: ${{ github.actor }}
+          GITHUB_TOKEN: ${{ secrets.MORPHE_GITHUB_TOKEN }}
+
+      - name: Upload MPP artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: hushgram-arabic-mpp
+          path: patches/build/release/*.mpp
+          if-no-files-found: error
+          retention-days: 14
