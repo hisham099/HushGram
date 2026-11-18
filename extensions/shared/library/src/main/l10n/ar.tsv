@@ -1087,7 +1087,7 @@ Scrolling a list down slides the tab bar out of the way. Scrolling up, reaching 
 Hide the tab bar on Reels	إخفاء شريط علامات التبويب في ريلز
 Never	أبداً
 After %1$d seconds	بعد %1$d ثانية
-Never. Pick a time and the tab bar slides away once a reel has played that long without a touch. Restart Instagram after changing it.	Never. Pick a time and the tab bar slides away once a reel has played that long without a touch. Restart Instagram after changing it.
+Never. Pick a time and the tab bar slides away once a reel has played that long without a touch. Restart Instagram after changing it.	أبداً. اختر مدة زمنية ليختفي شريط علامات التبويب بعد تشغيل مقطع ريلز لهذه المدة دون لمس الشاشة. أعد تشغيل Instagram بعد تغيير هذا الخيار.
 On Reels, the tab bar slides away after %1$d seconds without a touch. Tap the bottom edge of the screen, change tab or press Back to bring it back. Restart Instagram after changing it.	في ريلز، يختفي شريط علامات التبويب بعد مرور %1$d ثانية دون لمس الشاشة. اضغط على الحافة السفلية للشاشة أو غيّر علامة التبويب أو اضغط زر الرجوع لإظهاره مجدداً. أعد تشغيل Instagram بعد تغييره.
 Start feed videos with sound	تشغيل فيديوهات الموجز مع الصوت
 Videos on Home play with their sound on, the same as tapping a video's speaker. Mute one and the ones after it stay muted. Your phone's ringer and volume still count, so on silent or with the volume down, they stay quiet.	تُشغّل فيديوهات الصفحة الرئيسية مع الصوت، كما لو ضغطت على أيقونة مكبر الصوت في الفيديو. إذا كتمت أحدها، فستظل الفيديوهات التالية مكتومة. يظل وضع رنين الهاتف ومستوى الصوت مؤثرين، لذلك تبقى الفيديوهات صامتة عند تفعيل الوضع الصامت أو خفض الصوت.
@@ -1179,95 +1179,95 @@ Takes away the number under the heart beside a reel. The heart stays.	يزيل �
 Hide comment counts on reels	إخفاء أعداد التعليقات في ريلز
 Takes away the number under the Comment button beside a reel. The button stays.	يزيل الرقم أسفل زر التعليق بجانب مقطع ريلز، مع إبقاء الزر ظاهراً.
 Hide repost counts on reels	إخفاء أعداد إعادة النشر في ريلز
-Takes away the number under the Repost button beside a reel. The button stays.	Takes away the number under the Repost button beside a reel. The button stays.
-Hide share counts on reels	Hide share counts on reels
-Takes away the number under the Share button beside a reel. The button stays.	Takes away the number under the Share button beside a reel. The button stays.
-Hide save counts on reels	Hide save counts on reels
-Takes away the number under the Save button beside a reel. The button stays.	Takes away the number under the Save button beside a reel. The button stays.
-Hide the pause icon on reels	Hide the pause icon on reels
-A paused reel shows just its frame, without the big pause icon and the sound button over it. Tap the reel to play it again.	A paused reel shows just its frame, without the big pause icon and the sound button over it. Tap the reel to play it again.
-Keep clear mode on	Keep clear mode on
-Turn on Instagram's clear mode on a reel and the next reels open in it too. Leave clear mode yourself and the next reels show their buttons again.	Turn on Instagram's clear mode on a reel and the next reels open in it too. Leave clear mode yourself and the next reels show their buttons again.
-Start every reel in clear mode	Start every reel in clear mode
-Reels open in clear mode from the first one, with no tap. Leave it yourself and the next reels show their buttons again. Instagram blocks screenshots in clear mode unless Allow screenshots is on.	Reels open in clear mode from the first one, with no tap. Leave it yourself and the next reels show their buttons again. Instagram blocks screenshots in clear mode unless Allow screenshots is on.
-Don't vibrate in clear mode	Don't vibrate in clear mode
-Stops the short buzz Instagram plays when a reel opens in clear mode. With Keep clear mode on, that's every swipe.	Stops the short buzz Instagram plays when a reel opens in clear mode. With Keep clear mode on, that's every swipe.
-Always show seek bar in clear mode	Always show seek bar in clear mode
-Keeps the seek bar on a reel in clear mode, and you can still drag it, while the other buttons stay hidden. Short reels get a bar too, in clear mode or not.	Keeps the seek bar on a reel in clear mode, and you can still drag it, while the other buttons stay hidden. Short reels get a bar too, in clear mode or not.
-Unlock with	Unlock with
-Phone lock	Phone lock
-HushGram PIN	HushGram PIN
-A PIN you set here unlocks your messages, in place of your screen lock. It can't be recovered, only cleared by clearing Instagram's storage.	A PIN you set here unlocks your messages, in place of your screen lock. It can't be recovered, only cleared by clearing Instagram's storage.
-Your fingerprint, face or screen lock unlocks your messages.	Your fingerprint, face or screen lock unlocks your messages.
-Fingerprint or face only	Fingerprint or face only
-Only your fingerprint or face unlocks your messages. If the phone has none set up, your screen lock does.	Only your fingerprint or face unlocks your messages. If the phone has none set up, your screen lock does.
-Add a fingerprint or face in your phone's settings first.	Add a fingerprint or face in your phone's settings first.
-This phone has no fingerprint or face unlock to use.	This phone has no fingerprint or face unlock to use.
-Your phone won't let HushGram use your fingerprint or face right now. Check its fingerprint and face settings.	Your phone won't let HushGram use your fingerprint or face right now. Check its fingerprint and face settings.
-Set or change the 4 to 8 digit PIN. It stays on this phone and isn't in a backup.	Set or change the 4 to 8 digit PIN. It stays on this phone and isn't in a backup.
-PIN saved.	PIN saved.
-PIN	PIN
-Enter your PIN	Enter your PIN
-Forgot PIN?	Forgot PIN?
-Wrong PIN. Try again.	Wrong PIN. Try again.
-Too many tries. Wait %1$d seconds.	Too many tries. Wait %1$d seconds.
-New PIN	New PIN
-Confirm PIN	Confirm PIN
-Set a PIN	Set a PIN
-Use 4 to 8 digits.	Use 4 to 8 digits.
-The PINs don't match.	The PINs don't match.
-Couldn't save the PIN.	Couldn't save the PIN.
-The PIN can't be recovered. To remove it, clear Instagram's storage in Android's app settings. That signs you out and resets HushGram's settings. A saved settings backup brings the rest back, but not the PIN.	The PIN can't be recovered. To remove it, clear Instagram's storage in Android's app settings. That signs you out and resets HushGram's settings. A saved settings backup brings the rest back, but not the PIN.
-Open app info	Open app info
-Hide 'Are you interested?' bubbles	Hide 'Are you interested?' bubbles
-Hides the bubble under a post that asks 'Are you interested in this post?' with Not interested and Interested buttons. Nothing is answered for you.	Hides the bubble under a post that asks 'Are you interested in this post?' with Not interested and Interested buttons. Nothing is answered for you.
-Show when someone was last active	Show when someone was last active
-Under a name in your messages and in a chat, the exact time they were last on, like Active at 3:42 PM, replaces Active 3h ago. Active now stays as it is.	Under a name in your messages and in a chat, the exact time they were last on, like Active at 3:42 PM, replaces Active 3h ago. Active now stays as it is.
-Active at %1$s	Active at %1$s
-Active yesterday at %1$s	Active yesterday at %1$s
-Active %1$s at %2$s	Active %1$s at %2$s
-Shorter Active now	Shorter Active now
-Someone shows as Active now for one minute after they leave, like on the website, instead of six and a half. Restart Instagram to see the change.	Someone shows as Active now for one minute after they leave, like on the website, instead of six and a half. Restart Instagram to see the change.
-Rounded corners on posts	Rounded corners on posts
-Rounds the corners of a post's photo, video and carousel pages in Home and Following. Posts you scroll to after a change show it. Stories, profiles and Explore stay as they were.	Rounds the corners of a post's photo, video and carousel pages in Home and Following. Posts you scroll to after a change show it. Stories, profiles and Explore stay as they were.
-Corner size	Corner size
-Rounded corners on Reels	Rounded corners on Reels
-Rounded corners on stories	Rounded corners on stories
-Seek bar on stories	Seek bar on stories
-Shows a bar near the bottom of a video story. Drag it to jump to any point in the video. Photos don't get one.	Shows a bar near the bottom of a video story. Drag it to jump to any point in the video. Photos don't get one.
-Seek bar on feed videos	Seek bar on feed videos
-Shows a bar along the bottom of the video playing in a feed. Drag it and let go to jump to that point in the video.	Shows a bar along the bottom of the video playing in a feed. Drag it and let go to jump to that point in the video.
-Thicker story progress bar	Thicker story progress bar
-Draws the bar along the top of a story as thick as the choice below. Its segments and timing stay as they were.	Draws the bar along the top of a story as thick as the choice below. Its segments and timing stay as they were.
-Thickness	Thickness
-Twice as thick	Twice as thick
-Three times as thick	Three times as thick
-Rounds the corners of a reel's video in the Reels tab and wherever a reel opens full screen. The seek bar, captions and buttons stay whole.	Rounds the corners of a reel's video in the Reels tab and wherever a reel opens full screen. The seek bar, captions and buttons stay whole.
-Rounds the corners of a story's photo or video, from the tray, a profile or a highlight. The progress bar, names and stickers stay whole.	Rounds the corners of a story's photo or video, from the tray, a profile or a highlight. The progress bar, names and stickers stay whole.
-Peek at the next carousel page	Peek at the next carousel page
-A carousel post's page sits a little in from the edges, with the start of the next page showing at the right.	A carousel post's page sits a little in from the edges, with the start of the next page showing at the right.
-Large	Large
-Small	Small
-Instagram kept crashing, so HushGram paused itself.	Instagram kept crashing, so HushGram paused itself.
-Turn it back on in HushGram settings.	Turn it back on in HushGram settings.
-Download failed. Check your connection and try again.	Download failed. Check your connection and try again.
-Download didn't finish. Check your connection and free storage, then try again.	Download didn't finish. Check your connection and free storage, then try again.
-Some changes apply when Instagram restarts. Tap to restart it now.	Some changes apply when Instagram restarts. Tap to restart it now.
-Still saving or exporting. Restart once it's done.	Still saving or exporting. Restart once it's done.
-Couldn't restart Instagram. Close it and open it again.	Couldn't restart Instagram. Close it and open it again.
-Already saved. Download again within 30 seconds for a copy.	Already saved. Download again within 30 seconds for a copy.
-Already saved %1$d. Download again within 30 seconds for those.	Already saved %1$d. Download again within 30 seconds for those.
-Skip what's already saved	Skip what's already saved
-Remembers what you save while it's on, so a post, carousel page, reel or story isn't saved twice. Save all skips the pages you already have. Download again within 30 seconds to save another copy. A file you deleted or moved saves again.	Remembers what you save while it's on, so a post, carousel page, reel or story isn't saved twice. Save all skips the pages you already have. Download again within 30 seconds to save another copy. A file you deleted or moved saves again.
-Clear download history	Clear download history
-Forgets everything Skip what's already saved remembers, for all your accounts. Your saved files stay.	Forgets everything Skip what's already saved remembers, for all your accounts. Your saved files stay.
-Download history cleared.	Download history cleared.
-Couldn't clear the download history. Try again.	Couldn't clear the download history. Try again.
-Loading the picture...	Loading the picture...
+Takes away the number under the Repost button beside a reel. The button stays.	يزيل العدد أسفل زر إعادة النشر بجانب مقطع ريلز، مع إبقاء الزر ظاهراً.
+Hide share counts on reels	إخفاء أعداد المشاركات في ريلز
+Takes away the number under the Share button beside a reel. The button stays.	يزيل العدد أسفل زر المشاركة بجانب مقطع ريلز، مع إبقاء الزر ظاهراً.
+Hide save counts on reels	إخفاء أعداد مرات الحفظ في ريلز
+Takes away the number under the Save button beside a reel. The button stays.	يزيل العدد أسفل زر الحفظ بجانب مقطع ريلز، مع إبقاء الزر ظاهراً.
+Hide the pause icon on reels	إخفاء أيقونة الإيقاف المؤقت في ريلز
+A paused reel shows just its frame, without the big pause icon and the sound button over it. Tap the reel to play it again.	يُعرض إطار مقطع ريلز المتوقف مؤقتاً فقط، دون أيقونة الإيقاف المؤقت الكبيرة أو زر الصوت فوقه. اضغط على المقطع لاستئناف تشغيله.
+Keep clear mode on	إبقاء الوضع الصافي مفعّلاً
+Turn on Instagram's clear mode on a reel and the next reels open in it too. Leave clear mode yourself and the next reels show their buttons again.	عند تفعيل الوضع الصافي في مقطع ريلز، ستُفتح المقاطع التالية به أيضاً. أوقف الوضع الصافي يدوياً لتظهر أزرار المقاطع التالية مجدداً.
+Start every reel in clear mode	بدء كل مقطع ريلز بالوضع الصافي
+Reels open in clear mode from the first one, with no tap. Leave it yourself and the next reels show their buttons again. Instagram blocks screenshots in clear mode unless Allow screenshots is on.	تُفتح مقاطع ريلز بالوضع الصافي منذ المقطع الأول دون الحاجة إلى الضغط. أوقفه يدوياً لتظهر أزرار المقاطع التالية مجدداً. يمنع Instagram التقاط لقطات الشاشة في الوضع الصافي ما لم يكن خيار السماح بلقطات الشاشة مفعّلاً.
+Don't vibrate in clear mode	إيقاف الاهتزاز في الوضع الصافي
+Stops the short buzz Instagram plays when a reel opens in clear mode. With Keep clear mode on, that's every swipe.	يوقف الاهتزاز القصير الذي يصدره Instagram عند فتح مقطع ريلز بالوضع الصافي. وعند تفعيل خيار إبقاء الوضع الصافي، يحدث ذلك مع كل انتقال بالسحب.
+Always show seek bar in clear mode	إظهار شريط التقدم دائماً في الوضع الصافي
+Keeps the seek bar on a reel in clear mode, and you can still drag it, while the other buttons stay hidden. Short reels get a bar too, in clear mode or not.	يُبقي شريط التقدم ظاهراً على مقطع ريلز في الوضع الصافي، مع إمكانية سحبه، بينما تظل الأزرار الأخرى مخفية. ويظهر الشريط أيضاً في المقاطع القصيرة، سواء أكان الوضع الصافي مفعّلاً أم لا.
+Unlock with	إلغاء القفل باستخدام
+Phone lock	قفل الهاتف
+HushGram PIN	رمز PIN الخاص بـ HushGram
+A PIN you set here unlocks your messages, in place of your screen lock. It can't be recovered, only cleared by clearing Instagram's storage.	يُستخدم رمز PIN الذي تعيّنه هنا لفتح رسائلك بدلاً من قفل الشاشة. لا يمكن استعادته، ويمكن إزالته فقط بمسح مساحة تخزين Instagram.
+Your fingerprint, face or screen lock unlocks your messages.	تُفتح رسائلك باستخدام بصمة إصبعك أو وجهك أو قفل شاشة هاتفك.
+Fingerprint or face only	بصمة الإصبع أو الوجه فقط
+Only your fingerprint or face unlocks your messages. If the phone has none set up, your screen lock does.	تُفتح رسائلك باستخدام بصمة إصبعك أو وجهك فقط. إذا لم تكن أي منهما مُعدّة على الهاتف، فسيُستخدم قفل الشاشة.
+Add a fingerprint or face in your phone's settings first.	أضف بصمة إصبع أو إعداد التعرف على الوجه من إعدادات هاتفك أولاً.
+This phone has no fingerprint or face unlock to use.	لا يتوفر في هذا الهاتف خيار فتح القفل ببصمة الإصبع أو الوجه.
+Your phone won't let HushGram use your fingerprint or face right now. Check its fingerprint and face settings.	لا يسمح هاتفك لـ HushGram باستخدام بصمة الإصبع أو الوجه حالياً. تحقق من إعدادات البصمة والتعرف على الوجه.
+Set or change the 4 to 8 digit PIN. It stays on this phone and isn't in a backup.	عيّن رمز PIN مكوّناً من 4 إلى 8 أرقام أو غيّره. يُحفظ على هذا الهاتف فقط ولا يُضمّن في النسخ الاحتياطية.
+PIN saved.	تم حفظ رمز PIN.
+PIN	رمز PIN
+Enter your PIN	أدخل رمز PIN
+Forgot PIN?	هل نسيت رمز PIN؟
+Wrong PIN. Try again.	رمز PIN غير صحيح. حاول مرة أخرى.
+Too many tries. Wait %1$d seconds.	محاولات كثيرة جداً. انتظر %1$d ثانية.
+New PIN	رمز PIN جديد
+Confirm PIN	تأكيد رمز PIN
+Set a PIN	تعيين رمز PIN
+Use 4 to 8 digits.	استخدم من 4 إلى 8 أرقام.
+The PINs don't match.	رمزا PIN غير متطابقين.
+Couldn't save the PIN.	تعذّر حفظ رمز PIN.
+The PIN can't be recovered. To remove it, clear Instagram's storage in Android's app settings. That signs you out and resets HushGram's settings. A saved settings backup brings the rest back, but not the PIN.	لا يمكن استعادة رمز PIN. لإزالته، امسح مساحة تخزين Instagram من إعدادات التطبيقات في Android. سيؤدي ذلك إلى تسجيل خروجك وإعادة ضبط إعدادات HushGram. يمكنك استعادة بقية الإعدادات من نسخة احتياطية محفوظة، لكن رمز PIN لن يُستعاد.
+Open app info	فتح معلومات التطبيق
+Hide 'Are you interested?' bubbles	إخفاء فقاعات «هل أنت مهتم؟»
+Hides the bubble under a post that asks 'Are you interested in this post?' with Not interested and Interested buttons. Nothing is answered for you.	يخفي الفقاعة أسفل المنشور التي تسأل «هل أنت مهتم بهذا المنشور؟» وتحتوي على زري «لست مهتماً» و«مهتم». لن يتم اختيار أي إجابة نيابةً عنك.
+Show when someone was last active	إظهار وقت آخر نشاط للشخص
+Under a name in your messages and in a chat, the exact time they were last on, like Active at 3:42 PM, replaces Active 3h ago. Active now stays as it is.	يعرض أسفل الاسم في الرسائل والمحادثات الوقت الدقيق لآخر ظهور، مثل «نشط عند 3:42 م»، بدلاً من «نشط منذ 3 ساعات». وتظل حالة «نشط الآن» كما هي.
+Active at %1$s	نشط عند %1$s
+Active yesterday at %1$s	نشط أمس عند %1$s
+Active %1$s at %2$s	نشط يوم %1$s عند %2$s
+Shorter Active now	تقليل مدة حالة «نشط الآن»
+Someone shows as Active now for one minute after they leave, like on the website, instead of six and a half. Restart Instagram to see the change.	تظل حالة الشخص «نشط الآن» لمدة دقيقة واحدة بعد مغادرته، كما في الموقع، بدلاً من ست دقائق ونصف. أعد تشغيل Instagram لتطبيق التغيير.
+Rounded corners on posts	زوايا مستديرة للمنشورات
+Rounds the corners of a post's photo, video and carousel pages in Home and Following. Posts you scroll to after a change show it. Stories, profiles and Explore stay as they were.	يجعل زوايا صور المنشورات وفيديوهاتها وصفحات المنشورات المتعددة مستديرة في الرئيسية والمتابَعون. يظهر التغيير في المنشورات التي تصل إليها بعد تعديل الإعداد. ولا تتغير القصص والملفات الشخصية والاستكشاف.
+Corner size	حجم استدارة الزوايا
+Rounded corners on Reels	زوايا مستديرة لمقاطع ريلز
+Rounded corners on stories	زوايا مستديرة للقصص
+Seek bar on stories	شريط التقدم في القصص
+Shows a bar near the bottom of a video story. Drag it to jump to any point in the video. Photos don't get one.	يعرض شريطاً بالقرب من أسفل قصة الفيديو. اسحبه للانتقال إلى أي موضع في الفيديو. ولا يظهر هذا الشريط في قصص الصور.
+Seek bar on feed videos	شريط التقدم في فيديوهات الموجز
+Shows a bar along the bottom of the video playing in a feed. Drag it and let go to jump to that point in the video.	يعرض شريطاً أسفل الفيديو الذي يتم تشغيله في الموجز. اسحبه ثم ارفع إصبعك للانتقال إلى الموضع المحدد في الفيديو.
+Thicker story progress bar	زيادة سُمك شريط تقدم القصص
+Draws the bar along the top of a story as thick as the choice below. Its segments and timing stay as they were.	يجعل الشريط أعلى القصة بالسُمك المحدد أدناه، مع الإبقاء على تقسيماته وتوقيته كما هما.
+Thickness	السُمك
+Twice as thick	ضعف السُمك
+Three times as thick	ثلاثة أضعاف السُمك
+Rounds the corners of a reel's video in the Reels tab and wherever a reel opens full screen. The seek bar, captions and buttons stay whole.	يجعل زوايا فيديو ريلز مستديرة في علامة تبويب ريلز وفي كل موضع يُفتح فيه المقطع بملء الشاشة. ويظل شريط التقدم والوصف والأزرار دون تغيير.
+Rounds the corners of a story's photo or video, from the tray, a profile or a highlight. The progress bar, names and stickers stay whole.	يجعل زوايا صورة القصة أو فيديو القصة مستديرة، سواء فُتحت من شريط القصص أو ملف شخصي أو قصة مميزة. وتظل أشرطة التقدم والأسماء والملصقات دون تغيير.
+Peek at the next carousel page	إظهار جزء من الصفحة التالية في المنشور المتعدد
+A carousel post's page sits a little in from the edges, with the start of the next page showing at the right.	تظهر صفحة المنشور المتعدد مبتعدة قليلاً عن الحواف، مع إظهار بداية الصفحة التالية من جهة اليمين.
+Large	كبير
+Small	صغير
+Instagram kept crashing, so HushGram paused itself.	استمر Instagram في التعطل، لذلك أوقف HushGram نفسه مؤقتاً.
+Turn it back on in HushGram settings.	أعد تفعيله من إعدادات HushGram.
+Download failed. Check your connection and try again.	فشل التنزيل. تحقق من اتصالك بالإنترنت وحاول مرة أخرى.
+Download didn't finish. Check your connection and free storage, then try again.	لم يكتمل التنزيل. تحقق من اتصالك بالإنترنت والمساحة التخزينية المتاحة، ثم حاول مرة أخرى.
+Some changes apply when Instagram restarts. Tap to restart it now.	تُطبّق بعض التغييرات عند إعادة تشغيل Instagram. اضغط لإعادة تشغيله الآن.
+Still saving or exporting. Restart once it's done.	لا تزال عملية الحفظ أو التصدير جارية. أعد التشغيل بعد اكتمالها.
+Couldn't restart Instagram. Close it and open it again.	تعذّرت إعادة تشغيل Instagram. أغلق التطبيق وافتحه مجدداً.
+Already saved. Download again within 30 seconds for a copy.	تم الحفظ بالفعل. أعد التنزيل خلال 30 ثانية للحصول على نسخة إضافية.
+Already saved %1$d. Download again within 30 seconds for those.	تم حفظ %1$d بالفعل. أعد التنزيل خلال 30 ثانية للحصول على نسخ إضافية منها.
+Skip what's already saved	تخطي العناصر المحفوظة مسبقاً
+Remembers what you save while it's on, so a post, carousel page, reel or story isn't saved twice. Save all skips the pages you already have. Download again within 30 seconds to save another copy. A file you deleted or moved saves again.	يتذكر العناصر التي تحفظها أثناء تفعيل هذا الخيار، حتى لا يُحفظ المنشور أو صفحة المنشور المتعدد أو مقطع ريلز أو القصة مرتين. يتخطى خيار «حفظ الكل» الصفحات الموجودة لديك بالفعل. أعد التنزيل خلال 30 ثانية لحفظ نسخة أخرى. أما الملف الذي حذفته أو نقلته فسيُحفظ مجدداً.
+Clear download history	مسح سجل التنزيلات
+Forgets everything Skip what's already saved remembers, for all your accounts. Your saved files stay.	يمحو كل ما يتذكره خيار «تخطي العناصر المحفوظة مسبقاً» في جميع حساباتك. وتظل الملفات التي حفظتها موجودة.
+Download history cleared.	تم مسح سجل التنزيلات.
+Couldn't clear the download history. Try again.	تعذّر مسح سجل التنزيلات. حاول مرة أخرى.
+Loading the picture...	جارٍ تحميل الصورة...
 Report a problem	الإبلاغ عن مشكلة
-Opens a GitHub report with your versions and settings filled in. Add what happened.	Opens a GitHub report with your versions and settings filled in. Add what happened.
-Hide the reply bar on reels from chats	Hide the reply bar on reels from chats
-The Reply to box under a reel you open from a chat, with its reactions and plus button. The chat's own message box stays.	The Reply to box under a reel you open from a chat, with its reactions and plus button. The chat's own message box stays.
+Opens a GitHub report with your versions and settings filled in. Add what happened.	يفتح بلاغاً على GitHub يتضمن إصداراتك وإعداداتك تلقائياً. أضف وصفاً لما حدث.
+Hide the reply bar on reels from chats	إخفاء شريط الرد في مقاطع ريلز المفتوحة من المحادثات
+The Reply to box under a reel you open from a chat, with its reactions and plus button. The chat's own message box stays.	يخفي مربع «الرد على» أسفل مقطع ريلز الذي تفتحه من محادثة، بما في ذلك التفاعلات وزر الإضافة. ويظل مربع كتابة الرسائل الخاص بالمحادثة كما هو.
 Font	Font
 Text size	Text size
 Instagram's font	Instagram's font
