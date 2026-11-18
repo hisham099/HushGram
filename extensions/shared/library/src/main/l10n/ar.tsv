@@ -993,107 +993,107 @@ Support HushGram	دعم HushGram
 Hide the Home tab	إخفاء علامة تبويب الرئيسية
 Takes Home off the tab bar. Your Start tab opens wherever Home would, so pick one other than Home that's on the bar, or Home stays. Restart Instagram to see the change.	يزيل علامة تبويب الرئيسية من الشريط. وتُفتح علامة تبويب البدء في الموضع الذي كانت ستُفتح فيه الرئيسية، لذا اختر علامة تبويب أخرى موجودة على الشريط بدلاً من الرئيسية، وإلا فستظل الرئيسية ظاهرة. أعد تشغيل Instagram لتطبيق التغيير.
 Hide the Search tab	إخفاء علامة تبويب البحث
-Takes Search off the tab bar and closes up the gap. Restart Instagram to see the change.	Takes Search off the tab bar and closes up the gap. Restart Instagram to see the change.
-Hide the Create tab	Hide the Create tab
-Takes Create off the tab bar and closes up the gap. Restart Instagram to see the change.	Takes Create off the tab bar and closes up the gap. Restart Instagram to see the change.
-Hide the Profile tab	Hide the Profile tab
-Takes Profile off the tab bar. Your profile still opens from other places in the app. Restart Instagram to see the change.	Takes Profile off the tab bar. Your profile still opens from other places in the app. Restart Instagram to see the change.
-Hide Create on Home's header	Hide Create on Home's header
-Takes the plus button off the top of Home and closes up the gap. The Create tab and swiping to create are separate. Restart Instagram to see the change.	Takes the plus button off the top of Home and closes up the gap. The Create tab and swiping to create are separate. Restart Instagram to see the change.
-Hide notifications on Home's header	Hide notifications on Home's header
-Takes the heart off the top of Home and closes up the gap. Alerts still arrive. Restart Instagram to see the change.	Takes the heart off the top of Home and closes up the gap. Alerts still arrive. Restart Instagram to see the change.
-Ghost mode button on Home's header	Ghost mode button on Home's header
-Adds a ghost button at the top of Home, next to Messages when it's there and at the end of the buttons when it isn't. Tap it to turn Ghost mode on or off. Restart Instagram to see the change.	Adds a ghost button at the top of Home, next to Messages when it's there and at the end of the buttons when it isn't. Tap it to turn Ghost mode on or off. Restart Instagram to see the change.
-Search button on Home's header	Search button on Home's header
-Adds a magnifier at the top of Home that opens Search, like the Search tab does. It works with the Search tab hidden too. Restart Instagram to see the change.	Adds a magnifier at the top of Home that opens Search, like the Search tab does. It works with the Search tab hidden too. Restart Instagram to see the change.
-Messages button on Home's header	Messages button on Home's header
-Adds a Messages button at the top of Home when Instagram moved Messages to your tab bar. A tap opens your messages like the tab does. Restart Instagram to see the change.	Adds a Messages button at the top of Home when Instagram moved Messages to your tab bar. A tap opens your messages like the tab does. Restart Instagram to see the change.
-Turn on Show the Messages tab and restart.	Turn on Show the Messages tab and restart.
-Restart Instagram to put Messages on your tab bar.	Restart Instagram to put Messages on your tab bar.
-Center the logo on Home's header	Center the logo on Home's header
-Puts Instagram's logo in the middle of the top of Home, even with header buttons hidden or added. A feed's name shown there is centered too. Restart Instagram to see the change.	Puts Instagram's logo in the middle of the top of Home, even with header buttons hidden or added. A feed's name shown there is centered too. Restart Instagram to see the change.
-Center the name on profiles	Center the name on profiles
-Puts the username in the middle of the bar at the top of a profile, yours and other people's. The buttons stay where they are.	Puts the username in the middle of the bar at the top of a profile, yours and other people's. The buttons stay where they are.
-Center titles on other screens	Center titles on other screens
-Puts the title in the middle of the bar at the top of other screens, like notifications, as far as the buttons beside it allow. The buttons stay where they are.	Puts the title in the middle of the bar at the top of other screens, like notifications, as far as the buttons beside it allow. The buttons stay where they are.
-This button needs Search on your tab bar.	This button needs Search on your tab bar.
-Turn off Hide the Search tab and restart.	Turn off Hide the Search tab and restart.
-Restart Instagram to bring Search back to your tab bar.	Restart Instagram to bring Search back to your tab bar.
-Tab order	Tab order
-The tab bar keeps Instagram's order.	The tab bar keeps Instagram's order.
-Tabs go in this order: %1$s. Restart Instagram to see the change.	Tabs go in this order: %1$s. Restart Instagram to see the change.
-Show and reorder tabs	Show and reorder tabs
-Drag to move %1$s	Drag to move %1$s
-Move up	Move up
-Move down	Move down
-%1$s is now %2$d of %3$d	%1$s is now %2$d of %3$d
+Takes Search off the tab bar and closes up the gap. Restart Instagram to see the change.	يزيل علامة تبويب البحث من الشريط ويغلق المساحة الفارغة. أعد تشغيل Instagram لتطبيق التغيير.
+Hide the Create tab	إخفاء علامة تبويب الإنشاء
+Takes Create off the tab bar and closes up the gap. Restart Instagram to see the change.	يزيل علامة تبويب الإنشاء من الشريط ويغلق المساحة الفارغة. أعد تشغيل Instagram لتطبيق التغيير.
+Hide the Profile tab	إخفاء علامة تبويب الملف الشخصي
+Takes Profile off the tab bar. Your profile still opens from other places in the app. Restart Instagram to see the change.	يزيل علامة تبويب الملف الشخصي من الشريط. يظل بإمكانك فتح ملفك الشخصي من المواضع الأخرى في التطبيق. أعد تشغيل Instagram لتطبيق التغيير.
+Hide Create on Home's header	إخفاء زر الإنشاء في رأس الصفحة الرئيسية
+Takes the plus button off the top of Home and closes up the gap. The Create tab and swiping to create are separate. Restart Instagram to see the change.	يزيل زر الإضافة من أعلى الصفحة الرئيسية ويغلق المساحة الفارغة. ولا يؤثر ذلك في علامة تبويب الإنشاء أو السحب لبدء الإنشاء. أعد تشغيل Instagram لتطبيق التغيير.
+Hide notifications on Home's header	إخفاء الإشعارات من رأس الصفحة الرئيسية
+Takes the heart off the top of Home and closes up the gap. Alerts still arrive. Restart Instagram to see the change.	يزيل أيقونة القلب من أعلى الصفحة الرئيسية ويغلق المساحة الفارغة. وتستمر الإشعارات في الوصول. أعد تشغيل Instagram لتطبيق التغيير.
+Ghost mode button on Home's header	زر وضع التخفي في رأس الصفحة الرئيسية
+Adds a ghost button at the top of Home, next to Messages when it's there and at the end of the buttons when it isn't. Tap it to turn Ghost mode on or off. Restart Instagram to see the change.	يضيف زر شبح أعلى الصفحة الرئيسية، بجانب الرسائل عند ظهورها، أو في نهاية الأزرار عند عدم ظهورها. اضغط عليه لتشغيل وضع التخفي أو إيقافه. أعد تشغيل Instagram لتطبيق التغيير.
+Search button on Home's header	زر البحث في رأس الصفحة الرئيسية
+Adds a magnifier at the top of Home that opens Search, like the Search tab does. It works with the Search tab hidden too. Restart Instagram to see the change.	يضيف أيقونة بحث أعلى الصفحة الرئيسية تفتح شاشة البحث، مثل علامة تبويب البحث. يعمل هذا الخيار حتى عند إخفاء علامة تبويب البحث. أعد تشغيل Instagram لتطبيق التغيير.
+Messages button on Home's header	زر الرسائل في رأس الصفحة الرئيسية
+Adds a Messages button at the top of Home when Instagram moved Messages to your tab bar. A tap opens your messages like the tab does. Restart Instagram to see the change.	يضيف زر الرسائل أعلى الصفحة الرئيسية عندما ينقل Instagram الرسائل إلى شريط علامات التبويب. يؤدي الضغط عليه إلى فتح الرسائل كما تفعل علامة التبويب. أعد تشغيل Instagram لتطبيق التغيير.
+Turn on Show the Messages tab and restart.	فعّل خيار إظهار علامة تبويب الرسائل ثم أعد التشغيل.
+Restart Instagram to put Messages on your tab bar.	أعد تشغيل Instagram لإظهار الرسائل في شريط علامات التبويب.
+Center the logo on Home's header	توسيط الشعار في رأس الصفحة الرئيسية
+Puts Instagram's logo in the middle of the top of Home, even with header buttons hidden or added. A feed's name shown there is centered too. Restart Instagram to see the change.	يضع شعار Instagram في منتصف أعلى الصفحة الرئيسية، حتى عند إخفاء أزرار الرأس أو إضافة أزرار أخرى. كما يتم توسيط اسم الموجز الذي يظهر هناك. أعد تشغيل Instagram لتطبيق التغيير.
+Center the name on profiles	توسيط الاسم في الملفات الشخصية
+Puts the username in the middle of the bar at the top of a profile, yours and other people's. The buttons stay where they are.	يضع اسم المستخدم في منتصف الشريط أعلى الملف الشخصي، سواء ملفك أو ملفات الآخرين. وتظل الأزرار في أماكنها.
+Center titles on other screens	توسيط العناوين في الشاشات الأخرى
+Puts the title in the middle of the bar at the top of other screens, like notifications, as far as the buttons beside it allow. The buttons stay where they are.	يضع عنوان الشاشة في منتصف الشريط العلوي للشاشات الأخرى، مثل الإشعارات، بحسب المساحة التي تتيحها الأزرار المجاورة. وتظل الأزرار في أماكنها.
+This button needs Search on your tab bar.	يتطلب هذا الزر وجود البحث في شريط علامات التبويب.
+Turn off Hide the Search tab and restart.	أوقف خيار إخفاء علامة تبويب البحث ثم أعد التشغيل.
+Restart Instagram to bring Search back to your tab bar.	أعد تشغيل Instagram لإعادة البحث إلى شريط علامات التبويب.
+Tab order	ترتيب علامات التبويب
+The tab bar keeps Instagram's order.	يحتفظ شريط علامات التبويب بترتيب Instagram الأصلي.
+Tabs go in this order: %1$s. Restart Instagram to see the change.	سيكون ترتيب علامات التبويب كالتالي: %1$s. أعد تشغيل Instagram لتطبيق التغيير.
+Show and reorder tabs	إظهار علامات التبويب وإعادة ترتيبها
+Drag to move %1$s	اسحب لنقل %1$s
+Move up	نقل إلى الأعلى
+Move down	نقل إلى الأسفل
+%1$s is now %2$d of %3$d	أصبح ترتيب %1$s الآن %2$d من %3$d
 Reset	إعادة ضبط
-Create	Create
-Start tab	Start tab
-Instagram opens the way it always has, which can be Reels if you left it there.	Instagram opens the way it always has, which can be Reels if you left it there.
-Instagram opens on Home when you start it from its icon, even if you left it on Reels. A notification or a link still opens what it's for. Restart Instagram to see the change.	Instagram opens on Home when you start it from its icon, even if you left it on Reels. A notification or a link still opens what it's for. Restart Instagram to see the change.
-Always Home	Always Home
-Instagram opens on %1$s when you start it from its icon. A notification or a link still opens what it's for. If that tab isn't on your bar, it opens on Home. Restart Instagram to see the change.	Instagram opens on %1$s when you start it from its icon. A notification or a link still opens what it's for. If that tab isn't on your bar, it opens on Home. Restart Instagram to see the change.
-A tap on a reel	A tap on a reel
-Pause	Pause
-Mute	Mute
-Instagram's default	Instagram's default
-A tap on a reel pauses it, and another tap plays it again.	A tap on a reel pauses it, and another tap plays it again.
-A tap on a playing reel turns its sound off or on and keeps it playing. A reel that's paused still plays on a tap.	A tap on a playing reel turns its sound off or on and keeps it playing. A reel that's paused still plays on a tap.
-A tap on a reel does what Instagram does.	A tap on a reel does what Instagram does.
-Keep playing	Keep playing
-A tap on a playing reel does nothing, so a stray touch doesn't stop it. A tap right on the play icon still pauses it, and a paused reel plays on a tap.	A tap on a playing reel does nothing, so a stray touch doesn't stop it. A tap right on the play icon still pauses it, and a paused reel plays on a tap.
-Keep reels muted on the volume keys	Keep reels muted on the volume keys
-Volume up still raises the phone's volume, but a muted reel stays muted until you unmute it.	Volume up still raises the phone's volume, but a muted reel stays muted until you unmute it.
-Start stories with sound	Start stories with sound
-Stories open with their sound on, the same as tapping Instagram's speaker. Your phone's ringer and volume still count, so on silent or with the volume down, stories stay quiet.	Stories open with their sound on, the same as tapping Instagram's speaker. Your phone's ringer and volume still count, so on silent or with the volume down, stories stay quiet.
-Stop swipe up to reply	Stop swipe up to reply
-A swipe up on someone's story no longer opens the reply box and its reactions. Tap Send message to reply.	A swipe up on someone's story no longer opens the reply box and its reactions. Tap Send message to reply.
-Hide the reply box on stories	Hide the reply box on stories
-Takes the Send message box off the bottom of other people's stories. The like and share buttons next to it stay where they are.	Takes the Send message box off the bottom of other people's stories. The like and share buttons next to it stay where they are.
-Glass reply box on stories	Glass reply box on stories
-Gives the Send message box on other people's stories frosted glass, so it's easy to read over any story. Needs Android 12 or newer for the blur.	Gives the Send message box on other people's stories frosted glass, so it's easy to read over any story. Needs Android 12 or newer for the blur.
-Hide the Like button on stories	Hide the Like button on stories
-Takes the heart off the bottom of other people's stories, so nothing gets liked by mistake. No empty space is left behind.	Takes the heart off the bottom of other people's stories, so nothing gets liked by mistake. No empty space is left behind.
-Hide the Comment button on stories	Hide the Comment button on stories
-Takes the Comment button off the bottom of other people's stories that have one. No empty space is left behind.	Takes the Comment button off the bottom of other people's stories that have one. No empty space is left behind.
-Hide the Share button on stories	Hide the Share button on stories
-Takes the paper plane off the bottom of other people's stories. No empty space is left behind.	Takes the paper plane off the bottom of other people's stories. No empty space is left behind.
-Queued. It starts once the post before it is saved.	Queued. It starts once the post before it is saved.
-Not saved: %1$d posts are already waiting	Not saved: %1$d posts are already waiting
+Create	إنشاء
+Start tab	علامة تبويب البدء
+Instagram opens the way it always has, which can be Reels if you left it there.	يفتح Instagram بالطريقة المعتادة، وقد يفتح على ريلز إذا كانت آخر شاشة تركته عليها.
+Instagram opens on Home when you start it from its icon, even if you left it on Reels. A notification or a link still opens what it's for. Restart Instagram to see the change.	يفتح Instagram على الصفحة الرئيسية عند تشغيله من أيقونته، حتى إذا كنت قد تركته على ريلز. وتظل الإشعارات والروابط تفتح المحتوى المرتبط بها. أعد تشغيل Instagram لتطبيق التغيير.
+Always Home	الصفحة الرئيسية دائماً
+Instagram opens on %1$s when you start it from its icon. A notification or a link still opens what it's for. If that tab isn't on your bar, it opens on Home. Restart Instagram to see the change.	يفتح Instagram على %1$s عند تشغيله من أيقونته. وتظل الإشعارات والروابط تفتح المحتوى المرتبط بها. إذا لم تكن علامة التبويب موجودة في الشريط، فسيفتح على الصفحة الرئيسية. أعد تشغيل Instagram لتطبيق التغيير.
+A tap on a reel	الضغط على مقطع ريلز
+Pause	إيقاف مؤقت
+Mute	كتم الصوت
+Instagram's default	الإعداد الافتراضي في Instagram
+A tap on a reel pauses it, and another tap plays it again.	يؤدي الضغط على مقطع ريلز إلى إيقافه مؤقتاً، ويؤدي الضغط مرة أخرى إلى استئناف تشغيله.
+A tap on a playing reel turns its sound off or on and keeps it playing. A reel that's paused still plays on a tap.	يؤدي الضغط على مقطع ريلز قيد التشغيل إلى كتم صوته أو تشغيله مع استمرار تشغيل المقطع. أما المقطع المتوقف مؤقتاً فيُستأنف تشغيله عند الضغط عليه.
+A tap on a reel does what Instagram does.	ينفذ الضغط على مقطع ريلز السلوك الافتراضي في Instagram.
+Keep playing	متابعة التشغيل
+A tap on a playing reel does nothing, so a stray touch doesn't stop it. A tap right on the play icon still pauses it, and a paused reel plays on a tap.	لا يفعل الضغط على مقطع ريلز قيد التشغيل شيئاً، حتى لا يؤدي اللمس غير المقصود إلى إيقافه. يظل الضغط على أيقونة التشغيل نفسها يوقفه مؤقتاً، ويُستأنف تشغيل المقطع المتوقف عند الضغط عليه.
+Keep reels muted on the volume keys	إبقاء مقاطع ريلز مكتومة عند استخدام أزرار الصوت
+Volume up still raises the phone's volume, but a muted reel stays muted until you unmute it.	يظل زر رفع الصوت يزيد مستوى صوت الهاتف، لكن مقطع ريلز المكتوم يبقى مكتوماً حتى تلغي كتمه.
+Start stories with sound	تشغيل القصص مع الصوت
+Stories open with their sound on, the same as tapping Instagram's speaker. Your phone's ringer and volume still count, so on silent or with the volume down, stories stay quiet.	تُفتح القصص والصوت مفعّل، كما لو ضغطت على أيقونة مكبر الصوت في Instagram. يظل وضع رنين الهاتف ومستوى الصوت مؤثرين، لذلك تبقى القصص صامتة عند تفعيل الوضع الصامت أو خفض الصوت.
+Stop swipe up to reply	إيقاف السحب للأعلى للرد
+A swipe up on someone's story no longer opens the reply box and its reactions. Tap Send message to reply.	لن يؤدي السحب إلى الأعلى على قصة شخص آخر إلى فتح مربع الرد والتفاعلات. اضغط على «إرسال رسالة» للرد.
+Hide the reply box on stories	إخفاء مربع الرد في القصص
+Takes the Send message box off the bottom of other people's stories. The like and share buttons next to it stay where they are.	يزيل مربع إرسال رسالة من أسفل قصص الآخرين. وتظل أزرار الإعجاب والمشاركة المجاورة في أماكنها.
+Glass reply box on stories	مربع رد زجاجي في القصص
+Gives the Send message box on other people's stories frosted glass, so it's easy to read over any story. Needs Android 12 or newer for the blur.	يمنح مربع إرسال رسالة في قصص الآخرين مظهراً زجاجياً ضبابياً لتسهيل قراءته فوق أي قصة. يتطلب Android 12 أو أحدث لتأثير التمويه.
+Hide the Like button on stories	إخفاء زر الإعجاب في القصص
+Takes the heart off the bottom of other people's stories, so nothing gets liked by mistake. No empty space is left behind.	يزيل أيقونة القلب من أسفل قصص الآخرين لمنع تسجيل الإعجاب عن طريق الخطأ. ولا يترك مساحة فارغة خلفه.
+Hide the Comment button on stories	إخفاء زر التعليق في القصص
+Takes the Comment button off the bottom of other people's stories that have one. No empty space is left behind.	يزيل زر التعليق من أسفل قصص الآخرين التي تحتوي عليه. ولا يترك مساحة فارغة خلفه.
+Hide the Share button on stories	إخفاء زر المشاركة في القصص
+Takes the paper plane off the bottom of other people's stories. No empty space is left behind.	يزيل أيقونة الطائرة الورقية من أسفل قصص الآخرين. ولا يترك مساحة فارغة خلفها.
+Queued. It starts once the post before it is saved.	تمت الإضافة إلى قائمة الانتظار. سيبدأ بعد حفظ المنشور السابق.
+Not saved: %1$d posts are already waiting	لم يتم الحفظ: يوجد %1$d منشوراً في قائمة الانتظار بالفعل
 Show all settings as a list	عرض جميع الإعدادات كقائمة
-Show categories as a grid	Show categories as a grid
+Show categories as a grid	عرض الفئات على شكل شبكة
 Show categories as rows	عرض الفئات كصفوف
-Show settings by category	Show settings by category
-Tab bar height	Tab bar height
-Tab icon size	Tab icon size
-The icons on the tab bar are the size Instagram gives them.	The icons on the tab bar are the size Instagram gives them.
-The icons on the tab bar are %1$s of the size Instagram gives them.	The icons on the tab bar are %1$s of the size Instagram gives them.
-Standard	Standard
-Blur strength	Blur strength
+Show settings by category	عرض الإعدادات حسب الفئة
+Tab bar height	ارتفاع شريط علامات التبويب
+Tab icon size	حجم أيقونات علامات التبويب
+The icons on the tab bar are the size Instagram gives them.	أيقونات شريط علامات التبويب بالحجم الافتراضي الذي يحدده Instagram.
+The icons on the tab bar are %1$s of the size Instagram gives them.	أيقونات شريط علامات التبويب بحجم %1$s من الحجم الافتراضي الذي يحدده Instagram.
+Standard	قياسي
+Blur strength	قوة التمويه
 %1$d dp	%1$d dp
 %1$d%%	%1$d%%
-%1$s (standard)	%1$s (standard)
-Compact	Compact
-Tall	Tall
-Tab bar corners	Tab bar corners
-Rounder	Rounder
-Fully round	Fully round
-Space under the tab bar	Space under the tab bar
-A little more	A little more
-More	More
-Hide the tab bar as you scroll	Hide the tab bar as you scroll
-Scrolling a list down slides the tab bar out of the way. Scrolling up, reaching the top, or changing tab brings it back. It works with or without Glass tab bar. Restart Instagram after changing it.	Scrolling a list down slides the tab bar out of the way. Scrolling up, reaching the top, or changing tab brings it back. It works with or without Glass tab bar. Restart Instagram after changing it.
-Hide the tab bar on Reels	Hide the tab bar on Reels
-Never	Never
-After %1$d seconds	After %1$d seconds
+%1$s (standard)	%1$s (قياسي)
+Compact	مضغوط
+Tall	طويل
+Tab bar corners	زوايا شريط علامات التبويب
+Rounder	أكثر استدارة
+Fully round	دائري بالكامل
+Space under the tab bar	المسافة أسفل شريط علامات التبويب
+A little more	زيادة بسيطة
+More	زيادة
+Hide the tab bar as you scroll	إخفاء شريط علامات التبويب أثناء التمرير
+Scrolling a list down slides the tab bar out of the way. Scrolling up, reaching the top, or changing tab brings it back. It works with or without Glass tab bar. Restart Instagram after changing it.	يؤدي التمرير إلى أسفل القائمة إلى إخفاء شريط علامات التبويب. ويعود عند التمرير إلى الأعلى أو الوصول إلى بداية القائمة أو تغيير علامة التبويب. يعمل هذا الخيار سواء فُعّل شريط علامات التبويب الزجاجي أم لا. أعد تشغيل Instagram بعد تغييره.
+Hide the tab bar on Reels	إخفاء شريط علامات التبويب في ريلز
+Never	أبداً
+After %1$d seconds	بعد %1$d ثانية
 Never. Pick a time and the tab bar slides away once a reel has played that long without a touch. Restart Instagram after changing it.	Never. Pick a time and the tab bar slides away once a reel has played that long without a touch. Restart Instagram after changing it.
-On Reels, the tab bar slides away after %1$d seconds without a touch. Tap the bottom edge of the screen, change tab or press Back to bring it back. Restart Instagram after changing it.	On Reels, the tab bar slides away after %1$d seconds without a touch. Tap the bottom edge of the screen, change tab or press Back to bring it back. Restart Instagram after changing it.
-Start feed videos with sound	Start feed videos with sound
-Videos on Home play with their sound on, the same as tapping a video's speaker. Mute one and the ones after it stay muted. Your phone's ringer and volume still count, so on silent or with the volume down, they stay quiet.	Videos on Home play with their sound on, the same as tapping a video's speaker. Mute one and the ones after it stay muted. Your phone's ringer and volume still count, so on silent or with the volume down, they stay quiet.
-Start feed videos muted	Start feed videos muted
-Videos on Home start silent, even after you turn the sound on in Reels, so reels keep their sound. Tap a video's speaker to hear that one. Wins over Start feed videos with sound.	Videos on Home start silent, even after you turn the sound on in Reels, so reels keep their sound. Tap a video's speaker to hear that one. Wins over Start feed videos with sound.
-Tap a feed video to pause it	Tap a feed video to pause it
+On Reels, the tab bar slides away after %1$d seconds without a touch. Tap the bottom edge of the screen, change tab or press Back to bring it back. Restart Instagram after changing it.	في ريلز، يختفي شريط علامات التبويب بعد مرور %1$d ثانية دون لمس الشاشة. اضغط على الحافة السفلية للشاشة أو غيّر علامة التبويب أو اضغط زر الرجوع لإظهاره مجدداً. أعد تشغيل Instagram بعد تغييره.
+Start feed videos with sound	تشغيل فيديوهات الموجز مع الصوت
+Videos on Home play with their sound on, the same as tapping a video's speaker. Mute one and the ones after it stay muted. Your phone's ringer and volume still count, so on silent or with the volume down, they stay quiet.	تُشغّل فيديوهات الصفحة الرئيسية مع الصوت، كما لو ضغطت على أيقونة مكبر الصوت في الفيديو. إذا كتمت أحدها، فستظل الفيديوهات التالية مكتومة. يظل وضع رنين الهاتف ومستوى الصوت مؤثرين، لذلك تبقى الفيديوهات صامتة عند تفعيل الوضع الصامت أو خفض الصوت.
+Start feed videos muted	بدء تشغيل فيديوهات الموجز دون صوت
+Videos on Home start silent, even after you turn the sound on in Reels, so reels keep their sound. Tap a video's speaker to hear that one. Wins over Start feed videos with sound.	تبدأ فيديوهات الصفحة الرئيسية صامتة، حتى بعد تشغيل الصوت في ريلز، لذلك تحتفظ مقاطع ريلز بصوتها. اضغط على أيقونة مكبر الصوت في الفيديو لسماع صوته. يتغلب هذا الخيار على خيار تشغيل فيديوهات الموجز مع الصوت.
+Tap a feed video to pause it	الضغط على فيديو في الموجز لإيقافه مؤقتاً
 Tap the video playing in a feed to pause it in place instead of opening it in Reels, and tap it again to play it. Ads keep Instagram's own tap.	Tap the video playing in a feed to pause it in place instead of opening it in Reels, and tap it again to play it. Ads keep Instagram's own tap.
 Hold for 2x on feed videos	Hold for 2x on feed videos
 Press and hold a video in a feed to play it at 2x, and let go to go back to normal speed.	Press and hold a video in a feed to play it at 2x, and let go to go back to normal speed.
