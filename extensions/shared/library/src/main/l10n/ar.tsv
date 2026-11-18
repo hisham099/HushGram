@@ -767,109 +767,109 @@ Saving a post or reel shows Instagram's Saved message instead of the tray that a
 Refresh	تحديث
 Refresh this list?	هل تريد تحديث هذه القائمة؟
 Asks before the Like button under a post, on a reel or on a comment likes or unlikes it, so a stray tap doesn't do it for you. Double taps aren't asked about.	يطلب التأكيد قبل أن يؤدي زر الإعجاب أسفل منشور أو في مقطع ريلز أو على تعليق إلى تسجيل الإعجاب أو إلغائه، حتى لا يؤدي الضغط غير المقصود إلى ذلك. لا يُطلب التأكيد عند النقر المزدوج.
-Adds a row next to Download on a reel and a feed video that plays it in an app you pick, such as VLC. The player streams it from Instagram's servers.	Adds a row next to Download on a reel and a feed video that plays it in an app you pick, such as VLC. The player streams it from Instagram's servers.
-Couldn't open another player	Couldn't open another player
-No app on this phone can play this video	No app on this phone can play this video
-Open in another player	Open in another player
-Open with	Open with
-This video has no file another player can open	This video has no file another player can open
-Name saves by account and post time	Name saves by account and post time
-Names each photo and video for the account that posted it and when, like username_20261005_143012, so an account's saves sort by date. A carousel page gets its number on the end. Takes the place of the video file name. A save that doesn't know who posted or when keeps its usual name.	Names each photo and video for the account that posted it and when, like username_20261005_143012, so an account's saves sort by date. A carousel page gets its number on the end. Takes the place of the video file name. A save that doesn't know who posted or when keeps its usual name.
-Save profile picture	Save profile picture
-Adds Save profile picture to the menu on someone's profile. Saves their picture at the largest size Instagram has.	Adds Save profile picture to the menu on someone's profile. Saves their picture at the largest size Instagram has.
-Show a post's exact time	Show a post's exact time
-Shows when a post and its comments went up, like Oct 2, 3:45 PM, instead of how long ago. Posts you load after a change show it.	Shows when a post and its comments went up, like Oct 2, 3:45 PM, instead of how long ago. Posts you load after a change show it.
-Show a reel's exact time	Show a reel's exact time
-Shows the date and time a reel was posted under the author's name, like Oct 2, 3:45 PM. A change shows from the next reel.	Shows the date and time a reel was posted under the author's name, like Oct 2, 3:45 PM. A change shows from the next reel.
-Show seconds in a reel's time	Show seconds in a reel's time
-Adds the seconds to a reel's time, like Oct 2, 3:45:30 PM.	Adds the seconds to a reel's time, like Oct 2, 3:45:30 PM.
-Show like counts the poster hid	Show like counts the poster hid
-Shows how many likes a post or reel has when its owner hid the count, but only when Instagram still sends the number. If it doesn't, nothing changes. Posts you load after a change show it.	Shows how many likes a post or reel has when its owner hid the count, but only when Instagram still sends the number. If it doesn't, nothing changes. Posts you load after a change show it.
-Back leaves Home as it is	Back leaves Home as it is
-Back on Home leaves Instagram without first scrolling the feed to the top and reloading it.	Back on Home leaves Instagram without first scrolling the feed to the top and reloading it.
-By @%1$s	By @%1$s
+Adds a row next to Download on a reel and a feed video that plays it in an app you pick, such as VLC. The player streams it from Instagram's servers.	يضيف صفاً بجانب خيار التنزيل في مقطع ريلز أو فيديو في الموجز لتشغيله في تطبيق تختاره، مثل VLC. ويشغّل التطبيق الفيديو مباشرة من خوادم Instagram.
+Couldn't open another player	تعذّر فتح مشغّل آخر
+No app on this phone can play this video	لا يوجد تطبيق على هذا الهاتف يمكنه تشغيل هذا الفيديو
+Open in another player	فتح في مشغّل آخر
+Open with	فتح باستخدام
+This video has no file another player can open	لا يتوفر لهذا الفيديو ملف يمكن لمشغّل آخر فتحه
+Name saves by account and post time	تسمية الملفات حسب الحساب ووقت النشر
+Names each photo and video for the account that posted it and when, like username_20261005_143012, so an account's saves sort by date. A carousel page gets its number on the end. Takes the place of the video file name. A save that doesn't know who posted or when keeps its usual name.	يسمّي كل صورة وفيديو باسم الحساب الذي نشره ووقت النشر، مثل username_20261005_143012، حتى تُرتب الملفات المحفوظة لكل حساب حسب التاريخ. يُضاف رقم صفحة المنشور المتعدد إلى نهاية الاسم. يحل هذا الخيار محل إعداد اسم ملف الفيديو. ويحتفظ الملف المحفوظ باسمه المعتاد إذا تعذّر تحديد الناشر أو وقت النشر.
+Save profile picture	حفظ الصورة الشخصية
+Adds Save profile picture to the menu on someone's profile. Saves their picture at the largest size Instagram has.	يضيف خيار حفظ الصورة الشخصية إلى قائمة الملف الشخصي لأي شخص. ويحفظ الصورة بأكبر حجم يوفّره Instagram.
+Show a post's exact time	إظهار التوقيت الدقيق للمنشور
+Shows when a post and its comments went up, like Oct 2, 3:45 PM, instead of how long ago. Posts you load after a change show it.	يعرض تاريخ ووقت نشر المنشور وتعليقاته، مثل 2 أكتوبر، 3:45 مساءً، بدلاً من المدة التي مضت على نشرها. تظهر الأوقات في المنشورات التي تحمّلها بعد تغيير الإعداد.
+Show a reel's exact time	إظهار التوقيت الدقيق لمقطع ريلز
+Shows the date and time a reel was posted under the author's name, like Oct 2, 3:45 PM. A change shows from the next reel.	يعرض تاريخ ووقت نشر مقطع ريلز أسفل اسم صاحبه، مثل 2 أكتوبر، 3:45 مساءً. يظهر التغيير بدءاً من المقطع التالي.
+Show seconds in a reel's time	إظهار الثواني في توقيت ريلز
+Adds the seconds to a reel's time, like Oct 2, 3:45:30 PM.	يضيف الثواني إلى توقيت مقطع ريلز، مثل 2 أكتوبر، 3:45:30 مساءً.
+Show like counts the poster hid	إظهار عدد الإعجابات الذي أخفاه الناشر
+Shows how many likes a post or reel has when its owner hid the count, but only when Instagram still sends the number. If it doesn't, nothing changes. Posts you load after a change show it.	يعرض عدد الإعجابات على المنشور أو مقطع ريلز عندما يخفي صاحبه العدد، ولكن فقط إذا كان Instagram لا يزال يرسل الرقم. إذا لم يرسله، فلن يتغير شيء. يظهر العدد في المنشورات التي تحمّلها بعد تغيير الإعداد.
+Back leaves Home as it is	زر الرجوع يُبقي الصفحة الرئيسية كما هي
+Back on Home leaves Instagram without first scrolling the feed to the top and reloading it.	يؤدي الضغط على زر الرجوع في الصفحة الرئيسية إلى مغادرة Instagram دون تمرير الموجز إلى الأعلى وإعادة تحميله أولاً.
+By @%1$s	بواسطة @%1$s
 Close	إغلاق
-Copy media link	Copy media link
-Couldn't copy the media link	Couldn't copy the media link
-Details	Details
+Copy media link	نسخ رابط الوسائط
+Couldn't copy the media link	تعذّر نسخ رابط الوسائط
+Details	التفاصيل
 Details in a post's menu	تفاصيل في قائمة المنشور
 Block in a post's menu	الحظر من قائمة المنشور
-Adds Block to the menu of someone else's feed post. It opens Instagram's own block sheet, so nothing happens until you confirm there.	Adds Block to the menu of someone else's feed post. It opens Instagram's own block sheet, so nothing happens until you confirm there.
+Adds Block to the menu of someone else's feed post. It opens Instagram's own block sheet, so nothing happens until you confirm there.	يضيف خيار الحظر إلى قائمة منشور في موجز شخص آخر. يفتح نافذة الحظر الأصلية في Instagram، ولن يحدث شيء حتى تؤكد الحظر هناك.
 Speed in a post's menu	السرعة في قائمة المنشور
-Adds Playback speed to a feed video's menu. Pick a speed from 0.5x to 3x for the video that's playing.	Adds Playback speed to a feed video's menu. Pick a speed from 0.5x to 3x for the video that's playing.
-Media ID %1$s	Media ID %1$s
-Media link	Media link
-Media link copied. It stops working after a few days.	Media link copied. It stops working after a few days.
-No direct link for this one	No direct link for this one
-Posted %1$s	Posted %1$s
-Size %1$d × %2$d	Size %1$d × %2$d
-Adds Details to a feed post's or reel's menu. It shows when it went up, who posted it, its media ID and the size Download saves, with buttons to copy the file link, username and caption.	Adds Details to a feed post's or reel's menu. It shows when it went up, who posted it, its media ID and the size Download saves, with buttons to copy the file link, username and caption.
-Caption	Caption
-Caption copied	Caption copied
-Copy caption	Copy caption
-Copy caption without hashtags	Copy caption without hashtags
-Copy username	Copy username
-Couldn't copy the caption	Couldn't copy the caption
-Couldn't copy the username	Couldn't copy the username
-Media link is the %1$d × %2$d file	Media link is the %1$d × %2$d file
-Username	Username
-Username copied	Username copied
-Adds Save to the menu you get by holding a voice message in a chat. Saves the recording as an audio file. One sent to be played once never gets it.	Adds Save to the menu you get by holding a voice message in a chat. Saves the recording as an audio file. One sent to be played once never gets it.
-Cancel saving this voice message	Cancel saving this voice message
-Download voice messages	Download voice messages
-Following each other	Following each other
-Hide the comment bar on reposted reels	Hide the comment bar on reposted reels
-Puts the answer in a chip under the profile's posts, followers and following counts instead, and says Following each other when you follow them too. Tap the chip to see everything else Instagram has said about you two, like Close Friends, mutes and restrictions.	Puts the answer in a chip under the profile's posts, followers and following counts instead, and says Following each other when you follow them too. Tap the chip to see everything else Instagram has said about you two, like Close Friends, mutes and restrictions.
-Saving a voice message	Saving a voice message
-Show it as a chip	Show it as a chip
-Follow label	Follow label
-Under the counts	Under the counts
-Small, under the picture	Small, under the picture
-The chip sits under the posts, followers and following counts.	The chip sits under the posts, followers and following counts.
-A smaller chip, centered under the profile picture. A profile with no room there gets the small chip under the counts.	A smaller chip, centered under the profile picture. A profile with no room there gets the small chip under the counts.
-Turn on Show it as a chip to use this choice.	Turn on Show it as a chip to use this choice.
-Turn on Show if a profile follows you to use this choice.	Turn on Show if a profile follows you to use this choice.
-The Add comment bar under a reel you open from a profile's reposts. The comment button still opens the comments.	The Add comment bar under a reel you open from a profile's reposts. The comment button still opens the comments.
-Hide the comment bar on all reels	Hide the comment bar on all reels
-The Add a comment bar under every reel, including the ones in the Reels tab. The comment button still opens the comments.	The Add a comment bar under every reel, including the ones in the Reels tab. The comment button still opens the comments.
-Keep the comment bar's space	Keep the comment bar's space
-Leaves an empty black band where a hidden comment bar was on reels outside the Reels tab, like the ones you open from Explore or a profile, so the reel, its buttons and the seek bar don't move down.	Leaves an empty black band where a hidden comment bar was on reels outside the Reels tab, like the ones you open from Explore or a profile, so the reel, its buttons and the seek bar don't move down.
-Adds Copy username and Copy bio to the menu on someone's profile. Each copies the text exactly as the account has it.	Adds Copy username and Copy bio to the menu on someone's profile. Each copies the text exactly as the account has it.
-Adds View profile picture to the menu on someone's profile. Opens their picture full screen at the largest size Instagram has, with pinch zoom and a Save button.	Adds View profile picture to the menu on someone's profile. Opens their picture full screen at the largest size Instagram has, with pinch zoom and a Save button.
-Bio	Bio
-Bio copied	Bio copied
-Copy bio	Copy bio
-Copy username and bio	Copy username and bio
-Profile extras button	Profile extras button
-Puts a button next to the three dots on profiles that opens HushGram's profile actions. Needs Save profile picture, View profile picture or Copy username and bio on. The rows in the three-dot menu stay too.	Puts a button next to the three dots on profiles that opens HushGram's profile actions. Needs Save profile picture, View profile picture or Copy username and bio on. The rows in the three-dot menu stay too.
-HushGram profile actions	HushGram profile actions
-Nothing to do for this profile	Nothing to do for this profile
-Couldn't copy the bio	Couldn't copy the bio
-Couldn't open the picture	Couldn't open the picture
-Profile picture	Profile picture
-View profile picture	View profile picture
-Hide carousels	Hide carousels
-Hide photos	Hide photos
-Hide videos	Hide videos
-Removes every single-photo post from Home, even from accounts you follow. Pull down on Home to refresh after changing it.	Removes every single-photo post from Home, even from accounts you follow. Pull down on Home to refresh after changing it.
-Removes every single-video post and reel from Home, even from accounts you follow. Pull down on Home to refresh after changing it.	Removes every single-video post and reel from Home, even from accounts you follow. Pull down on Home to refresh after changing it.
-Removes every post with more than one photo or video from Home, even from accounts you follow. Pull down on Home to refresh after changing it.	Removes every post with more than one photo or video from Home, even from accounts you follow. Pull down on Home to refresh after changing it.
-Hide posts you've liked	Hide posts you've liked
-Removes posts you've already liked from Home and Following. A post you like now stays until you pull down on Home to refresh.	Removes posts you've already liked from Home and Following. A post you like now stays until you pull down on Home to refresh.
-Hidden accounts	Hidden accounts
-Takes posts by the accounts you pick out of Home and Following. Each account you sign in to keeps its own list.	Takes posts by the accounts you pick out of Home and Following. Each account you sign in to keeps its own list.
-No accounts are hidden yet. Add a username to take that account's posts out of Home and Following.	No accounts are hidden yet. Add a username to take that account's posts out of Home and Following.
-Add a username	Add a username
-Hide their posts	Hide their posts
-Posts from @%1$s are hidden	Posts from @%1$s are hidden
-@%1$s is hidden in Home and Following	@%1$s is hidden in Home and Following
-Posts from @%1$s show again	Posts from @%1$s show again
-Up to 30 letters, numbers, dots and underscores	Up to 30 letters, numbers, dots and underscores
-Hide posts from this account	Hide posts from this account
-Couldn't hide this account	Couldn't hide this account
-%1$d mentions	%1$d mentions
-%1$s, see who this story mentions	%1$s, see who this story mentions
-1 mention	1 mention
+Adds Playback speed to a feed video's menu. Pick a speed from 0.5x to 3x for the video that's playing.	يضيف خيار سرعة التشغيل إلى قائمة فيديو في الموجز. اختر سرعة من 0.5x إلى 3x للفيديو الجاري تشغيله.
+Media ID %1$s	معرّف الوسائط %1$s
+Media link	رابط الوسائط
+Media link copied. It stops working after a few days.	تم نسخ رابط الوسائط. ستنتهي صلاحيته بعد بضعة أيام.
+No direct link for this one	لا يتوفر رابط مباشر لهذا العنصر
+Posted %1$s	نُشر في %1$s
+Size %1$d × %2$d	الحجم %1$d × %2$d
+Adds Details to a feed post's or reel's menu. It shows when it went up, who posted it, its media ID and the size Download saves, with buttons to copy the file link, username and caption.	يضيف خيار التفاصيل إلى قائمة منشور في الموجز أو مقطع ريلز. يعرض وقت النشر واسم الناشر ومعرّف الوسائط والحجم الذي يحفظه خيار التنزيل، مع أزرار لنسخ رابط الملف واسم المستخدم والوصف.
+Caption	الوصف
+Caption copied	تم نسخ الوصف
+Copy caption	نسخ الوصف
+Copy caption without hashtags	نسخ الوصف دون الوسوم
+Copy username	نسخ اسم المستخدم
+Couldn't copy the caption	تعذّر نسخ الوصف
+Couldn't copy the username	تعذّر نسخ اسم المستخدم
+Media link is the %1$d × %2$d file	رابط الوسائط هو الملف بأبعاد %1$d × %2$d
+Username	اسم المستخدم
+Username copied	تم نسخ اسم المستخدم
+Adds Save to the menu you get by holding a voice message in a chat. Saves the recording as an audio file. One sent to be played once never gets it.	يضيف خيار الحفظ إلى القائمة التي تظهر عند الضغط المطول على رسالة صوتية في محادثة. ويحفظ التسجيل كملف صوتي. ولا يظهر هذا الخيار للرسائل المرسلة للاستماع مرة واحدة.
+Cancel saving this voice message	إلغاء حفظ هذه الرسالة الصوتية
+Download voice messages	تنزيل الرسائل الصوتية
+Following each other	تتابعان بعضكما
+Hide the comment bar on reposted reels	إخفاء شريط التعليق في مقاطع ريلز المعاد نشرها
+Puts the answer in a chip under the profile's posts, followers and following counts instead, and says Following each other when you follow them too. Tap the chip to see everything else Instagram has said about you two, like Close Friends, mutes and restrictions.	يعرض الإجابة في شارة أسفل أعداد المنشورات والمتابعين والحسابات التي يتابعها الملف الشخصي، ويعرض عبارة «تتابعان بعضكما» إذا كنت تتابعه أيضاً. اضغط على الشارة لرؤية بقية المعلومات التي يعرضها Instagram عن علاقتكما، مثل الأصدقاء المقربين والكتم والتقييد.
+Saving a voice message	جارٍ حفظ رسالة صوتية
+Show it as a chip	عرضه على شكل شارة
+Follow label	شارة المتابعة
+Under the counts	أسفل الأعداد
+Small, under the picture	صغيرة أسفل الصورة
+The chip sits under the posts, followers and following counts.	تظهر الشارة أسفل أعداد المنشورات والمتابعين والحسابات التي تتم متابعتها.
+A smaller chip, centered under the profile picture. A profile with no room there gets the small chip under the counts.	شارة أصغر تتوسط المساحة أسفل الصورة الشخصية. إذا لم تتوفر مساحة كافية في الملف الشخصي، فستظهر الشارة الصغيرة أسفل الأعداد.
+Turn on Show it as a chip to use this choice.	فعّل خيار عرضه على شكل شارة لاستخدام هذا الاختيار.
+Turn on Show if a profile follows you to use this choice.	فعّل خيار إظهار ما إذا كان الحساب يتابعك لاستخدام هذا الاختيار.
+The Add comment bar under a reel you open from a profile's reposts. The comment button still opens the comments.	شريط إضافة تعليق أسفل مقطع ريلز تفتحه من إعادات النشر في ملف شخصي. يظل زر التعليقات يفتح التعليقات.
+Hide the comment bar on all reels	إخفاء شريط التعليق في جميع مقاطع ريلز
+The Add a comment bar under every reel, including the ones in the Reels tab. The comment button still opens the comments.	شريط إضافة تعليق أسفل كل مقطع ريلز، بما في ذلك المقاطع الموجودة في علامة تبويب ريلز. يظل زر التعليقات يفتح التعليقات.
+Keep the comment bar's space	الإبقاء على مساحة شريط التعليق
+Leaves an empty black band where a hidden comment bar was on reels outside the Reels tab, like the ones you open from Explore or a profile, so the reel, its buttons and the seek bar don't move down.	يُبقي شريطاً أسود فارغاً في موضع شريط التعليق المخفي في مقاطع ريلز خارج علامة تبويب ريلز، مثل المقاطع التي تفتحها من الاستكشاف أو ملف شخصي، حتى لا يتحرك المقطع وأزراره وشريط التقدم إلى الأسفل.
+Adds Copy username and Copy bio to the menu on someone's profile. Each copies the text exactly as the account has it.	يضيف خياري نسخ اسم المستخدم ونسخ النبذة إلى قائمة الملف الشخصي لأي شخص. ينسخ كل خيار النص تماماً كما يظهر في الحساب.
+Adds View profile picture to the menu on someone's profile. Opens their picture full screen at the largest size Instagram has, with pinch zoom and a Save button.	يضيف خيار عرض الصورة الشخصية إلى قائمة الملف الشخصي لأي شخص. يفتح الصورة بملء الشاشة بأكبر حجم يوفّره Instagram، مع إمكانية التكبير والتصغير وزر للحفظ.
+Bio	النبذة
+Bio copied	تم نسخ النبذة
+Copy bio	نسخ النبذة
+Copy username and bio	نسخ اسم المستخدم والنبذة
+Profile extras button	زر إجراءات الملف الشخصي الإضافية
+Puts a button next to the three dots on profiles that opens HushGram's profile actions. Needs Save profile picture, View profile picture or Copy username and bio on. The rows in the three-dot menu stay too.	يضيف زراً بجانب النقاط الثلاث في الملفات الشخصية لفتح إجراءات الملف الشخصي في HushGram. يتطلب تفعيل خيار حفظ الصورة الشخصية أو عرض الصورة الشخصية أو نسخ اسم المستخدم والنبذة. وتظل عناصر قائمة النقاط الثلاث متاحة أيضاً.
+HushGram profile actions	إجراءات الملف الشخصي في HushGram
+Nothing to do for this profile	لا توجد إجراءات متاحة لهذا الملف الشخصي
+Couldn't copy the bio	تعذّر نسخ النبذة
+Couldn't open the picture	تعذّر فتح الصورة
+Profile picture	الصورة الشخصية
+View profile picture	عرض الصورة الشخصية
+Hide carousels	إخفاء المنشورات المتعددة
+Hide photos	إخفاء الصور
+Hide videos	إخفاء الفيديوهات
+Removes every single-photo post from Home, even from accounts you follow. Pull down on Home to refresh after changing it.	يزيل جميع المنشورات التي تحتوي على صورة واحدة من الصفحة الرئيسية، حتى المنشورات الصادرة عن الحسابات التي تتابعها. اسحب الصفحة الرئيسية إلى الأسفل لتحديثها بعد تغيير هذا الإعداد.
+Removes every single-video post and reel from Home, even from accounts you follow. Pull down on Home to refresh after changing it.	يزيل جميع المنشورات التي تحتوي على فيديو واحد ومقاطع ريلز من الصفحة الرئيسية، حتى المنشورات الصادرة عن الحسابات التي تتابعها. اسحب الصفحة الرئيسية إلى الأسفل لتحديثها بعد تغيير هذا الإعداد.
+Removes every post with more than one photo or video from Home, even from accounts you follow. Pull down on Home to refresh after changing it.	يزيل جميع المنشورات التي تحتوي على أكثر من صورة أو فيديو من الصفحة الرئيسية، حتى المنشورات الصادرة عن الحسابات التي تتابعها. اسحب الصفحة الرئيسية إلى الأسفل لتحديثها بعد تغيير هذا الإعداد.
+Hide posts you've liked	إخفاء المنشورات التي أعجبتك
+Removes posts you've already liked from Home and Following. A post you like now stays until you pull down on Home to refresh.	يزيل المنشورات التي سبق أن أعجبتك من الرئيسية وقائمة المتابَعين. أما المنشور الذي تعجب به الآن فيظل ظاهراً حتى تسحب الصفحة الرئيسية إلى الأسفل لتحديثها.
+Hidden accounts	الحسابات المخفية
+Takes posts by the accounts you pick out of Home and Following. Each account you sign in to keeps its own list.	يخفي منشورات الحسابات التي تحددها من الرئيسية وقائمة المتابَعين. ويحتفظ كل حساب تسجل الدخول إليه بقائمته الخاصة.
+No accounts are hidden yet. Add a username to take that account's posts out of Home and Following.	لم يتم إخفاء أي حساب بعد. أضف اسم مستخدم لإزالة منشوراته من الرئيسية وقائمة المتابَعين.
+Add a username	إضافة اسم مستخدم
+Hide their posts	إخفاء منشوراته
+Posts from @%1$s are hidden	تم إخفاء منشورات @%1$s
+@%1$s is hidden in Home and Following	تم إخفاء @%1$s من الرئيسية وقائمة المتابَعين
+Posts from @%1$s show again	عادت منشورات @%1$s للظهور
+Up to 30 letters, numbers, dots and underscores	حتى 30 حرفاً أو رقماً أو نقطة أو شرطة سفلية
+Hide posts from this account	إخفاء منشورات هذا الحساب
+Couldn't hide this account	تعذّر إخفاء هذا الحساب
+%1$d mentions	%1$d إشارات
+%1$s, see who this story mentions	%1$s، تعرّف على الأشخاص المشار إليهم في هذه القصة
+1 mention	إشارة واحدة
 A story's header says how many accounts it mentions, even when the mention is hidden. Tap that for the list, and tap someone to open their profile.	A story's header says how many accounts it mentions, even when the mention is hidden. Tap that for the list, and tap someone to open their profile.
 Mentioned in this story	Mentioned in this story
 See who a story mentions	See who a story mentions
