@@ -1378,11 +1378,11 @@ Reply to author (posts and reels)	الرد على صاحب المحتوى (ال�
 Watch on TV	المشاهدة على التلفاز
 Download profile card (on profiles)	تنزيل بطاقة الملف الشخصي
 Add to channel	إضافة إلى القناة
-WhatsApp	WhatsApp
+WhatsApp	واتساب
 SMS	رسالة نصية SMS
-Messenger	Messenger
-Facebook	Facebook
-Snapchat	Snapchat
+Messenger	ماسنجر
+Facebook	فيسبوك
+Snapchat	سناب شات
 X	X
 Threads	Threads
 LINE	LINE
@@ -1798,46 +1798,46 @@ GIF or sticker	صورة GIF أو ملصق
 View once message	رسالة للعرض مرة واحدة
 Attachment	مرفق
 Send	إرسال
-Dim stories too	Dim stories too
-Burn-in guard also fades the top and bottom of a story while you watch without touching, the eye button too. Any tap brings them back.	Burn-in guard also fades the top and bottom of a story while you watch without touching, the eye button too. Any tap brings them back.
-Speed button on reels	Speed button on reels
-Puts a speed icon beside a reel. Tap it to pick a speed from 0.5x to 3x. With Keep the reel speed on, the next reels play at it too.	Puts a speed icon beside a reel. Tap it to pick a speed from 0.5x to 3x. With Keep the reel speed on, the next reels play at it too.
-Speed in the reel menu	Speed in the reel menu
-Adds Playback speed to the menu a reel's three dots open. Pick a speed there from 0.5x to 3x. With Keep the reel speed on, the next reels play at it too.	Adds Playback speed to the menu a reel's three dots open. Pick a speed there from 0.5x to 3x. With Keep the reel speed on, the next reels play at it too.
-Full screen button on reels	Full screen button on reels
-Puts a Full screen icon beside a reel, so one tap does what Full screen in its menu does. Start every reel in clear mode opens every reel that way.	Puts a Full screen icon beside a reel, so one tap does what Full screen in its menu does. Start every reel in clear mode opens every reel that way.
-Playback speed	Playback speed
-Full screen	Full screen
-Speed didn't change	Speed didn't change
-Full screen didn't open	Full screen didn't open
+Dim stories too	تعتيم القصص أيضًا
+Burn-in guard also fades the top and bottom of a story while you watch without touching, the eye button too. Any tap brings them back.	يُخفي مانع احتراق الشاشة تدريجيًا أعلى القصة وأسفلها أثناء المشاهدة دون لمس، بما في ذلك زر العين. تعيد أي لمسة إظهارها.
+Speed button on reels	زر السرعة في الريلز
+Puts a speed icon beside a reel. Tap it to pick a speed from 0.5x to 3x. With Keep the reel speed on, the next reels play at it too.	يضيف أيقونة للسرعة بجانب الريل. اضغط عليها لاختيار سرعة من 0.5x إلى 3x. عند تفعيل «الاحتفاظ بسرعة الريلز»، ستُشغّل الريلز التالية بالسرعة نفسها.
+Speed in the reel menu	السرعة في قائمة الريل
+Adds Playback speed to the menu a reel's three dots open. Pick a speed there from 0.5x to 3x. With Keep the reel speed on, the next reels play at it too.	يضيف خيار «سرعة التشغيل» إلى القائمة التي تفتحها النقاط الثلاث في الريل. اختر سرعة من 0.5x إلى 3x. عند تفعيل «الاحتفاظ بسرعة الريلز»، ستُشغّل الريلز التالية بالسرعة نفسها.
+Full screen button on reels	زر ملء الشاشة في الريلز
+Puts a Full screen icon beside a reel, so one tap does what Full screen in its menu does. Start every reel in clear mode opens every reel that way.	يضيف أيقونة «ملء الشاشة» بجانب الريل لتنفيذ الأمر بلمسة واحدة بدلًا من فتح القائمة. يؤدي تفعيل «بدء كل ريل بوضع العرض الواضح» إلى فتح جميع الريلز بهذه الطريقة.
+Playback speed	سرعة التشغيل
+Full screen	ملء الشاشة
+Speed didn't change	لم تتغير السرعة
+Full screen didn't open	تعذّر فتح وضع ملء الشاشة
 Stories fill the screen	ملء الشاشة بالقصص
-On a tall screen a story covers the whole screen, with the reply bar on top of it like on shorter phones, instead of a rounded card above the bar.	On a tall screen a story covers the whole screen, with the reply bar on top of it like on shorter phones, instead of a rounded card above the bar.
-Copy all	Copy all
-Copied	Copied
-Comment	Comment
-Couldn't open the text	Couldn't open the text
-Select text	Select text
-Select text to copy	Select text to copy
-Adds Select text to a selected comment's menu, a post's details and a profile's menu. It opens the text in a window where you can select part of it and copy it. Links work there.	Adds Select text to a selected comment's menu, a post's details and a profile's menu. It opens the text in a window where you can select part of it and copy it. Links work there.
-Unfollow alerts	Unfollow alerts
-Who stopped following you, after you open your Followers list	Who stopped following you, after you open your Followers list
-1 person stopped following you	1 person stopped following you
-%1$d people stopped following you	%1$d people stopped following you
-%1$s and %2$d more	%1$s and %2$d more
-Notify me of unfollowers	Notify me of unfollowers
-After you scroll your own Followers list to the end, posts a notification naming who has left since last time. Nothing extra is asked of Instagram.	After you scroll your own Followers list to the end, posts a notification naming who has left since last time. Nothing extra is asked of Instagram.
+On a tall screen a story covers the whole screen, with the reply bar on top of it like on shorter phones, instead of a rounded card above the bar.	على الشاشات الطويلة، تمتد القصة لتغطي الشاشة بالكامل، ويظهر شريط الرد فوقها كما في الهواتف الأقصر، بدلًا من عرضها كبطاقة مستديرة فوق الشريط.
+Copy all	نسخ الكل
+Copied	تم النسخ
+Comment	تعليق
+Couldn't open the text	تعذّر فتح النص
+Select text	تحديد النص
+Select text to copy	حدّد النص لنسخه
+Adds Select text to a selected comment's menu, a post's details and a profile's menu. It opens the text in a window where you can select part of it and copy it. Links work there.	يضيف خيار «تحديد النص» إلى قائمة التعليق المحدد، وتفاصيل المنشور، وقائمة الملف الشخصي. يفتح النص في نافذة تتيح تحديد جزء منه ونسخه، مع إمكانية فتح الروابط.
+Unfollow alerts	تنبيهات إلغاء المتابعة
+Who stopped following you, after you open your Followers list	من ألغوا متابعتك، بعد فتح قائمة متابعيك
+1 person stopped following you	ألغى شخص واحد متابعتك
+%1$d people stopped following you	ألغى %1$d أشخاص متابعتك
+%1$s and %2$d more	%1$s و%2$d آخرين
+Notify me of unfollowers	أبلغني بمن ألغوا متابعتي
+After you scroll your own Followers list to the end, posts a notification naming who has left since last time. Nothing extra is asked of Instagram.	بعد التمرير إلى نهاية قائمة متابعيك، يرسل إشعارًا بأسماء من ألغوا متابعتك منذ المرة السابقة. لا يطلب أي بيانات إضافية من إنستغرام.
 About this account	حول هذا الحساب
-About this account button	About this account button
-Puts an (i) next to the three dots on a profile that opens Instagram's About this account for that account. Instagram took its own away.	Puts an (i) next to the three dots on a profile that opens Instagram's About this account for that account. Instagram took its own away.
-Hide reels in other languages	Hide reels in other languages
-Leaves out reels in the Reels tab whose caption is in a language you didn't list below. A caption too short to tell, or a reel you open yourself, still shows.	Leaves out reels in the Reels tab whose caption is in a language you didn't list below. A caption too short to tell, or a reel you open yourself, still shows.
+About this account button	زر «حول هذا الحساب»
+Puts an (i) next to the three dots on a profile that opens Instagram's About this account for that account. Instagram took its own away.	يضيف رمز (i) بجانب النقاط الثلاث في الملف الشخصي لفتح صفحة «حول هذا الحساب» الخاصة بإنستغرام. كانت إنستغرام قد أزالت زرها الأصلي.
+Hide reels in other languages	إخفاء الريلز باللغات الأخرى
+Leaves out reels in the Reels tab whose caption is in a language you didn't list below. A caption too short to tell, or a reel you open yourself, still shows.	يستبعد من تبويب الريلز المقاطع التي كُتب وصفها بلغة لم تُدرجها أدناه. تظل المقاطع ذات الأوصاف القصيرة التي يتعذر تحديد لغتها، أو التي تفتحها بنفسك، ظاهرة.
 Languages to keep	اللغات المطلوب الاحتفاظ بها
-Language codes or names, with a comma or a new line between them, like en, Hindi or Español. Leave it empty to keep your phone's languages.	Language codes or names, with a comma or a new line between them, like en, Hindi or Español. Leave it empty to keep your phone's languages.
-Leaves out posts on Home whose caption is in another language too. Pull down on Home to refresh after changing it.	Leaves out posts on Home whose caption is in another language too. Pull down on Home to refresh after changing it.
-Keeps %1$s	Keeps %1$s
-Keeps your phone's languages: %1$s	Keeps your phone's languages: %1$s
-Keeps %1$s. Didn't recognize: %2$s	Keeps %1$s. Didn't recognize: %2$s
-Didn't recognize: %1$s	Didn't recognize: %1$s
+Language codes or names, with a comma or a new line between them, like en, Hindi or Español. Leave it empty to keep your phone's languages.	أدخل رموز اللغات أو أسماءها، وافصل بينها بفاصلة أو سطر جديد، مثل en أو Hindi أو Español. اترك الحقل فارغًا لاستخدام لغات هاتفك.
+Leaves out posts on Home whose caption is in another language too. Pull down on Home to refresh after changing it.	يستبعد أيضًا من الصفحة الرئيسية المنشورات التي كُتب وصفها بلغة أخرى. اسحب الصفحة الرئيسية إلى الأسفل لتحديثها بعد تغيير الإعداد.
+Keeps %1$s	يحتفظ بـ %1$s
+Keeps your phone's languages: %1$s	يحتفظ بلغات هاتفك: %1$s
+Keeps %1$s. Didn't recognize: %2$s	يحتفظ بـ %1$s. لم يتعرّف على: %2$s
+Didn't recognize: %1$s	لم يتعرّف على: %1$s
 Keep playing in the background	Keep playing in the background
 A video or reel playing with sound keeps going when you leave Instagram or turn the screen off. A notification lets you pause or stop it.	A video or reel playing with sound keeps going when you leave Instagram or turn the screen off. A notification lets you pause or stop it.
 Background playback	التشغيل في الخلفية
