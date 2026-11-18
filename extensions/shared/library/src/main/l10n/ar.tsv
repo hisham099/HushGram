@@ -446,112 +446,112 @@ The cards of people and creators to follow that Instagram puts between reels. Ev
 Hide stories in Reels	إخفاء القصص داخل ريلز
 The Catch up with friends pages of stories that Instagram puts between reels. Stories stay at the top of Home.	صفحات القصص «تابع أخبار أصدقائك» التي يضعها Instagram بين مقاطع ريلز. وتظل القصص في أعلى الصفحة الرئيسية.
 Leaves out reels with a Paid partnership label, and reels Instagram marks as boosted. Ads have their own switch.	يخفي مقاطع ريلز التي تحمل علامة «شراكة مدفوعة» والمقاطع التي يحددها Instagram على أنها مروّجة. وللإعلانات مفتاح تحكم مستقل.
-Turn on Start Home on Following to use this choice.	Turn on Start Home on Following to use this choice.
-Turn on %1$s to use this slider.	Turn on %1$s to use this slider.
-Turn on Story ring size to use this choice.	Turn on Story ring size to use this choice.
-Turn on Default playback quality to use this choice.	Turn on Default playback quality to use this choice.
-Updating remembered positions...	Updating remembered positions...
-Undo cleared positions	Undo cleared positions
-Clear remembered positions	Clear remembered positions
-Undo is available until %1$s.	Undo is available until %1$s.
-HushGram remembers where you stopped in up to 200 videos for 30 days. Tap to clear them from this device.	HushGram remembers where you stopped in up to 200 videos for 30 days. Tap to clear them from this device.
-Remembered playback positions restored.	Remembered playback positions restored.
-Undo has expired.	Undo has expired.
-You cleared the remembered playback positions.	You cleared the remembered playback positions.
-Couldn't update remembered playback positions.	Couldn't update remembered playback positions.
+Turn on Start Home on Following to use this choice.	فعّل خيار فتح الصفحة الرئيسية على «المتابَعون» لاستخدام هذا الاختيار.
+Turn on %1$s to use this slider.	فعّل %1$s لاستخدام شريط التمرير هذا.
+Turn on Story ring size to use this choice.	فعّل خيار حجم إطار القصة لاستخدام هذا الاختيار.
+Turn on Default playback quality to use this choice.	فعّل خيار جودة التشغيل الافتراضية لاستخدام هذا الاختيار.
+Updating remembered positions...	جارٍ تحديث مواضع التشغيل المحفوظة...
+Undo cleared positions	التراجع عن مسح المواضع
+Clear remembered positions	مسح مواضع التشغيل المحفوظة
+Undo is available until %1$s.	يمكن التراجع حتى %1$s.
+HushGram remembers where you stopped in up to 200 videos for 30 days. Tap to clear them from this device.	يتذكر HushGram موضع توقفك في ما يصل إلى 200 فيديو لمدة 30 يوماً. اضغط لمسح هذه المواضع من هذا الجهاز.
+Remembered playback positions restored.	تمت استعادة مواضع التشغيل المحفوظة.
+Undo has expired.	انتهت مهلة التراجع.
+You cleared the remembered playback positions.	لقد مسحت مواضع التشغيل المحفوظة.
+Couldn't update remembered playback positions.	تعذّر تحديث مواضع التشغيل المحفوظة.
 Settings backup	نسخة احتياطية للإعدادات
-Export HushGram settings	Export HushGram settings
-Choose a file for your installed patches' settings. Accounts and history stay on this device.	Choose a file for your installed patches' settings. Accounts and history stay on this device.
-Import HushGram settings	Import HushGram settings
-Choose a settings file. All valid choices apply together, and ones this version doesn't know are skipped. The Undo row shows how long you can undo.	Choose a settings file. All valid choices apply together, and ones this version doesn't know are skipped. The Undo row shows how long you can undo.
-Undo settings import	Undo settings import
-Undo is available until %1$s. Restarting Instagram discards Undo.	Undo is available until %1$s. Restarting Instagram discards Undo.
-No settings import to undo.	No settings import to undo.
-There's no file picker. Your settings haven't changed.	There's no file picker. Your settings haven't changed.
-Couldn't use that file. Your settings haven't changed.	Couldn't use that file. Your settings haven't changed.
-HushGram settings exported.	HushGram settings exported.
-Couldn't export HushGram settings. Try another file.	Couldn't export HushGram settings. Try another file.
+Export HushGram settings	تصدير إعدادات HushGram
+Choose a file for your installed patches' settings. Accounts and history stay on this device.	اختر ملفاً لإعدادات الرقع المثبتة لديك. ستظل الحسابات والسجل محفوظين على هذا الجهاز.
+Import HushGram settings	استيراد إعدادات HushGram
+Choose a settings file. All valid choices apply together, and ones this version doesn't know are skipped. The Undo row shows how long you can undo.	اختر ملف إعدادات. ستُطبّق جميع الخيارات الصالحة معاً، وسيتم تجاهل الخيارات التي لا يتعرف عليها هذا الإصدار. يوضح صف التراجع المدة المتاحة للتراجع.
+Undo settings import	التراجع عن استيراد الإعدادات
+Undo is available until %1$s. Restarting Instagram discards Undo.	يمكن التراجع حتى %1$s. تؤدي إعادة تشغيل Instagram إلى إلغاء إمكانية التراجع.
+No settings import to undo.	لا يوجد استيراد إعدادات للتراجع عنه.
+There's no file picker. Your settings haven't changed.	لا تتوفر أداة اختيار الملفات. لم تتغير إعداداتك.
+Couldn't use that file. Your settings haven't changed.	تعذّر استخدام هذا الملف. لم تتغير إعداداتك.
+HushGram settings exported.	تم تصدير إعدادات HushGram.
+Couldn't export HushGram settings. Try another file.	تعذّر تصدير إعدادات HushGram. جرّب ملفاً آخر.
 Settings restored.	تمت استعادة الإعدادات.
-Imported %1$d settings. Skipped %2$d that this version doesn't know.	Imported %1$d settings. Skipped %2$d that this version doesn't know.
-Imported %1$d settings.	Imported %1$d settings.
-Lock switches stay as they are until you change them here.	Lock switches stay as they are until you change them here.
-Restart Instagram to apply these choices.	Restart Instagram to apply these choices.
-Couldn't save the settings. The previous values were restored.	Couldn't save the settings. The previous values were restored.
-Undo couldn't fully restore the settings. Check the shown values. Undo has been used up.	Undo couldn't fully restore the settings. Check the shown values. Undo has been used up.
-Couldn't save or fully restore the settings. Check the shown values and try Undo.	Couldn't save or fully restore the settings. Check the shown values and try Undo.
-Couldn't start that. Try again.	Couldn't start that. Try again.
-A save stopped. Reopen the media and save again.	A save stopped. Reopen the media and save again.
-%1$d saves stopped. Reopen the media and save again.	%1$d saves stopped. Reopen the media and save again.
-A save was interrupted	A save was interrupted
-%1$d saves were interrupted	%1$d saves were interrupted
-Reopen the media and save again.	Reopen the media and save again.
+Imported %1$d settings. Skipped %2$d that this version doesn't know.	تم استيراد %1$d إعدادات. تم تجاهل %2$d إعدادات لا يتعرف عليها هذا الإصدار.
+Imported %1$d settings.	تم استيراد %1$d إعدادات.
+Lock switches stay as they are until you change them here.	ستظل مفاتيح القفل على حالها حتى تغيّرها من هنا.
+Restart Instagram to apply these choices.	أعد تشغيل Instagram لتطبيق هذه الاختيارات.
+Couldn't save the settings. The previous values were restored.	تعذّر حفظ الإعدادات. تمت استعادة القيم السابقة.
+Undo couldn't fully restore the settings. Check the shown values. Undo has been used up.	لم يتمكن التراجع من استعادة الإعدادات بالكامل. تحقق من القيم المعروضة. لم تعد إمكانية التراجع متاحة.
+Couldn't save or fully restore the settings. Check the shown values and try Undo.	تعذّر حفظ الإعدادات أو استعادتها بالكامل. تحقق من القيم المعروضة وحاول التراجع.
+Couldn't start that. Try again.	تعذّر بدء العملية. حاول مرة أخرى.
+A save stopped. Reopen the media and save again.	توقفت عملية حفظ. أعد فتح الوسائط وحاول حفظها مجدداً.
+%1$d saves stopped. Reopen the media and save again.	توقفت %1$d عمليات حفظ. أعد فتح الوسائط وحاول حفظها مجدداً.
+A save was interrupted	تمت مقاطعة عملية حفظ
+%1$d saves were interrupted	تمت مقاطعة %1$d عمليات حفظ
+Reopen the media and save again.	أعد فتح الوسائط وحاول حفظها مجدداً.
 Search settings	البحث في الإعدادات
-Clear search	Clear search
+Clear search	مسح البحث
 No matching settings	لا توجد إعدادات مطابقة
 Try another word. Settings only appear for patches included in this install.	جرّب كلمة أخرى. لا تظهر إلا إعدادات الرقع المضمّنة في هذا التثبيت.
-Save all	Save all
-Saving a carousel	Saving a carousel
-Cancel saving this carousel	Cancel saving this carousel
-Page %1$d of %2$d	Page %1$d of %2$d
-Not saved: a carousel can have at most %1$d pages	Not saved: a carousel can have at most %1$d pages
-Carousel canceled. Saved %1$d. Failed %2$d. Skipped %3$d.	Carousel canceled. Saved %1$d. Failed %2$d. Skipped %3$d.
-Saved %1$d. Failed %2$d. Skipped %3$d.	Saved %1$d. Failed %2$d. Skipped %3$d.
-%1$d saved in lower quality than on Instagram.	%1$d saved in lower quality than on Instagram.
-Last carousel save	Last carousel save
+Save all	حفظ الكل
+Saving a carousel	جارٍ حفظ منشور متعدد الوسائط
+Cancel saving this carousel	إلغاء حفظ هذا المنشور المتعدد
+Page %1$d of %2$d	الصفحة %1$d من %2$d
+Not saved: a carousel can have at most %1$d pages	لم يتم الحفظ: يمكن أن يحتوي المنشور المتعدد على %1$d صفحات كحد أقصى
+Carousel canceled. Saved %1$d. Failed %2$d. Skipped %3$d.	تم إلغاء حفظ المنشور المتعدد. تم حفظ %1$d، وفشل %2$d، وتم تخطي %3$d.
+Saved %1$d. Failed %2$d. Skipped %3$d.	تم حفظ %1$d، وفشل %2$d، وتم تخطي %3$d.
+%1$d saved in lower quality than on Instagram.	تم حفظ %1$d بجودة أقل من الجودة على Instagram.
+Last carousel save	آخر عملية حفظ لمنشور متعدد
 Comments	التعليقات
-Copy comment	Copy comment
-Adds Copy to a selected comment's menu. Copies the original text, including line breaks.	Adds Copy to a selected comment's menu. Copies the original text, including line breaks.
-Copy without the @names at the start	Copy without the @names at the start
-When a comment starts with @names, like most replies do, Copy leaves them out. The comment in Instagram stays the same.	When a comment starts with @names, like most replies do, Copy leaves them out. The comment in Instagram stays the same.
-Copy the commenter's username	Copy the commenter's username
-Adds Copy username to a selected comment's menu, for the account that wrote it.	Adds Copy username to a selected comment's menu, for the account that wrote it.
-Comment copied	Comment copied
-Couldn't copy comment	Couldn't copy comment
-Save comment photo	Save comment photo
-Press and hold a comment that has its own photo, GIF or sticker, and its menu gets Save. Saves the largest size Instagram sent.	Press and hold a comment that has its own photo, GIF or sticker, and its menu gets Save. Saves the largest size Instagram sent.
-Reply with a comment's GIF	Reply with a comment's GIF
-When a comment has a GIF, its menu gets a GIF reply that sends that same GIF back as your reply, animated.	When a comment has a GIF, its menu gets a GIF reply that sends that same GIF back as your reply, animated.
-Show a comment GIF's name	Show a comment GIF's name
-When a comment has a GIF or sticker, its menu shows its name. Tap the name to copy it.	When a comment has a GIF or sticker, its menu shows its name. Tap the name to copy it.
-Send saved GIFs as GIFs	Send saved GIFs as GIFs
-A comment GIF you saved with Save comment photo, picked from your gallery in the comment box, goes up right away as the same GIF, animated. Other pictures go up as before.	A comment GIF you saved with Save comment photo, picked from your gallery in the comment box, goes up right away as the same GIF, animated. Other pictures go up as before.
-Couldn't send this GIF	Couldn't send this GIF
-GIF name	GIF name
-GIF name copied	GIF name copied
-Couldn't copy the GIF name	Couldn't copy the GIF name
-Couldn't reply with this GIF	Couldn't reply with this GIF
-Mark as seen button	Mark as seen button
-Adds an eye button to the top of each story while you view anonymously. Tap it to show up on that story's viewer list. The other stories stay hidden.	Adds an eye button to the top of each story while you view anonymously. Tap it to show up on that story's viewer list. The other stories stay hidden.
-Mark as seen	Mark as seen
-Marked as seen. Tap again to undo.	Marked as seen. Tap again to undo.
-Marked as seen and sent	Marked as seen and sent
-View DM photos and videos anonymously	View DM photos and videos anonymously
-Stops people seeing that you opened their view once photos and videos. They still disappear after you view them. This is a test feature and starts off.	Stops people seeing that you opened their view once photos and videos. They still disappear after you view them. This is a test feature and starts off.
-Restored %1$d settings. Kept %2$d newer choices.	Restored %1$d settings. Kept %2$d newer choices.
-Preparing diagnostic report...	Preparing diagnostic report...
-Saving diagnostic report...	Saving diagnostic report...
-Diagnostic report saved.	Diagnostic report saved.
-Choose a file for the settings export.	Choose a file for the settings export.
-Exporting HushGram settings...	Exporting HushGram settings...
-Settings export canceled.	Settings export canceled.
-Round handle on the seek bar	Round handle on the seek bar
-Adds a white round handle to the seek bar that you can drag. Ads keep their own bar.	Adds a white round handle to the seek bar that you can drag. Ads keep their own bar.
-Bigger seek bar on reels	Bigger seek bar on reels
-Makes the seek bar thicker, with a round white handle and the time above it, over a soft dark fade so it shows on any video. Drag it to seek. It also keeps the bar on short reels.	Makes the seek bar thicker, with a round white handle and the time above it, over a soft dark fade so it shows on any video. Drag it to seek. It also keeps the bar on short reels.
-Seek bar like DM videos	Seek bar like DM videos
-Gives reels the seek bar of a video in a chat, a thin gray line that turns white as it plays, with a big round white handle. The time shows above it. Drag it to seek. When Bigger seek bar on reels is on too, this look wins. It also keeps the bar on short reels.	Gives reels the seek bar of a video in a chat, a thin gray line that turns white as it plays, with a big round white handle. The time shows above it. Drag it to seek. When Bigger seek bar on reels is on too, this look wins. It also keeps the bar on short reels.
-Seek bar on photos with music	Seek bar on photos with music
-Reels that are a photo with a song get the same seek bar and time as a video reel, following the song. Drag it to seek.	Reels that are a photo with a song get the same seek bar and time as a video reel, following the song. Drag it to seek.
-Hide the seek bar on reels	Hide the seek bar on reels
-Takes the seek bar off the bottom of every reel, long ones too. Drag sideways along the bottom edge of a reel to bring it back and seek. Keep a seek bar and the seek bar looks above win over it. Restart Instagram to see the change.	Takes the seek bar off the bottom of every reel, long ones too. Drag sideways along the bottom edge of a reel to bring it back and seek. Keep a seek bar and the seek bar looks above win over it. Restart Instagram to see the change.
-Blur the bars around a reel	Blur the bars around a reel
-A reel that doesn't fill the screen shows a blurred copy of itself above and below it instead of black bars, and the strip under the tab bar and the band behind the clock show the reel blurred too. The copy shows only where a reel leaves room, as with Show the whole reel on. Open Reels again after a change.	A reel that doesn't fill the screen shows a blurred copy of itself above and below it instead of black bars, and the strip under the tab bar and the band behind the clock show the reel blurred too. The copy shows only where a reel leaves room, as with Show the whole reel on. Open Reels again after a change.
-Settings entry	Settings entry
-Open settings with a tab long press	Open settings with a tab long press
-Choose a tab	Choose a tab
-Home	Home
+Copy comment	نسخ التعليق
+Adds Copy to a selected comment's menu. Copies the original text, including line breaks.	يضيف خيار النسخ إلى قائمة التعليق المحدد. ينسخ النص الأصلي بما في ذلك فواصل الأسطر.
+Copy without the @names at the start	النسخ دون أسماء @ في البداية
+When a comment starts with @names, like most replies do, Copy leaves them out. The comment in Instagram stays the same.	عندما يبدأ التعليق بأسماء @، كما في معظم الردود، يستثنيها خيار النسخ. ولا يتغير التعليق في Instagram.
+Copy the commenter's username	نسخ اسم مستخدم صاحب التعليق
+Adds Copy username to a selected comment's menu, for the account that wrote it.	يضيف خيار نسخ اسم المستخدم إلى قائمة التعليق المحدد، لنسخ اسم الحساب الذي كتبه.
+Comment copied	تم نسخ التعليق
+Couldn't copy comment	تعذّر نسخ التعليق
+Save comment photo	حفظ صورة التعليق
+Press and hold a comment that has its own photo, GIF or sticker, and its menu gets Save. Saves the largest size Instagram sent.	اضغط مطولاً على تعليق يحتوي على صورة أو GIF أو ملصق خاص به، وستظهر في قائمته خانة الحفظ. تُحفظ الوسائط بأكبر حجم أرسله Instagram.
+Reply with a comment's GIF	الرد باستخدام صورة GIF في التعليق
+When a comment has a GIF, its menu gets a GIF reply that sends that same GIF back as your reply, animated.	عندما يحتوي التعليق على صورة GIF، يظهر في قائمته خيار للرد باستخدام GIF نفسها، وإرسالها متحركة كرد.
+Show a comment GIF's name	إظهار اسم صورة GIF في التعليق
+When a comment has a GIF or sticker, its menu shows its name. Tap the name to copy it.	عندما يحتوي التعليق على GIF أو ملصق، تعرض قائمته اسمه. اضغط على الاسم لنسخه.
+Send saved GIFs as GIFs	إرسال صور GIF المحفوظة بصيغة GIF
+A comment GIF you saved with Save comment photo, picked from your gallery in the comment box, goes up right away as the same GIF, animated. Other pictures go up as before.	إذا اخترت من المعرض في مربع التعليق صورة GIF سبق أن حفظتها باستخدام خيار حفظ صورة التعليق، فسيتم إرسالها فوراً بصيغتها المتحركة نفسها. أما الصور الأخرى فتُرسل كالمعتاد.
+Couldn't send this GIF	تعذّر إرسال صورة GIF هذه
+GIF name	اسم GIF
+GIF name copied	تم نسخ اسم GIF
+Couldn't copy the GIF name	تعذّر نسخ اسم GIF
+Couldn't reply with this GIF	تعذّر الرد باستخدام صورة GIF هذه
+Mark as seen button	زر وضع علامة تمت المشاهدة
+Adds an eye button to the top of each story while you view anonymously. Tap it to show up on that story's viewer list. The other stories stay hidden.	يضيف زر عين أعلى كل قصة أثناء المشاهدة المجهولة. اضغط عليه ليظهر اسمك في قائمة مشاهدي تلك القصة فقط، بينما تظل القصص الأخرى مخفية.
+Mark as seen	وضع علامة تمت المشاهدة
+Marked as seen. Tap again to undo.	تم وضع علامة تمت المشاهدة. اضغط مجدداً للتراجع.
+Marked as seen and sent	تم وضع علامة تمت المشاهدة والإرسال
+View DM photos and videos anonymously	مشاهدة صور وفيديوهات الرسائل الخاصة دون إظهار هويتك
+Stops people seeing that you opened their view once photos and videos. They still disappear after you view them. This is a test feature and starts off.	يمنع الآخرين من معرفة أنك فتحت الصور والفيديوهات المخصصة للمشاهدة مرة واحدة. لكنها تظل تختفي بعد مشاهدتها. هذه ميزة تجريبية وهي معطّلة افتراضياً.
+Restored %1$d settings. Kept %2$d newer choices.	تمت استعادة %1$d إعدادات. وتم الاحتفاظ بـ%2$d من الاختيارات الأحدث.
+Preparing diagnostic report...	جارٍ إعداد تقرير التشخيص...
+Saving diagnostic report...	جارٍ حفظ تقرير التشخيص...
+Diagnostic report saved.	تم حفظ تقرير التشخيص.
+Choose a file for the settings export.	اختر ملفاً لتصدير الإعدادات.
+Exporting HushGram settings...	جارٍ تصدير إعدادات HushGram...
+Settings export canceled.	تم إلغاء تصدير الإعدادات.
+Round handle on the seek bar	مقبض دائري على شريط التقدم
+Adds a white round handle to the seek bar that you can drag. Ads keep their own bar.	يضيف مقبضاً دائرياً أبيض إلى شريط التقدم يمكنك سحبه. وتحتفظ الإعلانات بشريطها الخاص.
+Bigger seek bar on reels	تكبير شريط التقدم في ريلز
+Makes the seek bar thicker, with a round white handle and the time above it, over a soft dark fade so it shows on any video. Drag it to seek. It also keeps the bar on short reels.	يجعل شريط التقدم أكثر سماكة، مع مقبض دائري أبيض ووقت التشغيل أعلاه، فوق تدرج داكن خفيف ليظهر بوضوح على أي فيديو. اسحبه للتنقل في المقطع. كما يُبقي الشريط ظاهراً في مقاطع ريلز القصيرة.
+Seek bar like DM videos	شريط تقدم مماثل لفيديوهات الرسائل الخاصة
+Gives reels the seek bar of a video in a chat, a thin gray line that turns white as it plays, with a big round white handle. The time shows above it. Drag it to seek. When Bigger seek bar on reels is on too, this look wins. It also keeps the bar on short reels.	يعرض في مقاطع ريلز شريط التقدم المستخدم في فيديوهات المحادثات: خطاً رمادياً رفيعاً يتحول إلى الأبيض أثناء التشغيل، مع مقبض دائري أبيض كبير. يظهر الوقت أعلاه ويمكن سحبه للتنقل. إذا فُعّل خيار تكبير شريط التقدم في ريلز أيضاً، فسيكون لهذا التصميم الأولوية. كما يُبقي الشريط ظاهراً في المقاطع القصيرة.
+Seek bar on photos with music	شريط تقدم للصور المصحوبة بموسيقى
+Reels that are a photo with a song get the same seek bar and time as a video reel, following the song. Drag it to seek.	تحصل مقاطع ريلز التي تتكون من صورة مع أغنية على شريط التقدم والوقت نفسيهما المستخدمين في فيديوهات ريلز، ويتزامن الشريط مع الأغنية. اسحبه للتنقل.
+Hide the seek bar on reels	إخفاء شريط التقدم في ريلز
+Takes the seek bar off the bottom of every reel, long ones too. Drag sideways along the bottom edge of a reel to bring it back and seek. Keep a seek bar and the seek bar looks above win over it. Restart Instagram to see the change.	يزيل شريط التقدم من أسفل جميع مقاطع ريلز، بما فيها الطويلة. اسحب جانبياً على الحافة السفلية للمقطع لإظهاره مجدداً والتنقل فيه. يتقدم خيار إبقاء شريط التقدم وخيارات مظهره المذكورة أعلاه على هذا الخيار. أعد تشغيل Instagram لرؤية التغيير.
+Blur the bars around a reel	تمويه الأشرطة حول مقطع ريلز
+A reel that doesn't fill the screen shows a blurred copy of itself above and below it instead of black bars, and the strip under the tab bar and the band behind the clock show the reel blurred too. The copy shows only where a reel leaves room, as with Show the whole reel on. Open Reels again after a change.	عندما لا يملأ مقطع ريلز الشاشة، تظهر نسخة مموهة منه أعلى المقطع وأسفله بدلاً من الأشرطة السوداء. كما يظهر المقطع مموهاً في الشريط أسفل علامات التبويب والمنطقة خلف الساعة. لا تظهر النسخة إلا في المساحات التي يتركها المقطع، كما في خيار عرض مقطع ريلز كاملاً. افتح ريلز مجدداً بعد تغيير الإعداد.
+Settings entry	مدخل الإعدادات
+Open settings with a tab long press	فتح الإعدادات بالضغط المطول على علامة تبويب
+Choose a tab	اختر علامة تبويب
+Home	الرئيسية
 Search	بحث
-Profile	Profile
+Profile	الملف الشخصي
 Create (+)	Create (+)
 Camera	Camera
 Activity	Activity
