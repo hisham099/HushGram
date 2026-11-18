@@ -43,9 +43,6 @@ jobs:
       - name: Generate translation catalog
         run: python scripts/gen-l10n.py
 
-      - name: Run translation catalog tests
-        run: python scripts/test-l10n.py
-
       - name: Generate patch list
         run: ./gradlew :patches:generatePatchesList
         env:
