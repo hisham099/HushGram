@@ -1939,56 +1939,56 @@ Stop looping this story	إيقاف تكرار هذه القصة
 Looping this story	يتم تكرار هذه القصة
 This story plays once	تُشغّل هذه القصة مرة واحدة
 To loop one story, tap Loop this story in its menu.	لتكرار قصة واحدة، اضغط على «تكرار هذه القصة» في قائمتها.
-Hide posts from business and creator accounts	Hide posts from business and creator accounts
-Removes posts by business and creator accounts from Home and Following, friends who use one included. Pull down on Home to refresh after changing it.	Removes posts by business and creator accounts from Home and Following, friends who use one included. Pull down on Home to refresh after changing it.
-Favorites still shows them.	Favorites still shows them.
-Keep profile history	Keep profile history
-Remembers the username, bio and profile picture of each profile you open, on this phone only, and tells you when one changed since your last visit. Pictures are copied from Instagram's image servers. Turn it off and it stops at once.	Remembers the username, bio and profile picture of each profile you open, on this phone only, and tells you when one changed since your last visit. Pictures are copied from Instagram's image servers. Turn it off and it stops at once.
-Profile changes	Profile changes
-Nothing here yet. With Keep profile history on, the old usernames, bios and pictures of profiles you open show up here.	Nothing here yet. With Keep profile history on, the old usernames, bios and pictures of profiles you open show up here.
-Tap to see all %1$d, or search them.	Tap to see all %1$d, or search them.
-Was @%1$s, %2$s	Was @%1$s, %2$s
-Old profile picture, %s	Old profile picture, %s
-Old bio, %s	Old bio, %s
-View picture	View picture
-Save picture	Save picture
-Seen from %1$s to %2$s	Seen from %1$s to %2$s
-Seen on %s	Seen on %s
-Clear profile history	Clear profile history
-Forgets every username, bio and picture on the list, for all your accounts. The switch stays as it is.	Forgets every username, bio and picture on the list, for all your accounts. The switch stays as it is.
-Profile history cleared.	Profile history cleared.
-Couldn't clear the profile history. Try again.	Couldn't clear the profile history. Try again.
-Keep online history	Keep online history
-Notes when people in your messages come online and go offline, from the active status Instagram already shows, on this phone only. Turn it off and it stops at once.	Notes when people in your messages come online and go offline, from the active status Instagram already shows, on this phone only. Turn it off and it stops at once.
-Online history	Online history
-Nothing here yet. With Keep online history on, the times people in your messages come online and go offline show up here.	Nothing here yet. With Keep online history on, the times people in your messages come online and go offline show up here.
-Came online, %s	Came online, %s
-Went offline, %s	Went offline, %s
-Unknown account	Unknown account
-Clear online history	Clear online history
-Forgets everyone on the list, for all your accounts. The switch stays as it is.	Forgets everyone on the list, for all your accounts. The switch stays as it is.
-Online history cleared.	Online history cleared.
-Couldn't clear the online history. Try again.	Couldn't clear the online history. Try again.
-Used to be @%s	Used to be @%s
-New profile picture and bio	New profile picture and bio
-New profile picture	New profile picture
-Their bio changed	Their bio changed
-Hide the Threads badge	Hide the Threads badge
-Takes the Threads badge from under the bio on other people's profiles. Yours keeps it.	Takes the Threads badge from under the bio on other people's profiles. Yours keeps it.
-Hide Facebook links	Hide Facebook links
-Takes the links to someone's Facebook profile, page or group from under their bio. Yours keeps them.	Takes the links to someone's Facebook profile, page or group from under their bio. Yours keeps them.
-Hide the WhatsApp link	Hide the WhatsApp link
-Takes the link to someone's WhatsApp from under their bio. Yours keeps it.	Takes the link to someone's WhatsApp from under their bio. Yours keeps it.
-Hide the profile song	Hide the profile song
-Takes the song someone picked for their profile from under their bio. Yours keeps it.	Takes the song someone picked for their profile from under their bio. Yours keeps it.
-Hide interests	Hide interests
-Takes the interests someone added, like reading or hiking, from under their bio. Yours keeps them.	Takes the interests someone added, like reading or hiking, from under their bio. Yours keeps them.
-Hide channel invites	Hide channel invites
-Takes the invite to someone's broadcast channel from under their bio. Yours keeps it.	Takes the invite to someone's broadcast channel from under their bio. Yours keeps it.
-Hide the other profile banners	Hide the other profile banners
-Takes the rest of the banners under the bio off other people's profiles, like events, fundraisers, schools and business hours. Yours keeps them.	Takes the rest of the banners under the bio off other people's profiles, like events, fundraisers, schools and business hours. Yours keeps them.
-Hide links	Hide links
-Takes the row of links, like a website or a business's links, from under the bio on other people's profiles. Yours keeps it.	Takes the row of links, like a website or a business's links, from under the bio on other people's profiles. Yours keeps it.
+Hide posts from business and creator accounts	إخفاء منشورات الحسابات التجارية وحسابات المنشئين
+Removes posts by business and creator accounts from Home and Following, friends who use one included. Pull down on Home to refresh after changing it.	يزيل منشورات الحسابات التجارية وحسابات المنشئين من الصفحة الرئيسية وتبويب «المتابَعون»، بما في ذلك الأصدقاء الذين يستخدمون أحد هذه الأنواع من الحسابات. اسحب الصفحة الرئيسية إلى الأسفل لتحديثها بعد تغيير الإعداد.
+Favorites still shows them.	تظل هذه المنشورات ظاهرة في المفضلة.
+Keep profile history	الاحتفاظ بسجل الملفات الشخصية
+Remembers the username, bio and profile picture of each profile you open, on this phone only, and tells you when one changed since your last visit. Pictures are copied from Instagram's image servers. Turn it off and it stops at once.	يحفظ اسم المستخدم والنبذة وصورة كل ملف شخصي تفتحه على هذا الهاتف فقط، وينبهك عند حدوث تغيير منذ زيارتك السابقة. تُنسخ الصور من خوادم صور إنستغرام. عند إيقافه يتوقف الحفظ فورًا.
+Profile changes	تغييرات الملف الشخصي
+Nothing here yet. With Keep profile history on, the old usernames, bios and pictures of profiles you open show up here.	لا توجد بيانات هنا بعد. عند تفعيل «الاحتفاظ بسجل الملفات الشخصية»، ستظهر هنا أسماء المستخدمين والنبذات والصور السابقة للملفات التي تفتحها.
+Tap to see all %1$d, or search them.	اضغط لعرض العناصر الـ %1$d كلها، أو ابحث بينها.
+Was @%1$s, %2$s	كان @%1$s، %2$s
+Old profile picture, %s	صورة الملف الشخصي السابقة، %s
+Old bio, %s	النبذة السابقة، %s
+View picture	عرض الصورة
+Save picture	حفظ الصورة
+Seen from %1$s to %2$s	شوهد من %1$s إلى %2$s
+Seen on %s	شوهد في %s
+Clear profile history	مسح سجل الملفات الشخصية
+Forgets every username, bio and picture on the list, for all your accounts. The switch stays as it is.	يمسح جميع أسماء المستخدمين والنبذات والصور الموجودة في القائمة لكل حساباتك. لن تتغير حالة مفتاح الإعداد.
+Profile history cleared.	تم مسح سجل الملفات الشخصية.
+Couldn't clear the profile history. Try again.	تعذّر مسح سجل الملفات الشخصية. حاول مرة أخرى.
+Keep online history	الاحتفاظ بسجل الظهور
+Notes when people in your messages come online and go offline, from the active status Instagram already shows, on this phone only. Turn it off and it stops at once.	يسجل أوقات ظهور الأشخاص الموجودين في رسائلك واتصالهم بالإنترنت وخروجهم منه، اعتمادًا على حالة النشاط التي تعرضها إنستغرام أصلًا، وعلى هذا الهاتف فقط. يتوقف فورًا عند إيقافه.
+Online history	سجل الظهور
+Nothing here yet. With Keep online history on, the times people in your messages come online and go offline show up here.	لا توجد بيانات هنا بعد. عند تفعيل «الاحتفاظ بسجل الظهور»، ستظهر هنا أوقات اتصال الأشخاص الموجودين في رسائلك وخروجهم من الإنترنت.
+Came online, %s	اتصل بالإنترنت، %s
+Went offline, %s	خرج من الإنترنت، %s
+Unknown account	حساب غير معروف
+Clear online history	مسح سجل الظهور
+Forgets everyone on the list, for all your accounts. The switch stays as it is.	يمسح جميع الأشخاص الموجودين في القائمة لكل حساباتك. لن تتغير حالة مفتاح الإعداد.
+Online history cleared.	تم مسح سجل الظهور.
+Couldn't clear the online history. Try again.	تعذّر مسح سجل الظهور. حاول مرة أخرى.
+Used to be @%s	كان اسمه @%s
+New profile picture and bio	صورة و نبذة جديدتان للملف الشخصي
+New profile picture	صورة ملف شخصي جديدة
+Their bio changed	تغيّرت النبذة التعريفية
+Hide the Threads badge	إخفاء شارة Threads
+Takes the Threads badge from under the bio on other people's profiles. Yours keeps it.	يزيل شارة Threads من أسفل النبذة في الملفات الشخصية للآخرين. تبقى الشارة ظاهرة في ملفك الشخصي.
+Hide Facebook links	إخفاء روابط Facebook
+Takes the links to someone's Facebook profile, page or group from under their bio. Yours keeps them.	يزيل الروابط المؤدية إلى ملف شخصي أو صفحة أو مجموعة على Facebook من أسفل نبذة الآخرين. تبقى روابطك ظاهرة.
+Hide the WhatsApp link	إخفاء رابط WhatsApp
+Takes the link to someone's WhatsApp from under their bio. Yours keeps it.	يزيل رابط WhatsApp من أسفل نبذة الآخرين. يبقى رابطك ظاهرًا.
+Hide the profile song	إخفاء أغنية الملف الشخصي
+Takes the song someone picked for their profile from under their bio. Yours keeps it.	يزيل الأغنية التي اختارها الآخرون لملفاتهم الشخصية من أسفل النبذة. تبقى أغنيتك ظاهرة.
+Hide interests	إخفاء الاهتمامات
+Takes the interests someone added, like reading or hiking, from under their bio. Yours keeps them.	يزيل الاهتمامات التي يضيفها الآخرون، مثل القراءة أو المشي، من أسفل نبذاتهم. تبقى اهتماماتك ظاهرة.
+Hide channel invites	إخفاء دعوات القنوات
+Takes the invite to someone's broadcast channel from under their bio. Yours keeps it.	يزيل الدعوة إلى قناة البث الخاصة بالآخرين من أسفل نبذاتهم. تبقى دعوتك ظاهرة.
+Hide the other profile banners	إخفاء لافتات الملفات الشخصية الأخرى
+Takes the rest of the banners under the bio off other people's profiles, like events, fundraisers, schools and business hours. Yours keeps them.	يزيل بقية اللافتات التي تظهر أسفل نبذات الآخرين، مثل الفعاليات وجمع التبرعات والمدارس وساعات العمل. تبقى لافتاتك ظاهرة.
+Hide links	إخفاء الروابط
+Takes the row of links, like a website or a business's links, from under the bio on other people's profiles. Yours keeps it.	يزيل صف الروابط، مثل روابط المواقع أو روابط الأنشطة التجارية، من أسفل نبذات الآخرين. تبقى روابطك ظاهرة.
 Save profile	Save profile
 Saved @%s	Saved @%s
 Removed @%s from saved	Removed @%s from saved
