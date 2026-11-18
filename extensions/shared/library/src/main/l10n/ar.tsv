@@ -652,121 +652,121 @@ Clear the media cache	مسح ذاكرة التخزين المؤقت للوسائ
 Couldn't clear the saved copies. Try again.	تعذّر مسح النسخ المحفوظة. حاول مرة أخرى.
 Don't save recent searches	عدم حفظ عمليات البحث الأخيرة
 Download cover	تنزيل الغلاف
-Download audio	Download audio
-Download on a reel, a feed post or a story opens the share sheet with its link, for a downloader app such as Seal. Save all and the other save rows still save here.	Download on a reel, a feed post or a story opens the share sheet with its link, for a downloader app such as Seal. Save all and the other save rows still save here.
-Each save goes into a folder named for the account that posted it, inside the save folder. A save that doesn't know who posted stays in the save folder.	Each save goes into a folder named for the account that posted it, inside the save folder. A save that doesn't know who posted stays in the save folder.
-Folder per account	Folder per account
-Freed %1$s.	Freed %1$s.
-HDR photos and reels stop brightening the screen above everything else. They show at the same brightness as the rest of Instagram.	HDR photos and reels stop brightening the screen above everything else. They show at the same brightness as the rest of Instagram.
-Tells Instagram your phone is at %1$s.	Tells Instagram your phone is at %1$s.
-Tells Instagram your phone is at the place set below, for the location sticker, nearby places and maps. Photos keep their own places.	Tells Instagram your phone is at the place set below, for the location sticker, nearby places and maps. Photos keep their own places.
-No place set. Until there is one, Instagram is told 0, 0 while Spoof location is on.	No place set. Until there is one, Instagram is told 0, 0 while Spoof location is on.
-Only on mobile data	Only on mobile data
-Loads smaller photos and starts videos, reels and stories at the lowest quality. Grid thumbnails stay as they are. It takes priority over Full resolution photos and the quality above.	Loads smaller photos and starts videos, reels and stories at the lowest quality. Grid thumbnails stay as they are. It takes priority over Full resolution photos and the quality above.
+Download audio	تنزيل الصوت
+Download on a reel, a feed post or a story opens the share sheet with its link, for a downloader app such as Seal. Save all and the other save rows still save here.	يفتح خيار التنزيل في مقطع ريلز أو منشور في الموجز أو قصة قائمة المشاركة مع رابط المحتوى، لاستخدامه في تطبيق تنزيل مثل Seal. تظل خيارات الحفظ الأخرى، مثل حفظ الكل، تحفظ المحتوى هنا.
+Each save goes into a folder named for the account that posted it, inside the save folder. A save that doesn't know who posted stays in the save folder.	يُحفظ كل ملف داخل مجلد يحمل اسم الحساب الذي نشره، ضمن مجلد الحفظ. وإذا تعذّر تحديد الحساب الناشر، فيُحفظ الملف مباشرة في مجلد الحفظ.
+Folder per account	مجلد لكل حساب
+Freed %1$s.	تم توفير %1$s.
+HDR photos and reels stop brightening the screen above everything else. They show at the same brightness as the rest of Instagram.	لن تؤدي صور ومقاطع ريلز بتقنية HDR إلى زيادة سطوع الشاشة فوق بقية العناصر. ستظهر بالسطوع نفسه المستخدم في بقية Instagram.
+Tells Instagram your phone is at %1$s.	يُظهر لـInstagram أن هاتفك موجود في %1$s.
+Tells Instagram your phone is at the place set below, for the location sticker, nearby places and maps. Photos keep their own places.	يُظهر لـInstagram أن هاتفك موجود في الموقع المحدد أدناه، لاستخدامه في ملصق الموقع والأماكن القريبة والخرائط. وتحتفظ الصور بمواقعها الأصلية.
+No place set. Until there is one, Instagram is told 0, 0 while Spoof location is on.	لم يتم تحديد موقع. إلى أن تحدد موقعاً، سيُبلّغ Instagram بالإحداثيين 0 و0 عند تفعيل تغيير الموقع الظاهري.
+Only on mobile data	عند استخدام بيانات الهاتف فقط
+Loads smaller photos and starts videos, reels and stories at the lowest quality. Grid thumbnails stay as they are. It takes priority over Full resolution photos and the quality above.	يحمّل الصور بأحجام أصغر ويبدأ تشغيل الفيديوهات ومقاطع ريلز والقصص بأقل جودة. لا تتغير الصور المصغرة في الشبكة. تكون لهذا الخيار الأولوية على خيار الصور بأعلى دقة وإعدادات الجودة أعلاه.
 Place	المكان
-Send downloads to another app	Send downloads to another app
-Send to	Send to
-Sent to another app. Change this in Downloads.	Sent to another app. Change this in Downloads.
+Send downloads to another app	إرسال التنزيلات إلى تطبيق آخر
+Send to	إرسال إلى
+Sent to another app. Change this in Downloads.	تم الإرسال إلى تطبيق آخر. يمكنك تغيير ذلك من قسم التنزيلات.
 Spoof location	تغيير الموقع الظاهري
-Stop after a set number of reels	Stop after a set number of reels
-Reels before swiping stops	Reels before swiping stops
-%1$d reels	%1$d reels
-Time away before swiping comes back	Time away before swiping comes back
-%1$d minutes in the background	%1$d minutes in the background
-Take a scroll break	Take a scroll break
-After %1$d minutes	After %1$d minutes
-Off. It can cover the Home, Reels and Explore tabs for a break after you've spent a while on them.	Off. It can cover the Home, Reels and Explore tabs for a break after you've spent a while on them.
-After %1$d minutes on the Home, Reels and Explore tabs, a break screen covers them for %2$d minutes. Messages, your profile and the tab bar still work.	After %1$d minutes on the Home, Reels and Explore tabs, a break screen covers them for %2$d minutes. Messages, your profile and the tab bar still work.
-Break length	Break length
-%1$d minutes	%1$d minutes
-Time for a break	Time for a break
-Home, Reels and Explore open again when the countdown ends. Messages and your profile still work.	Home, Reels and Explore open again when the countdown ends. Messages and your profile still work.
-Time for a break. Home, Reels and Explore open again in %1$s.	Time for a break. Home, Reels and Explore open again in %1$s.
+Stop after a set number of reels	التوقف بعد عدد محدد من مقاطع ريلز
+Reels before swiping stops	عدد مقاطع ريلز قبل إيقاف السحب
+%1$d reels	%1$d مقاطع ريلز
+Time away before swiping comes back	مدة الانتظار قبل عودة إمكانية السحب
+%1$d minutes in the background	%1$d دقيقة في الخلفية
+Take a scroll break	أخذ استراحة من التمرير
+After %1$d minutes	بعد %1$d دقيقة
+Off. It can cover the Home, Reels and Explore tabs for a break after you've spent a while on them.	متوقف. يمكنه تغطية علامات تبويب الرئيسية وريلز والاستكشاف بشاشة استراحة بعد قضاء بعض الوقت فيها.
+After %1$d minutes on the Home, Reels and Explore tabs, a break screen covers them for %2$d minutes. Messages, your profile and the tab bar still work.	بعد قضاء %1$d دقيقة في علامات تبويب الرئيسية وريلز والاستكشاف، تغطيها شاشة استراحة لمدة %2$d دقيقة. تظل الرسائل وملفك الشخصي وشريط علامات التبويب تعمل.
+Break length	مدة الاستراحة
+%1$d minutes	%1$d دقيقة
+Time for a break	حان وقت الاستراحة
+Home, Reels and Explore open again when the countdown ends. Messages and your profile still work.	ستُفتح علامات تبويب الرئيسية وريلز والاستكشاف مجدداً عند انتهاء العد التنازلي. وتظل الرسائل وملفك الشخصي يعملان.
+Time for a break. Home, Reels and Explore open again in %1$s.	حان وقت الاستراحة. ستُفتح الرئيسية وريلز والاستكشاف مجدداً خلال %1$s.
 Storage	التخزين
-That isn't a place. Type latitude, longitude.	That isn't a place. Type latitude, longitude.
-%1$d reels. Swipe again after %2$d minutes away.	%1$d reels. Swipe again after %2$d minutes away.
-The latitude and the longitude in degrees, with a comma between them, like 40.758, -73.9855. North and east are positive, south and west negative. A map app shows both when you press and hold a spot.	The latitude and the longitude in degrees, with a comma between them, like 40.758, -73.9855. North and east are positive, south and west negative. A map app shows both when you press and hold a spot.
-Turn off HDR brightness boosts	Turn off HDR brightness boosts
-What you open from search stays out of Recent, in the app and on Instagram's side. Searches already there stay until you clear them.	What you open from search stays out of Recent, in the app and on Instagram's side. Searches already there stay until you clear them.
-Wi-Fi stays as it is. Turn this off to save data on every network.	Wi-Fi stays as it is. Turn this off to save data on every network.
-Hide comments	Hide comments
-Hide memories and recaps	Hide memories and recaps
-Hide story rewinds	Hide story rewinds
-Nothing in the row of stories at the top of Home loads, your own story included, and highlights on profiles stay empty too. Saves data. A story ring on a profile or in a chat still opens its stories.	Nothing in the row of stories at the top of Home loads, your own story included, and highlights on profiles stay empty too. Saves data. A story ring on a profile or in a chat still opens its stories.
-Expandable categories	Expandable categories
-Tap a category to show or hide its settings on this page.	Tap a category to show or hide its settings on this page.
+That isn't a place. Type latitude, longitude.	هذا ليس موقعاً صالحاً. أدخل خط العرض وخط الطول.
+%1$d reels. Swipe again after %2$d minutes away.	%1$d مقاطع ريلز. يمكنك السحب مجدداً بعد الابتعاد لمدة %2$d دقيقة.
+The latitude and the longitude in degrees, with a comma between them, like 40.758, -73.9855. North and east are positive, south and west negative. A map app shows both when you press and hold a spot.	خط العرض وخط الطول بالدرجات، وبينهما فاصلة، مثل 40.758, -73.9855. تكون القيم موجبة للشمال والشرق وسالبة للجنوب والغرب. يعرض تطبيق الخرائط الإحداثيين عند الضغط المطول على موقع.
+Turn off HDR brightness boosts	إيقاف زيادة السطوع في HDR
+What you open from search stays out of Recent, in the app and on Instagram's side. Searches already there stay until you clear them.	لن تُضاف العناصر التي تفتحها من البحث إلى قائمة الأخيرة، سواء داخل التطبيق أو لدى Instagram. وتظل عمليات البحث الموجودة مسبقاً حتى تمسحها.
+Wi-Fi stays as it is. Turn this off to save data on every network.	لن يتغير سلوك Wi-Fi. عطّل هذا الخيار لتوفير البيانات على جميع أنواع الاتصال.
+Hide comments	إخفاء التعليقات
+Hide memories and recaps	إخفاء الذكريات والملخصات
+Hide story rewinds	إخفاء إعادات القصص
+Nothing in the row of stories at the top of Home loads, your own story included, and highlights on profiles stay empty too. Saves data. A story ring on a profile or in a chat still opens its stories.	لن يتم تحميل أي شيء في صف القصص أعلى الصفحة الرئيسية، بما في ذلك قصتك، وستظل القصص المميزة في الملفات الشخصية فارغة أيضاً. يوفر ذلك البيانات. ويظل الضغط على إطار القصة في ملف شخصي أو محادثة يفتح القصص.
+Expandable categories	فئات قابلة للتوسيع
+Tap a category to show or hide its settings on this page.	اضغط على فئة لإظهار إعداداتها أو إخفائها في هذه الصفحة.
 Categories on their own page	عرض الفئات في صفحات مستقلة
-With Expandable categories on, a tap opens a category on a page of its own. Back takes you to the list.	With Expandable categories on, a tap opens a category on a page of its own. Back takes you to the list.
-Descriptions behind an info button	Descriptions behind an info button
-Shows each switch by its name alone. Tap the i next to a name to read what it does.	Shows each switch by its name alone. Tap the i next to a name to read what it does.
-Expanded	Expanded
-Collapsed	Collapsed
-Hide the HushGram row in Instagram's menu	Hide the HushGram row in Instagram's menu
+With Expandable categories on, a tap opens a category on a page of its own. Back takes you to the list.	عند تفعيل الفئات القابلة للتوسيع، يؤدي الضغط على الفئة إلى فتحها في صفحة مستقلة. يعيدك زر الرجوع إلى القائمة.
+Descriptions behind an info button	إظهار الأوصاف عبر زر المعلومات
+Shows each switch by its name alone. Tap the i next to a name to read what it does.	يعرض كل مفتاح باسمه فقط. اضغط على رمز المعلومات i بجانب الاسم لقراءة شرح وظيفته.
+Expanded	موسّع
+Collapsed	مطوي
+Hide the HushGram row in Instagram's menu	إخفاء صف HushGram من قائمة Instagram
 Settings shortcut on the app icon	اختصار الإعدادات على أيقونة التطبيق
-Open settings from the logo	Open settings from the logo
-Puts HushGram settings in the menu you get by holding Instagram's icon. Off, it leaves that menu.	Puts HushGram settings in the menu you get by holding Instagram's icon. Off, it leaves that menu.
-A long press on the Instagram logo at the top of Home opens these settings. Off, the long press goes back to Instagram.	A long press on the Instagram logo at the top of Home opens these settings. Off, the long press goes back to Instagram.
-The last way into these settings stays on.	The last way into these settings stays on.
-No other way into HushGram is on, so the row stays in Instagram's menu.	No other way into HushGram is on, so the row stays in Instagram's menu.
-Instagram's Settings and activity screen leaves out the HushGram row while another way here opens HushGram. With every other way off, the row comes back.	Instagram's Settings and activity screen leaves out the HushGram row while another way here opens HushGram. With every other way off, the row comes back.
-Stop loading stories and highlights	Stop loading stories and highlights
-Takes the Comment button and the comment count off the posts in your feed.	Takes the Comment button and the comment count off the posts in your feed.
-Hide Reply on comments	Hide Reply on comments
-Takes Reply off each comment in a post's or reel's comments. View more replies stays, so you can still open them.	Takes Reply off each comment in a post's or reel's comments. View more replies stays, so you can still open them.
-Hide the emoji row	Hide the emoji row
-Takes the row of quick emoji off above the comment box. The box itself stays.	Takes the row of quick emoji off above the comment box. The box itself stays.
-Hide GIFs in comments	Hide GIFs in comments
-Takes GIFs and stickers out of comments, and the GIF button off the comment box. A comment with words keeps them. One that's only a GIF goes, along with its replies.	Takes GIFs and stickers out of comments, and the GIF button off the comment box. A comment with words keeps them. One that's only a GIF goes, along with its replies.
-Search comments	Search comments
-Adds a search box above a post's comments. Type a word or a name and the comments scroll to the next one that has it. Replies you haven't opened aren't searched.	Adds a search box above a post's comments. Type a word or a name and the comments scroll to the next one that has it. Replies you haven't opened aren't searched.
-Previous match	Previous match
-Next match	Next match
-Searching...	Searching...
-No more matches	No more matches
-Open comments without the keyboard	Open comments without the keyboard
-Comments open with the keyboard down. A tap in the comment box, or on Reply, still brings it up.	Comments open with the keyboard down. A tap in the comment box, or on Reply, still brings it up.
-Hide Follow on posts	Hide Follow on posts
-Takes the Follow and Subscribe buttons off the top of posts in your feed. The name, time and menu stay.	Takes the Follow and Subscribe buttons off the top of posts in your feed. The name, time and menu stay.
-Hide Subscribe on posts	Hide Subscribe on posts
-Takes only the Subscribe button off the top of posts in your feed. Follow stays.	Takes only the Subscribe button off the top of posts in your feed. Follow stays.
-Takes the memories, recaps, follow anniversaries and birthday cards Instagram makes out of the row of stories at the top of Home. Stories people post stay.	Takes the memories, recaps, follow anniversaries and birthday cards Instagram makes out of the row of stories at the top of Home. Stories people post stay.
-Hides the rewind cards, which bring back old highlights, from the row of stories at the top of Home.	Hides the rewind cards, which bring back old highlights, from the row of stories at the top of Home.
-A double tap on a comment doesn't like it. Starts off, so comments keep double tap to like until you turn this on.	A double tap on a comment doesn't like it. Starts off, so comments keep double tap to like until you turn this on.
-On messages	On messages
-A double tap on a message in a chat doesn't react to it. Starts off. A long press still shows the reactions.	A double tap on a message in a chat doesn't react to it. Starts off. A long press still shows the reactions.
-Hide the Share button	Hide the Share button
-On comments	On comments
-Takes the Share button and its count off the posts in your feed and off reels.	Takes the Share button and its count off the posts in your feed and off reels.
-Ask before a call	Ask before a call
-Call	Call
-Change the like animation	Change the like animation
-Deletes the saved photos Instagram keeps to show again, whatever their size, and the saved videos the next time it starts.	Deletes the saved photos Instagram keeps to show again, whatever their size, and the saved videos the next time it starts.
-Freed %1$s. The videos go the next time Instagram starts.	Freed %1$s. The videos go the next time Instagram starts.
-Like animation	Like animation
-Links keep instagram.com.	Links keep instagram.com.
-Links to instagram.com go out on %1$s.	Links to instagram.com go out on %1$s.
-Links to instagram.com that you copy or share go out on this domain instead, for a site that shows Instagram posts and reels in chat apps. Type the domain alone, like example.com. Leave it blank to keep instagram.com.	Links to instagram.com that you copy or share go out on this domain instead, for a site that shows Instagram posts and reels in chat apps. Type the domain alone, like example.com. Leave it blank to keep instagram.com.
-Pick an animation. Until you do, the heart stays Instagram's.	Pick an animation. Until you do, the heart stays Instagram's.
+Open settings from the logo	فتح الإعدادات من الشعار
+Puts HushGram settings in the menu you get by holding Instagram's icon. Off, it leaves that menu.	يضيف إعدادات HushGram إلى القائمة التي تظهر عند الضغط المطول على أيقونة Instagram. عند تعطيله، يزيلها من تلك القائمة.
+A long press on the Instagram logo at the top of Home opens these settings. Off, the long press goes back to Instagram.	يؤدي الضغط المطول على شعار Instagram أعلى الصفحة الرئيسية إلى فتح هذه الإعدادات. عند تعطيله، يعود الضغط المطول إلى إجراء Instagram الأصلي.
+The last way into these settings stays on.	تظل آخر طريقة للوصول إلى هذه الإعدادات مفعّلة.
+No other way into HushGram is on, so the row stays in Instagram's menu.	لا توجد طريقة أخرى مفعّلة لفتح HushGram، لذلك سيظل صفه ظاهراً في قائمة Instagram.
+Instagram's Settings and activity screen leaves out the HushGram row while another way here opens HushGram. With every other way off, the row comes back.	تخفي شاشة «الإعدادات والنشاط» في Instagram صف HushGram عند تفعيل طريقة أخرى لفتحه. وعند إيقاف جميع الطرق الأخرى، يعود الصف للظهور.
+Stop loading stories and highlights	إيقاف تحميل القصص والقصص المميزة
+Takes the Comment button and the comment count off the posts in your feed.	يزيل زر التعليق وعدد التعليقات من المنشورات في موجزك.
+Hide Reply on comments	إخفاء خيار الرد على التعليقات
+Takes Reply off each comment in a post's or reel's comments. View more replies stays, so you can still open them.	يزيل خيار الرد من كل تعليق ضمن تعليقات المنشور أو مقطع ريلز. يظل خيار عرض المزيد من الردود متاحاً لفتحها.
+Hide the emoji row	إخفاء صف الرموز التعبيرية
+Takes the row of quick emoji off above the comment box. The box itself stays.	يزيل صف الرموز التعبيرية السريعة الموجود أعلى مربع التعليق. ويظل مربع التعليق نفسه ظاهراً.
+Hide GIFs in comments	إخفاء صور GIF في التعليقات
+Takes GIFs and stickers out of comments, and the GIF button off the comment box. A comment with words keeps them. One that's only a GIF goes, along with its replies.	يزيل صور GIF والملصقات من التعليقات، كما يزيل زر GIF من مربع التعليق. وتظل التعليقات النصية ظاهرة، أما التعليقات التي تحتوي على GIF فقط فتُخفى مع ردودها.
+Search comments	البحث في التعليقات
+Adds a search box above a post's comments. Type a word or a name and the comments scroll to the next one that has it. Replies you haven't opened aren't searched.	يضيف مربع بحث أعلى تعليقات المنشور. اكتب كلمة أو اسماً لتنتقل التعليقات إلى التعليق التالي الذي يحتوي عليه. لا يشمل البحث الردود التي لم تفتحها.
+Previous match	النتيجة السابقة
+Next match	النتيجة التالية
+Searching...	جارٍ البحث...
+No more matches	لا توجد نتائج أخرى
+Open comments without the keyboard	فتح التعليقات دون إظهار لوحة المفاتيح
+Comments open with the keyboard down. A tap in the comment box, or on Reply, still brings it up.	تُفتح التعليقات مع إخفاء لوحة المفاتيح. ويظل الضغط على مربع التعليق أو خيار الرد كفيلاً بإظهارها.
+Hide Follow on posts	إخفاء زر المتابعة في المنشورات
+Takes the Follow and Subscribe buttons off the top of posts in your feed. The name, time and menu stay.	يزيل زري المتابعة والاشتراك من أعلى المنشورات في موجزك. ويظل الاسم والوقت والقائمة ظاهرة.
+Hide Subscribe on posts	إخفاء زر الاشتراك في المنشورات
+Takes only the Subscribe button off the top of posts in your feed. Follow stays.	يزيل زر الاشتراك فقط من أعلى المنشورات في موجزك، مع إبقاء زر المتابعة.
+Takes the memories, recaps, follow anniversaries and birthday cards Instagram makes out of the row of stories at the top of Home. Stories people post stay.	يزيل الذكريات والملخصات وذكرى المتابعة وبطاقات أعياد الميلاد التي ينشئها Instagram من صف القصص أعلى الصفحة الرئيسية. وتظل قصص المستخدمين ظاهرة.
+Hides the rewind cards, which bring back old highlights, from the row of stories at the top of Home.	يخفي بطاقات إعادة العرض التي تسترجع القصص المميزة القديمة من صف القصص أعلى الصفحة الرئيسية.
+A double tap on a comment doesn't like it. Starts off, so comments keep double tap to like until you turn this on.	لن يؤدي النقر المزدوج على تعليق إلى الإعجاب به. يكون الخيار متوقفاً افتراضياً، لذلك تظل التعليقات تقبل الإعجاب بالنقر المزدوج حتى تفعّله.
+On messages	في الرسائل
+A double tap on a message in a chat doesn't react to it. Starts off. A long press still shows the reactions.	لن يؤدي النقر المزدوج على رسالة في محادثة إلى التفاعل معها. يكون الخيار متوقفاً افتراضياً. ويظل الضغط المطول يعرض التفاعلات.
+Hide the Share button	إخفاء زر المشاركة
+On comments	في التعليقات
+Takes the Share button and its count off the posts in your feed and off reels.	يزيل زر المشاركة وعدّاده من المنشورات في موجزك ومن مقاطع ريلز.
+Ask before a call	طلب التأكيد قبل إجراء مكالمة
+Call	اتصال
+Change the like animation	تغيير حركة الإعجاب
+Deletes the saved photos Instagram keeps to show again, whatever their size, and the saved videos the next time it starts.	يحذف الصور المحفوظة التي يحتفظ بها Instagram لإعادة عرضها، مهما كان حجمها، كما يحذف الفيديوهات المحفوظة عند تشغيله في المرة التالية.
+Freed %1$s. The videos go the next time Instagram starts.	تم توفير %1$s. ستُحذف الفيديوهات عند تشغيل Instagram في المرة التالية.
+Like animation	حركة الإعجاب
+Links keep instagram.com.	تظل الروابط تستخدم instagram.com.
+Links to instagram.com go out on %1$s.	تُفتح روابط instagram.com عبر %1$s.
+Links to instagram.com that you copy or share go out on this domain instead, for a site that shows Instagram posts and reels in chat apps. Type the domain alone, like example.com. Leave it blank to keep instagram.com.	تُفتح روابط instagram.com التي تنسخها أو تشاركها باستخدام هذا النطاق بدلاً منه، لموقع يعرض منشورات Instagram ومقاطع ريلز داخل تطبيقات المحادثة. اكتب اسم النطاق وحده، مثل example.com. اتركه فارغاً للإبقاء على instagram.com.
+Pick an animation. Until you do, the heart stays Instagram's.	اختر حركة. وحتى تختار واحدة، ستظل حركة القلب الافتراضية في Instagram مستخدمة.
 Sharing domain	نطاق المشاركة
-Start a video call?	Start a video call?
-Start a voice call?	Start a voice call?
-Tapping a call button in a chat asks first, so a stray tap doesn't ring anyone. Call starts it, Cancel doesn't.	Tapping a call button in a chat asks first, so a stray tap doesn't ring anyone. Call starts it, Cancel doesn't.
-That isn't a domain. Try one like example.com.	That isn't a domain. Try one like example.com.
-The heart plays %1$s when you double tap a post.	The heart plays %1$s when you double tap a post.
-The heart that pops up when you double tap a post plays the animation you pick below. They're animations Instagram made for its Rings creators.	The heart that pops up when you double tap a post plays the animation you pick below. They're animations Instagram made for its Rings creators.
-Turn on Change the like animation to use this choice.	Turn on Change the like animation to use this choice.
-When Instagram's saved photos and videos pass the limit below, deletes the photos as you leave it and the videos the next time it starts. Your sign-in, drafts and settings stay.	When Instagram's saved photos and videos pass the limit below, deletes the photos as you leave it and the videos the next time it starts. Your sign-in, drafts and settings stay.
-Ask before a like	Ask before a like
-Ask before a refresh	Ask before a refresh
-Continue	Continue
-Like or unlike this post?	Like or unlike this post?
-Like or unlike this comment?	Like or unlike this comment?
-Asks before a pull down or another tap on its tab refreshes Home, Reels or another list. Cancel keeps what's on screen.	Asks before a pull down or another tap on its tab refreshes Home, Reels or another list. Cancel keeps what's on screen.
-Skip the collections tray	Skip the collections tray
-Saving a post or reel shows Instagram's Saved message instead of the tray that asks you to start a collection.	Saving a post or reel shows Instagram's Saved message instead of the tray that asks you to start a collection.
-Refresh	Refresh
-Refresh this list?	Refresh this list?
-Asks before the Like button under a post, on a reel or on a comment likes or unlikes it, so a stray tap doesn't do it for you. Double taps aren't asked about.	Asks before the Like button under a post, on a reel or on a comment likes or unlikes it, so a stray tap doesn't do it for you. Double taps aren't asked about.
+Start a video call?	هل تريد بدء مكالمة فيديو؟
+Start a voice call?	هل تريد بدء مكالمة صوتية؟
+Tapping a call button in a chat asks first, so a stray tap doesn't ring anyone. Call starts it, Cancel doesn't.	يؤدي الضغط على زر الاتصال في المحادثة إلى طلب التأكيد أولاً، حتى لا يؤدي الضغط غير المقصود إلى الاتصال بأحد. يبدأ زر الاتصال المكالمة، بينما يلغيها زر الإلغاء.
+That isn't a domain. Try one like example.com.	هذا ليس نطاقاً صالحاً. جرّب نطاقاً مثل example.com.
+The heart plays %1$s when you double tap a post.	يعرض القلب الحركة %1$s عند النقر المزدوج على منشور.
+The heart that pops up when you double tap a post plays the animation you pick below. They're animations Instagram made for its Rings creators.	يشغّل القلب الذي يظهر عند النقر المزدوج على منشور الحركة التي تختارها أدناه. هذه حركات أنشأها Instagram لصنّاع محتوى Rings.
+Turn on Change the like animation to use this choice.	فعّل خيار تغيير حركة الإعجاب لاستخدام هذا الاختيار.
+When Instagram's saved photos and videos pass the limit below, deletes the photos as you leave it and the videos the next time it starts. Your sign-in, drafts and settings stay.	عندما يتجاوز حجم الصور والفيديوهات المحفوظة لدى Instagram الحد المحدد أدناه، تُحذف الصور عند مغادرة التطبيق والفيديوهات عند تشغيله في المرة التالية. يظل تسجيل دخولك ومسوداتك وإعداداتك محفوظة.
+Ask before a like	طلب التأكيد قبل الإعجاب
+Ask before a refresh	طلب التأكيد قبل التحديث
+Continue	متابعة
+Like or unlike this post?	هل تريد الإعجاب بهذا المنشور أو إلغاء الإعجاب؟
+Like or unlike this comment?	هل تريد الإعجاب بهذا التعليق أو إلغاء الإعجاب؟
+Asks before a pull down or another tap on its tab refreshes Home, Reels or another list. Cancel keeps what's on screen.	يطلب التأكيد قبل أن يؤدي السحب لأسفل أو الضغط مرة أخرى على علامة التبويب إلى تحديث الرئيسية أو ريلز أو أي قائمة أخرى. يحافظ زر الإلغاء على المحتوى المعروض حالياً.
+Skip the collections tray	تخطي لوحة المجموعات
+Saving a post or reel shows Instagram's Saved message instead of the tray that asks you to start a collection.	عند حفظ منشور أو مقطع ريلز، تظهر رسالة «تم الحفظ» من Instagram بدلاً من لوحة المجموعات التي تطلب منك إنشاء مجموعة.
+Refresh	تحديث
+Refresh this list?	هل تريد تحديث هذه القائمة؟
+Asks before the Like button under a post, on a reel or on a comment likes or unlikes it, so a stray tap doesn't do it for you. Double taps aren't asked about.	يطلب التأكيد قبل أن يؤدي زر الإعجاب أسفل منشور أو في مقطع ريلز أو على تعليق إلى تسجيل الإعجاب أو إلغائه، حتى لا يؤدي الضغط غير المقصود إلى ذلك. لا يُطلب التأكيد عند النقر المزدوج.
 Adds a row next to Download on a reel and a feed video that plays it in an app you pick, such as VLC. The player streams it from Instagram's servers.	Adds a row next to Download on a reel and a feed video that plays it in an app you pick, such as VLC. The player streams it from Instagram's servers.
 Couldn't open another player	Couldn't open another player
 No app on this phone can play this video	No app on this phone can play this video
