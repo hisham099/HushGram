@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - arabic-localization-v0.0.21
+      - arabic-localization-complete
     paths:
       - 'extensions/shared/library/src/main/l10n/**'
       - 'extensions/shared/library/src/main/java/**'
