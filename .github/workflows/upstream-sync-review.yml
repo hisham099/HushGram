@@ -51,7 +51,7 @@ jobs:
             exit 0
           fi
 
-          SYNC_BRANCH="automation/upstream-sync-${GITHUB_RUN_ID}"
+          SYNC_BRANCH="automation/upstream-sync-${GITHUB_RUN_ID}-${GITHUB_RUN_ATTEMPT}"
           git switch -c "$SYNC_BRANCH"
           git merge --no-edit upstream/main
 
