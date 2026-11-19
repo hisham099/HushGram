@@ -34,6 +34,9 @@ Every HushGram release, newest first.
 * `Expand captions on reels` is new under Reels and comes with `Expand captions`. Reels show their whole caption, so there's no "more" to tap. It's a switch of its own, apart from the feed one, since a long caption covers more of the video. Starts off. Asked for in #752.
 * `Hide Threads posts` is new under Reels, right after `Hide stories in Reels`. It takes out the cards Instagram slips between reels to get you onto Threads. Every reel still plays. Starts off. Asked for in #765.
 * `Expand captions` is a new patch under Feed. Posts in your feed show their whole caption, with no "more" to tap. Pick `Caption lines before more` to get a set number of lines instead, from one to ten, and a longer caption ends with "more" like before. Stories keep Instagram's short captions. Starts off. Requested in #771.
+* `Let the screen sleep when a reel stops` is new under Reels. Instagram keeps the screen on the whole time Reels is open, even with a reel paused. With this on, a paused reel lets your phone's own screen timeout run, and the screen stays on again the moment a reel plays. Starts off, no restart needed. `Control the reel above comments` moved to the Comments group in Manager to make room, and its switch is still on the Reels page. Asked for in #777.
+* `Items in the three-dot menus` under Feed has five more to untick. A reel's menu can drop Remix and sequence, Use as reference, Use template and Get Edits, and the Made with Edits heading goes too once none of them is left. `Loop this video` can come off the reel and feed video menus as well. Asked for in #707.
+
 
 
 ### Bug Fixes
@@ -55,6 +58,8 @@ Every HushGram release, newest first.
 * Reels that run behind the glass tab bar sit where they should again instead of up against the top of the screen with a black band under them. Reported in #763.
 * Unfolding a foldable with `Glass tab bar` on keeps every tab in Instagram's side rail now, lined up. Search and your profile used to go missing from it and the rest sat out of line. Reported in #764.
 * `Thicker story progress bar` makes the bar thicker again when you've picked a seek bar shape. 0.0.21 kept the shape at its own size so the waves wouldn't stretch, and that left the bar as thin as before. The shape's line now grows as much as the standard bar does, and its waves keep their size. Reported in #775.
+* `Long press a profile picture to view it` works on accounts with an avatar too. Their picture turns between the photo and the avatar, and a long press there used to open Instagram's avatar card instead of the picture. Reported in #758.
+
 
 
 ## 0.0.21 (2026-11-18)

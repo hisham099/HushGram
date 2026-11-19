@@ -2649,3 +2649,14 @@ A swipe left on Home no longer opens Messages. The Messages button still does.	D
 The cards that Instagram puts between reels to get you onto Threads.	Las tarjetas que Instagram pone entre los reels para llevarte a Threads.
 Expand captions on reels	Expandir descripciones en reels
 Reels show their whole caption, with no "more" to tap. A long caption covers more of the video.	Los reels muestran su descripción entera, sin «más» que tocar. Una descripción larga tapa más parte del video.
+# context: switch in HushGram settings > Reels; Instagram keeps the screen on the whole time its Reels viewer is open, and this lets a paused reel follow the phone's own screen timeout (#777)
+Let the screen sleep when a reel stops	Dejar que la pantalla se apague cuando un reel se detiene
+Instagram keeps the screen on while Reels is open. With this on, a paused reel lets your phone's screen timeout run, and a playing one keeps it on.	Instagram mantiene la pantalla encendida mientras Reels está abierto. Con esto activado, un reel en pausa deja correr el tiempo de espera de la pantalla de tu teléfono, y uno que se reproduce la mantiene encendida.
+# context: Item in Items in the three-dot menus under Feed: Instagram's Remix and sequence row in a reel's Made with Edits part (#707)
+Remix and sequence	Remix y secuencia
+# context: Item in Items in the three-dot menus under Feed: Instagram's Use as reference row in a reel's Made with Edits part (#707)
+Use as reference	Usar como referencia
+# context: Item in Items in the three-dot menus under Feed: Instagram's Use template row in a reel's Made with Edits part (#707)
+Use template	Usar plantilla
+# context: Item in Items in the three-dot menus under Feed: Instagram's Get Edits row in a reel's Made with Edits part (#707)
+Get Edits	Obtener Edits

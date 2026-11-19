@@ -2652,3 +2652,14 @@ A swipe left on Home no longer opens Messages. The Messages button still does.	�
 The cards that Instagram puts between reels to get you onto Threads.	隐藏 Instagram 在 Reels 之间插入、引导你前往 Threads 的卡片。
 Expand captions on reels	展开 Reels 的说明文字
 Reels show their whole caption, with no "more" to tap. A long caption covers more of the video.	Reels 会显示完整说明文字，无需点“更多”。说明文字很长时会挡住更多视频画面。
+# context: switch in HushGram settings > Reels; Instagram keeps the screen on the whole time its Reels viewer is open, and this lets a paused reel follow the phone's own screen timeout (#777)
+Let the screen sleep when a reel stops	Reel 停止时让屏幕休眠
+Instagram keeps the screen on while Reels is open. With this on, a paused reel lets your phone's screen timeout run, and a playing one keeps it on.	Reels 打开时，Instagram 会让屏幕一直亮着。开启这个选项后，暂停的 Reel 会按手机的屏幕超时设置关闭屏幕，播放中的 Reel 则让屏幕保持亮着。
+# context: Item in Items in the three-dot menus under Feed: Instagram's Remix and sequence row in a reel's Made with Edits part (#707)
+Remix and sequence	混音和串联
+# context: Item in Items in the three-dot menus under Feed: Instagram's Use as reference row in a reel's Made with Edits part (#707)
+Use as reference	用作参考
+# context: Item in Items in the three-dot menus under Feed: Instagram's Use template row in a reel's Made with Edits part (#707)
+Use template	使用模板
+# context: Item in Items in the three-dot menus under Feed: Instagram's Get Edits row in a reel's Made with Edits part (#707)
+Get Edits	获取 Edits
