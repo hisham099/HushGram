@@ -14,6 +14,7 @@ on:
       - "scripts/test-l10n.py"
       - "patches/**"
       - "gradle/**"
+      - "gradle.properties"
       - "settings.gradle.kts"
       - "build.gradle.kts"
       - ".github/workflows/arabic-localization-mpp.yml"
@@ -136,6 +137,10 @@ jobs:
           if (-not (Test-Path $bundle)) { throw "Verified MPP bundle not found: $bundle" }
           $checksum = "patches/build/release/bundle.sha256"
           if (-not (Test-Path $checksum)) { throw "SHA-256 checksum file not found" }
-          gh release create hushgram-arabic-v0.0.22 $bundle $checksum --title "HushGram Arabic v0.0.22" --notes "Arabic localization release built from the latest upstream HushGram main, with verified MPP bundle and SHA-256 checksum." --target $env:GITHUB_SHA
+          if (gh release view hushgram-arabic-v0.0.22 *> $null) {
+            gh release upload hushgram-arabic-v0.0.22 $bundle $checksum --clobber
+          } else {
+            gh release create hushgram-arabic-v0.0.22 $bundle $checksum --title "HushGram Arabic v0.0.22" --notes "Arabic localization release built from the latest upstream HushGram main, with verified MPP bundle and SHA-256 checksum." --target $env:GITHUB_SHA
+          }
 
 # [release-arabic-v0.0.22] Trigger the verified Arabic release build on main.
