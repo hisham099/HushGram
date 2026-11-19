@@ -58,7 +58,8 @@ jobs:
 
           SYNC_BRANCH="automation/upstream-sync-${GITHUB_RUN_ID}-${GITHUB_RUN_ATTEMPT}"
           git switch -c "$SYNC_BRANCH"
-          git merge --no-edit upstream/main
+          git merge --no-edit -X ours upstream/main
+          python scripts/merge-upstream-l10n.py
 
           echo "changed=true" >> "$GITHUB_OUTPUT"
           echo "branch=$SYNC_BRANCH" >> "$GITHUB_OUTPUT"
@@ -75,7 +76,7 @@ jobs:
           elif ! python scripts/test-l10n.py; then
             status=localization-tests-failed
           else
-            git add extensions/shared/library/src/main/java/app/hushgram/extension/shared/L10nTranslations.java
+            git add CHANGELOG.md extensions/shared/library/src/main/l10n/*.tsv extensions/shared/library/src/main/java/app/hushgram/extension/shared/L10nTranslations.java
             if ! git diff --cached --quiet; then
               git commit -m "chore(l10n): regenerate translations after upstream sync"
             fi
