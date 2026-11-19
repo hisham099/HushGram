@@ -2607,3 +2607,27 @@ Turn on auto scroll	تشغيل التمرير التلقائي
 Auto scroll on	تم تشغيل التمرير التلقائي
 Auto scroll off	تم إيقاف التمرير التلقائي
 Auto scroll didn't change	لم يتغير إعداد التمرير التلقائي
+Tells Instagram your phone has no AV1 decoder, which takes a restart. A post or reel that still comes as AV1 is saved as VP9 from Instagram's website when it offers one. Stories can still be AV1, and Convert to keep the full size turns those into H.264.	يُبلغ Instagram بأن هاتفك لا يحتوي على وحدة فك ترميز AV1، ويتطلب ذلك إعادة تشغيل التطبيق. يُحفظ أي منشور أو مقطع Reels يستمر وصوله بصيغة AV1 باستخدام VP9 من موقع Instagram عندما يكون ذلك متاحاً. قد تظل القصص بصيغة AV1، كما يحوّلها خيار «التحويل للحفاظ على الحجم الكامل» إلى H.264.
+Hide the line under names	إخفاء السطر أسفل الأسماء
+Takes the song, the place and the other labels off the line under the name on posts in your feed. Sponsored and Paid partnership stay. Posts already on screen change when they load again.	يزيل اسم الأغنية والموقع والملصقات الأخرى من السطر أسفل اسم ناشر المنشورات في موجزك. وتظل علامتا «مموّل» و«شراكة مدفوعة» ظاهرتين. وتتغير المنشورات المعروضة بالفعل عند إعادة تحميلها.
+Expand captions	توسيع الأوصاف
+Shows more of a post's caption in your feed before "more", the whole caption to start. Reels and stories stay as they are.	يعرض جزءاً أكبر من وصف المنشور في موجزك قبل ظهور «المزيد»، ويعرض الوصف كاملاً افتراضياً. ولا تتغير مقاطع Reels والقصص.
+Caption lines before more	عدد أسطر الوصف قبل «المزيد»
+Captions longer than that end with "more", which opens the rest.	تنتهي الأوصاف التي تتجاوز هذا العدد بعبارة «المزيد»، وعند الضغط عليها يظهر باقي الوصف.
+Whole caption	الوصف بالكامل
+1 line	سطر واحد
+2 lines	سطران
+3 lines	3 أسطر
+4 lines	4 أسطر
+5 lines	5 أسطر
+6 lines	6 أسطر
+8 lines	8 أسطر
+10 lines	10 أسطر
+The whole caption shows, with no "more" to tap.	يظهر الوصف كاملاً دون الحاجة إلى الضغط على «المزيد».
+Turn on Expand captions to use this choice.	فعّل خيار «توسيع الأوصاف» لاستخدام هذا الإعداد.
+Hide follower counts	إخفاء أعداد المتابعين
+Takes the numbers off Followers and Following at the top of profiles, yours included. The words stay, and a tap still opens the list.	يزيل الأعداد من بجانب «المتابعون» و«يتابع» أعلى الملفات الشخصية، بما في ذلك ملفك الشخصي. وتظل الكلمات ظاهرة، ويؤدي الضغط عليها إلى فتح القائمة.
+Hide Followers and Following	إخفاء «المتابعون» و«يتابع»
+Takes the Followers and Following buttons off the top of profiles, yours included, with no gap left. The post count stays.	يزيل زري «المتابعون» و«يتابع» من أعلى الملفات الشخصية، بما في ذلك ملفك الشخصي، دون ترك فراغ مكانهما. ويظل عدد المنشورات ظاهراً.
+Hide the line under names on reels	إخفاء السطر أسفل الأسماء في Reels
+Takes the song, the place and the other labels off the line under the name on reels. Sponsored and Paid partnership stay. Reels already on screen change when they load again.	يزيل اسم الأغنية والموقع والملصقات الأخرى من السطر أسفل اسم صاحب مقطع Reels. وتظل علامتا «مموّل» و«شراكة مدفوعة» ظاهرتين. وتتغير المقاطع المعروضة بالفعل عند إعادة تحميلها.
