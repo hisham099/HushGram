@@ -1,0 +1,95 @@
+name: Arabic localization and MPP
+
+on:
+  push:
+    branches:
+      - full-arabic-localization
+    paths:
+      - "extensions/shared/library/src/main/l10n/**"
+      - "extensions/shared/library/src/main/java/**"
+      - "extensions/instagram/src/main/java/**"
+      - "scripts/gen-l10n.py"
+      - "scripts/sync-l10n.py"
+      - "scripts/test-l10n.py"
+      - "patches/**"
+      - "gradle/**"
+      - "settings.gradle.kts"
+      - "build.gradle.kts"
+      - ".github/workflows/arabic-localization-mpp.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  packages: read
+
+concurrency:
+  group: arabic-localization-mpp-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  validate-and-build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - name: Check out the requested branch
+        uses: actions/checkout@v4
+        with:
+          ref: full-arabic-localization
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Set up Java
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: "21"
+
+      - name: Set up Gradle
+        uses: gradle/actions/setup-gradle@v4
+
+      - name: Test localization tooling
+        run: python scripts/test-l10n.py
+
+      - name: Generate Java localization catalog
+        run: python scripts/gen-l10n.py
+
+      - name: Verify generated catalog is committed
+        run: |
+          git diff --check
+          git diff --exit-code -- extensions/shared/library/src/main/java/app/hushgram/extension/shared/L10nTranslations.java
+
+      - name: Build and verify Morphe Patch Bundle
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: ./gradlew --no-daemon --stacktrace :patches:buildAndroid
+
+      - name: Check MPP output
+        id: bundle
+        shell: bash
+        run: |
+          set -euo pipefail
+          shopt -s nullglob
+          bundles=(patches/build/release/*.mpp)
+          if [ "${#bundles[@]}" -ne 1 ]; then
+            echo "Expected exactly one MPP in patches/build/release; found ${#bundles[@]}"
+            find patches/build -maxdepth 4 -type f -print || true
+            exit 1
+          fi
+          test -s "${bundles[0]}"
+          echo "path=${bundles[0]}" >> "$GITHUB_OUTPUT"
+          sha256sum "${bundles[0]}"
+          ls -lh "${bundles[0]}"
+
+      - name: Upload verified MPP
+        uses: actions/upload-artifact@v4
+        with:
+          name: hushgram-arabic-mpp
+          path: |
+            ${{ steps.bundle.outputs.path }}
+            patches/build/release/bundle.sha256
+          if-no-files-found: error
+          retention-days: 30
