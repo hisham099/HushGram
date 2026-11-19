@@ -469,6 +469,11 @@ Keep Featured off the heart's dot	Öne Çıkanlar kalpteki noktayı yakmasın
 Stops the red dot on the heart from showing up for Featured alone. Likes, comments and new followers still light it.	Kalpteki kırmızı noktanın yalnızca Öne Çıkanlar yüzünden görünmesini engeller. Beğeniler, yorumlar ve yeni takipçiler noktayı yakmaya devam eder.
 Hide highlights	Öne çıkanları gizle
 Takes the row of story highlights off profiles, yours included. Bios, counts and posts stay, and so does Add to highlight on your stories.	Hikaye öne çıkanları satırını profillerden, seninki dahil, kaldırır. Biyografiler, sayılar ve gönderiler kalır, hikayelerindeki Öne çıkanlara ekle de kalır.
+# context: "Followers" and "Following" are the two buttons under a profile's name, beside the post count; use the words Instagram shows there in this language (#771)
+Hide follower counts	Takipçi sayılarını gizle
+Takes the numbers off Followers and Following at the top of profiles, yours included. The words stay, and a tap still opens the list.	Profillerin üstündeki takipçi ve takip alanlarından sayıları kaldırır, seninki de dahil. Yazılar kalır ve dokununca liste yine açılır.
+Hide Followers and Following	Takipçi ve takibi gizle
+Takes the Followers and Following buttons off the top of profiles, yours included, with no gap left. The post count stays.	Profillerin üstündeki takipçi ve takip düğmelerini boşluk bırakmadan kaldırır, seninki de dahil. Gönderi sayısı kalır.
 Hide the Threads button	Threads düğmesini gizle
 Takes the Threads button off the top of profiles, yours included. The menu and the other buttons stay where they were.	Threads düğmesini profillerin üstünden, seninki dahil, kaldırır. Menü ve diğer düğmeler oldukları yerde kalır.
 Show profile posts as a list	Profil gönderilerini liste olarak göster
@@ -1674,6 +1679,22 @@ Start reels muted	Reel'leri sessiz başlat
 Every reel starts silent, wherever you open it from. The volume keys or the speaker icon unmute it. Wins over Start reels with sound.	Her reel, nereden açarsan aç sessiz başlar. Ses tuşları veya hoparlör simgesi sesi açar. Reel'leri sesli başlat ayarından önce gelir.
 Hide captions	Açıklamaları gizle
 Takes the caption off posts in your feed and off reels. The post stays, and the comments sheet still shows it.	Akıştaki gönderilerden ve reel'lerden açıklamayı kaldırır. Gönderi kalır, yorumlar sayfası açıklamayı yine gösterir.
+# context: "more" is the word Instagram puts at the end of a cut caption in the feed; use the word Instagram shows there in this language (#771)
+Expand captions	Açıklamaları genişlet
+Shows more of a post's caption in your feed before "more", the whole caption to start. Reels and stories stay as they are.	Akıştaki gönderilerin açıklamasını "devamı" yazısından önce daha uzun gösterir, başta açıklamanın tamamını. Reels ve hikayeler olduğu gibi kalır.
+Caption lines before more	"Devamı" öncesi satırlar
+The whole caption shows, with no "more" to tap.	Açıklamanın tamamı görünür, dokunulacak bir "devamı" olmaz.
+Captions longer than that end with "more", which opens the rest.	Daha uzun açıklamalar "devamı" ile biter, ona dokununca gerisi açılır.
+Turn on Expand captions to use this choice.	Bu seçimi kullanmak için Açıklamaları genişlet seçeneğini açın.
+Whole caption	Açıklamanın tamamı
+1 line	1 satır
+2 lines	2 satır
+3 lines	3 satır
+4 lines	4 satır
+5 lines	5 satır
+6 lines	6 satır
+8 lines	8 satır
+10 lines	10 satır
 Keep Home's top bar	Ana sayfanın üst çubuğunu sabitle
 Keeps the Instagram logo and the buttons beside it at the top of Home while you scroll, instead of sliding them away.	Kaydırırken Instagram logosunu ve yanındaki düğmeleri kaydırıp gizlemek yerine Ana sayfanın üstünde tutar.
 # context: Feed settings: the See-through top bar switch, right under Keep Home's top bar (#418). It blurs the posts that scroll under Home's header, the bar with the Instagram logo.
@@ -2123,6 +2144,12 @@ Puts the seek bar right on the bottom edge of the video, so it's harder to touch
 # context: "Made with Edits" is the label Instagram shows under a post's author for a video made in Meta's Edits app; it stays in English here
 Hide Made with Edits	"Made with Edits" etiketini gizle
 Takes the "Made with Edits" label out of the line under a post's author. The song, the place and the other labels keep taking turns there.	Bir gönderinin sahibinin altındaki satırdan "Made with Edits" etiketini kaldırır. Şarkı, konum ve diğer etiketler orada sırayla görünmeye devam eder.
+# context: "Sponsored" and "Paid partnership" are Instagram's own labels on feed posts; use the text Instagram shows in this language (#771)
+Hide the line under names	İsimlerin altındaki satırı gizle
+Takes the song, the place and the other labels off the line under the name on posts in your feed. Sponsored and Paid partnership stay. Posts already on screen change when they load again.	Akışındaki gönderilerde ismin altındaki satırdan şarkıyı, konumu ve diğer etiketleri kaldırır. "Sponsorlu" ve "Ücretli ortaklık" kalır. Ekranda olan gönderiler yeniden yüklendiğinde değişir.
+# context: "Sponsored" and "Paid partnership" are Instagram's own labels on reels; use the text Instagram shows in this language (#771)
+Hide the line under names on reels	Reels'te isimlerin altındaki satırı gizle
+Takes the song, the place and the other labels off the line under the name on reels. Sponsored and Paid partnership stay. Reels already on screen change when they load again.	Reels'te ismin altındaki satırdan şarkıyı, konumu ve diğer etiketleri kaldırır. "Sponsorlu" ve "Ücretli ortaklık" kalır. Ekranda olan reels videoları yeniden yüklendiğinde değişir.
 # context: a switch on the Feed page; Save and Remove from saved are the rows it adds to a feed post's three-dot menu
 Save in the post menu	Gönderi menüsünde Kaydet
 Adds Save to the menu behind a post's three dots, or Remove from saved when you saved it already.	Bir gönderinin üç noktasının açtığı menüye Kaydet ekler, zaten kaydettiysen Kaydedilenlerden kaldır ekler.

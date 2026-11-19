@@ -123,6 +123,7 @@ public final class FamilyNames {
     public static final String PROFILE_POSTS_LIST = "Profile posts as a list";
     public static final String PROFILE_GRID_JUMP = "Jump a profile's posts to a date";
     public static final String PROFILE_REEL_SORT = "Sort reels on profiles";
+    public static final String PROFILE_FOLLOW_COUNTS = "Hide Followers and Following on profiles";
     public static final String COMMENT_COPY = "Copy comment";
     public static final String COMMENT_PHOTO = "Save comment photo";
     public static final String PROFILE_PICTURE = "Save profile picture";
@@ -134,11 +135,13 @@ public final class FamilyNames {
     public static final String COMMENT_SEARCH = "Search comments";
     public static final String FEED_FOLLOW = "Hide Follow on feed posts";
     public static final String EDITS_LABEL = "Hide Made with Edits";
+    public static final String FEED_HEADER_LINE = "Hide the line under names";
     public static final String FEED_SAVE = "Save in the post menu";
     public static final String MENU_ITEMS = "Three-dot menu items";
     public static final String WATCH_AGAIN = "Watch again in the feed";
     public static final String ACTIVITY_BUBBLES = "Hide activity bubbles";
     public static final String HIDE_CAPTIONS = "Hide captions";
+    public static final String EXPAND_CAPTIONS = "Expand captions";
     public static final String FEED_AUDIO_ICON = "Hide the audio icon on posts";
     public static final String FEED_AUTO_SCROLL = "Auto scroll in Home";
     public static final String HOME_TOP_BAR = "Keep Home's top bar";
