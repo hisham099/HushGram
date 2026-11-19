@@ -74,6 +74,7 @@ jobs:
         run: .\\gradlew.bat --no-daemon --stacktrace :patches:buildAndroid
 
       - name: Check MPP output
+        id: bundle
         shell: pwsh
         run: |
           $bundles = @(Get-ChildItem "patches/build/release" -Filter "*.mpp" -File)
