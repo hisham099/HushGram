@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - full-arabic-localization
+      - main
     paths:
       - "extensions/shared/library/src/main/l10n/**"
       - "extensions/shared/library/src/main/java/**"
@@ -19,6 +20,7 @@ on:
   pull_request:
     branches:
       - full-arabic-localization
+      - main
     paths:
       - "extensions/shared/library/src/main/l10n/**"
       - "extensions/shared/library/src/main/java/**"
@@ -49,7 +51,7 @@ jobs:
       - name: Check out the requested branch
         uses: actions/checkout@v4
         with:
-          ref: ${{ github.event.pull_request.head.sha || 'full-arabic-localization' }}
+          ref: ${{ github.event.pull_request.head.sha || github.ref_name }}
           fetch-depth: 0
 
       - name: Set up Python
@@ -82,13 +84,13 @@ jobs:
           git diff --cached --check
           if ! git diff --cached --quiet; then
             git commit -m "chore(l10n): generate Arabic translation tables"
-            git push origin HEAD:full-arabic-localization
+            git push origin HEAD:${{ github.ref_name }}
           fi
 
       - name: Build and verify Morphe Patch Bundle
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: .\gradlew.bat --no-daemon --stacktrace :patches:buildAndroid
+        run: .\\gradlew.bat --no-daemon --stacktrace :patches:buildAndroid
 
       - name: Check MPP output
         id: bundle
@@ -123,3 +125,15 @@ jobs:
             patches/build/release/bundle.sha256
           if-no-files-found: error
           retention-days: 14
+
+      - name: Publish Arabic v0.0.22 release
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main' && contains(github.event.head_commit.message, '[release-arabic-v0.0.22]')
+        shell: pwsh
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          $bundle = "${{ steps.bundle.outputs.path }}"
+          if (-not (Test-Path $bundle)) { throw "Verified MPP bundle not found: $bundle" }
+          $checksum = "patches/build/release/bundle.sha256"
+          if (-not (Test-Path $checksum)) { throw "SHA-256 checksum file not found" }
+          gh release create hushgram-arabic-v0.0.22 $bundle $checksum --title "HushGram Arabic v0.0.22" --notes "Arabic localization release built from the latest upstream HushGram main, with verified MPP bundle and SHA-256 checksum." --target $env:GITHUB_SHA
