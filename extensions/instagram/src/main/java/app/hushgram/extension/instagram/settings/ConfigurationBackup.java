@@ -245,6 +245,7 @@ public final class ConfigurationBackup {
         if (PatchFamily.STORY_TIME.inBuild()) settings.put(Settings.STORY_TIME_MODE.key, Settings.STORY_TIME_MODE);
         if (PatchFamily.STORY_MENTIONS.inBuild()) settings.put(Settings.STORY_MENTIONS_LOOK.key, Settings.STORY_MENTIONS_LOOK);
         if (PatchFamily.CAROUSEL_ARROWS.inBuild()) settings.put(Settings.CAROUSEL_PILL_LOOK.key, Settings.CAROUSEL_PILL_LOOK);
+        if (PatchFamily.EXPAND_CAPTIONS.inBuild()) settings.put(Settings.CAPTION_LINES.key, Settings.CAPTION_LINES);
         if (PatchFamily.FEED_SEEK_BAR.inBuild()) {
             settings.put(Settings.FEED_SEEK_BAR_LOOK.key, Settings.FEED_SEEK_BAR_LOOK);
             settings.put(Settings.SEEK_BAR_SHAPE.key, Settings.SEEK_BAR_SHAPE);
@@ -481,6 +482,11 @@ public final class ConfigurationBackup {
                 }
                 updates.put(setting, value);
             }
+            // A file from before the Reels switch had one switch for both questions, and every later
+            // export writes the Reels one, so a file without it gives Reels the Home answer (#769).
+            Object home = updates.get(Settings.HIDE_FEED_INTEREST);
+            if (home != null && allowed.get(Settings.HIDE_REEL_INTEREST.key) == Settings.HIDE_REEL_INTEREST
+                    && !values.has(Settings.HIDE_REEL_INTEREST.key)) updates.put(Settings.HIDE_REEL_INTEREST, home);
             if (listed) {
                 // An entry that isn't an account is a file of the wrong shape. One the list couldn't
                 // have saved is left out, and so is the whole list without Saved profiles in the build.

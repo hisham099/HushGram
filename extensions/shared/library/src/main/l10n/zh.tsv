@@ -346,6 +346,8 @@ Stop swipe to create	禁用滑动创建
 Full resolution photos	完整分辨率照片
 Loads photos in your feed, carousels and opened posts at the largest size Instagram offers. This can use more data.	以 Instagram 提供的最大尺寸加载动态首页、轮播帖子及已打开帖子中的照片。可能会使用更多数据。
 A sideways swipe on Home no longer opens the camera. The + button and every other way into the camera still work.	在首页左右滑动不再打开相机。+ 按钮及其他打开相机的方式仍可使用。
+# context: a switch in HushGram settings > Feed, right after Stop swipe to create; Messages is Instagram's inbox, named as in Swipe left for Messages (#770)
+# context: summary under Stop swipe to Messages; the Messages button is the inbox button at the top of Home or on the tab bar (#770)
 Swipe left for Messages	向左滑打开消息
 Swiping left on Home opens Messages, like Instagram used to. Carousels and the stories row still slide as before.	在首页向左滑会打开消息，就像以前的 Instagram。轮播帖子和快拍栏仍可照常滑动。
 Meta AI	Meta AI
@@ -474,6 +476,11 @@ Keep Featured off the heart's dot	不让精选内容点亮爱心上的红点
 Stops the red dot on the heart from showing up for Featured alone. Likes, comments and new followers still light it.	避免爱心上的红点只因精选内容而出现。点赞、评论和新粉丝仍会让它亮起。
 Hide highlights	隐藏精选快拍
 Takes the row of story highlights off profiles, yours included. Bios, counts and posts stay, and so does Add to highlight on your stories.	移除主页的精选快拍栏，自己的主页也适用。个人简介、各项数量与帖子仍会保留，快拍中的“添加至精选”也不受影响。
+# context: "Followers" and "Following" are the two buttons under a profile's name, beside the post count; use the words Instagram shows there in this language (#771)
+Hide follower counts	隐藏粉丝数
+Takes the numbers off Followers and Following at the top of profiles, yours included. The words stay, and a tap still opens the list.	移除主页上方粉丝和关注的数字，自己的主页也适用。文字仍会保留，点一下仍可打开列表。
+Hide Followers and Following	隐藏粉丝和关注
+Takes the Followers and Following buttons off the top of profiles, yours included, with no gap left. The post count stays.	移除主页上方的粉丝和关注按钮，不留空隙，自己的主页也适用。帖子数仍会保留。
 Hide the Threads button	隐藏 Threads 按钮
 Takes the Threads button off the top of profiles, yours included. The menu and the other buttons stay where they were.	移除主页顶端的 Threads 按钮，自己的主页也适用。菜单与其他按钮仍会保留在原位。
 Show profile posts as a list	以清单显示主页帖子
@@ -1677,6 +1684,22 @@ Start reels muted	Reels 默认静音
 Every reel starts silent, wherever you open it from. The volume keys or the speaker icon unmute it. Wins over Start reels with sound.	无论从哪里打开，每则 Reels 都会静音开始。音量键或喇叭图标可取消静音。优先于“Reels 默认打开声音”。
 Hide captions	隐藏说明文字
 Takes the caption off posts in your feed and off reels. The post stays, and the comments sheet still shows it.	移除动态帖子与 Reels 上的说明文字。帖子会保留，评论页面顶端仍会显示。
+# context: "more" is the word Instagram puts at the end of a cut caption in the feed; use the word Instagram shows there in this language (#771)
+Expand captions	展开说明文字
+Shows more of a post's caption in your feed before "more", the whole caption to start. Reels and stories stay as they are.	动态帖子的说明文字在“更多”之前会显示更多内容，一开始显示完整说明文字。Reels 和快拍保持原样。
+Caption lines before more	“更多”之前的行数
+The whole caption shows, with no "more" to tap.	显示完整说明文字，不会出现可点击的“更多”。
+Captions longer than that end with "more", which opens the rest.	超过的说明文字会以“更多”结尾，点击即可展开其余内容。
+Turn on Expand captions to use this choice.	请启用“展开说明文字”以使用此选项。
+Whole caption	完整说明文字
+1 line	1 行
+2 lines	2 行
+3 lines	3 行
+4 lines	4 行
+5 lines	5 行
+6 lines	6 行
+8 lines	8 行
+10 lines	10 行
 Keep Home's top bar	固定首页顶栏
 Keeps the Instagram logo and the buttons beside it at the top of Home while you scroll, instead of sliding them away.	卷动时让 Instagram 标志和旁边的按钮留在首页顶端，不会滑走。
 # context: Feed settings: the See-through top bar switch, right under Keep Home's top bar (#418). It blurs the posts that scroll under Home's header, the bar with the Instagram logo.
@@ -2126,6 +2149,16 @@ Puts the seek bar right on the bottom edge of the video, so it's harder to touch
 # context: "Made with Edits" is the label Instagram shows under a post's author for a video made in Meta's Edits app; it stays in English here
 Hide Made with Edits	隐藏“Made with Edits”
 Takes the "Made with Edits" label out of the line under a post's author. The song, the place and the other labels keep taking turns there.	移除帖子作者下方那一行的“Made with Edits”标签。歌曲、地点和其他标签仍会在那里轮流显示。
+# context: "Sponsored" and "Paid partnership" are Instagram's own labels on feed posts; use the text Instagram shows in this language (#771)
+Hide the line under names	隐藏名称下方那一行
+Takes the song, the place and the other labels off the line under the name on posts in your feed. Sponsored and Paid partnership stay. Posts already on screen change when they load again.	移除动态中帖子名称下方那一行的歌曲、地点和其他标签。“赞助内容”和“付费合作”会保留。屏幕上已有的帖子会在重新加载时改变。
+# context: "Sponsored" and "Paid partnership" are Instagram's own labels on reels; use the text Instagram shows in this language (#771)
+Hide the line under names on reels	隐藏 Reels 名称下方那一行
+Takes the song, the place and the other labels off the line under the name on reels. Sponsored and Paid partnership stay. Reels already on screen change when they load again.	移除 Reels 名称下方那一行的歌曲、地点和其他标签。“赞助内容”和“付费合作”会保留。屏幕上已有的 Reels 会在重新加载时改变。
+# context: a switch in HushGram settings > Reels; Not interested and Interested are the two buttons Instagram shows under a reel, named as in the Feed row's 'Are you interested?' summary (#769)
+Hide Not interested and Interested	隐藏“不感兴趣”和“感兴趣”
+# context: summary under Hide Not interested and Interested on the Reels page (#769)
+Hides the Not interested and Interested buttons at the bottom of a reel. Nothing is answered for you.	隐藏 Reels 底部的“不感兴趣”和“感兴趣”按钮。不会代你作答。
 # context: a switch on the Feed page; Save and Remove from saved are the rows it adds to a feed post's three-dot menu
 Save in the post menu	帖子菜单中的保存
 Adds Save to the menu behind a post's three dots, or Remove from saved when you saved it already.	在帖子三个点打开的菜单中加入“保存”，已保存的帖子则显示“从已保存移除”。
@@ -2432,7 +2465,8 @@ Keeps the message Instagram shows when you lock a reel's speed, and when the loc
 Remove hidden data from saved photos	移除已保存照片中的隐藏数据
 Takes Meta's FBMD tracking tag out of each photo you save, along with any camera, place and time details. The picture and its colors stay the same. With Add the source on, the source still goes in afterward. JPEG photos only.	从你保存的每张照片中移除 Meta 的 FBMD 跟踪标记，以及相机、地点和时间等信息。图片和色彩保持不变。打开“在保存的照片和视频中加入来源信息”时，之后仍会写入来源。仅适用于 JPEG 照片。
 Ask for VP9 instead of AV1	改为请求 VP9 而非 AV1
-Tells Instagram your phone has no AV1 decoder. Instagram doesn't always listen, so videos can still come as AV1. If they do, Convert to keep the full size gives you H.264. Takes a restart.	告诉 Instagram 你的手机没有 AV1 解码器。Instagram 不一定会照做，视频仍可能以 AV1 发送。遇到这种情况，转换格式以保留完整尺寸可以给你 H.264。需要重新启动。
+# context: summary under Ask for VP9 instead of AV1 in HushGram settings > Downloads; Convert to keep the full size is the switch of that name a few rows up (#546)
+Tells Instagram your phone has no AV1 decoder, which takes a restart. A post or reel that still comes as AV1 is saved as VP9 from Instagram's website when it offers one. Stories can still be AV1, and Convert to keep the full size turns those into H.264.	告诉 Instagram 你的手机没有 AV1 解码器，需要重新启动。仍以 AV1 发送的帖子或 Reels，会在 Instagram 网站提供时改从网站保存为 VP9。快拍仍可能是 AV1，转换格式以保留完整尺寸会把它们转成 H.264。
 # context: Summary of Show the skip arrows under Double tap to skip on feed videos in Feed settings (#562)
 Two arrows flash on the side you double tapped, with the seconds skipped under them.	在你点两下的那一侧闪现两个箭头，下方显示跳过的秒数.
 # context: Feed settings: choice under Seek bar shape that gives the seek bar on feed videos a shape of its own (#567)

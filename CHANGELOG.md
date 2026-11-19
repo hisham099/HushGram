@@ -6,6 +6,11 @@ Every HushGram release, newest first.
 
 ### Improvements
 
+* `Hide Not interested and Interested` is new under Reels and takes those two buttons off the bottom of a reel. `Hide 'Are you interested?' bubbles` under Feed covers Home only now. If you had it on, the Reels one starts on too, so nothing comes back after the update. Asked for in #769.
+* `Stop swipe to Messages` is new under Feed, right after `Stop swipe to create`. On the classic tab bar a swipe left on Home slides Messages in, and with this on it doesn't. The Messages button still opens it, and `Swipe left to open the profile` on Reels keeps working. Starts off. Asked for in #770.
+* `Expand captions` is a new patch under Feed. Posts in your feed show their whole caption, with no "more" to tap. Pick `Caption lines before more` to get a set number of lines instead, from one to ten, and a longer caption ends with "more" like before. Reels and stories keep Instagram's short captions. Starts off. Requested in #771.
+* `Hide the line under names` is a new patch under Feed. It takes the song, the place and Instagram's other labels off the line under the name on feed posts, so nothing slides there anymore and the name sits on its own. Reels get a switch of their own under Reels, `Hide the line under names on reels`, for the song and the labels that take turns under a reel's author. Sponsored and Paid partnership stay on both. Both start off. Requested in #771.
+* `Hide Followers and Following on profiles` is a new patch under Profiles with two switches. `Hide follower counts` takes the numbers off Followers and Following at the top of a profile and leaves the words, which still open the lists. `Hide Followers and Following` takes both buttons away and the row closes up, so there's no gap. The post count stays either way. Both start off. Requested in #771.
 * `Read messages without the seen receipt` gets a switch, `Mark a chat seen when you react`. Reacting to a reel, post or message someone sent you lets them see you read up to it. Whatever they sent after it stays unseen to them. Starts off. Requested in #772.
 * The viewing history page has a grid button next to Clear. It shows what you watched as big pictures, three across, so a reel is easier to spot by its cover. Tap the button again for the list. The page remembers which one you used, and tabs, search, tap and hold work the same in both. Requested in #773.
 * `Auto scroll in the reel menu` under Reels puts Turn on auto scroll or Turn off auto scroll in a reel's three-dot menu. It works on accounts where Instagram doesn't offer auto scroll too. Requested in #768.
@@ -24,6 +29,7 @@ Every HushGram release, newest first.
 * Tap to play's `Where videos wait` can treat Explore on its own now, with four new picks, `Everywhere but Explore`, `Only in Explore`, `Reels and Explore` and `Everywhere but Reels and Explore`. Reels opened from Explore count as Reels. Asked for in #762.
 * The video under the HushGram settings pauses while they're open, so it stops playing and loading where you can't see it. Closing the settings plays it again, and a video you'd tapped with Tap to play on stays tapped. Asked for in #762.
 * `Light settings page` sits under `Black settings page` in Settings entry. It turns the HushGram settings and the pages they open white, with dark text and status bar icons. The rest of Instagram keeps its own look. Asked for in #762.
+* In Manager's Expert mode the six comment patches have a Comments group of their own now, like the Comments page in HushGram settings, and `HushGram launch screen` moved to Settings. Interaction and Interface were getting too long to scan.
 * **Tooling:** The GitHub release notes leave out the Tooling bullets and the What was checked part now. They're still here in the changelog, and Manager's notes keep their Validation line.
 
 ### Bug Fixes
@@ -33,7 +39,7 @@ Every HushGram release, newest first.
 * Posts with several photos and a song keep their seek bar in the reels viewer now, the same as a single photo with a song. Reported in #10.
 * `See-through top bar` fades out below the header now, instead of stopping on a hard line when you scroll back up. Reported in #462.
 * Home no longer crashes when a hide switch removes the only post on a page of the feed, which could happen when opening a link to a post.
-* `Ask for VP9 instead of AV1` now says what you can expect. Instagram doesn't always listen, so videos can still come as AV1, and `Convert to keep the full size` gets you H.264. Reported in #546.
+* With `Ask for VP9 instead of AV1` on, a post or reel that Instagram still hands over as AV1 now saves as VP9 from Instagram's website when the website has it. HushGram asks the website logged out and sends only the post's number. Stories can still come as AV1, and `Convert to keep the full size` turns those into H.264. Reported in #546.
 * Letting go after `Hold for 2x on feed videos` no longer pauses the video when `Tap a feed video to pause it` is on too.
 * The `Show if a profile follows you` label no longer lands on top of the post count on profiles with no name.
 * `Glass in chats` keeps the message bar's glass when Instagram switches the bar to its newer layout, and `Message bar tint` works on it again. Reported in #759.

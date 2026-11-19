@@ -341,6 +341,8 @@ Stop swipe to create	Hentikan geser untuk membuat
 Full resolution photos	Foto resolusi penuh
 Loads photos in your feed, carousels and opened posts at the largest size Instagram offers. This can use more data.	Memuat foto di feed, carousel, dan postingan yang dibuka dengan ukuran terbesar yang disediakan Instagram. Ini bisa memakai lebih banyak data.
 A sideways swipe on Home no longer opens the camera. The + button and every other way into the camera still work.	Menggeser ke samping di Beranda tidak lagi membuka kamera. Tombol + dan cara lain untuk membuka kamera tetap berfungsi.
+# context: a switch in HushGram settings > Feed, right after Stop swipe to create; Messages is Instagram's inbox, named as in Swipe left for Messages (#770)
+# context: summary under Stop swipe to Messages; the Messages button is the inbox button at the top of Home or on the tab bar (#770)
 Swipe left for Messages	Geser ke kiri untuk Pesan
 Swiping left on Home opens Messages, like Instagram used to. Carousels and the stories row still slide as before.	Menggeser ke kiri di Beranda membuka Pesan, seperti Instagram dulu. Carousel dan baris cerita tetap bisa digeser seperti biasa.
 Meta AI	Meta AI
@@ -469,6 +471,11 @@ Keep Featured off the heart's dot	Jangan nyalakan titik hati karena Unggulan
 Stops the red dot on the heart from showing up for Featured alone. Likes, comments and new followers still light it.	Mencegah titik merah di ikon hati muncul hanya karena Unggulan. Suka, komentar, dan pengikut baru tetap menyalakannya.
 Hide highlights	Sembunyikan sorotan
 Takes the row of story highlights off profiles, yours included. Bios, counts and posts stay, and so does Add to highlight on your stories.	Menghapus baris sorotan cerita dari profil, termasuk profilmu. Bio, jumlah, dan postingan tetap ada, begitu juga Tambahkan ke sorotan di ceritamu.
+# context: "Followers" and "Following" are the two buttons under a profile's name, beside the post count; use the words Instagram shows there in this language (#771)
+Hide follower counts	Sembunyikan jumlah pengikut
+Takes the numbers off Followers and Following at the top of profiles, yours included. The words stay, and a tap still opens the list.	Menghapus angka pada pengikut dan mengikuti di bagian atas profil, termasuk profilmu. Katanya tetap ada, dan ketukan tetap membuka daftarnya.
+Hide Followers and Following	Sembunyikan pengikut dan mengikuti
+Takes the Followers and Following buttons off the top of profiles, yours included, with no gap left. The post count stays.	Menghapus tombol pengikut dan mengikuti dari bagian atas profil, termasuk profilmu, tanpa menyisakan celah. Jumlah postingan tetap ada.
 Hide the Threads button	Sembunyikan tombol Threads
 Takes the Threads button off the top of profiles, yours included. The menu and the other buttons stay where they were.	Menghapus tombol Threads dari bagian atas profil, termasuk profilmu. Menu dan tombol lainnya tetap di tempatnya.
 Show profile posts as a list	Tampilkan postingan profil sebagai daftar
@@ -1674,6 +1681,22 @@ Start reels muted	Mulai reel tanpa suara
 Every reel starts silent, wherever you open it from. The volume keys or the speaker icon unmute it. Wins over Start reels with sound.	Setiap reel dimulai tanpa suara, dari mana pun kamu membukanya. Tombol volume atau ikon speaker menyalakan suaranya. Mengalahkan Mulai reel dengan suara.
 Hide captions	Sembunyikan keterangan
 Takes the caption off posts in your feed and off reels. The post stays, and the comments sheet still shows it.	Menghapus keterangan dari kiriman di beranda dan dari reel. Kiriman tetap ada, dan lembar komentar masih menampilkannya.
+# context: "more" is the word Instagram puts at the end of a cut caption in the feed; use the word Instagram shows there in this language (#771)
+Expand captions	Bentangkan keterangan
+Shows more of a post's caption in your feed before "more", the whole caption to start. Reels and stories stay as they are.	Menampilkan lebih banyak keterangan kiriman di beranda sebelum "selengkapnya", seluruh keterangan pada awalnya. Reels dan cerita tetap seperti semula.
+Caption lines before more	Baris sebelum "selengkapnya"
+The whole caption shows, with no "more" to tap.	Seluruh keterangan ditampilkan, tanpa "selengkapnya" untuk diketuk.
+Captions longer than that end with "more", which opens the rest.	Keterangan yang lebih panjang diakhiri dengan "selengkapnya", yang membuka sisanya.
+Turn on Expand captions to use this choice.	Aktifkan Bentangkan keterangan untuk menggunakan pilihan ini.
+Whole caption	Seluruh keterangan
+1 line	1 baris
+2 lines	2 baris
+3 lines	3 baris
+4 lines	4 baris
+5 lines	5 baris
+6 lines	6 baris
+8 lines	8 baris
+10 lines	10 baris
 Keep Home's top bar	Tetap tampilkan bilah atas Beranda
 Keeps the Instagram logo and the buttons beside it at the top of Home while you scroll, instead of sliding them away.	Menjaga logo Instagram dan tombol di sampingnya tetap di atas Beranda saat Anda menggulir, tidak digeser hilang.
 # context: Feed settings: the See-through top bar switch, right under Keep Home's top bar (#418). It blurs the posts that scroll under Home's header, the bar with the Instagram logo.
@@ -2123,6 +2146,16 @@ Puts the seek bar right on the bottom edge of the video, so it's harder to touch
 # context: "Made with Edits" is the label Instagram shows under a post's author for a video made in Meta's Edits app; it stays in English here
 Hide Made with Edits	Sembunyikan "Made with Edits"
 Takes the "Made with Edits" label out of the line under a post's author. The song, the place and the other labels keep taking turns there.	Menghapus label "Made with Edits" dari baris di bawah pembuat postingan. Lagu, lokasi, dan label lainnya tetap bergantian di sana.
+# context: "Sponsored" and "Paid partnership" are Instagram's own labels on feed posts; use the text Instagram shows in this language (#771)
+Hide the line under names	Sembunyikan baris di bawah nama
+Takes the song, the place and the other labels off the line under the name on posts in your feed. Sponsored and Paid partnership stay. Posts already on screen change when they load again.	Menghapus lagu, tempat, dan label lain dari baris di bawah nama pada postingan di feed Anda. "Bersponsor" dan "Kemitraan berbayar" tetap ada. Postingan yang sudah tampil berubah saat dimuat ulang.
+# context: "Sponsored" and "Paid partnership" are Instagram's own labels on reels; use the text Instagram shows in this language (#771)
+Hide the line under names on reels	Sembunyikan baris di bawah nama di reel
+Takes the song, the place and the other labels off the line under the name on reels. Sponsored and Paid partnership stay. Reels already on screen change when they load again.	Menghapus lagu, tempat, dan label lain dari baris di bawah nama pada reel. "Bersponsor" dan "Kemitraan berbayar" tetap ada. Reel yang sudah tampil berubah saat dimuat ulang.
+# context: a switch in HushGram settings > Reels; Not interested and Interested are the two buttons Instagram shows under a reel, named as in the Feed row's 'Are you interested?' summary (#769)
+Hide Not interested and Interested	Sembunyikan Tidak tertarik dan Tertarik
+# context: summary under Hide Not interested and Interested on the Reels page (#769)
+Hides the Not interested and Interested buttons at the bottom of a reel. Nothing is answered for you.	Menyembunyikan tombol Tidak tertarik dan Tertarik di bagian bawah reel. Tidak ada yang dijawab untukmu.
 # context: a switch on the Feed page; Save and Remove from saved are the rows it adds to a feed post's three-dot menu
 Save in the post menu	Simpan di menu postingan
 Adds Save to the menu behind a post's three dots, or Remove from saved when you saved it already.	Menambahkan Simpan ke menu di balik tiga titik postingan, atau Hapus dari tersimpan jika kamu sudah menyimpannya.
@@ -2429,7 +2462,8 @@ Keeps the message Instagram shows when you lock a reel's speed, and when the loc
 Remove hidden data from saved photos	Hapus data tersembunyi dari foto tersimpan
 Takes Meta's FBMD tracking tag out of each photo you save, along with any camera, place and time details. The picture and its colors stay the same. With Add the source on, the source still goes in afterward. JPEG photos only.	Menghapus tag pelacak FBMD milik Meta dari setiap foto yang kamu simpan, beserta detail kamera, tempat, dan waktu. Gambar dan warnanya tetap sama. Jika Tambahkan sumber ke foto dan video tersimpan aktif, sumbernya tetap ditulis sesudahnya. Hanya foto JPEG.
 Ask for VP9 instead of AV1	Minta VP9, bukan AV1
-Tells Instagram your phone has no AV1 decoder. Instagram doesn't always listen, so videos can still come as AV1. If they do, Convert to keep the full size gives you H.264. Takes a restart.	Memberi tahu Instagram bahwa ponselmu tidak punya dekoder AV1. Instagram tidak selalu menurut, jadi video masih bisa datang sebagai AV1. Jika begitu, Konversi agar tetap ukuran penuh memberimu H.264. Perlu dimulai ulang.
+# context: summary under Ask for VP9 instead of AV1 in HushGram settings > Downloads; Convert to keep the full size is the switch of that name a few rows up (#546)
+Tells Instagram your phone has no AV1 decoder, which takes a restart. A post or reel that still comes as AV1 is saved as VP9 from Instagram's website when it offers one. Stories can still be AV1, and Convert to keep the full size turns those into H.264.	Memberi tahu Instagram bahwa ponselmu tidak punya dekoder AV1, dan perlu dimulai ulang. Kiriman atau reel yang masih datang sebagai AV1 disimpan sebagai VP9 dari situs web Instagram jika tersedia. Cerita masih bisa AV1, dan Konversi agar tetap ukuran penuh mengubahnya menjadi H.264.
 # context: Summary of Show the skip arrows under Double tap to skip on feed videos in Feed settings (#562)
 Two arrows flash on the side you double tapped, with the seconds skipped under them.	Dua panah muncul sebentar di sisi yang kamu ketuk dua kali, dengan detik yang dilompati di bawahnya.
 # context: Feed settings: choice under Seek bar shape that gives the seek bar on feed videos a shape of its own (#567)

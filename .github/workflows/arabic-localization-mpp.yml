@@ -1,0 +1,125 @@
+name: Arabic localization and MPP
+
+on:
+  push:
+    branches:
+      - full-arabic-localization
+    paths:
+      - "extensions/shared/library/src/main/l10n/**"
+      - "extensions/shared/library/src/main/java/**"
+      - "extensions/instagram/src/main/java/**"
+      - "scripts/gen-l10n.py"
+      - "scripts/sync-l10n.py"
+      - "scripts/test-l10n.py"
+      - "patches/**"
+      - "gradle/**"
+      - "settings.gradle.kts"
+      - "build.gradle.kts"
+      - ".github/workflows/arabic-localization-mpp.yml"
+  pull_request:
+    branches:
+      - full-arabic-localization
+    paths:
+      - "extensions/shared/library/src/main/l10n/**"
+      - "extensions/shared/library/src/main/java/**"
+      - "extensions/instagram/src/main/java/**"
+      - "scripts/gen-l10n.py"
+      - "scripts/sync-l10n.py"
+      - "scripts/test-l10n.py"
+      - "patches/**"
+      - "gradle/**"
+      - "settings.gradle.kts"
+      - "build.gradle.kts"
+      - ".github/workflows/arabic-localization-mpp.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  packages: read
+
+concurrency:
+  group: arabic-localization-mpp-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  validate-and-build:
+    runs-on: windows-latest
+    timeout-minutes: 90
+    steps:
+      - name: Check out the requested branch
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.head.sha || 'full-arabic-localization' }}
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Set up Java
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: "21"
+
+      - name: Set up Gradle
+        uses: gradle/actions/setup-gradle@v4
+
+      - name: Generate Java localization catalog
+        run: python scripts/gen-l10n.py
+
+      - name: Test localization tooling
+        run: python scripts/test-l10n.py
+
+      - name: Commit generated Java catalog on this branch
+        if: github.event_name != 'pull_request'
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add extensions/shared/library/src/main/java/app/hushgram/extension/shared/L10nTranslations.java
+          git diff --cached --check
+          if ! git diff --cached --quiet; then
+            git commit -m "chore(l10n): generate Arabic translation tables"
+            git push origin HEAD:full-arabic-localization
+          fi
+
+      - name: Build and verify Morphe Patch Bundle
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: .\gradlew.bat --no-daemon --stacktrace :patches:buildAndroid
+
+      - name: Check MPP output
+        id: bundle
+        shell: pwsh
+        run: |
+          $bundles = @(Get-ChildItem "patches/build/release" -Filter "*.mpp" -File)
+          if ($bundles.Count -ne 1) {
+            Get-ChildItem "patches/build" -Recurse -File | Select-Object -ExpandProperty FullName
+            throw "Expected exactly one MPP in patches/build/release; found $($bundles.Count)"
+          }
+          if ($bundles[0].Length -le 0) { throw "MPP bundle is empty" }
+          "path=$($bundles[0].FullName)" | Out-File -FilePath $env:GITHUB_OUTPUT -Append -Encoding utf8
+          Get-FileHash $bundles[0].FullName -Algorithm SHA256
+          Get-Item $bundles[0].FullName | Select-Object FullName, Length
+
+      - name: Upload verified MPP
+        uses: actions/upload-artifact@v4
+        with:
+          name: hushgram-arabic-mpp
+          path: |
+            patches/build/release/*.mpp
+            patches/build/release/bundle.sha256
+          if-no-files-found: error
+          retention-days: 30
+
+      - name: Upload verified MPP for review
+        uses: actions/upload-artifact@v4
+        with:
+          name: hushgram-arabic-mpp-review
+          path: |
+            patches/build/release/*.mpp
+            patches/build/release/bundle.sha256
+          if-no-files-found: error
+          retention-days: 14

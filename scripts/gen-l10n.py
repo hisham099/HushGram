@@ -386,11 +386,20 @@ def allowed_keys(keys, others):
                         for category in ("zero", "two", "few", "many")}
 
 
-def validate_keys(entries, keys, others):
+def validate_keys(entries, keys, others, language=None):
     missing = set(keys) - entries.keys()
     unknown = entries.keys() - allowed_keys(keys, others)
     if missing or unknown:
-        raise ValueError(f"catalog mismatch: {len(missing)} missing keys, {len(unknown)} unknown or unreachable keys")
+        label = f" in {language}.tsv" if language else ""
+        details = []
+        if missing:
+            details.append("missing: " + repr(sorted(missing)))
+        if unknown:
+            details.append("unknown or unreachable: " + repr(sorted(unknown)))
+        raise ValueError(
+            f"catalog mismatch{label}: {len(missing)} missing keys, "
+            f"{len(unknown)} unknown or unreachable keys\\n" + "\\n".join(details)
+        )
 
 
 def literal(text):
@@ -506,8 +515,8 @@ def main():
               if name.endswith(".tsv")}
     try:
         keys, others = source_catalog()
-        for entries in tables.values():
-            validate_keys(entries, keys, others)
+        for lang, entries in tables.items():
+            validate_keys(entries, keys, others, lang)
         output = render(tables)
     except ValueError as error:
         sys.exit(str(error))
