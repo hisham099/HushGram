@@ -1328,3 +1328,94 @@ All of them. Tap to leave some out, and Ghost mode leaves those as you set them.
 %1$s. The others stay as you set them.	%1$s. وتظل الخيارات الأخرى على إعداداتها الحالية.
 Switches Ghost mode turns	الإعدادات التي يغيّرها الوضع الشبح
 Ghost mode needs at least one switch to turn.	يجب اختيار إعداد واحد على الأقل ليغيّره الوضع الشبح.
+Turn Ghost mode on or off with a tab long press	تشغيل الوضع الشبح أو إيقافه بالضغط المطول على علامة تبويب
+Tab long presses keep Instagram's own action. Choose one to turn Ghost mode on or off instead.	تظل وظيفة الضغط المطول على علامات التبويب كما هي في Instagram. اختر علامة تبويب لتبديل الوضع الشبح بدلاً من ذلك.
+Long press %1$s to turn Ghost mode on or off instead of that tab's usual action, and a toast says which way it went. Normal taps and other tabs stay the same. If the same tab opens HushGram or picks the playback quality, that comes first.	اضغط مطولاً على %1$s لتشغيل الوضع الشبح أو إيقافه بدلاً من الوظيفة المعتادة لعلامة التبويب. ستظهر رسالة قصيرة توضح الحالة الجديدة. لا يتغير النقر العادي ولا علامات التبويب الأخرى. وإذا كانت علامة التبويب نفسها تفتح HushGram أو تتيح اختيار جودة التشغيل، فستكون لهذه الوظيفة الأولوية.
+Open Saved profiles with a tab long press	فتح الملفات الشخصية المحفوظة بالضغط المطول على علامة تبويب
+Tab long presses keep Instagram's own action. Choose one to open Saved profiles instead.	تظل وظيفة الضغط المطول على علامات التبويب كما هي في Instagram. اختر علامة تبويب لفتح الملفات الشخصية المحفوظة بدلاً من ذلك.
+Long press %1$s to open Your saved profiles instead of that tab's usual action. Normal taps and other tabs stay the same. Needs Saved profiles on. If the same tab opens HushGram, picks the playback quality or turns Ghost mode, that comes first.	اضغط مطولاً على %1$s لفتح ملفاتك الشخصية المحفوظة بدلاً من الوظيفة المعتادة لعلامة التبويب. لا يتغير النقر العادي ولا علامات التبويب الأخرى. يتطلب ذلك تفعيل خيار الملفات الشخصية المحفوظة. وإذا كانت علامة التبويب نفسها تفتح HushGram أو تتيح اختيار جودة التشغيل أو تبديل الوضع الشبح، فستكون لهذه الوظيفة الأولوية.
+Keep the tab bar on Favorites	إبقاء شريط علامات التبويب ظاهراً في «المفضلة»
+Instagram hides the tab bar when Favorites opens from the top of Home. This keeps it, so Search and Messages stay a tap away.	يخفي Instagram شريط علامات التبويب عند فتح «المفضلة» من أعلى الصفحة الرئيسية. يُبقي هذا الخيار الشريط ظاهراً، لتظل علامتا البحث والرسائل متاحتين بنقرة واحدة.
+Open Favorites with a tab long press	فتح «المفضلة» بالضغط المطول على علامة تبويب
+Tab long presses keep Instagram's own action. Choose one to open Favorites instead.	تظل وظيفة الضغط المطول على علامات التبويب كما هي في Instagram. اختر علامة تبويب لفتح «المفضلة» بدلاً من ذلك.
+Long press %1$s to open Favorites instead of that tab's usual action. Normal taps and other tabs stay the same. If the same tab opens HushGram, picks the playback quality, turns Ghost mode or opens Saved profiles, that comes first.	اضغط مطولاً على %1$s لفتح «المفضلة» بدلاً من الوظيفة المعتادة لعلامة التبويب. لا يتغير النقر العادي ولا علامات التبويب الأخرى. وإذا كانت علامة التبويب نفسها تفتح HushGram أو تتيح اختيار جودة التشغيل أو تبديل الوضع الشبح أو فتح الملفات الشخصية المحفوظة، فستكون لهذه الوظيفة الأولوية.
+Buttons on the share sheet	الأزرار في نافذة المشاركة
+Every button under the people on the share sheet shows. Untick the ones you don't use.	تظهر جميع الأزرار أسفل الأشخاص في نافذة المشاركة. أزل علامة التحديد عن الأزرار التي لا تستخدمها.
+Left off the share sheet: %1$s.	تمت إزالة العناصر التالية من نافذة المشاركة: %1$s.
+Show all	إظهار الكل
+Add to story	إضافة إلى القصة
+Share to	مشاركة إلى
+Copy link	نسخ الرابط
+QR code	رمز QR
+WhatsApp status	حالة WhatsApp
+Reply to author (posts and reels)	الرد على صاحب المنشور (المنشورات ومقاطع Reels)
+Watch on TV	المشاهدة على التلفزيون
+Download profile card (on profiles)	تنزيل بطاقة الملف الشخصي (في الملفات الشخصية)
+Add to channel	إضافة إلى القناة
+WhatsApp	WhatsApp
+SMS	رسالة SMS
+Messenger	Messenger
+Facebook	Facebook
+Snapchat	Snapchat
+X	X
+Threads	Threads
+LINE	LINE
+KakaoTalk	KakaoTalk
+Discord	Discord
+Band	Band
+Tabs on your profile	علامات التبويب في ملفك الشخصي
+Tabs on other profiles	علامات التبويب في الملفات الشخصية الأخرى
+Every tab shows on your profile. Untick the ones you don't want. The grid of posts always stays.	تظهر جميع علامات التبويب في ملفك الشخصي. أزل علامة التحديد عن العلامات التي لا تريدها. وتظل شبكة المنشورات ظاهرة دائماً.
+Every tab shows on other people's profiles. Untick the ones you don't want. The grid of posts always stays.	تظهر جميع علامات التبويب في الملفات الشخصية للآخرين. أزل علامة التحديد عن العلامات التي لا تريدها. وتظل شبكة المنشورات ظاهرة دائماً.
+Left off your profile: %1$s. The grid of posts stays.	تم إخفاء العناصر التالية من ملفك الشخصي: %1$s. وتظل شبكة المنشورات ظاهرة.
+Left off other profiles: %1$s. The grid of posts stays.	تم إخفاء العناصر التالية من الملفات الشخصية الأخرى: %1$s. وتظل شبكة المنشورات ظاهرة.
+Reposts	إعادات النشر
+Tagged	الصور التي تمت الإشارة إليك فيها
+Subscriptions	الاشتراكات
+Show all recent searches	إظهار جميع عمليات البحث الأخيرة
+Lists every recent search under the search bar, not just the first few. See all and the x on each row work as before.	يعرض جميع عمليات البحث الأخيرة أسفل شريط البحث، وليس عدداً محدوداً منها فقط. ويظل خيار «عرض الكل» وعلامة × في كل صف يعملان كالمعتاد.
+Hide the call buttons in chats	إخفاء أزرار الاتصال في المحادثات
+Takes the voice and video call buttons off the top of a chat. The name keeps its room. Turn it off and they're back the next time a chat opens.	يزيل زري الاتصال الصوتي والمرئي من أعلى المحادثة، مع الإبقاء على مساحة الاسم. عند إيقاف هذا الخيار، يعود الزران عند فتح المحادثة في المرة التالية.
+Hide Blend in chats	إخفاء Blend في المحادثات
+Takes the Blend button off the top of a chat. Turn it off and it's back the next time a chat opens.	يزيل زر Blend من أعلى المحادثة. عند إيقاف هذا الخيار، يعود الزر عند فتح المحادثة في المرة التالية.
+Hide the back button in chats	إخفاء زر الرجوع في المحادثات
+Leaves the back arrow off the top left of a chat, and the picture and the name move over. Swipe back or use the phone's back button to leave the chat. Shows the next time a chat opens.	يخفي سهم الرجوع أعلى يسار المحادثة، وينقل الصورة والاسم إلى مكانه. اسحب للرجوع أو استخدم زر الرجوع في الهاتف لمغادرة المحادثة. يُطبّق التغيير عند فتح المحادثة في المرة التالية.
+Hide the Community Standards reminder	إخفاء تذكير معايير المجتمع
+Takes the banner reminding you to be respectful off the bottom of a chat.	يزيل الشريط أسفل المحادثة الذي يذكّرك بالتعامل باحترام.
+Buttons in the message box	الأزرار في حقل الرسالة
+Every button in the message box shows. Untick the ones you don't use. The text box and Send always stay.	تظهر جميع الأزرار في حقل الرسالة. أزل علامة التحديد عن الأزرار التي لا تستخدمها. ويظل حقل النص وزر الإرسال ظاهرين دائماً.
+Left off the message box: %1$s. The text box and Send stay.	تمت إزالة العناصر التالية من حقل الرسالة: %1$s. ويظل حقل النص وزر الإرسال ظاهرين.
+Gallery and Voice message are in the plus menu while Gallery and microphone in the plus menu is on. The text box and Send always stay.	تظهر «المعرض» و«الرسالة الصوتية» في قائمة علامة الجمع عند تفعيل خيار «المعرض والميكروفون في قائمة علامة الجمع». ويظل حقل النص وزر الإرسال ظاهرين دائماً.
+Left off the message box: %1$s. Gallery and Voice message are in the plus menu while Gallery and microphone in the plus menu is on. The text box and Send stay.	تمت إزالة العناصر التالية من حقل الرسالة: %1$s. تظهر «المعرض» و«الرسالة الصوتية» في قائمة علامة الجمع عند تفعيل خيار «المعرض والميكروفون في قائمة علامة الجمع». ويظل حقل النص وزر الإرسال ظاهرين.
+Gallery	المعرض
+Stickers	الملصقات
+Voice message	رسالة صوتية
+Not interested button on reels	زر «غير مهتم» في Reels
+Puts a Not interested icon beside a reel, so one tap does what Not interested in its menu does.	يضيف رمز «غير مهتم» بجوار مقطع Reels، بحيث يؤدي النقر عليه إلى تنفيذ وظيفة خيار «غير مهتم» في قائمة المقطع.
+Not interested	غير مهتم
+Block button on reels	زر الحظر في Reels
+Puts a Block icon beside someone else's reel. A tap opens Instagram's own block screen for that account, so you still confirm it there.	يضيف رمز الحظر بجوار مقطع Reels لحساب آخر. يؤدي النقر عليه إلى فتح شاشة الحظر الأصلية في Instagram لذلك الحساب، حيث يمكنك تأكيد الحظر.
+Block	حظر
+Swipe left to open the profile	اسحب لليسار لفتح الملف الشخصي
+A left swipe on a reel opens the creator's profile, like Instagram used to. Tap Friends at the top to reach your friends' reels.	يؤدي السحب لليسار على مقطع Reels إلى فتح الملف الشخصي لمنشئه، كما كان يعمل Instagram سابقاً. اضغط على «الأصدقاء» في الأعلى للوصول إلى مقاطع Reels الخاصة بأصدقائك.
+Hide this sound	إخفاء هذا الصوت
+Showing reels with %1$s again	إظهار مقاطع Reels التي تستخدم %1$s مجدداً
+Hiding reels with %1$s	إخفاء مقاطع Reels التي تستخدم %1$s
+%1$s by %2$s	%1$s بواسطة %2$s
+this sound	هذا الصوت
+Hide reels by sound	إخفاء مقاطع Reels حسب الصوت
+Puts a music icon beside a reel. Tap it and the Reels tab skips other reels using that sound. Tap it again to bring them back.	يضيف رمز موسيقى بجوار مقطع Reels. اضغط عليه لتخطي المقاطع الأخرى التي تستخدم الصوت نفسه في علامة تبويب Reels. اضغط عليه مجدداً لإظهارها.
+Hidden sounds	الأصوات المخفية
+The sounds you hid with the music icon. Uncheck one to see its reels again.	الأصوات التي أخفيتها باستخدام رمز الموسيقى. أزل علامة التحديد عن أي صوت لإظهار مقاطع Reels التي تستخدمه مجدداً.
+No sounds are hidden yet. Turn on Hide reels by sound, then tap the music icon beside a reel.	لم يتم إخفاء أي أصوات بعد. فعّل خيار إخفاء مقاطع Reels حسب الصوت، ثم اضغط على رمز الموسيقى بجوار أحد المقاطع.
+New	جديد
+App icon	رمز التطبيق
+Instagram on black	Instagram بخلفية سوداء
+Instagram on plum	Instagram بخلفية برقوقية
+Instagram in black on white	Instagram بالأسود على خلفية بيضاء
+Hand-drawn Instagram	Instagram مرسوم يدوياً
+Instagram's own	الرمز الأصلي لـ Instagram
+Instagram's own. Pick another to change the icon on your home screen and in the app drawer.	الرمز الأصلي لـ Instagram. اختر رمزاً آخر لتغييره على الشاشة الرئيسية وفي درج التطبيقات.
+%1$s. It shows once you leave Instagram. If the icon is gone from your home screen, add it again from the app drawer.	%1$s. سيظهر بعد مغادرة Instagram. إذا اختفى الرمز من الشاشة الرئيسية، فأضفه مجدداً من درج التطبيقات.
+the home screen icon you picked	رمز الشاشة الرئيسية الذي اخترته
+Your fonts in story text	خطوطك في نص القصة
