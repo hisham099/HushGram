@@ -1,0 +1,111 @@
+name: Upstream sync review
+
+on:
+  schedule:
+    - cron: "17 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+  packages: read
+
+concurrency:
+  group: hushgram-upstream-sync
+  cancel-in-progress: false
+
+jobs:
+  prepare-review:
+    runs-on: windows-latest
+    timeout-minutes: 90
+    steps:
+      - name: Check out Arabic localization branch
+        uses: actions/checkout@v4
+        with:
+          ref: full-arabic-localization
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Fetch upstream and prepare a review branch
+        id: sync
+        shell: bash
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git remote add upstream https://github.com/SysAdminDoc/HushGram.git
+          git fetch upstream main
+
+          if git merge-base --is-ancestor upstream/main HEAD; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "Arabic branch already contains upstream main."
+            exit 0
+          fi
+
+          OPEN_SYNC_PR="$(gh pr list --base full-arabic-localization --state open --json headRefName --jq '[.[] | select(.headRefName | startswith("automation/upstream-sync-"))] | length')"
+          if [ "$OPEN_SYNC_PR" != "0" ]; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "An upstream-sync review PR is already open. Resolve it before creating another."
+            exit 0
+          fi
+
+          SYNC_BRANCH="automation/upstream-sync-${GITHUB_RUN_ID}"
+          git switch -c "$SYNC_BRANCH"
+          git merge --no-edit upstream/main
+
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+          echo "branch=$SYNC_BRANCH" >> "$GITHUB_OUTPUT"
+
+      - name: Validate Arabic catalog and generated translations
+        id: validation
+        if: steps.sync.outputs.changed == 'true'
+        shell: bash
+        run: |
+          set -uo pipefail
+          status=passed
+          if ! python scripts/gen-l10n.py; then
+            status=needs-translation-or-catalog-review
+          elif ! python scripts/test-l10n.py; then
+            status=localization-tests-failed
+          else
+            git add extensions/shared/library/src/main/java/app/hushgram/extension/shared/L10nTranslations.java
+            if ! git diff --cached --quiet; then
+              git commit -m "chore(l10n): regenerate translations after upstream sync"
+            fi
+          fi
+          echo "status=$status" >> "$GITHUB_OUTPUT"
+          exit 0
+
+      - name: Publish review branch and open pull request
+        if: steps.sync.outputs.changed == 'true'
+        shell: bash
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          VALIDATION: ${{ steps.validation.outputs.status }}
+          SYNC_BRANCH: ${{ steps.sync.outputs.branch }}
+        run: |
+          set -euo pipefail
+          git push origin "$SYNC_BRANCH"
+          gh pr create \
+            --base full-arabic-localization \
+            --head "$SYNC_BRANCH" \
+            --title "chore(sync): review upstream HushGram updates" \
+            --body "This PR contains upstream changes from SysAdminDoc/HushGram:main. It targets the Arabic localization branch and does not merge automatically.\n\nValidation status: **$VALIDATION**.\n\nIf the catalog check reports missing Arabic entries, translate only the new or changed English keys in extensions/shared/library/src/main/l10n/ar.tsv, regenerate with scripts/gen-l10n.py, and rerun scripts/test-l10n.py. Existing Arabic translations are preserved; merge conflicts must be resolved manually. Review and merge this PR only after validation passes."
+
+      - name: Build MPP only when localization checks pass
+        if: steps.sync.outputs.changed == 'true' && steps.validation.outputs.status == 'passed'
+        shell: pwsh
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: .\\gradlew.bat --no-daemon --stacktrace :patches:buildAndroid
+
+      - name: Report review required
+        if: steps.sync.outputs.changed == 'true' && steps.validation.outputs.status != 'passed'
+        shell: bash
+        env:
+          VALIDATION: ${{ steps.validation.outputs.status }}
+        run: |
+          echo "::error::Upstream changes were isolated in a review PR, but validation needs attention: $VALIDATION"
+          exit 1
