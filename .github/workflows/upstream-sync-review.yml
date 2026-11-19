@@ -94,13 +94,6 @@ jobs:
             --title "chore(sync): review upstream HushGram updates" \
             --body "This PR contains upstream changes from SysAdminDoc/HushGram:main. It targets the Arabic localization branch and does not merge automatically.\n\nValidation status: **$VALIDATION**.\n\nIf the catalog check reports missing Arabic entries, translate only the new or changed English keys in extensions/shared/library/src/main/l10n/ar.tsv, regenerate with scripts/gen-l10n.py, and rerun scripts/test-l10n.py. Existing Arabic translations are preserved; merge conflicts must be resolved manually. Review and merge this PR only after validation passes."
 
-      - name: Build MPP only when localization checks pass
-        if: steps.sync.outputs.changed == 'true' && steps.validation.outputs.status == 'passed'
-        shell: pwsh
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: .\\gradlew.bat --no-daemon --stacktrace :patches:buildAndroid
-
       - name: Report review required
         if: steps.sync.outputs.changed == 'true' && steps.validation.outputs.status != 'passed'
         shell: bash
