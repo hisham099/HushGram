@@ -1990,3 +1990,81 @@ A second color as six hex digits, like #FF8A00, that the ring fades into. Leave 
 None. The ring is one solid color.	لا يوجد. الحلقة بلون واحد ثابت.
 Friendship status	حالة الصداقة
 Yes	نعم
+You follow them	أنت تتابع هذا الحساب
+Asked to follow you	أرسل طلباً لمتابعتك
+You asked to follow them	أرسلت طلباً لمتابعة هذا الحساب
+On your Close Friends list	ضمن قائمة الأصدقاء المقربين
+In your Favorites	ضمن قائمة المفضلة
+You restricted them	قمت بتقييد هذا الحساب
+You blocked them	قمت بحظر هذا الحساب
+You hide your story from them	أخفيت قصتك عن هذا الحساب
+You muted their posts	كتمت منشورات هذا الحساب
+You muted their story	كتمت قصة هذا الحساب
+You muted their notes	كتمت ملاحظات هذا الحساب
+You muted their notes on posts and reels	كتمت ملاحظات هذا الحساب على المنشورات ومقاطع Reels
+You muted their reposts	كتمت إعادات نشر هذا الحساب
+You muted their Instants	كتمت Instants الخاصة بهذا الحساب
+Their account is private	حساب هذا الشخص خاص
+You're subscribed to them	أنت مشترك في هذا الحساب
+Instagram hasn't said anything about this account yet.	لم يقدم Instagram أي معلومات عن هذا الحساب بعد.
+This profile hasn't loaded its own answer yet, so this is only what Instagram keeps on the account.	لم يتم تحميل معلومات هذا الملف الشخصي بعد، لذا فالمعروض هنا هو ما يحتفظ به Instagram عن الحساب فقط.
+Other flags	علامات أخرى
+Not sent for this profile	لم يتم إرسالها لهذا الملف الشخصي
+Save changed pictures to the gallery	حفظ الصور المتغيرة في المعرض
+When a profile you open has a new picture, puts the old picture and the new one in your gallery, each once. Needs Keep profile history.	عندما يتغير صورة ملف شخصي تفتحه، يحفظ الصورة القديمة والجديدة في معرضك، مرة واحدة لكل منهما. يتطلب تفعيل سجل الملفات الشخصية.
+Cache size limit	الحد الأقصى لحجم ذاكرة التخزين المؤقت
+%1$d MB	%1$d ميغابايت
+Saved photos and videos take up %1$s now.	تشغل الصور والفيديوهات المحفوظة حالياً مساحة %1$s.
+Glass lens under your finger	عدسة زجاجية تحت إصبعك
+Hold a finger on the liquid pill's bubble, or slide it across the tabs, and the bubble swells and bends what's behind it harder, like glass under a fingertip. It eases back when you let go. The bend needs Blur behind the tab bar and Android 13 or newer. Restart Instagram after changing it.	اضغط بإصبعك مطولاً على فقاعة الشريط السائل أو حرّكها عبر علامات التبويب، لتكبر الفقاعة وتزيد انكسار ما خلفها، كما يحدث مع الزجاج تحت طرف الإصبع. تعود إلى وضعها الطبيعي عند رفع إصبعك. يتطلب تأثير الانكسار تفعيل الضبابية خلف شريط علامات التبويب واستخدام Android 13 أو أحدث. أعد تشغيل Instagram بعد تغيير الخيار.
+Keep story viewers	الاحتفاظ بسجل مشاهدي القصص
+Each time you open who viewed one of your stories, the list is kept on this phone and set beside your followers. Nothing extra is asked of Instagram. Turn it off and it stops at once.	في كل مرة تفتح فيها قائمة مشاهدي إحدى قصصك، يتم حفظ القائمة على هذا الهاتف وعرضها بجانب قائمة متابعيك. لا يطلب التطبيق أي بيانات إضافية من Instagram. يتوقف التسجيل فور إيقاف الخيار.
+Story viewers	مشاهدو القصص
+Nothing here yet. With Keep story viewers on, open who viewed one of your stories in Instagram and the list is kept here.	لا يوجد شيء هنا بعد. عند تفعيل خيار الاحتفاظ بمشاهدي القصص، افتح قائمة مشاهدي إحدى قصصك في Instagram ليتم حفظها هنا.
+%1$d story kept since %2$s. Tap to see who viewed it and who has no view recorded.	تم حفظ %1$d قصة منذ %2$s. اضغط لمعرفة من شاهدها ومن لم يُسجل له أي مشاهدة.
+%1$d stories kept since %2$s. Tap to see who viewed each one and who has no view recorded.	تم حفظ %1$d قصص منذ %2$s. اضغط لمعرفة من شاهد كل قصة ومن لم تُسجل له مشاهدة.
+Clear story viewers	مسح سجل مشاهدي القصص
+Forgets every story's viewers kept here. The switch stays as it is.	يمسح جميع قوائم مشاهدي القصص المحفوظة هنا. ويظل المفتاح على حالته.
+Story viewers cleared.	تم مسح سجل مشاهدي القصص.
+Couldn't clear the story viewers. Try again.	تعذر مسح سجل مشاهدي القصص. حاول مرة أخرى.
+Last 7 days	آخر 7 أيام
+Last 30 days	آخر 30 يوماً
+Last 90 days	آخر 90 يوماً
+All kept	كل المحفوظات
+Viewers	المشاهدون
+No view recorded	لا توجد مشاهدة مسجلة
+Frequent	متكرر
+Stories kept: %1$d. Viewers: %2$d.	القصص المحفوظة: %1$d. المشاهدون: %2$d.
+%1$d%% of your followers viewed at least one.	شاهد %1$d%% من متابعيك قصة واحدة على الأقل.
+To see followers with no view recorded, turn on Recent unfollowers and open your Followers list once.	لمعرفة المتابعين الذين لم تُسجل لهم مشاهدة، فعّل خيار «من ألغوا متابعتك مؤخراً» وافتح قائمة متابعيك مرة واحدة.
+Viewed this story	شاهد هذه القصة
+Not on this story's list	ليس ضمن قائمة مشاهدي هذه القصة
+Stories viewed: %1$d of %2$d, the newest posted %3$s	القصص التي تمت مشاهدتها: %1$d من %2$d، أحدثها نُشرت في %3$s
+None in this period. The last story they viewed is from %s	لا توجد مشاهدات في هذه الفترة. آخر قصة شاهدوها بتاريخ %s
+No view recorded since %s	لم تُسجل مشاهدة منذ %s
+Story from %s	قصة بتاريخ %s
+Viewers kept: %1$d of %2$d	المشاهدون المحفوظون: %1$d من %2$d
+Viewers: %1$d	المشاهدون: %1$d
+Viewers: %1$d. Followers not on the list: %2$d	المشاهدون: %1$d. المتابعون غير المدرجين: %2$d
+No stories kept in this period.	لا توجد قصص محفوظة في هذه الفترة.
+Every follower viewed at least one story in this period.	شاهد كل متابع قصة واحدة على الأقل خلال هذه الفترة.
+No one has viewed half of this period's stories yet.	لم يشاهد أحد نصف قصص هذه الفترة بعد.
+Don't send feed view history	عدم إرسال سجل مشاهدة الموجز
+Stops telling Instagram which posts in Home you looked at and for how long. Instagram uses that to pick what Home shows. Posts you've seen may come back.	يمنع إرسال معلومات إلى Instagram حول المنشورات التي شاهدتها في الصفحة الرئيسية ومدة مشاهدتك لها. يستخدم Instagram هذه المعلومات لتحديد ما يعرضه في الصفحة الرئيسية. وقد تظهر المنشورات التي شاهدتها مجدداً.
+Hide the Messages badge	إخفاء شارة الرسائل
+Takes the unread count off the Messages button on the tab bar. Chats still show as unread in your inbox, and notifications still come. Restart Instagram to see the change.	يزيل عدد الرسائل غير المقروءة من زر الرسائل في شريط علامات التبويب. وتظل المحادثات تظهر كغير مقروءة في صندوق الوارد، كما تستمر الإشعارات في الوصول. أعد تشغيل Instagram لتطبيق التغيير.
+Search blocked accounts	البحث في الحسابات المحظورة
+Adds a search box above your blocked accounts in Instagram's settings. It finds them by username or name, and loads the rest of your list as you type.	يضيف مربع بحث أعلى قائمة الحسابات المحظورة في إعدادات Instagram. يبحث عنها باستخدام اسم المستخدم أو الاسم، ويحمّل بقية القائمة أثناء الكتابة.
+Matches: %1$d of %2$d account loaded so far. Loading the rest of your list.	النتائج: %1$d من أصل %2$d حساباً تم تحميلها حتى الآن. جارٍ تحميل بقية القائمة.
+Matches: %1$d of %2$d accounts loaded so far. Loading the rest of your list.	النتائج: %1$d من أصل %2$d حساباً تم تحميلها حتى الآن. جارٍ تحميل بقية القائمة.
+Matches: %1$d of the %2$d account that loaded. Instagram didn't send the rest.	النتائج: %1$d من أصل %2$d حساب تم تحميله. لم يرسل Instagram بقية القائمة.
+Matches: %1$d of the %2$d accounts that loaded. Instagram didn't send the rest.	النتائج: %1$d من أصل %2$d حساباً تم تحميلها. لم يرسل Instagram بقية القائمة.
+Matches: %1$d of %2$d blocked account	النتائج: %1$d من أصل %2$d حساب محظور
+Matches: %1$d of %2$d blocked accounts	النتائج: %1$d من أصل %2$d حساباً محظوراً
+Long press a profile picture to view it	اضغط مطولاً على صورة الملف الشخصي لعرضها
+Long press the picture at the top of a profile to open the whole square picture at full size, with Save under it, instead of Instagram's own preview. A tap works as before.	اضغط مطولاً على الصورة أعلى الملف الشخصي لفتح الصورة المربعة كاملة بحجمها الأصلي، مع زر حفظ أسفلها، بدلاً من معاينة Instagram الأصلية. ويظل النقر العادي يعمل كما كان.
+Hide notifications by type	إخفاء الإشعارات حسب النوع
+Takes the kinds of notifications you tick off the Notifications page. The list fills in as Instagram sends them.	يزيل أنواع الإشعارات التي تحددها من صفحة الإشعارات. وتُملأ القائمة تدريجياً مع وصول إشعارات Instagram.
+%1$d kind of notification is hidden.	تم إخفاء نوع واحد من الإشعارات (%1$d).
+%1$d kinds of notification are hidden.	تم إخفاء %1$d من أنواع الإشعارات.
+No notifications seen yet. Open your notifications in Instagram once, then come back here.	لم يتم رصد أي إشعارات بعد. افتح صفحة الإشعارات في Instagram مرة واحدة، ثم عُد إلى هنا.
