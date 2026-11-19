@@ -16,6 +16,7 @@ import app.hushgram.extension.instagram.download.FileNameTemplate;
 import app.hushgram.extension.instagram.download.HoldFingers;
 import app.hushgram.extension.instagram.download.HoldTime;
 import app.hushgram.extension.instagram.download.SaveFolder;
+import app.hushgram.extension.instagram.feed.CaptionLines;
 import app.hushgram.extension.instagram.feed.FeedSeekShape;
 import app.hushgram.extension.instagram.feed.OverlayLook;
 import app.hushgram.extension.instagram.feed.SeekShape;
@@ -30,6 +31,8 @@ import app.hushgram.extension.instagram.stories.StoryRingSize;
 import app.hushgram.extension.instagram.stories.StoryRingThickness;
 import app.hushgram.extension.instagram.stories.StoryTimeMode;
 import app.hushgram.extension.instagram.stories.TrayBadge;
+import app.hushgram.extension.shared.Logger;
+import app.hushgram.extension.shared.Utils;
 import app.hushgram.extension.shared.settings.BaseSettings;
 import app.hushgram.extension.shared.settings.BooleanSetting;
 import app.hushgram.extension.shared.settings.EnumSetting;
@@ -1339,11 +1342,43 @@ public class Settings extends BaseSettings {
 
     /**
      * The "Are you interested in this post?" bubble with Not interested and Interested buttons that
-     * Instagram adds under a post in Home's feed and under a reel (#131). Left out, never answered.
-     * Off to start.
+     * Instagram adds under a post in Home's feed (#131). Left out, never answered. Off to start. Reels
+     * have their own switch, {@link #HIDE_REEL_INTEREST}.
      */
     public static final BooleanSetting HIDE_FEED_INTEREST =
             new BooleanSetting("hushgram_hide_feed_interest", FALSE);
+
+    /**
+     * The Not interested and Interested buttons Instagram shows at the bottom of a reel, the question
+     * Home asks in a bubble (#769). Left out, never answered. Off to start. Builds before this switch
+     * hid them with {@link #HIDE_FEED_INTEREST}, so that switch carries over once
+     * ({@link #carryOverReelInterest}).
+     */
+    public static final BooleanSetting HIDE_REEL_INTEREST =
+            new BooleanSetting("hushgram_hide_reel_interest", FALSE);
+
+    /** Saved once {@link #HIDE_FEED_INTEREST} has been carried over to {@link #HIDE_REEL_INTEREST}. */
+    static final String REEL_INTEREST_CARRIED_KEY = "hushgram_reel_interest_carried";
+
+    static {
+        carryOverReelInterest();
+    }
+
+    /**
+     * Once, in the main process: when Home's switch was on, the reels switch comes on too, so a reel's
+     * buttons stay hidden for whoever hid them before Reels had a switch of its own. After that the two
+     * are apart, and turning the reels switch off stays off. A second process can't save, so it leaves
+     * this for the main one.
+     */
+    static void carryOverReelInterest() {
+        if (!Utils.isMainProcess() || Setting.preferences.getBoolean(REEL_INTEREST_CARRIED_KEY, false)) return;
+        try {
+            if (HIDE_FEED_INTEREST.savedValue() && !HIDE_REEL_INTEREST.save(true)) return;
+            Setting.preferences.saveBoolean(REEL_INTEREST_CARRIED_KEY, true);
+        } catch (IllegalStateException failure) {
+            Logger.printInfo(() -> "Could not carry Hide 'Are you interested?' over to Reels", failure);
+        }
+    }
 
     /** The rows of products and live shopping in the home feed. */
     public static final BooleanSetting HIDE_FEED_SHOPPING =
@@ -2646,6 +2681,22 @@ public class Settings extends BaseSettings {
             new BooleanSetting("hushgram_hide_highlights", FALSE);
 
     /**
+     * The numbers on Followers and Following at the top of profiles, so only the words stay (#771,
+     * {@link app.hushgram.extension.instagram.feed.ProfileFollowCounts}). Read before each frame of a
+     * resumed screen, so it needs no restart. Off to start.
+     */
+    public static final BooleanSetting HIDE_PROFILE_FOLLOW_COUNTS =
+            new BooleanSetting("hushgram_hide_profile_follow_counts", FALSE);
+
+    /**
+     * The Followers and Following buttons at the top of profiles, with no gap left (#771,
+     * {@link app.hushgram.extension.instagram.feed.ProfileFollowCounts}). Read before each frame of a
+     * resumed screen, so it needs no restart. Off to start.
+     */
+    public static final BooleanSetting HIDE_PROFILE_FOLLOW_BUTTONS =
+            new BooleanSetting("hushgram_hide_profile_follow_buttons", FALSE);
+
+    /**
      * The tabs Instagram leaves off other people's profiles, as Instagram's tab keys with commas between ({@link app.hushgram.extension.instagram.profile.ProfileTabs}):
      * any of profile_fan_club_grid (Subscriptions, #721), profile_clips, profile_reposts and profile_tagged_media_photos_of_you. Nothing named is the start, so every tab shows. The grid is
      * never offered. Read each time Instagram builds a profile's tabs, so it shows on the next profile opened. Before #296 it covered your own
@@ -2815,6 +2866,14 @@ public class Settings extends BaseSettings {
      */
     public static final BooleanSetting STOP_SWIPE_TO_CREATE =
             new BooleanSetting("hushgram_stop_swipe_to_create", FALSE);
+
+    /**
+     * A swipe left on Home that would open Messages, the inbox Instagram slides in past Home on the
+     * classic tab bar, and Swipe left for Messages' own swipe (#770). Read at each step of a swipe,
+     * so a change shows on the next one. Off to start.
+     */
+    public static final BooleanSetting STOP_SWIPE_TO_MESSAGES =
+            new BooleanSetting("hushgram_stop_swipe_to_messages", FALSE);
 
     /**
      * What a swipe right on Home opens ({@link app.hushgram.extension.instagram.feed.HomeSwipe}), the camera
@@ -3144,6 +3203,22 @@ public class Settings extends BaseSettings {
             new BooleanSetting("hushgram_hide_edits_label", FALSE);
 
     /**
+     * The line under a feed post's author: the song, the place and the other labels
+     * taking turns there (#771, {@link app.hushgram.extension.instagram.feed.HeaderLine}). Sponsored and
+     * Paid partnership stay. Read as each post's header is built, so it needs no restart. Off to start.
+     */
+    public static final BooleanSetting HIDE_FEED_HEADER_LINE =
+            new BooleanSetting("hushgram_hide_feed_header_line", FALSE);
+
+    /**
+     * The line under a reel's author: the song, the place and the other labels taking turns there
+     * (#771, {@link app.hushgram.extension.instagram.feed.HeaderLine#reelLine}). Sponsored and Paid
+     * partnership stay. Read as each reel's author row is built, so it needs no restart. Off to start.
+     */
+    public static final BooleanSetting HIDE_REEL_HEADER_LINE =
+            new BooleanSetting("hushgram_hide_reel_header_line", FALSE);
+
+    /**
      * A Save row in a feed post's menu, or Remove from saved on a saved post (#569,
      * {@link app.hushgram.extension.instagram.feed.FeedSaveRow}). Read as the menu opens. Off to start.
      */
@@ -3223,6 +3298,22 @@ public class Settings extends BaseSettings {
      */
     public static final BooleanSetting HIDE_CAPTIONS =
             new BooleanSetting("hushgram_hide_captions", FALSE);
+
+    /**
+     * More of a feed post's caption before Instagram's "more" (#771,
+     * {@link app.hushgram.extension.instagram.feed.CaptionLength}): as much as {@link #CAPTION_LINES}
+     * says, in Home, Explore and the other feeds. Reels and stories keep Instagram's count. Instagram
+     * keeps captions it has laid out, so it takes a restart. Off to start.
+     */
+    public static final BooleanSetting EXPAND_CAPTIONS =
+            new BooleanSetting("hushgram_expand_captions", FALSE, true);
+
+    /**
+     * How much of the caption {@link #EXPAND_CAPTIONS} shows: the whole caption to start, or a number
+     * of lines with "more" after them. Read as each caption is built, so it takes a restart too.
+     */
+    public static final EnumSetting<CaptionLines> CAPTION_LINES =
+            new EnumSetting<>("hushgram_caption_lines", CaptionLines.WHOLE, true, parent(EXPAND_CAPTIONS));
 
     /**
      * The small speaker icon in the corner of a feed video

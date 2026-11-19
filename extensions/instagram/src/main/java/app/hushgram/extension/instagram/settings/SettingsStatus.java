@@ -363,6 +363,10 @@ public final class SettingsStatus {
         return false;
     }
 
+    public static boolean profileFollowCounts() {
+        return false;
+    }
+
     public static boolean messageBox() {
         return false;
     }
@@ -528,6 +532,10 @@ public final class SettingsStatus {
         return false;
     }
 
+    public static boolean feedHeaderLine() {
+        return false;
+    }
+
     public static boolean feedSave() {
         return false;
     }
@@ -546,6 +554,10 @@ public final class SettingsStatus {
     }
 
     public static boolean hideCaptions() {
+        return false;
+    }
+
+    public static boolean expandCaptions() {
         return false;
     }
 
