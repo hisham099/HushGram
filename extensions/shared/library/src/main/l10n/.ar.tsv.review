@@ -786,84 +786,84 @@ Hide the Share button	إخفاء زر المشاركة
 On comments	على التعليقات
 Takes the Share button and its count off the posts in your feed and off reels.	يزيل زر المشاركة وعدّاده من المنشورات في موجزك ومن مقاطع Reels.
 Ask before a call	طلب التأكيد قبل الاتصال
-Call,اتصال
-Change the like animation,تغيير حركة الإعجاب
-Deletes the saved photos Instagram keeps to show again, whatever their size, and the saved videos the next time it starts.,يحذف الصور المحفوظة التي يحتفظ بها Instagram لإعادة عرضها، مهما كان حجمها، ويحذف الفيديوهات المحفوظة عند تشغيله في المرة التالية.
-Freed %1$s. The videos go the next time Instagram starts.,تم توفير %1$s. ستُحذف الفيديوهات عند تشغيل Instagram في المرة التالية.
-Like animation,حركة الإعجاب
-Links keep instagram.com.,تظل الروابط على instagram.com.
-Links to instagram.com go out on %1$s.,تُفتح روابط instagram.com عبر %1$s.
-Links to instagram.com that you copy or share go out on this domain instead, for a site that shows Instagram posts and reels in chat apps. Type the domain alone, like example.com. Leave it blank to keep instagram.com.,تُفتح روابط instagram.com التي تنسخها أو تشاركها عبر هذا النطاق بدلاً منه، وهو موقع يعرض منشورات Instagram ومقاطع Reels داخل تطبيقات المحادثة. أدخل اسم النطاق فقط، مثل example.com. اتركه فارغاً للإبقاء على instagram.com.
-Pick an animation. Until you do, the heart stays Instagram's.,اختر حركة. وحتى تختار واحدة، سيظل القلب بحركته الأصلية في Instagram.
-Sharing domain,نطاق المشاركة
-Start a video call?,هل تريد بدء مكالمة فيديو؟
-Start a voice call?,هل تريد بدء مكالمة صوتية؟
-Tapping a call button in a chat asks first, so a stray tap doesn't ring anyone. Call starts it, Cancel doesn't.,يعرض التطبيق طلب تأكيد عند الضغط على زر الاتصال في محادثة، حتى لا يؤدي الضغط غير المقصود إلى الاتصال بأحد. يبدأ زر «اتصال» المكالمة، بينما يلغيها زر «إلغاء».
-That isn't a domain. Try one like example.com.,هذا ليس نطاقاً صالحاً. جرّب نطاقاً مثل example.com.
-The heart plays %1$s when you double tap a post.,يعرض القلب الحركة %1$s عند النقر المزدوج على منشور.
-The heart that pops up when you double tap a post plays the animation you pick below. They're animations Instagram made for its Rings creators.,يعرض القلب الذي يظهر عند النقر المزدوج على منشور الحركة التي تختارها أدناه. هذه حركات أنشأها Instagram لصنّاع محتوى Rings.
-Turn on Change the like animation to use this choice.,فعّل خيار «تغيير حركة الإعجاب» لاستخدام هذا الاختيار.
-When Instagram's saved photos and videos pass the limit below, deletes the photos as you leave it and the videos the next time it starts. Your sign-in, drafts and settings stay.,عندما تتجاوز الصور والفيديوهات المحفوظة في Instagram الحد المحدد أدناه، تُحذف الصور عند مغادرة التطبيق، وتُحذف الفيديوهات عند تشغيله في المرة التالية. وتظل بيانات تسجيل الدخول والمسودات والإعدادات محفوظة.
-Ask before a like,طلب التأكيد قبل الإعجاب
-Ask before a refresh,طلب التأكيد قبل التحديث
-Continue,متابعة
-Like or unlike this post?,هل تريد تسجيل الإعجاب بهذا المنشور أم إلغاءه؟
-Like or unlike this comment?,هل تريد تسجيل الإعجاب بهذا التعليق أم إلغاءه؟
-Asks before a pull down or another tap on its tab refreshes Home, Reels or another list. Cancel keeps what's on screen.,يطلب التأكيد قبل أن يؤدي السحب إلى أسفل أو الضغط مجدداً على علامة التبويب إلى تحديث الصفحة الرئيسية أو Reels أو أي قائمة أخرى. يؤدي اختيار «إلغاء» إلى إبقاء المحتوى الظاهر كما هو.
-Skip the collections tray,تجاوز نافذة المجموعات
-Saving a post or reel shows Instagram's Saved message instead of the tray that asks you to start a collection.,عند حفظ منشور أو مقطع Reels، تظهر رسالة الحفظ من Instagram بدلاً من النافذة التي تطلب منك إنشاء مجموعة.
-Refresh,تحديث
-Refresh this list?,هل تريد تحديث هذه القائمة؟
-Asks before the Like button under a post, on a reel or on a comment likes or unlikes it, so a stray tap doesn't do it for you. Double taps aren't asked about.,يطلب التأكيد قبل أن يسجل زر الإعجاب أسفل منشور أو على مقطع Reels أو تعليق إعجاباً أو يلغيه، لتجنب تنفيذ ذلك بلمسة غير مقصودة. ولا يظهر طلب التأكيد عند النقر المزدوج.
-Adds a row next to Download on a reel and a feed video that plays it in an app you pick, such as VLC. The player streams it from Instagram's servers.,يضيف خياراً بجوار «تنزيل» في مقاطع Reels وفيديوهات الموجز لتشغيلها في تطبيق تختاره، مثل VLC. ويشغّلها التطبيق مباشرة من خوادم Instagram.
-Couldn't open another player,تعذر فتح مشغّل آخر
-No app on this phone can play this video,لا يوجد تطبيق على هذا الهاتف يمكنه تشغيل هذا الفيديو
-Open in another player,فتح في مشغّل آخر
-Open with,فتح باستخدام
-This video has no file another player can open,لا يتوفر لهذا الفيديو ملف يمكن لمشغّل آخر فتحه
-Name saves by account and post time,تسمية الملفات المحفوظة باسم الحساب ووقت النشر
-Names each photo and video for the account that posted it and when, like username_20261005_143012, so an account's saves sort by date. A carousel page gets its number on the end. Takes the place of the video file name. A save that doesn't know who posted or when keeps its usual name.,يسمي كل صورة وفيديو باسم الحساب الذي نشره ووقت النشر، مثل username_20261005_143012، لتُرتب الملفات المحفوظة لكل حساب حسب التاريخ. ويُضاف رقم صفحة المنشور المتعدد في نهاية الاسم. يحل ذلك محل اسم ملف الفيديو. أما ما يتعذر تحديد ناشره أو وقت نشره فيحتفظ باسمه المعتاد.
-Save profile picture,حفظ صورة الملف الشخصي
-Adds Save profile picture to the menu on someone's profile. Saves their picture at the largest size Instagram has.,يضيف خيار «حفظ صورة الملف الشخصي» إلى قائمة الملف الشخصي لأي شخص، ويحفظ صورته بأكبر حجم يتيحه Instagram.
-Show a post's exact time,إظهار وقت نشر المنشور بدقة
-Shows when a post and its comments went up, like Oct 2, 3:45 PM, instead of how long ago. Posts you load after a change show it.,يعرض تاريخ ووقت نشر المنشور وتعليقاته، مثل 2 أكتوبر، 3:45 مساءً، بدلاً من المدة المنقضية منذ النشر. يظهر ذلك في المنشورات التي تحمّلها بعد تغيير الإعداد.
-Show a reel's exact time,إظهار وقت نشر مقطع Reels بدقة
-Shows the date and time a reel was posted under the author's name, like Oct 2, 3:45 PM. A change shows from the next reel.,يعرض تاريخ ووقت نشر مقطع Reels أسفل اسم صاحبه، مثل 2 أكتوبر، 3:45 مساءً. يظهر التغيير بدءاً من المقطع التالي.
-Show seconds in a reel's time,إظهار الثواني في وقت مقطع Reels
-Adds the seconds to a reel's time, like Oct 2, 3:45:30 PM.,يضيف الثواني إلى وقت مقطع Reels، مثل 2 أكتوبر، 3:45:30 مساءً.
-Show like counts the poster hid,إظهار عدد الإعجابات الذي أخفاه الناشر
-Shows how many likes a post or reel has when its owner hid the count, but only when Instagram still sends the number. If it doesn't, nothing changes. Posts you load after a change show it.,يعرض عدد الإعجابات على المنشور أو مقطع Reels عندما يخفي صاحبه العدد، ولكن فقط إذا كان Instagram لا يزال يرسل العدد. وإذا لم يرسله، فلن يتغير شيء. يظهر ذلك في المنشورات التي تحمّلها بعد تغيير الإعداد.
-Back leaves Home as it is,زر الرجوع يغادر الرئيسية دون تغييرها
-Back on Home leaves Instagram without first scrolling the feed to the top and reloading it.,يؤدي زر الرجوع من الصفحة الرئيسية إلى مغادرة Instagram دون التمرير أولاً إلى أعلى الموجز وإعادة تحميله.
-By @%1$s,بواسطة @%1$s
-Close,إغلاق
-Copy media link,نسخ رابط الوسائط
-Couldn't copy the media link,تعذر نسخ رابط الوسائط
-Details,التفاصيل
-Details in a post's menu,إضافة التفاصيل إلى قائمة المنشور
-Block in a post's menu,إضافة الحظر إلى قائمة المنشور
-Adds Block to the menu of someone else's feed post. It opens Instagram's own block sheet, so nothing happens until you confirm there.,يضيف خيار «حظر» إلى قائمة منشور في موجز شخص آخر. يفتح ذلك نافذة الحظر الأصلية في Instagram، ولن يحدث شيء حتى تؤكد الحظر هناك.
-Speed in a post's menu,إضافة السرعة إلى قائمة المنشور
-Adds Playback speed to a feed video's menu. Pick a speed from 0.5x to 3x for the video that's playing.,يضيف خيار «سرعة التشغيل» إلى قائمة فيديو في الموجز. اختر سرعة من 0.5x إلى 3x للفيديو قيد التشغيل.
-Media ID %1$s,معرّف الوسائط %1$s
-Media link,رابط الوسائط
-Media link copied. It stops working after a few days.,تم نسخ رابط الوسائط. ستنتهي صلاحيته بعد بضعة أيام.
-No direct link for this one,لا يتوفر رابط مباشر لهذا العنصر
-Posted %1$s,نُشر في %1$s
-Size %1$d × %2$d,الحجم %1$d × %2$d
-Adds Details to a feed post's or reel's menu. It shows when it went up, who posted it, its media ID and the size Download saves, with buttons to copy the file link, username and caption.,يضيف «التفاصيل» إلى قائمة منشور في الموجز أو مقطع Reels. يعرض وقت النشر واسم الناشر ومعرّف الوسائط والحجم الذي يحفظه خيار التنزيل، مع أزرار لنسخ رابط الملف واسم المستخدم والوصف.
-Caption,الوصف
-Caption copied,تم نسخ الوصف
-Copy caption,نسخ الوصف
-Copy caption without hashtags,نسخ الوصف دون وسوم
-Copy username,نسخ اسم المستخدم
-Couldn't copy the caption,تعذر نسخ الوصف
-Couldn't copy the username,تعذر نسخ اسم المستخدم
-Media link is the %1$d × %2$d file,رابط الوسائط هو الملف بحجم %1$d × %2$d
-Username,اسم المستخدم
-Username copied,تم نسخ اسم المستخدم
-Adds Save to the menu you get by holding a voice message in a chat. Saves the recording as an audio file. One sent to be played once never gets it.,يضيف خيار «حفظ» إلى القائمة التي تظهر عند الضغط مطولاً على رسالة صوتية في محادثة. ويحفظ التسجيل كملف صوتي. ولا يظهر هذا الخيار للرسائل المرسلة للاستماع مرة واحدة.
-Cancel saving this voice message,إلغاء حفظ هذه الرسالة الصوتية
-Download voice messages,تنزيل الرسائل الصوتية
-Following each other,يتابع كل منكما الآخر
-Hide the comment bar on reposted reels,إخفاء شريط التعليق في مقاطع Reels المعاد نشرها
+Call	اتصال
+Change the like animation	تغيير حركة الإعجاب
+Deletes the saved photos Instagram keeps to show again, whatever their size, and the saved videos the next time it starts.	يحذف الصور المحفوظة التي يحتفظ بها Instagram لإعادة عرضها، مهما كان حجمها، ويحذف الفيديوهات المحفوظة عند تشغيله في المرة التالية.
+Freed %1$s. The videos go the next time Instagram starts.	تم توفير %1$s. ستُحذف الفيديوهات عند تشغيل Instagram في المرة التالية.
+Like animation	حركة الإعجاب
+Links keep instagram.com.	تظل الروابط على instagram.com.
+Links to instagram.com go out on %1$s.	تُفتح روابط instagram.com عبر %1$s.
+Links to instagram.com that you copy or share go out on this domain instead, for a site that shows Instagram posts and reels in chat apps. Type the domain alone, like example.com. Leave it blank to keep instagram.com.	تُفتح روابط instagram.com التي تنسخها أو تشاركها عبر هذا النطاق بدلاً منه، وهو موقع يعرض منشورات Instagram ومقاطع Reels داخل تطبيقات المحادثة. أدخل اسم النطاق فقط، مثل example.com. اتركه فارغاً للإبقاء على instagram.com.
+Pick an animation. Until you do, the heart stays Instagram's.	اختر حركة. وحتى تختار واحدة، سيظل القلب بحركته الأصلية في Instagram.
+Sharing domain	نطاق المشاركة
+Start a video call?	هل تريد بدء مكالمة فيديو؟
+Start a voice call?	هل تريد بدء مكالمة صوتية؟
+Tapping a call button in a chat asks first, so a stray tap doesn't ring anyone. Call starts it, Cancel doesn't.	يعرض التطبيق طلب تأكيد عند الضغط على زر الاتصال في محادثة، حتى لا يؤدي الضغط غير المقصود إلى الاتصال بأحد. يبدأ زر «اتصال» المكالمة، بينما يلغيها زر «إلغاء».
+That isn't a domain. Try one like example.com.	هذا ليس نطاقاً صالحاً. جرّب نطاقاً مثل example.com.
+The heart plays %1$s when you double tap a post.	يعرض القلب الحركة %1$s عند النقر المزدوج على منشور.
+The heart that pops up when you double tap a post plays the animation you pick below. They're animations Instagram made for its Rings creators.	يعرض القلب الذي يظهر عند النقر المزدوج على منشور الحركة التي تختارها أدناه. هذه حركات أنشأها Instagram لصنّاع محتوى Rings.
+Turn on Change the like animation to use this choice.	فعّل خيار «تغيير حركة الإعجاب» لاستخدام هذا الاختيار.
+When Instagram's saved photos and videos pass the limit below, deletes the photos as you leave it and the videos the next time it starts. Your sign-in, drafts and settings stay.	عندما تتجاوز الصور والفيديوهات المحفوظة في Instagram الحد المحدد أدناه، تُحذف الصور عند مغادرة التطبيق، وتُحذف الفيديوهات عند تشغيله في المرة التالية. وتظل بيانات تسجيل الدخول والمسودات والإعدادات محفوظة.
+Ask before a like	طلب التأكيد قبل الإعجاب
+Ask before a refresh	طلب التأكيد قبل التحديث
+Continue	متابعة
+Like or unlike this post?	هل تريد تسجيل الإعجاب بهذا المنشور أم إلغاءه؟
+Like or unlike this comment?	هل تريد تسجيل الإعجاب بهذا التعليق أم إلغاءه؟
+Asks before a pull down or another tap on its tab refreshes Home, Reels or another list. Cancel keeps what's on screen.	يطلب التأكيد قبل أن يؤدي السحب إلى أسفل أو الضغط مجدداً على علامة التبويب إلى تحديث الصفحة الرئيسية أو Reels أو أي قائمة أخرى. يؤدي اختيار «إلغاء» إلى إبقاء المحتوى الظاهر كما هو.
+Skip the collections tray	تجاوز نافذة المجموعات
+Saving a post or reel shows Instagram's Saved message instead of the tray that asks you to start a collection.	عند حفظ منشور أو مقطع Reels، تظهر رسالة الحفظ من Instagram بدلاً من النافذة التي تطلب منك إنشاء مجموعة.
+Refresh	تحديث
+Refresh this list?	هل تريد تحديث هذه القائمة؟
+Asks before the Like button under a post, on a reel or on a comment likes or unlikes it, so a stray tap doesn't do it for you. Double taps aren't asked about.	يطلب التأكيد قبل أن يسجل زر الإعجاب أسفل منشور أو على مقطع Reels أو تعليق إعجاباً أو يلغيه، لتجنب تنفيذ ذلك بلمسة غير مقصودة. ولا يظهر طلب التأكيد عند النقر المزدوج.
+Adds a row next to Download on a reel and a feed video that plays it in an app you pick, such as VLC. The player streams it from Instagram's servers.	يضيف خياراً بجوار «تنزيل» في مقاطع Reels وفيديوهات الموجز لتشغيلها في تطبيق تختاره، مثل VLC. ويشغّلها التطبيق مباشرة من خوادم Instagram.
+Couldn't open another player	تعذر فتح مشغّل آخر
+No app on this phone can play this video	لا يوجد تطبيق على هذا الهاتف يمكنه تشغيل هذا الفيديو
+Open in another player	فتح في مشغّل آخر
+Open with	فتح باستخدام
+This video has no file another player can open	لا يتوفر لهذا الفيديو ملف يمكن لمشغّل آخر فتحه
+Name saves by account and post time	تسمية الملفات المحفوظة باسم الحساب ووقت النشر
+Names each photo and video for the account that posted it and when, like username_20261005_143012, so an account's saves sort by date. A carousel page gets its number on the end. Takes the place of the video file name. A save that doesn't know who posted or when keeps its usual name.	يسمي كل صورة وفيديو باسم الحساب الذي نشره ووقت النشر، مثل username_20261005_143012، لتُرتب الملفات المحفوظة لكل حساب حسب التاريخ. ويُضاف رقم صفحة المنشور المتعدد في نهاية الاسم. يحل ذلك محل اسم ملف الفيديو. أما ما يتعذر تحديد ناشره أو وقت نشره فيحتفظ باسمه المعتاد.
+Save profile picture	حفظ صورة الملف الشخصي
+Adds Save profile picture to the menu on someone's profile. Saves their picture at the largest size Instagram has.	يضيف خيار «حفظ صورة الملف الشخصي» إلى قائمة الملف الشخصي لأي شخص، ويحفظ صورته بأكبر حجم يتيحه Instagram.
+Show a post's exact time	إظهار وقت نشر المنشور بدقة
+Shows when a post and its comments went up, like Oct 2, 3:45 PM, instead of how long ago. Posts you load after a change show it.	يعرض تاريخ ووقت نشر المنشور وتعليقاته، مثل 2 أكتوبر، 3:45 مساءً، بدلاً من المدة المنقضية منذ النشر. يظهر ذلك في المنشورات التي تحمّلها بعد تغيير الإعداد.
+Show a reel's exact time	إظهار وقت نشر مقطع Reels بدقة
+Shows the date and time a reel was posted under the author's name, like Oct 2, 3:45 PM. A change shows from the next reel.	يعرض تاريخ ووقت نشر مقطع Reels أسفل اسم صاحبه، مثل 2 أكتوبر، 3:45 مساءً. يظهر التغيير بدءاً من المقطع التالي.
+Show seconds in a reel's time	إظهار الثواني في وقت مقطع Reels
+Adds the seconds to a reel's time, like Oct 2, 3:45:30 PM.	يضيف الثواني إلى وقت مقطع Reels، مثل 2 أكتوبر، 3:45:30 مساءً.
+Show like counts the poster hid	إظهار عدد الإعجابات الذي أخفاه الناشر
+Shows how many likes a post or reel has when its owner hid the count, but only when Instagram still sends the number. If it doesn't, nothing changes. Posts you load after a change show it.	يعرض عدد الإعجابات على المنشور أو مقطع Reels عندما يخفي صاحبه العدد، ولكن فقط إذا كان Instagram لا يزال يرسل العدد. وإذا لم يرسله، فلن يتغير شيء. يظهر ذلك في المنشورات التي تحمّلها بعد تغيير الإعداد.
+Back leaves Home as it is	زر الرجوع يغادر الرئيسية دون تغييرها
+Back on Home leaves Instagram without first scrolling the feed to the top and reloading it.	يؤدي زر الرجوع من الصفحة الرئيسية إلى مغادرة Instagram دون التمرير أولاً إلى أعلى الموجز وإعادة تحميله.
+By @%1$s	بواسطة @%1$s
+Close	إغلاق
+Copy media link	نسخ رابط الوسائط
+Couldn't copy the media link	تعذر نسخ رابط الوسائط
+Details	التفاصيل
+Details in a post's menu	إضافة التفاصيل إلى قائمة المنشور
+Block in a post's menu	إضافة الحظر إلى قائمة المنشور
+Adds Block to the menu of someone else's feed post. It opens Instagram's own block sheet, so nothing happens until you confirm there.	يضيف خيار «حظر» إلى قائمة منشور في موجز شخص آخر. يفتح ذلك نافذة الحظر الأصلية في Instagram، ولن يحدث شيء حتى تؤكد الحظر هناك.
+Speed in a post's menu	إضافة السرعة إلى قائمة المنشور
+Adds Playback speed to a feed video's menu. Pick a speed from 0.5x to 3x for the video that's playing.	يضيف خيار «سرعة التشغيل» إلى قائمة فيديو في الموجز. اختر سرعة من 0.5x إلى 3x للفيديو قيد التشغيل.
+Media ID %1$s	معرّف الوسائط %1$s
+Media link	رابط الوسائط
+Media link copied. It stops working after a few days.	تم نسخ رابط الوسائط. ستنتهي صلاحيته بعد بضعة أيام.
+No direct link for this one	لا يتوفر رابط مباشر لهذا العنصر
+Posted %1$s	نُشر في %1$s
+Size %1$d × %2$d	الحجم %1$d × %2$d
+Adds Details to a feed post's or reel's menu. It shows when it went up, who posted it, its media ID and the size Download saves, with buttons to copy the file link, username and caption.	يضيف «التفاصيل» إلى قائمة منشور في الموجز أو مقطع Reels. يعرض وقت النشر واسم الناشر ومعرّف الوسائط والحجم الذي يحفظه خيار التنزيل، مع أزرار لنسخ رابط الملف واسم المستخدم والوصف.
+Caption	الوصف
+Caption copied	تم نسخ الوصف
+Copy caption	نسخ الوصف
+Copy caption without hashtags	نسخ الوصف دون وسوم
+Copy username	نسخ اسم المستخدم
+Couldn't copy the caption	تعذر نسخ الوصف
+Couldn't copy the username	تعذر نسخ اسم المستخدم
+Media link is the %1$d × %2$d file	رابط الوسائط هو الملف بحجم %1$d × %2$d
+Username	اسم المستخدم
+Username copied	تم نسخ اسم المستخدم
+Adds Save to the menu you get by holding a voice message in a chat. Saves the recording as an audio file. One sent to be played once never gets it.	يضيف خيار «حفظ» إلى القائمة التي تظهر عند الضغط مطولاً على رسالة صوتية في محادثة. ويحفظ التسجيل كملف صوتي. ولا يظهر هذا الخيار للرسائل المرسلة للاستماع مرة واحدة.
+Cancel saving this voice message	إلغاء حفظ هذه الرسالة الصوتية
+Download voice messages	تنزيل الرسائل الصوتية
+Following each other	يتابع كل منكما الآخر
+Hide the comment bar on reposted reels	إخفاء شريط التعليق في مقاطع Reels المعاد نشرها
