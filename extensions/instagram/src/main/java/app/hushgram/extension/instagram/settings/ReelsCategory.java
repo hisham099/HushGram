@@ -58,6 +58,8 @@ final class ReelsCategory {
             reels.add(toggle(context, Settings.HIDE_REELS_STORIES, L10n.t("Hide stories in Reels"),
                     L10n.t("The Catch up with friends pages of stories that Instagram puts between reels. "
                             + "Stories stay at the top of Home.")));
+            reels.add(toggle(context, Settings.HIDE_REELS_THREADS, L10n.t("Hide Threads posts"),
+                    L10n.t("The cards that Instagram puts between reels to get you onto Threads.")));
         }
         if (build.contains(PatchFamily.PAID_PARTNERSHIP_REELS)) {
             reels.add(toggle(context, Settings.HIDE_PAID_PARTNERSHIP_REELS, L10n.t("Hide paid partnership Reels"),
@@ -100,6 +102,10 @@ final class ReelsCategory {
                             + "Reels from accounts you follow, reels sent to you and reels with no count still play.")));
             reels.add(minViewsRow(context));
             reels.add(minLikesRow(context));
+        }
+        if (build.contains(PatchFamily.EXPAND_CAPTIONS)) {
+            reels.add(toggle(context, Settings.EXPAND_REEL_CAPTIONS, L10n.t("Expand captions on reels"),
+                    L10n.t("Reels show their whole caption, with no \"more\" to tap. A long caption covers more of the video.")));
         }
         if (build.contains(PatchFamily.FEED_HEADER_LINE)) {
             reels.add(toggle(context, Settings.HIDE_REEL_HEADER_LINE, L10n.t("Hide the line under names on reels"),

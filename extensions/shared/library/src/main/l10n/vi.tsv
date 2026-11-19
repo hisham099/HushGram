@@ -2557,3 +2557,10 @@ Turn on auto scroll	Bật tự động cuộn
 Auto scroll on	Đã bật tự động cuộn
 Auto scroll off	Đã tắt tự động cuộn
 Auto scroll didn't change	Không đổi được tự động cuộn
+# context: a switch in HushGram settings > Feed, right after Stop swipe to create; Messages is Instagram's inbox, named as in Swipe left for Messages (#770)
+Stop swipe to Messages	Ngừng vuốt để mở Tin nhắn
+# context: summary under Stop swipe to Messages; the Messages button is the inbox button at the top of Home or on the tab bar (#770)
+A swipe left on Home no longer opens Messages. The Messages button still does.	Vuốt sang trái trên trang chủ không còn mở Tin nhắn. Nút Tin nhắn vẫn dùng được.
+The cards that Instagram puts between reels to get you onto Threads.	Các thẻ Instagram chèn giữa các reel để kéo bạn sang Threads.
+Expand captions on reels	Mở rộng chú thích trên reel
+Reels show their whole caption, with no "more" to tap. A long caption covers more of the video.	Reel hiện toàn bộ chú thích, không cần chạm "xem thêm". Chú thích dài sẽ che nhiều video hơn.

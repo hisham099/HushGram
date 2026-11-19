@@ -2640,3 +2640,10 @@ Turn on auto scroll	Automatisches Scrollen einschalten
 Auto scroll on	Automatisches Scrollen an
 Auto scroll off	Automatisches Scrollen aus
 Auto scroll didn't change	Automatisches Scrollen nicht geändert
+# context: a switch in HushGram settings > Feed, right after Stop swipe to create; Messages is Instagram's inbox, named as in Swipe left for Messages (#770)
+Stop swipe to Messages	Wischen zu Nachrichten stoppen
+# context: summary under Stop swipe to Messages; the Messages button is the inbox button at the top of Home or on the tab bar (#770)
+A swipe left on Home no longer opens Messages. The Messages button still does.	Nach links wischen auf der Startseite öffnet Nachrichten nicht mehr. Die Schaltfläche für Nachrichten funktioniert weiterhin.
+The cards that Instagram puts between reels to get you onto Threads.	Die Karten, die Instagram zwischen Reels einblendet, um dich zu Threads zu holen.
+Expand captions on reels	Beschreibungen bei Reels ausklappen
+Reels show their whole caption, with no "more" to tap. A long caption covers more of the video.	Reels zeigen ihre ganze Beschreibung, ohne „mehr“ zum Antippen. Eine lange Beschreibung verdeckt mehr vom Video.

@@ -125,3 +125,15 @@ jobs:
             patches/build/release/bundle.sha256
           if-no-files-found: error
           retention-days: 14
+
+      - name: Publish Arabic v0.0.22 release
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main' && contains(github.event.head_commit.message, '[release-arabic-v0.0.22]')
+        shell: pwsh
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          $bundle = "${{ steps.bundle.outputs.path }}"
+          if (-not (Test-Path $bundle)) { throw "Verified MPP bundle not found: $bundle" }
+          $checksum = "patches/build/release/bundle.sha256"
+          if (-not (Test-Path $checksum)) { throw "SHA-256 checksum file not found" }
+          gh release create hushgram-arabic-v0.0.22 $bundle $checksum --title "HushGram Arabic v0.0.22" --notes "Arabic localization release built from the latest upstream HushGram main, with verified MPP bundle and SHA-256 checksum." --target $env:GITHUB_SHA
