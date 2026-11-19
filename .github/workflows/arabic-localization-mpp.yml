@@ -3,8 +3,8 @@ name: Arabic localization and MPP
 on:
   push:
     branches:
-      - full-arabic-localization
       - main
+      - full-arabic-localization
     paths:
       - "extensions/shared/library/src/main/l10n/**"
       - "extensions/shared/library/src/main/java/**"
@@ -19,8 +19,8 @@ on:
       - ".github/workflows/arabic-localization-mpp.yml"
   pull_request:
     branches:
-      - full-arabic-localization
       - main
+      - full-arabic-localization
     paths:
       - "extensions/shared/library/src/main/l10n/**"
       - "extensions/shared/library/src/main/java/**"
@@ -84,13 +84,13 @@ jobs:
           git diff --cached --check
           if ! git diff --cached --quiet; then
             git commit -m "chore(l10n): generate Arabic translation tables"
-            git push origin HEAD:${{ github.ref_name }}
+            git push origin "HEAD:${GITHUB_REF_NAME}"
           fi
 
       - name: Build and verify Morphe Patch Bundle
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: .\\gradlew.bat --no-daemon --stacktrace :patches:buildAndroid
+        run: .\gradlew.bat --no-daemon --stacktrace :patches:buildAndroid
 
       - name: Check MPP output
         id: bundle
