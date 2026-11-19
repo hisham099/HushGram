@@ -2427,6 +2427,9 @@ Removed @%s from the list	已将 @%s 从名单移除
 # context: switch in HushGram settings > Reels; a reel link opened from outside Instagram plays the linked reel first instead of a reel Instagram kept on the phone (#606)
 Open reel links on that reel	在链接指向的 Reel 打开 Reels 链接
 A reel link opens on the reel it points to. Instagram doesn't play another reel it kept on your phone while that one loads.	Reels 链接会打开它指向的 Reel。该 Reel 加载时，Instagram 不会先播放存在你手机上的其他 Reel。
+# context: switch in HushGram settings > Reels; Instagram keeps the screen on the whole time its Reels viewer is open, and this lets a paused reel follow the phone's own screen timeout (#777)
+Let the screen sleep when a reel stops	Reel 停止时让屏幕休眠
+Instagram keeps the screen on while Reels is open. With this on, a paused reel lets your phone's screen timeout run, and a playing one keeps it on.	Reels 打开时，Instagram 会让屏幕一直亮着。开启这个选项后，暂停的 Reel 会按手机的屏幕超时设置关闭屏幕，播放中的 Reel 则让屏幕保持亮着。
 # context: Stories settings: moves the story speed button into a video story's three-dot menu as a Playback speed row (#621)
 Speed in the story menu	快拍菜单中的速度
 # context: Summary of Speed in the story menu; Playback speed is the row's own label (#621)
@@ -2505,6 +2508,14 @@ Unfollow	取消关注
 Interested	感兴趣
 # context: Item in Items in the three-dot menus under Feed: Instagram's Why you're seeing this post row (#697)
 Why you're seeing this post	你为什么会看到这篇帖子
+# context: Item in Items in the three-dot menus under Feed: Instagram's Remix and sequence row in a reel's Made with Edits part (#707)
+Remix and sequence	混音和串联
+# context: Item in Items in the three-dot menus under Feed: Instagram's Use as reference row in a reel's Made with Edits part (#707)
+Use as reference	用作参考
+# context: Item in Items in the three-dot menus under Feed: Instagram's Use template row in a reel's Made with Edits part (#707)
+Use template	使用模板
+# context: Item in Items in the three-dot menus under Feed: Instagram's Get Edits row in a reel's Made with Edits part (#707)
+Get Edits	获取 Edits
 # context: Title of the row under Feed that lists the items to keep in the menus behind the three dots on posts, reels and stories (#697, #707)
 Items in the three-dot menus	三点菜单中的项目
 # context: Summary of Items in the three-dot menus under Feed while every item is ticked (#697, #707)
