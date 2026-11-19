@@ -2157,3 +2157,88 @@ A font file	ملف خط
 Instagram's own font. You can also pick your phone's font or a .ttf or .otf file. Restart Instagram to see a change.	خط Instagram الأصلي. يمكنك أيضاً اختيار خط هاتفك أو ملف بصيغة .ttf أو .otf. أعد تشغيل Instagram لرؤية التغيير.
 Instagram's text uses your phone's font. Restart Instagram to see a change.	يستخدم نص Instagram خط هاتفك. أعد تشغيل Instagram لرؤية التغيير.
 Instagram's text uses the font file you picked. Pick it again to change the file. Restart Instagram to see a change.	يستخدم نص Instagram ملف الخط الذي اخترته. اختر هذا الخيار مجدداً لتغيير الملف. أعد تشغيل Instagram لرؤية التغيير.
+Instagram's logo stays at the top of Home.	يظل شعار Instagram ظاهراً أعلى الصفحة الرئيسية.
+The top of Home says %1$s.	يظهر النص %1$s أعلى الصفحة الرئيسية.
+Home header picture	صورة الشريط العلوي للصفحة الرئيسية
+Remove the header picture	إزالة صورة الشريط العلوي
+The top of Home goes back to your header text, or to Instagram's logo.	يعود أعلى الصفحة الرئيسية إلى عرض نصك أو شعار Instagram.
+Pick a picture to show at the top of Home, in place of Instagram's logo or your text.	اختر صورة لعرضها أعلى الصفحة الرئيسية بدلاً من شعار Instagram أو النص الذي أدخلته.
+The top of Home shows %1$s. Tap to pick another.	تظهر %1$s أعلى الصفحة الرئيسية. اضغط لاختيار صورة أخرى.
+Header picture set.	تم تعيين صورة الشريط العلوي.
+Header picture removed.	تمت إزالة صورة الشريط العلوي.
+That isn't a picture.	هذا الملف ليس صورة.
+That picture is over %1$d MB.	يتجاوز حجم هذه الصورة %1$d ميغابايت.
+Couldn't save the picture.	تعذر حفظ الصورة.
+Open a chat, tap the clock button next to the call buttons at the top, or long press the chat's name, and pick Jump to the first message or Jump to a date. The chat loads its older messages on its own, with a count and a Cancel button.	افتح محادثة، ثم اضغط على زر الساعة بجوار أزرار الاتصال في الأعلى، أو اضغط مطولاً على اسم المحادثة، واختر «الانتقال إلى أول رسالة» أو «الانتقال إلى تاريخ محدد». سيحمّل التطبيق الرسائل الأقدم تلقائياً، مع عرض عدّاد وزر للإلغاء.
+Open a chat, tap the clock button next to the call buttons at the top, or long press the chat's name, and pick Export chat. The whole chat is saved as a text file in Downloads, HushGram folder, one line per message.	افتح محادثة، ثم اضغط على زر الساعة بجوار أزرار الاتصال في الأعلى، أو اضغط مطولاً على اسم المحادثة، واختر «تصدير المحادثة». تُحفظ المحادثة كاملة في ملف نصي داخل مجلد HushGram ضمن التنزيلات، مع تخصيص سطر لكل رسالة.
+Instagram stopped loading older messages.	توقف Instagram عن تحميل الرسائل الأقدم.
+Black settings page	صفحة إعدادات سوداء
+Black rows and dialogs, with HushGram's name at the top.	صفوف ومربعات حوار سوداء، مع ظهور اسم HushGram في الأعلى.
+Light settings page	صفحة إعدادات فاتحة
+White rows and dialogs, with HushGram's name at the top. Takes the place of Black settings page while it's on.	صفوف ومربعات حوار بيضاء، مع ظهور اسم HushGram في الأعلى. يحل هذا الخيار محل صفحة الإعدادات السوداء عند تفعيله.
+Mark as read	وضع علامة مقروء
+Nothing to mark as read	لا توجد عناصر لوضع علامة مقروء عليها
+Mark as read button in chats	زر وضع علامة مقروء في المحادثات
+A check mark shows at the top of a chat while it hasn't told the other person you've seen it. Tap it and they see Seen.	تظهر علامة صح أعلى المحادثة ما دام التطبيق لم يُبلغ الطرف الآخر بأنك شاهدتها. اضغط عليها لإظهار حالة «تمت المشاهدة» لديه.
+Choose Seen in each chat	تحديد حالة المشاهدة لكل محادثة
+An eye at the top of each chat holds or sends Seen in that chat alone, whatever Read messages without the seen receipt says. Changing it doesn't send anything by itself.	يتيح رمز العين أعلى كل محادثة حجب إشعار «تمت المشاهدة» أو إرساله في تلك المحادثة وحدها، بغض النظر عن إعداد قراءة الرسائل دون إشعار المشاهدة. لا يؤدي تغيير الخيار بحد ذاته إلى إرسال أي إشعار.
+Use the HushGram setting	استخدام إعداد HushGram
+Hold Seen in this chat	حجب إشعار المشاهدة في هذه المحادثة
+Send Seen in this chat	إرسال إشعار المشاهدة في هذه المحادثة
+Seen held in this chat	تم حجب إشعار المشاهدة في هذه المحادثة
+Seen goes out in this chat	سيتم إرسال إشعار المشاهدة في هذه المحادثة
+This chat uses the setting	تستخدم هذه المحادثة الإعداد العام
+Couldn't save the choice	تعذر حفظ الاختيار
+Red story mentions	إظهار إشارات القصص باللون الأحمر
+Draws the mention pill's text in red instead of white, so it stands out on bright stories.	يعرض نص شارة الإشارة باللون الأحمر بدلاً من الأبيض، ليكون أوضح في القصص الساطعة.
+Only received reels	مقاطع Reels المستلمة فقط
+Swiping through a chat's reels skips the ones you sent there, so it only goes through the reels the other person shared. Works with Swipe through a chat's reels on.	يتجاوز التمرير بين مقاطع Reels في المحادثة المقاطع التي أرسلتها، ليعرض فقط المقاطع التي شاركها الطرف الآخر. يتطلب تفعيل خيار التمرير بين مقاطع Reels في المحادثة.
+Messages after a reel	الرسائل بعد مقطع Reels
+While you swipe through a chat's reels, a banner says when the other person sent a message after the reel on screen. Tap it to go back to the chat at that message. Works with Swipe through a chat's reels on.	أثناء التمرير بين مقاطع Reels في المحادثة، يظهر شريط عندما يرسل الطرف الآخر رسالة بعد المقطع المعروض. اضغط عليه للعودة إلى المحادثة عند تلك الرسالة. يتطلب تفعيل خيار التمرير بين مقاطع Reels في المحادثة.
+New message after this reel	رسالة جديدة بعد هذا المقطع
+Hide the audio icon on posts	إخفاء رمز الصوت في المنشورات
+Takes the speaker icon off videos in your feed. Tapping the video still turns the sound on or off. Posts already on screen change when they load again.	يزيل رمز مكبر الصوت من الفيديوهات في موجزك. ويظل النقر على الفيديو يشغّل الصوت أو يوقفه. تتغير المنشورات الظاهرة بالفعل عند إعادة تحميلها.
+Hide the tag icon on posts	إخفاء رمز الإشارة في المنشورات
+Takes the little person icon off posts with people tagged in them. Tapping the photo still shows who's tagged.	يزيل رمز الشخص الصغير من المنشورات التي تمت الإشارة فيها إلى أشخاص. ويظل النقر على الصورة يعرض الأشخاص المشار إليهم.
+Light when paused	زيادة السطوع عند الإيقاف المؤقت
+Pause a reel and Burn-in guard brings the buttons back to full brightness until you play it again or swipe on. The wait then starts over.	أوقف مقطع Reels مؤقتاً، وستعيد ميزة الحماية من احتراق الشاشة الأزرار إلى سطوعها الكامل حتى تستأنف التشغيل أو تنتقل إلى المقطع التالي. وبعد ذلك يبدأ وقت الانتظار من جديد.
+Grow the heart	تكبير رمز القلب
+Double tap the same post again within a second and a half and the heart pops up bigger, up to nearly twice its size. A pause and it starts small again.	انقر مرتين على المنشور نفسه مجدداً خلال ثانية ونصف، ليظهر القلب بحجم أكبر يصل إلى قرابة ضعفي حجمه. وبعد التوقف يعود إلى حجمه الصغير.
+Instagram in pink	Instagram باللون الوردي
+Speed button on stories	زر سرعة التشغيل في القصص
+Puts a speed button at the top of a video story, beside the three dots. Tap it for 1.5x, again for 2x and once more for 1x. Later video stories keep the speed until you change it or restart Instagram. Ads play at normal speed.	يضيف زر سرعة أعلى قصة الفيديو بجوار النقاط الثلاث. اضغط عليه لاختيار 1.5x، واضغط مجدداً لاختيار 2x، ثم مرة أخرى للعودة إلى 1x. تحتفظ قصص الفيديو التالية بالسرعة المحددة حتى تغيّرها أو تعيد تشغيل Instagram. وتُشغّل الإعلانات بالسرعة العادية.
+Playback speed, %1$s	سرعة التشغيل، %1$s
+Where the mention pill goes	موضع شارة الإشارات
+Under the name, 1 mention	أسفل الاسم، إشارة واحدة
+Top bar, @1 mention	الشريط العلوي، إشارة @1
+Top bar, @1	الشريط العلوي، @1
+The pill sits under the story's name and reads like 1 mention. Its list opens over the story.	تظهر الشارة أسفل اسم القصة وتعرض مثلاً «إشارة واحدة». وتُفتح قائمتها فوق القصة.
+The pill sits in the top bar next to the menu and reads like @1 mention. Its list opens from the bottom of the screen.	تظهر الشارة في الشريط العلوي بجوار القائمة وتعرض مثلاً «إشارة @1». وتُفتح قائمتها من أسفل الشاشة.
+The pill sits in the top bar next to the menu and shows only the count, like @1. Its list opens from the bottom of the screen.	تظهر الشارة في الشريط العلوي بجوار القائمة، وتعرض العدد فقط مثل @1. وتُفتح قائمتها من أسفل الشاشة.
+Turn on See who a story mentions to use this choice.	فعّل خيار معرفة الأشخاص المشار إليهم في القصة لاستخدام هذا الإعداد.
+Story mentions	الإشارات في القصة
+Accounts mentioned in this story	الحسابات المشار إليها في هذه القصة
+Pill look	مظهر الشريط المستدير
+Seek bar look	مظهر شريط التقدم
+Double tap to skip on feed videos	النقر المزدوج للتخطي في فيديوهات الموجز
+Double tap the left side of the video playing in a feed to go back, or the right side to go ahead, as far as Skip length says. A double tap in the middle works as before.	انقر مرتين على الجانب الأيسر من الفيديو في الموجز للرجوع، أو على الجانب الأيمن للتقديم بمقدار مدة التخطي المحددة. ويظل النقر المزدوج في المنتصف يعمل كما كان.
+Skip length	مدة التخطي
+%1$d seconds	%1$d ثانية
+Solid	مصمت
+See-through	شبه شفاف
+Frosted glass	زجاج مصنفر
+A light pill with dark dots, as it's always been.	شريط فاتح بنقاط داكنة، كما كان دائماً.
+A see-through dark pill with white dots, so more of the photo shows.	شريط داكن شبه شفاف بنقاط بيضاء، لإظهار مساحة أكبر من الصورة.
+A frosted glass pill that blurs the photo under it. Before Android 12 it's see-through instead.	شريط من الزجاج المصنفر يضبب الصورة الموجودة تحته. في الإصدارات الأقدم من Android 12 يكون شبه شفاف بدلاً من ذلك.
+Turn on Page dots on a pill to use this choice.	فعّل خيار عرض نقاط الصفحات داخل شريط مستدير لاستخدام هذا الإعداد.
+Turn on Seek bar on feed videos or its button to use this choice.	فعّل شريط التقدم في فيديوهات الموجز أو زرّه لاستخدام هذا الإعداد.
+Turn on Seek bar on stories to use this choice.	فعّل شريط التقدم في القصص لاستخدام هذا الإعداد.
+A white bar and handle, as they've always been.	شريط أبيض ومقبض أبيض، كما كانا دائماً.
+A fainter bar and handle, so more of the video shows through.	شريط ومقبض أقل وضوحاً، لإظهار مساحة أكبر من الفيديو.
+A white bar on a strip of frosted glass that blurs the video under it. Before Android 12 the strip is see-through instead.	شريط أبيض على خلفية من الزجاج المصنفر تضبب الفيديو الموجود تحته. قبل Android 12 تكون الخلفية شبه شفافة بدلاً من ذلك.
+Don't report Blend visits	عدم الإبلاغ عن زيارات Blend
+Opening a Blend doesn't tell the chat it belongs to that you visited it. The Blend and its reels open as usual.	لا يؤدي فتح Blend إلى إبلاغ المحادثة المرتبطة به بأنك زرته. ويظل Blend ومقاطع Reels الخاصة به يفتحان كالمعتاد.
+Hide activity bubbles	إخفاء فقاعات النشاط
+Phone layout on big screens	تخطيط الهاتف على الشاشات الكبيرة
+On a foldable or tablet, Instagram keeps its phone layout across the whole screen, with the tab bar at the bottom instead of down the side. Restart Instagram to see the change.	على الهواتف القابلة للطي أو الأجهزة اللوحية، يحتفظ Instagram بتخطيط الهاتف على كامل الشاشة، مع وضع شريط علامات التبويب في الأسفل بدلاً من الجانب. أعد تشغيل Instagram لتطبيق التغيير.
+No	لا
