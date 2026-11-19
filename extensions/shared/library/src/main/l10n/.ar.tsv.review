@@ -257,4 +257,133 @@ Everywhere but Explore	في كل مكان باستثناء «استكشاف»
 Only in Explore	في «استكشاف» فقط
 # context: 'Where videos wait' choice that holds reels and videos in the Explore tab (#762)
 Reels and Explore	Reels و«استكشاف»
-# context: 'Where videos wait' choice that holds feed videos and stories but lets reels and the Explore tab play (#762)
+# context: 'Where videos wait' choice that holds feed videos and stories but lets reels and the Explore tab play (#762)Everywhere but Reels and Explore	في كل مكان باستثناء Reels و«استكشاف»
+# context: summary of 'Everywhere but Explore' (#762)
+Feed videos, reels and stories wait for your tap. Videos in Explore play as Instagram plays them.	تنتظر فيديوهات الموجز ومقاطع Reels والقصص نقرك. أما فيديوهات «استكشاف» فتعمل كالمعتاد في Instagram.
+# context: summary of 'Only in Explore' (#762)
+Videos in Explore wait for your tap. Feed videos, reels and stories play as Instagram plays them.	تنتظر فيديوهات «استكشاف» نقرك. أما فيديوهات الموجز ومقاطع Reels والقصص فتعمل كالمعتاد في Instagram.
+# context: summary of 'Reels and Explore' (#762)
+Reels and videos in Explore wait for your tap. Feed videos and stories play as Instagram plays them.	تنتظر مقاطع Reels وفيديوهات «استكشاف» نقرك. أما فيديوهات الموجز والقصص فتعمل كالمعتاد في Instagram.
+# context: summary of 'Everywhere but Reels and Explore' (#762)
+Feed videos and stories wait for your tap. Reels and videos in Explore play as Instagram plays them.	تنتظر فيديوهات الموجز والقصص نقرك. أما مقاطع Reels وفيديوهات «استكشاف» فتعمل كالمعتاد في Instagram.
+Turn on Tap to play to use this choice.	فعّل خيار «اضغط للتشغيل» لاستخدام هذا الإعداد.
+Resume long videos	استئناف الفيديوهات الطويلة
+Videos and reels over two minutes pick up where you left off. Seek to start elsewhere. Live videos and ads start as usual.	تُستأنف الفيديوهات ومقاطع Reels التي تزيد مدتها على دقيقتين من الموضع الذي توقفت عنده. حرّك شريط التقدم للبدء من موضع آخر. تبدأ فيديوهات البث المباشر والإعلانات كالمعتاد.
+Default playback quality	جودة التشغيل الافتراضية
+# context: description of the Default playback quality switch on the Playback page, with the list of qualities below it
+Videos, reels and stories play at the quality below, starting with the next one you open.	تُشغّل الفيديوهات ومقاطع Reels والقصص بالجودة المحددة أدناه، بدءاً من المحتوى التالي الذي تفتحه.
+# context: title of a switch under Default playback quality on the Playback page. On, a video that keeps stalling because the connection is too slow for its quality switches to the next lower quality that video offers (#599); off, it keeps the quality picked (#761)
+Drop quality to keep playing	خفض الجودة لمواصلة التشغيل
+# context: description of the Drop quality to keep playing switch
+When your connection can't keep up, a video drops to the next lower quality instead of stalling. Turn this off to keep the quality you picked.	عندما لا تكون سرعة اتصالك كافية، ينتقل الفيديو إلى الجودة الأقل التالية بدلاً من التوقف مؤقتاً. عطّل هذا الخيار للاحتفاظ بالجودة التي اخترتها.
+Playback quality	جودة التشغيل
+Auto	تلقائي
+Data saver	توفير البيانات
+Up to %1$s	حتى %1$s
+Highest	الأعلى
+Instagram picks the quality as each video plays, from your connection.	يختار Instagram جودة كل فيديو أثناء تشغيله وفقاً لسرعة اتصالك.
+Videos play at the lowest quality Instagram offers for each.	تُشغّل الفيديوهات بأقل جودة يوفرها Instagram لكل منها.
+Videos play at the best quality up to %1$s that Instagram offers for each, or the closest above.	تُشغّل الفيديوهات بأفضل جودة لا تتجاوز %1$s يوفرها Instagram لكل منها، أو بأقرب جودة أعلى منها.
+Videos play at the highest quality Instagram offers for each.	تُشغّل الفيديوهات بأعلى جودة يوفرها Instagram لكل منها.
+View stories anonymously	مشاهدة القصص دون الكشف عن الهوية
+Instagram isn't told which stories you watch, so you stay off their viewer lists. Replying or reacting still shows you, and stories you've watched keep showing as new.	لا يعرف Instagram القصص التي تشاهدها، لذلك لن يظهر اسمك في قوائم المشاهدين. لكن الرد أو التفاعل سيُظهر هويتك، وستظل القصص التي شاهدتها تظهر على أنها جديدة.
+Advertising ID removed	إزالة معرّف الإعلانات
+Instagram can't read your phone's advertising ID or tell Android's ad services which ads you saw or tapped. The permissions for them are gone from this build.	لن يتمكن Instagram من قراءة معرّف الإعلانات في هاتفك أو إبلاغ خدمات الإعلانات في Android بالإعلانات التي شاهدتها أو نقرت عليها. أُزيلت الأذونات اللازمة لذلك من هذا الإصدار.
+the removed advertising ID permissions	أذونات معرّف الإعلانات التي أُزيلت
+Turn off double tap to like	إيقاف الإعجاب بالنقر المزدوج
+A double tap on a post or reel no longer likes it or shows a heart. A single tap and the Like button work as before.	لن يؤدي النقر المزدوج على منشور أو مقطع Reels إلى تسجيل إعجاب أو إظهار قلب. يظل النقر مرة واحدة وزر الإعجاب يعملان كالمعتاد.
+On posts	على المنشورات
+A double tap on a post doesn't like it. Turn this off to keep double tap to like on posts.	لن يؤدي النقر المزدوج على منشور إلى تسجيل إعجاب. عطّل هذا الخيار للإبقاء على الإعجاب بالمنشورات عبر النقر المزدوج.
+On reels	على مقاطع Reels
+A double tap on a reel doesn't like it. Turn this off to keep double tap to like on reels.	لن يؤدي النقر المزدوج على مقطع Reels إلى تسجيل إعجاب. عطّل هذا الخيار للإبقاء على الإعجاب بمقاطع Reels عبر النقر المزدوج.
+Hide the Reels tab	إخفاء علامة تبويب Reels
+يزيل Reels من شريط علامات التبويب. تظل مقاطع Reels في موجزك والمقاطع التي يرسلها إليك الآخرون قابلة للفتح. أعد تشغيل Instagram لرؤية التغيير.
+Show the Reels tab	إظهار علامة تبويب Reels
+يعيد Reels إلى شريط علامات التبويب إذا كان Instagram قد أزاله منه. تكون الأولوية لخيار إخفاء علامة تبويب Reels إذا كان الخياران مفعّلين. أعد تشغيل Instagram لرؤية التغيير.
+Show the Messages tab	إظهار علامة تبويب الرسائل
+يضيف «الرسائل» إلى شريط علامات التبويب قبل «الملف الشخصي» إذا كان Instagram قد أزاله. يمكنك تغيير موضعه باستخدام ترتيب علامات التبويب. أعد تشغيل Instagram لرؤية التغيير.
+Hide the Messages tab	إخفاء علامة تبويب الرسائل
+يزيل زر «الرسائل» من شريط علامات التبويب. يظل زر الرسائل أعلى الصفحة الرئيسية يفتح محادثاتك، وكذلك الإشعارات.
+Show the Activity tab	إظهار علامة تبويب النشاط
+يضيف «النشاط»، وهي الشاشة التي يفتحها رمز القلب، إلى شريط علامات التبويب قبل «الملف الشخصي». يمكنك تغيير موضعه باستخدام ترتيب علامات التبويب، كما أن إخفاء الإشعارات أعلى الصفحة الرئيسية يزيل رمز القلب. أعد تشغيل Instagram لرؤية التغيير.
+Keep the reel speed	الاحتفاظ بسرعة مقطع Reels
+Keep a seek bar	إبقاء شريط التقدم ظاهراً
+يظل شريط التقدم الخاص بـ Instagram ظاهراً أسفل كل مقطع Reels، حتى المقاطع القصيرة، مع عرض وقت التشغيل ومدة المقطع فوقه. وتظل الإعلانات خاضعة لقواعد Instagram الأصلية.
+Keep auto scroll on	إبقاء التمرير التلقائي مفعّلاً
+بعد تفعيل التمرير التلقائي في Reels من Instagram، يظل مفعّلاً بعد إعادة التشغيل أو مغادرة Reels حتى تقوم بإيقافه.
+Move on when a reel ends	الانتقال عند انتهاء مقطع Reels
+عند انتهاء مقطع Reels، ينتقل التطبيق إلى المقطع التالي بدلاً من إعادة تشغيله. يستخدم ذلك ميزة التمرير التلقائي الأصلية في Instagram، حتى للحسابات التي لا يوفر Instagram هذه الميزة لها. أثناء تفعيل هذا الخيار، لن يتمكن مفتاح التمرير التلقائي في Instagram من إيقافها. أعد تشغيل Instagram لرؤية التغيير.
+Stop Reels scrolling	إيقاف التمرير بين مقاطع Reels
+# context: Reels page, the three switches under Stop Reels scrolling. They name that switch by its label, and each lets one kind of viewer keep scrolling.
+Still scroll reels from a profile	السماح بمواصلة التمرير في Reels من ملف شخصي
+عند تفعيل خيار إيقاف التمرير بين مقاطع Reels، تظل المقاطع التي تفتحها من ملف شخصي تنتقل إلى التالية عند التمرير.
+Still scroll reels from Search and Explore	السماح بمواصلة التمرير في Reels من البحث و«استكشاف»
+عند تفعيل خيار إيقاف التمرير بين مقاطع Reels، تظل المقاطع التي تفتحها من البحث أو «استكشاف» أو وسم أو موقع تنتقل إلى التالية عند التمرير.
+Still scroll reels from a song page	السماح بمواصلة التمرير في Reels من صفحة أغنية
+عند تفعيل خيار إيقاف التمرير بين مقاطع Reels، تظل المقاطع التي تفتحها من صفحة أغنية أو صفحة صوت تنتقل إلى التالية عند التمرير.
+# context: Reels page, a switch of its own after the three above (#656). It names the Messages page switch Swipe through a chat's reels by its label.
+Play only the reel you opened	تشغيل مقطع Reels الذي فتحته فقط
+يعمل مقطع Reels الذي تفتحه من منشور على الصفحة الرئيسية أو من صف المقاطع المقترحة أو من رسالة بشكل مستقل. لن يؤدي التمرير أو السحب لأسفل أو التمرير التلقائي إلى الانتقال إلى مقطع آخر، لذا سيُعاد تشغيله عند انتهائه. يظل التمرير في علامة تبويب Reels كالمعتاد. وإذا كان خيار التمرير بين مقاطع Reels في المحادثة مفعّلاً، فستظل مقاطع المحادثة قابلة للتمرير.
+لن يؤدي التمرير في Reels إلى الانتقال إلى المقطع التالي، كما لن يؤدي السحب لأسفل إلى تحميل مقاطع جديدة. يظل المقطع الذي فتحته قيد التشغيل. أعد تشغيل Instagram لرؤية التغيير.
+Lock a reel at 2x (hold its edge, then slide down) and the next reels play at 2x too. Slide the lock off, or hold the edge and let go, to go back to normal speed.	اقفل سرعة مقطع Reels عند 2x (اضغط مطولاً على حافته ثم اسحب إلى أسفل)، وستعمل المقاطع التالية بالسرعة 2x أيضاً. اسحب القفل لإزالته، أو اضغط مطولاً على الحافة ثم ارفع إصبعك، للعودة إلى السرعة العادية.
+Open links in external browser	فتح الروابط في متصفح خارجي
+تُفتح روابط الويب التي تنقر عليها في متصفحك المعتاد دون أداة تتبع النقرات في Instagram. وتظل الإعلانات ومواقع Meta نفسها (Instagram وFacebook وMessenger وThreads) تُفتح داخل التطبيق.
+Feed	الموجز
+Hide suggested accounts	إخفاء الحسابات المقترحة
+Hide paid partnership Reels	إخفاء مقاطع Reels ذات الشراكة المدفوعة
+يخفي الصفوف التي تضم الحسابات والمتاجر والوسوم التي يقترح Instagram عليك متابعتها.
+Hide suggested posts	إخفاء المنشورات المقترحة
+يخفي المنشورات ومقاطع Reels من الحسابات التي لا تتابعها والموسومة بعبارة «مقترح لك». وتظل منشورات الحسابات التي تتابعها ظاهرة.
+Hide Threads posts	إخفاء منشورات Threads
+يخفي المنشورات والحسابات والمجتمعات من Threads التي يدرجها Instagram في موجزك.
+Stop swipe to create	إيقاف السحب لفتح الكاميرا
+Full resolution photos	الصور بالدقة الكاملة
+يحمّل الصور في موجزك والدوارات والمنشورات المفتوحة بأكبر حجم يوفره Instagram. قد يؤدي ذلك إلى استهلاك مزيد من البيانات.
+لم تعد حركة السحب الجانبي على الصفحة الرئيسية تفتح الكاميرا. يظل زر + وجميع الطرق الأخرى لفتح الكاميرا تعمل كالمعتاد.
+Swipe left for Messages	اسحب إلى اليسار لفتح الرسائل
+يؤدي السحب إلى اليسار على الصفحة الرئيسية إلى فتح الرسائل، كما كان في إصدارات Instagram السابقة. وتظل الدوارات وصف القصص قابلة للتمرير كالمعتاد.
+Meta AI	Meta AI
+Hide Meta AI in search and Home's bar	إخفاء Meta AI في البحث والشريط أعلى الصفحة الرئيسية
+يعرض شريط بحث بسيطاً في البحث والرسائل، ويزيل أزرار Meta AI وشريط المتابعة وصفّ صندوق الوارد الخاص به. أعد تشغيل Instagram لرؤية التغيير.
+Hide Meta AI posts	إخفاء منشورات Meta AI
+يخفي فيديوهات Meta AI ومحادثاته وصوره لك التي يضعها Instagram في موجز الصفحة الرئيسية.
+Hide About this reel	إخفاء «حول مقطع Reels هذا»
+يزيل الملخص والمصادر ومربع «اسأل Meta AI» من قائمة المزيد في مقطع Reels. ويزيل أيضاً صف الصوت من موجزك. وتظل الخيارات الأخرى متاحة.
+Hide Ask Meta AI in About this reel	إخفاء «اسأل Meta AI» ضمن «حول مقطع Reels هذا»
+يحتفظ قسم «حول مقطع Reels هذا» بالملخص والمصادر، ويزيل مربع «اسأل Meta AI» الموجود أسفله فقط.
+Hide Meta AI in the share sheet	إخفاء Meta AI من قائمة المشاركة
+يزيل Meta AI من الصف الموجود أسفل نافذة المشاركة. وقد يظهر باسم Muse لدى بعض الحسابات.
+Hide the Muse card	إخفاء بطاقة Muse
+يزيل بطاقة «Meet Muse» التي تتضمن زر «Try Muse» من الصفحة الرئيسية وملفك الشخصي. وتظل بطاقاتك الأخرى ظاهرة.
+Hide the Muse button on your profile	إخفاء زر Muse في ملفك الشخصي
+يزيل زر Muse من الشريط العلوي في ملفك الشخصي. ويظل اسم المستخدم والقائمة ظاهرين.
+Hide Blend on reels	إخفاء Blend في Reels
+يزيل زر الدعوة إلى Blend من مقاطع Reels. وتظل جميع العناصر الأخرى في المقطع ظاهرة.
+Explore	استكشاف
+Hide the Explore grid	إخفاء شبكة «استكشاف»
+يخفي شبكة المنشورات ومقاطع Reels أسفل شريط علامة تبويب البحث. وتظل عمليات البحث وعمليات البحث الأخيرة والنتائج متاحة.
+Hide suggested accounts in search	إخفاء الحسابات المقترحة في البحث
+يستبعد الحسابات المقترحة لك من النتائج التي تظهر عند النقر على شريط البحث. وتظل عمليات البحث الأخيرة ظاهرة.
+# context: You may also like is the header Instagram's server puts on the recommended posts after search results; it isn't a fixed string in the app, so the rows describe it.
+Hide You may also like in search	إخفاء قسم «قد يعجبك أيضاً» في البحث
+يخفي المنشورات التي يضيفها Instagram كتوصيات أسفل نتائج البحث. وتظل نتائج البحث التي طلبتها ظاهرة.
+Messages	الرسائل
+Hide the notes row	إخفاء صف الملاحظات
+يزيل صف الملاحظات أعلى الرسائل، بما في ذلك فقاعة الخريطة الموجودة فيه. وتظل محادثاتك والبحث والطلبات متاحة.
+Hide the search bar in Messages	إخفاء شريط البحث في الرسائل
+يزيل شريط البحث وزر التصفية أعلى الرسائل، بما في ذلك شريط Meta AI. وتظل محادثاتك وملاحظاتك وطلباتك متاحة.
+Hide Instants	إخفاء Instants
+يزيل مجموعة Instants (الصور السريعة من الأصدقاء) من رسائلك. أعد تشغيل Instagram لرؤية التغيير.
+Read messages without the seen receipt	قراءة الرسائل دون إرسال إشعار المشاهدة
+عند فتح محادثة، لن يعرف الآخرون أنك شاهدت رسائلهم، وستظل ترى متى يشاهدون رسائلك. لإبلاغ محادثة واحدة، اضغط مطولاً عليها في الرسائل ثم اختر «وضع علامة كمقروءة».
+Keep chats unread here	إبقاء المحادثات غير مقروءة هنا
+تظل المحادثة التي تفتحها غير مقروءة في الرسائل على هذا الهاتف حتى تضغط عليها مطولاً وتختار «وضع علامة كمقروءة». وتظل الرسالة الأحدث فيها غير مقروءة أيضاً. عند إيقاف هذا الخيار، تظل المحادثة التي تفتحها مقروءة على هذا الهاتف حتى تصل رسالة أحدث، حتى بعد تحديث الرسائل.
+# context: the toasts after tapping Mark as read on a chat's long press while seen receipts are held
+Marked as read	تم وضع علامة «مقروءة»
+Couldn't mark as read	تعذر وضع علامة «مقروءة»
+Hide that you're typing	إخفاء مؤشر الكتابة
+لن يرى الأشخاص الذين تتحدث معهم نقاط الكتابة أثناء كتابتك، بينما ستظل ترى نقاطهم.
+Hide your active status	إخفاء حالة النشاط
+لن يرى الآخرون أنك نشط الآن أثناء استخدام Instagram، وستظل ترى متى يكونون نشطين. يبدأ تطبيق هذا التغيير عند عودتك إلى Instagram في المرة التالية.
+Start Home on Following	فتح الصفحة الرئيسية على «المتابَعون»
+يفتح الصفحة الرئيسية على منشورات الحسابات التي تتابعها بدلاً من قسم «لك». اضغط أعلى الصفحة الرئيسية للتبديل. أعد تشغيل Instagram لرؤية التغيير.
