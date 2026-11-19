@@ -1209,3 +1209,42 @@ A paused reel shows just its frame, without the big pause icon and the sound but
 Keep clear mode on	إبقاء الوضع الواضح مفعّلاً
 Turn on Instagram's clear mode on a reel and the next reels open in it too. Leave clear mode yourself and the next reels show their buttons again.	فعّل الوضع الواضح في Instagram على أحد مقاطع Reels، وستُفتح المقاطع التالية به أيضاً. أوقف الوضع الواضح بنفسك لتظهر أزرار المقاطع التالية مجدداً.
 Start every reel in clear mode	بدء كل مقطع Reels بالوضع الواضح
+Reels open in clear mode from the first one, with no tap. Leave it yourself and the next reels show their buttons again. Instagram blocks screenshots in clear mode unless Allow screenshots is on.	تُفتح مقاطع Reels بالوضع الواضح منذ المقطع الأول دون الحاجة إلى النقر. إذا أوقفت الوضع الواضح بنفسك، فستظهر أزرار المقاطع التالية مجدداً. يمنع Instagram التقاط لقطات الشاشة في الوضع الواضح ما لم يكن خيار السماح بلقطات الشاشة مفعّلاً.
+Don't vibrate in clear mode	إيقاف الاهتزاز في الوضع الواضح
+Stops the short buzz Instagram plays when a reel opens in clear mode. With Keep clear mode on, that's every swipe.	يوقف الاهتزاز القصير الذي يصدره Instagram عند فتح مقطع Reels بالوضع الواضح. وعند تفعيل خيار إبقاء الوضع الواضح، يحدث ذلك مع كل عملية سحب.
+Always show seek bar in clear mode	إظهار شريط التقدم دائماً في الوضع الواضح
+Keeps the seek bar on a reel in clear mode, and you can still drag it, while the other buttons stay hidden. Short reels get a bar too, in clear mode or not.	يُبقي شريط التقدم ظاهراً على مقطع Reels في الوضع الواضح، مع إمكانية سحبه، بينما تظل الأزرار الأخرى مخفية. ويظهر الشريط أيضاً في المقاطع القصيرة، سواء كان الوضع الواضح مفعّلاً أم لا.
+Unlock with	إلغاء القفل باستخدام
+Phone lock	قفل الهاتف
+HushGram PIN	رمز PIN الخاص بـ HushGram
+A PIN you set here unlocks your messages, in place of your screen lock. It can't be recovered, only cleared by clearing Instagram's storage.	يُستخدم رمز PIN الذي تحدده هنا لإلغاء قفل رسائلك بدلاً من قفل شاشة الهاتف. لا يمكن استعادته، ويمكن حذفه فقط بمسح مساحة تخزين Instagram.
+Your fingerprint, face or screen lock unlocks your messages.	يُستخدم بصمة إصبعك أو وجهك أو قفل شاشة الهاتف لإلغاء قفل رسائلك.
+Fingerprint or face only	بصمة الإصبع أو الوجه فقط
+Only your fingerprint or face unlocks your messages. If the phone has none set up, your screen lock does.	لا يُستخدم لإلغاء قفل رسائلك سوى بصمة إصبعك أو وجهك. إذا لم يكن أي منهما معدّاً على الهاتف، فسيُستخدم قفل الشاشة.
+Add a fingerprint or face in your phone's settings first.	أضف بصمة إصبع أو إعداداً للتعرّف على الوجه من إعدادات الهاتف أولاً.
+This phone has no fingerprint or face unlock to use.	لا يتوفر في هذا الهاتف خيار إلغاء القفل ببصمة الإصبع أو الوجه.
+Your phone won't let HushGram use your fingerprint or face right now. Check its fingerprint and face settings.	لا يسمح هاتفك لـ HushGram باستخدام بصمة إصبعك أو وجهك حالياً. تحقق من إعدادات بصمة الإصبع والتعرّف على الوجه.
+Set or change the 4 to 8 digit PIN. It stays on this phone and isn't in a backup.	أنشئ رمز PIN مكوّناً من 4 إلى 8 أرقام أو غيّره. يُحفظ على هذا الهاتف ولا يُضمّن في النسخ الاحتياطية.
+PIN saved.	تم حفظ رمز PIN.
+PIN	رمز PIN
+Enter your PIN	أدخل رمز PIN
+Forgot PIN?	هل نسيت رمز PIN؟
+Wrong PIN. Try again.	رمز PIN غير صحيح. حاول مرة أخرى.
+Too many tries. Wait %1$d seconds.	محاولات كثيرة جداً. انتظر %1$d ثانية.
+New PIN	رمز PIN جديد
+Confirm PIN	تأكيد رمز PIN
+Set a PIN	تعيين رمز PIN
+Use 4 to 8 digits.	استخدم من 4 إلى 8 أرقام.
+The PINs don't match.	رمزا PIN غير متطابقين.
+Couldn't save the PIN.	تعذر حفظ رمز PIN.
+Open app info	فتح معلومات التطبيق
+Hide 'Are you interested?' bubbles	إخفاء فقاعات «هل يهمك هذا المنشور؟»
+Show when someone was last active	إظهار وقت آخر نشاط للشخص
+Active at %1$s	نشط الساعة %1$s
+Active yesterday at %1$s	نشط أمس الساعة %1$s
+Active %1$s at %2$s	نشط في %1$s الساعة %2$s
+Shorter Active now	تقليل مدة ظهور «نشط الآن»
+Rounded corners on posts	تدوير زوايا المنشورات
+Corner size	حجم الزوايا
+Rounded corners on Reels	تدوير زوايا مقاطع Reels
+Rounded corners on stories	تدوير زوايا القصص
