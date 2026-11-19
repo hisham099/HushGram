@@ -939,3 +939,94 @@ Puts a download icon under Save beside a reel, so one tap saves it the way Downl
 Ask what to save	السؤال عما تريد حفظه
 A tap on the download icon beside a reel lets you pick the reel, its cover or its sound, whichever it has.	يتيح الضغط على أيقونة التنزيل بجوار مقطع Reels اختيار المقطع أو غلافه أو صوته، بحسب المحتوى المتاح.
 Nothing to download on this post	لا يوجد ما يمكن تنزيله في هذا المنشور
+Takes the Suggested people off the New message and new group screens. Search still finds anyone.	يزيل الأشخاص المقترحين من شاشتي «رسالة جديدة» و«مجموعة جديدة». وتظل وظيفة البحث قادرة على العثور على الجميع.
+A light tick each time the highlight slides past a tab, so it follows the bar as you tap or swipe between screens.	يصدر اهتزازاً خفيفاً كلما تجاوز التحديد علامة تبويب، ليتزامن مع الشريط أثناء التنقل بين الشاشات بالنقر أو السحب.
+Blur behind the tab bar	تمويه ما خلف شريط علامات التبويب
+Blurs what's behind the pill on Android 12 and newer. Off, the pill is a frosted tint.	يموّه ما يظهر خلف الشريط ذي الشكل البيضاوي على Android 12 والإصدارات الأحدث. عند إيقافه، يظهر الشريط بلون زجاجي ضبابي.
+Slide across the tabs	التنقل بين علامات التبويب بالسحب
+Put a finger on the tab bar and slide it sideways. A highlight follows your finger, and letting go opens the tab under it. Taps and long presses on a tab work as before. It works with or without Glass tab bar. Restart Instagram after changing it.	ضع إصبعك على شريط علامات التبويب واسحبه جانبياً. يتبع التحديد إصبعك، وعند رفعه تُفتح علامة التبويب الموجودة تحته. يظل النقر والضغط المطول على علامة التبويب يعملان كالمعتاد. تعمل الميزة سواء كان شريط علامات التبويب الزجاجي مفعّلاً أم لا. أعد تشغيل Instagram بعد تغيير الإعداد.
+Liquid glass look	مظهر الزجاج السائل
+Rounds the pill and its highlight and puts Search in a glass circle of its own. Scrolling a list down shrinks the bar to the tab you're on and Search, unless Hide the tab bar as you scroll is on. Restart Instagram after changing it.	يجعل الشريط وتحديده مستديرين، ويضع البحث داخل دائرة زجاجية مستقلة. عند التمرير إلى أسفل قائمة، ينكمش الشريط ليعرض علامة التبويب الحالية والبحث، ما لم يكن خيار إخفاء شريط علامات التبويب أثناء التمرير مفعّلاً. أعد تشغيل Instagram بعد تغيير الإعداد.
+Draws Instagram's tab bar as a floating, rounded glass pill with a highlight on the tab you're on. Restart Instagram after changing it.	يعرض شريط علامات التبويب في Instagram كشريط زجاجي عائم ومستدير، مع تمييز علامة التبويب الحالية. أعد تشغيل Instagram بعد تغيير الإعداد.
+Glass tab bar	شريط علامات التبويب الزجاجي
+Haptics on the tab bar	الاهتزاز عند استخدام شريط علامات التبويب
+Home, Reels and the other tabs run down behind the pill, so the glass has real content to blur.	تستمر الصفحة الرئيسية وReels وعلامات التبويب الأخرى خلف الشريط، ليظهر محتوى فعلي يمكن للزجاج تمويهه.
+Show content behind the tab bar	إظهار المحتوى خلف شريط علامات التبويب
+Run Reels behind the tab bar	تشغيل Reels خلف شريط علامات التبويب
+The Reels video fills the screen behind the pill. Its caption, buttons and seek bar sit just above the pill.	يملأ فيديو Reels الشاشة خلف الشريط. ويظهر الوصف والأزرار وشريط التقدم فوق الشريط مباشرة.
+Tab bar	شريط علامات التبويب
+Saved	المحفوظات
+Saved tab on your profile	علامة تبويب المحفوظات في ملفك الشخصي
+Adds a bookmark to the tabs on your own profile that opens Saved. Restart Instagram after changing it.	يضيف علامة مرجعية إلى علامات التبويب في ملفك الشخصي تفتح المحفوظات. أعد تشغيل Instagram بعد تغيير الإعداد.
+Fast scroll in Saved	التمرير السريع في المحفوظات
+Shows a handle at the right edge of Saved and your collections while they scroll. Drag it to jump through them.	يعرض مقبضاً على الحافة اليمنى للمحفوظات ومجموعاتك أثناء التمرير. اسحبه للتنقل سريعاً بينها.
+Hide the New collection button	إخفاء زر «مجموعة جديدة»
+Takes the + for a new collection off the top of Saved. Your collections stay.	يزيل علامة + الخاصة بإنشاء مجموعة جديدة من أعلى المحفوظات. وتظل مجموعاتك موجودة.
+Battery	البطارية
+Stop the background heartbeat	إيقاف نبضات النشاط في الخلفية
+Instagram wakes your phone every minute or two, screen off included, only to note that it is still running. This stops that. Messages, notifications and everything you see are unaffected.	يوقظ Instagram هاتفك كل دقيقة أو دقيقتين، حتى عندما تكون الشاشة مطفأة، لمجرد تسجيل أنه لا يزال يعمل. يوقف هذا الخيار ذلك. ولا يؤثر في الرسائل أو الإشعارات أو أي محتوى تراه.
+Stop the analytics upload alarm	إيقاف منبّه إرسال بيانات التحليلات
+Instagram sets an alarm to wake your phone and send its usage events five minutes later. This stops that alarm. The events go the next time you use the app.	يضبط Instagram منبهاً لإيقاظ هاتفك وإرسال أحداث الاستخدام بعد خمس دقائق. يوقف هذا الخيار المنبه، وتُرسل الأحداث في المرة التالية التي تستخدم فيها التطبيق.
+Stop background feed refresh	إيقاف تحديث الموجز في الخلفية
+About every half hour, Instagram wakes your phone to download your feed ahead of time. This stops that. The feed loads when you open the app instead, and messages and notifications still arrive.	يوقظ Instagram هاتفك كل نصف ساعة تقريباً لتنزيل الموجز مسبقاً. يوقف هذا الخيار ذلك، ويُحمّل الموجز عند فتح التطبيق بدلاً من ذلك، بينما تستمر الرسائل والإشعارات في الوصول.
+Haptic style	نمط الاهتزاز
+Short tick	اهتزاز قصير
+System tick	اهتزاز النظام
+Soft tick	اهتزاز ناعم
+Full tick	اهتزاز قوي
+This chat is locked	هذه المحادثة مقفلة
+Unlock this chat	إلغاء قفل هذه المحادثة
+Locked chats	المحادثات المقفلة
+Lock single chats. A locked chat opens only once you unlock it the way Unlock with says, and its notifications say only that a message came.	اقفل محادثات محددة. لا تُفتح المحادثة المقفلة إلا بعد إلغاء قفلها بالطريقة المحددة في خيار «إلغاء القفل باستخدام»، ولا تذكر إشعاراتها سوى وصول رسالة.
+Open a chat in Instagram, then come back here to lock it.	افتح محادثة في Instagram، ثم عُد إلى هنا لقفلها.
+This collection is locked	هذه المجموعة مقفلة
+Unlock this collection	إلغاء قفل هذه المجموعة
+Locked collections	المجموعات المقفلة
+Lock single collections in Saved. A locked collection opens only once you unlock it the way Unlock with says. Saving a post to it never asks.	اقفل مجموعات محددة في المحفوظات. لا تُفتح المجموعة المقفلة إلا بعد إلغاء قفلها بالطريقة المحددة في خيار «إلغاء القفل باستخدام». ولا يُطلب التأكيد عند حفظ منشور فيها.
+Open a collection in Saved, then come back here to lock it.	افتح مجموعة في المحفوظات، ثم عُد إلى هنا لقفلها.
+%1$s (opened last)	%1$s (آخر ما فُتح)
+%1$s is locked	تم قفل %1$s
+%1$s is unlocked	تم إلغاء قفل %1$s
+Chat %1$s	المحادثة %1$s
+Hidden chats	المحادثات المخفية
+Hide single chats. A hidden chat leaves your inbox and its notifications don't post until you show it here again.	أخفِ محادثات محددة. تختفي المحادثة المخفية من صندوق الوارد، ولا تظهر إشعاراتها حتى تعيد إظهارها من هنا.
+Double-tap Messages for hidden chats	انقر نقراً مزدوجاً على الرسائل لعرض المحادثات المخفية
+Two quick taps on the Messages button, on the tab bar or at the top of Home, show your hidden chats in your inbox after your screen lock or PIN. Two more taps hide them again. Long press a chat to hide or unhide it. One tap opens Messages as usual.	يؤدي النقر مرتين بسرعة على زر الرسائل في شريط علامات التبويب أو أعلى الصفحة الرئيسية إلى إظهار محادثاتك المخفية في صندوق الوارد بعد التحقق بقفل الشاشة أو رمز PIN. ويؤدي النقر مرتين مجدداً إلى إخفائها. اضغط مطولاً على محادثة لإخفائها أو إظهارها. أما النقرة الواحدة فتفتح الرسائل كالمعتاد.
+Hide chat	إخفاء المحادثة
+Unhide chat	إظهار المحادثة
+Showing your hidden chats	جارٍ إظهار محادثاتك المخفية
+Hidden chats locked again	تم قفل المحادثات المخفية مجدداً
+Open a chat in Instagram, then come back here to hide it.	افتح محادثة في Instagram، ثم عُد إلى هنا لإخفائها.
+Pinned chats	المحادثات المثبتة
+Keeps the chats you pick at the top of your inbox. The pins stay on this phone, and Instagram's own order holds for every other chat.	يبقي المحادثات التي تختارها أعلى صندوق الوارد. تظل المحادثات المثبتة على هذا الهاتف، بينما يحتفظ Instagram بترتيبه الأصلي لبقية المحادثات.
+Open a chat in Instagram, then come back here to pin it.	افتح محادثة في Instagram، ثم عُد إلى هنا لتثبيتها.
+%1$s is pinned	تم تثبيت %1$s
+%1$s is unpinned	تم إلغاء تثبيت %1$s
+%1$s is hidden	تم إخفاء %1$s
+%1$s is shown again	تم إظهار %1$s مجدداً
+Pick the playback quality with a tab long press	اختيار جودة التشغيل بالضغط المطول على علامة تبويب
+Tab long presses keep Instagram's own action. Choose one to pick the playback quality instead.	يحتفظ الضغط المطول على علامات التبويب بإجراء Instagram الأصلي. اختر علامة تبويب لاختيار جودة التشغيل بدلاً من ذلك.
+Long press %1$s to pick the playback quality instead of that tab's usual action. Normal taps and other tabs stay the same. Needs Default playback quality on. If the same tab opens HushGram, that comes first.	اضغط مطولاً على %1$s لاختيار جودة التشغيل بدلاً من الإجراء المعتاد لعلامة التبويب. تظل النقرات العادية وعلامات التبويب الأخرى كما هي. يتطلب ذلك تفعيل جودة التشغيل الافتراضية. وإذا كانت علامة التبويب نفسها تفتح HushGram، فستكون لها الأولوية.
+Playback quality: %1$s. The next video uses it.	جودة التشغيل: %1$s. سيُستخدم هذا الإعداد مع الفيديو التالي.
+Couldn't save the quality. Set it in HushGram settings.	تعذر حفظ الجودة. اضبطها من إعدادات HushGram.
+Support HushGram	دعم HushGram
+Hide the Home tab	إخفاء علامة تبويب الرئيسية
+Takes Home off the tab bar. Your Start tab opens wherever Home would, so pick one other than Home that's on the bar, or Home stays. Restart Instagram to see the change.	يزيل الرئيسية من شريط علامات التبويب. وتُفتح علامة تبويب البدء في الموضع الذي كانت الرئيسية ستُفتح فيه، لذا اختر علامة تبويب أخرى موجودة في الشريط، وإلا فستظل الرئيسية ظاهرة. أعد تشغيل Instagram لرؤية التغيير.
+Hide the Search tab	إخفاء علامة تبويب البحث
+Takes Search off the tab bar and closes up the gap. Restart Instagram to see the change.	يزيل البحث من شريط علامات التبويب ويغلق المساحة الفارغة. أعد تشغيل Instagram لرؤية التغيير.
+Hide the Create tab	إخفاء علامة تبويب الإنشاء
+Takes Create off the tab bar and closes up the gap. Restart Instagram to see the change.	يزيل الإنشاء من شريط علامات التبويب ويغلق المساحة الفارغة. أعد تشغيل Instagram لرؤية التغيير.
+Hide the Profile tab	إخفاء علامة تبويب الملف الشخصي
+Takes Profile off the tab bar. Your profile still opens from other places in the app. Restart Instagram to see the change.	يزيل الملف الشخصي من شريط علامات التبويب. ويظل بإمكانك فتح ملفك الشخصي من مواضع أخرى في التطبيق. أعد تشغيل Instagram لرؤية التغيير.
+Hide Create on Home's header	إخفاء زر الإنشاء أعلى الصفحة الرئيسية
+Takes the plus button off the top of Home and closes up the gap. The Create tab and swiping to create are separate. Restart Instagram to see the change.	يزيل زر علامة الجمع من أعلى الصفحة الرئيسية ويغلق المساحة الفارغة. ولا يؤثر ذلك في علامة تبويب الإنشاء أو السحب لفتح الكاميرا. أعد تشغيل Instagram لرؤية التغيير.
+Hide notifications on Home's header	إخفاء الإشعارات أعلى الصفحة الرئيسية
+Takes the heart off the top of Home and closes up the gap. Alerts still arrive. Restart Instagram to see the change.	يزيل رمز القلب من أعلى الصفحة الرئيسية ويغلق المساحة الفارغة. وتظل التنبيهات تصل كالمعتاد. أعد تشغيل Instagram لرؤية التغيير.
+Ghost mode button on Home's header	زر وضع الشبح أعلى الصفحة الرئيسية
+Adds a ghost button at the top of Home, next to Messages when it's there and at the end of the buttons when it isn't. Tap it to turn Ghost mode on or off. Restart Instagram to see the change.	يضيف زر وضع الشبح أعلى الصفحة الرئيسية، بجوار الرسائل عند ظهورها، أو في نهاية الأزرار إذا لم تظهر. اضغط عليه لتفعيل وضع الشبح أو إيقافه. أعد تشغيل Instagram لرؤية التغيير.
+Search button on Home's header	زر البحث أعلى الصفحة الرئيسية
+Adds a magnifier at the top of Home that opens Search, like the Search tab does. It works with the Search tab hidden too. Restart Instagram to see the change.	يضيف رمز عدسة مكبرة أعلى الصفحة الرئيسية لفتح البحث، مثل علامة تبويب البحث. ويعمل حتى عند إخفاء علامة تبويب البحث. أعد تشغيل Instagram لرؤية التغيير.
+Messages button on Home's header	زر الرسائل أعلى الصفحة الرئيسية
+Adds a Messages button at the top of Home when Instagram moved Messages to your tab bar. A tap opens your messages like the tab does. Restart Instagram to see the change.	يضيف زر الرسائل أعلى الصفحة الرئيسية عندما ينقل Instagram الرسائل إلى شريط علامات التبويب. يؤدي الضغط عليه إلى فتح الرسائل كما تفعل علامة التبويب. أعد تشغيل Instagram لرؤية التغيير.
+Turn on Show the Messages tab and restart.	فعّل خيار «إظهار علامة تبويب الرسائل» ثم أعد التشغيل.
+Restart Instagram to put Messages on your tab bar.	أعد تشغيل Instagram لإضافة الرسائل إلى شريط علامات التبويب.
