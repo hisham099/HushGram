@@ -1515,3 +1515,74 @@ Story	قصة
 Clear viewing history	مسح سجل المشاهدة
 Forgets every post, reel, story and profile on the list, for all your accounts. The switch stays as it is.	يمسح جميع المنشورات ومقاطع Reels والقصص والملفات الشخصية في القائمة من كل حساباتك. ويظل المفتاح على حالته الحالية.
 Viewing history cleared.	تم مسح سجل المشاهدة.
+Couldn't clear the viewing history. Try again.	تعذر مسح سجل المشاهدة. حاول مرة أخرى.
+Mark one-time photos and videos	تمييز الصور ومقاطع الفيديو لمرة واحدة
+Puts a border and Instagram's view once icon on a one-time photo or video in a chat, so you can tell it from the rest before you open it. Only how the chat looks changes.	يضيف إطاراً ورمز العرض لمرة واحدة الخاص بـ Instagram إلى الصورة أو الفيديو المخصص للمشاهدة مرة واحدة في المحادثة، لتتمكن من تمييزه قبل فتحه. لا يتغير سوى مظهر المحادثة.
+Fall back to Following	الانتقال إلى «المتابَعون» عند الحاجة
+When For you brings an account only suggested posts, page after page, Home opens on Following for that account. A feed you pick at the top of Home stays picked. Restart Instagram to see the change.	عندما يعرض موجز «لك» المنشورات المقترحة فقط من حساب ما، صفحة تلو الأخرى، تفتح الصفحة الرئيسية على موجز «المتابَعون» لذلك الحساب. ويظل الموجز الذي تختاره أعلى الصفحة الرئيسية محدداً. أعد تشغيل Instagram لتطبيق التغيير.
+Only suggestions in For you. Home will open on Following.	لا تظهر في «لك» سوى الاقتراحات. ستفتح الصفحة الرئيسية على «المتابَعون».
+Mix in Following	إدراج منشورات «المتابَعون»
+For you shows a page of posts from accounts you follow after each page of its own, until you've seen them all. Pull down on Home to start both over. Restart Instagram to see the change.	يعرض موجز «لك» صفحة من منشورات الحسابات التي تتابعها بعد كل صفحة من منشوراته، حتى تظهر جميعها. اسحب الصفحة الرئيسية إلى الأسفل لإعادة بدء الموجزين. أعد تشغيل Instagram لتطبيق التغيير.
+Explore without personalization	استكشاف دون تخصيص
+Explore asks for the grid that isn't personalized every time it opens, and stays on it past ten minutes. Instagram only promises that grid in the EU.	يطلب قسم «استكشاف» عرض الشبكة غير المخصصة عند كل فتح، ويستمر في عرضها لأكثر من عشر دقائق. يضمن Instagram هذه الشبكة في الاتحاد الأوروبي فقط.
+Hide Explore's personalized menu	إخفاء قائمة تخصيص «استكشاف»
+Hides the top bar button that switches Explore's personalization, where Instagram shows it (in the EU).	يخفي الزر الموجود في الشريط العلوي الذي يبدّل تخصيص قسم «استكشاف»، في المواضع التي يعرضه فيها Instagram (في الاتحاد الأوروبي).
+Carousel arrows	أسهم المنشورات المتعددة
+Puts a back and a next arrow on a carousel post's photos and videos. Tap one to move a page without swiping.	يضيف سهمي السابق والتالي إلى صور وفيديوهات المنشور المتعدد. اضغط على أحدهما للانتقال بين الصفحات دون السحب.
+Previous page	الصفحة السابقة
+Next page	الصفحة التالية
+Page dots on a pill	نقاط الصفحات داخل شريط مستدير
+Moves a carousel post's page dots onto a round pill at the bottom of its photo or video, with the page you're on in blue. Hold the pill and slide left or right to move through the pages.	ينقل نقاط صفحات المنشور المتعدد إلى شريط مستدير أسفل الصورة أو الفيديو، ويُظهر الصفحة الحالية باللون الأزرق. اضغط مطولاً على الشريط واسحب يميناً أو يساراً للتنقل بين الصفحات.
+Hide page number	إخفاء رقم الصفحة
+Takes the number like 3/5 off the corner of a carousel post's photo or video.	يزيل الرقم، مثل 3/5، من زاوية صورة أو فيديو المنشور المتعدد.
+Ambient light	الإضاءة المحيطة
+Puts a soft glow in a post's own colors around its photo or video, and in the bands around a reel that doesn't fill the screen. The glow follows a video as it plays.	يضيف توهجاً ناعماً بألوان المنشور حول صورته أو الفيديو الخاص به، وكذلك في المساحات المحيطة بمقطع Reels الذي لا يملأ الشاشة. ويتحرك التوهج مع الفيديو أثناء تشغيله.
+Glow spread	امتداد التوهج
+Glow speed	سرعة التوهج
+Narrow	ضيق
+Medium	متوسط
+Wide	واسع
+Slow	بطيء
+Fast	سريع
+Copy text button on reels	زر نسخ النص في Reels
+Puts a Lens icon beside a reel. Tap it and Google Lens opens on what's showing, so you can select and copy its text.	يضيف رمز Lens بجوار مقطع Reels. اضغط عليه لفتح Google Lens على المحتوى المعروض، ثم حدد النص وانسخه.
+Copy text button on stories	زر نسخ النص في القصص
+Puts a Lens icon at the top of a story, beside the three dots. Tap it and Google Lens opens on what's showing, so you can select and copy its text.	يضيف رمز Lens أعلى القصة بجوار النقاط الثلاث. اضغط عليه لفتح Google Lens على المحتوى المعروض، ثم حدد النص وانسخه.
+Story buttons at the bottom	أزرار القصة في الأسفل
+Moves the Mark as seen and Download buttons to the bottom right of a story, next to Like and Share, where your thumb is. Stories without Like and Share keep them at the top.	ينقل زري «وضع علامة تمت المشاهدة» و«تنزيل» إلى أسفل يمين القصة، بجوار زري «إعجاب» و«مشاركة»، حيث يسهل الوصول إليهما بالإبهام. وتظل الأزرار في الأعلى في القصص التي لا تحتوي على زري الإعجاب والمشاركة.
+Copy text	نسخ النص
+Copy text with	نسخ النص باستخدام
+Couldn't copy this screen	تعذر التقاط محتوى هذه الشاشة
+No app here can read text	لا يوجد تطبيق هنا يمكنه قراءة النص
+App-only proxy	وكيل اتصال للتطبيق فقط
+Sends Instagram through the HTTP proxy set below. Other apps and your phone's own settings aren't changed.	يوجّه اتصال Instagram عبر وكيل HTTP المحدد أدناه. ولا تتأثر التطبيقات الأخرى أو إعدادات هاتفك.
+Proxy server	خادم الوكيل
+An HTTP proxy's address and port, with a colon between them, like 192.168.1.10:8080. Proxies that need a password, and SOCKS proxies, don't work here. Instagram needs a restart to use it.	أدخل عنوان وكيل HTTP والمنفذ، وافصل بينهما بنقطتين، مثل 192.168.1.10:8080. لا تعمل هنا الخوادم الوكيلة التي تتطلب كلمة مرور أو خوادم SOCKS. يجب إعادة تشغيل Instagram لاستخدامه.
+That isn't a proxy server. Try 10.0.0.2:8080.	هذا ليس عنوان خادم وكيل صالحاً. جرّب 10.0.0.2:8080.
+No server set. Until there is one, Instagram goes out directly.	لم يتم تحديد خادم. سيتصل Instagram مباشرة حتى يتم تحديده.
+Instagram goes through %1$s.	يتصل Instagram عبر %1$s.
+Smooth story opening	فتح القصص بسلاسة
+A story you tap in the stories row opens with a slower zoom that doesn't bounce, and closes the same way.	تُفتح القصة التي تضغط عليها في شريط القصص بتكبير أبطأ دون ارتداد، وتُغلق بالطريقة نفسها.
+Emoji pack	حزمة الرموز التعبيرية
+Your phone's emoji	الرموز التعبيرية في هاتفك
+An emoji font file	ملف خط للرموز التعبيرية
+Your phone's emoji, or Google's with the switch above on. You can also download a free emoji pack or pick a color emoji font file.	الرموز التعبيرية في هاتفك، أو رموز Google عند تفعيل المفتاح أعلاه. يمكنك أيضاً تنزيل حزمة رموز تعبيرية مجانية أو اختيار ملف خط ملون للرموز التعبيرية.
+Emoji draw as %1$s, downloaded from its maker. Restart Instagram to see a change.	تظهر الرموز التعبيرية بتصميم %1$s، الذي تم تنزيله من مطوّره. أعد تشغيل Instagram لرؤية التغيير.
+Emoji draw from the emoji font file you picked. Pick it again to change the file. Restart Instagram to see a change.	تُعرض الرموز التعبيرية باستخدام ملف الخط الذي اخترته. اختر هذا الخيار مجدداً لتغيير الملف. أعد تشغيل Instagram لرؤية التغيير.
+Downloading the emoji...	جارٍ تنزيل الرموز التعبيرية...
+Couldn't download the emoji. Try again.	تعذر تنزيل الرموز التعبيرية. حاول مرة أخرى.
+Emoji saved. Restart Instagram to see them.	تم حفظ الرموز التعبيرية. أعد تشغيل Instagram لرؤيتها.
+No color emoji in that file. Nothing changed.	لا يحتوي هذا الملف على رموز تعبيرية ملونة. لم يتغير شيء.
+Couldn't load your emoji, so the phone's show.	تعذر تحميل الرموز التعبيرية التي اخترتها، لذلك ستظهر رموز الهاتف.
+Ambient light in stories	الإضاءة المحيطة في القصص
+Fills the bands above and below a story that doesn't fill the screen with a soft glow in its own colors. Glow spread and Glow speed, under Feed, set it too.	يملأ المساحات أعلى القصة وأسفلها، عندما لا تملأ الشاشة، بتوهج ناعم بألوانها. وينطبق عليها أيضاً إعدادا امتداد التوهج وسرعة التوهج ضمن قسم الموجز.
+Skip the contacts and location popups	تخطي النوافذ المنبثقة لمزامنة جهات الاتصال والموقع
+The screens asking you to sync your contacts and turn on location services stop opening each time Instagram starts. Nothing else is skipped.	لن تظهر عند كل تشغيل لـ Instagram الشاشات التي تطلب منك مزامنة جهات الاتصال وتفعيل خدمات الموقع. ولا يتم تخطي أي شيء آخر.
+Skip the ad data reminder	تخطي تذكير بيانات الإعلانات
+Instagram's reminder to review whether it can process your data for ads stops opening by itself. Your ad choice doesn't change, and nothing is answered for you.	لن يظهر تلقائياً تذكير Instagram بمراجعة السماح له بمعالجة بياناتك لأغراض الإعلانات. لا يتغير اختيارك الإعلاني، ولا يتم تقديم أي إجابة نيابة عنك.
+Keep photo locations from Instagram	منع Instagram من معرفة مواقع التقاط الصور
+Instagram can't read where the photos and videos in your gallery were taken.	لن يتمكن Instagram من معرفة المواقع التي التُقطت فيها الصور والفيديوهات الموجودة في معرضك.
+Stop videos looping	إيقاف تكرار تشغيل الفيديوهات
+Feed videos and reels stop at their last frame instead of playing again. Reels still loop while auto scroll is on, so it can move on.	تتوقف فيديوهات الموجز ومقاطع Reels عند إطارها الأخير بدلاً من إعادة تشغيلها. وتظل مقاطع Reels تتكرر عند تفعيل التمرير التلقائي، حتى يتمكن من الانتقال إلى المقطع التالي.
+Not used while you've picked a folder. Saves go there.	لا يُستخدم هذا الخيار عند اختيار مجلد. تُحفظ الملفات في المجلد المحدد.
+All	الكل
