@@ -24,10 +24,10 @@ jobs:
     runs-on: windows-latest
     timeout-minutes: 90
     steps:
-      - name: Check out Arabic localization branch
+      - name: Check out current Arabic main
         uses: actions/checkout@v4
         with:
-          ref: full-arabic-localization
+          ref: main
           fetch-depth: 0
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -45,11 +45,11 @@ jobs:
 
           if git merge-base --is-ancestor upstream/main HEAD; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
-            echo "Arabic branch already contains upstream main."
+            echo "Arabic main already contains upstream main."
             exit 0
           fi
 
-          OPEN_SYNC_PR="$(gh pr list --base full-arabic-localization --state open --json headRefName --jq '[.[] | select(.headRefName | startswith("automation/upstream-sync-"))] | length')"
+          OPEN_SYNC_PR="$(gh pr list --base main --state open --json headRefName --jq '[.[] | select(.headRefName | startswith("automation/upstream-sync-"))] | length')"
           if [ "$OPEN_SYNC_PR" != "0" ]; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
             echo "An upstream-sync review PR is already open. Resolve it before creating another."
@@ -77,9 +77,6 @@ jobs:
             status=localization-tests-failed
           fi
 
-          # Keep the reconciled source tables on the review branch even when a new
-          # source string still needs Arabic translation. Regenerate Java only after
-          # the catalog passes, then commit the complete reviewable reconciliation.
           git add CHANGELOG.md extensions/shared/library/src/main/l10n/*.tsv
           if [ "$status" = "passed" ]; then
             git add extensions/shared/library/src/main/java/app/hushgram/extension/shared/L10nTranslations.java
@@ -91,18 +88,20 @@ jobs:
           echo "status=$status" >> "$GITHUB_OUTPUT"
           exit 0
 
-      - name: Publish upstream review branch
+      - name: Publish upstream review branch and open PR
         if: steps.sync.outputs.changed == 'true'
         shell: bash
         env:
           VALIDATION: ${{ steps.validation.outputs.status }}
           SYNC_BRANCH: ${{ steps.sync.outputs.branch }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           set -euo pipefail
           git push origin "$SYNC_BRANCH"
-          echo "Review branch published: $SYNC_BRANCH"
-          echo "Localization validation: $VALIDATION"
-          echo "A pull request will be opened after the review branch is published."
+          gh pr create --base main --head "$SYNC_BRANCH" \
+            --title "chore(sync): integrate latest upstream into Arabic main" \
+            --body "Automated upstream sync review. Preserves fork-side changes on conflicts, reconciles localization tables, and records catalog validation status: $VALIDATION. Review all changed files and run MPP validation before merging."
+          echo "Review branch and pull request published. Localization validation: $VALIDATION"
 
       - name: Report review required
         if: steps.sync.outputs.changed == 'true' && steps.validation.outputs.status != 'passed'
