@@ -1248,3 +1248,83 @@ Rounded corners on posts	تدوير زوايا المنشورات
 Corner size	حجم الزوايا
 Rounded corners on Reels	تدوير زوايا مقاطع Reels
 Rounded corners on stories	تدوير زوايا القصص
+That file isn't a usable font. Yours didn't change.	هذا الملف ليس خطاً صالحاً للاستخدام. لم يتغير الخط الحالي.
+Font saved. Restart Instagram to see it.	تم حفظ الخط. أعد تشغيل Instagram لتطبيقه.
+Couldn't load your font. Pick it again in Layout.	تعذر تحميل الخط. اختره مجدداً من إعدادات المظهر.
+Hide AI-labeled reels	إخفاء مقاطع Reels المصنّفة على أنها مولّدة بالذكاء الاصطناعي
+Leaves out reels that carry Instagram's own AI label. A reel without that label stays, even if AI made it.	يخفي مقاطع Reels التي تحمل تصنيف الذكاء الاصطناعي الخاص بـ Instagram. وتظل المقاطع التي لا تحمل هذا التصنيف ظاهرة، حتى إن كانت مولّدة بالذكاء الاصطناعي.
+Save every page without asking	حفظ جميع الصفحات دون سؤال
+On a carousel, the download icon saves all of its pages at once instead of asking. A photo with music saves as a photo.	في المنشور المتعدد، يحفظ رمز التنزيل جميع الصفحات دفعة واحدة دون طلب التأكيد. وتُحفظ الصورة المصحوبة بموسيقى كصورة.
+Hide reels by caption words	إخفاء مقاطع Reels حسب كلمات الوصف
+Also on Home	في الصفحة الرئيسية أيضاً
+Leaves out posts on Home whose caption holds a word or phrase from the list too. Pull down on Home to refresh after changing it.	يخفي أيضاً من الصفحة الرئيسية المنشورات التي يتضمن وصفها كلمة أو عبارة من القائمة. اسحب الصفحة الرئيسية إلى الأسفل لتحديثها بعد تغيير هذا الخيار.
+Leaves out reels in the Reels tab whose caption holds a word or phrase from the list below. A reel you open yourself still plays.	يخفي من علامة تبويب Reels المقاطع التي يتضمن وصفها كلمة أو عبارة من القائمة أدناه. وتظل المقاطع التي تفتحها بنفسك قابلة للتشغيل.
+Blocked words	الكلمات المحظورة
+Words or phrases, with a comma or a new line between them. Capital letters don't matter, and a hashtag works too.	أدخل كلمات أو عبارات وافصل بينها بفاصلة أو بسطر جديد. لا تؤثر حالة الأحرف، ويمكنك أيضاً استخدام الوسوم.
+No words yet	لا توجد كلمات حتى الآن
+%1$d word	كلمة واحدة (%1$d)
+%1$d words	%1$d كلمات
+Show how long ago a reel was posted	إظهار المدة المنقضية منذ نشر مقطع Reels
+Shows the days, hours and minutes since it went up on a line under the time, like 1d 2h 5m ago.	يعرض عدد الأيام والساعات والدقائق منذ نشر المقطع في سطر أسفل الوقت، مثل: منذ يوم وساعتين و5 دقائق.
+%1$s ago	منذ %1$s
+Recent unfollowers	من ألغوا متابعتك مؤخراً
+Each time you scroll your own Followers list to the end, compares it with the last time and lists who's gone. Nothing extra is asked of Instagram, and the list stays on your phone.	في كل مرة تصل فيها إلى نهاية قائمة متابعيك، يقارنها التطبيق بالقائمة السابقة ويعرض الحسابات التي ألغت متابعتك. لا يطلب التطبيق أي بيانات إضافية من Instagram، وتبقى القائمة على هاتفك.
+Who unfollowed you	من ألغى متابعتك
+Reading the list…	جارٍ قراءة القائمة…
+Nothing to compare yet. With Recent unfollowers on, open your own Followers list and scroll to the end. The next time you do, anyone missing shows here.	لا توجد بيانات للمقارنة بعد. فعّل خيار «من ألغوا متابعتك مؤخراً»، ثم افتح قائمة متابعيك وانتقل إلى نهايتها. عند القيام بذلك مرة أخرى، ستظهر هنا الحسابات التي اختفت من القائمة.
+Last seen in full on %1$s.	آخر قائمة كاملة بتاريخ %1$s.
+No one has left since then.	لم يُلغِ أحد متابعتك منذ ذلك الحين.
+Account %1$s	الحساب %1$s
+%1$s, gone by %2$s	%1$s، ألغى المتابعة بحلول %2$s
+Only the newest 50 are shown.	يتم عرض أحدث 50 حساباً فقط.
+Clear unfollower list	مسح قائمة إلغاء المتابعة
+Forgets the saved Followers lists and everyone listed above, for all your accounts.	يمسح قوائم المتابعين المحفوظة وجميع الحسابات المعروضة أعلاه من كل حساباتك.
+Unfollower list cleared.	تم مسح قائمة إلغاء المتابعة.
+Couldn't clear the unfollower list. Try again.	تعذر مسح قائمة إلغاء المتابعة. حاول مرة أخرى.
+Hide Messages on Home's header	إخفاء زر الرسائل من أعلى الصفحة الرئيسية
+Takes Instagram's Messages button off the top of Home, for when Messages is on your tab bar too. Restart Instagram to see the change.	يزيل زر الرسائل الخاص بـ Instagram من أعلى الصفحة الرئيسية عند وجود علامة تبويب للرسائل في شريط التنقل أيضاً. أعد تشغيل Instagram لتطبيق التغيير.
+Bars to hide	أشرطة الحالة والتنقل المطلوب إخفاؤها
+Both bars	كلا الشريطين
+The status bar only	شريط الحالة فقط
+The navigation bar only	شريط التنقل فقط
+Full screen Reels and Home hide the status bar and the navigation bar.	يخفي عرض Reels والصفحة الرئيسية بملء الشاشة شريط الحالة وشريط التنقل.
+Full screen Reels and Home hide only the status bar at the top. The navigation bar stays.	يخفي عرض Reels والصفحة الرئيسية بملء الشاشة شريط الحالة العلوي فقط، مع إبقاء شريط التنقل ظاهراً.
+Full screen Reels and Home hide only the navigation bar at the bottom. The status bar stays.	يخفي عرض Reels والصفحة الرئيسية بملء الشاشة شريط التنقل السفلي فقط، مع إبقاء شريط الحالة ظاهراً.
+Turn on Full screen Reels, Full screen Home or Full screen Messages to use this choice.	فعّل خيار عرض Reels أو الصفحة الرئيسية أو الرسائل بملء الشاشة لاستخدام هذا الإعداد.
+Choose carousel pages	اختيار صفحات المنشور المتعدد
+Adds Choose pages to a carousel's menu, after Save all, and to the download icon. Tick the pages you want and only those save, in order.	يضيف خيار «اختيار الصفحات» إلى قائمة المنشور المتعدد بعد «حفظ الكل»، وإلى رمز التنزيل. حدد الصفحات المطلوبة ليتم حفظها وحدها وبالترتيب.
+Choose pages	اختيار الصفحات
+Page %1$d, video	الصفحة %1$d، فيديو
+Page %1$d, photo	الصفحة %1$d، صورة
+Left out by your download switches	استُبعدت وفق إعدادات التنزيل
+No pages chosen	لم يتم اختيار أي صفحات
+Not saved: the screen closed	لم يتم الحفظ: تم إغلاق الشاشة
+Not saved: the account changed	لم يتم الحفظ: تم تغيير الحساب
+Wait after auto scroll	الانتظار بعد التمرير التلقائي
+A reel Instagram's auto scroll moves to waits for your tap too. Off, auto scroll plays reel after reel.	ينتظر المقطع الذي ينتقل إليه التمرير التلقائي في Instagram نقرتك أيضاً. عند إيقاف هذا الخيار، يستمر التمرير التلقائي في تشغيل المقاطع واحداً تلو الآخر.
+Hide Follow on stories	إخفاء زر المتابعة في القصص
+Takes the Follow button off the top of stories from accounts you don't follow. The name, time and menu stay.	يزيل زر المتابعة من أعلى قصص الحسابات التي لا تتابعها، مع الإبقاء على الاسم والوقت والقائمة.
+Stay dim when I tap	الإبقاء على التعتيم عند اللمس
+Once Burn-in guard fades the buttons, they stay faded on Reels whatever you tap or swipe, the next reel too. They still work. Leaving Reels brings them back.	بعد أن تخفّض ميزة الحماية من احتراق الشاشة سطوع الأزرار، تظل باهتة في Reels مهما نقرت أو مررت، بما في ذلك المقطع التالي. وتظل الأزرار تعمل. تعود إلى وضعها الطبيعي عند مغادرة Reels.
+Hide the Create button	إخفاء زر الإنشاء
+Takes the plus for new posts off the top of your own profile. The other buttons stay where they were.	يزيل زر علامة الجمع الخاص بإنشاء منشورات جديدة من أعلى ملفك الشخصي، مع إبقاء الأزرار الأخرى في أماكنها.
+Hide the empty profile prompt	إخفاء رسالة الملف الشخصي الفارغ
+Takes the big prompt for your first post off your own profile while it has no posts. Other people's profiles stay as they are.	يزيل الرسالة الكبيرة التي تدعوك إلى نشر أول منشور من ملفك الشخصي ما دام خالياً من المنشورات. ولا تتأثر الملفات الشخصية للآخرين.
+Hide Share profile	إخفاء زر مشاركة الملف الشخصي
+Takes the Share profile button off your profile, and Edit profile stretches to fill the space.	يزيل زر مشاركة الملف الشخصي، ويوسّع زر تعديل الملف الشخصي ليشغل المساحة المتاحة.
+Hide Subscribe on profiles	إخفاء زر الاشتراك في الملفات الشخصية
+Takes the Subscribe button off creators' profiles, and the other buttons stretch to fill the space.	يزيل زر الاشتراك من الملفات الشخصية لمنشئي المحتوى، ويوسّع الأزرار الأخرى لملء المساحة.
+Hide the arrow at the end of the buttons	إخفاء السهم في نهاية الأزرار
+Takes the arrow off the end of a profile's row of buttons, along with the menu it opens, and the other buttons stretch to fill the space.	يزيل السهم الموجود في نهاية صف الأزرار في الملف الشخصي والقائمة التي يفتحها، ويوسّع الأزرار الأخرى لملء المساحة.
+Keep the pill full size	الإبقاء على الشريط بالحجم الكامل
+Scrolling a list down leaves the liquid pill as it is, every tab in place. Restart Instagram after changing it.	عند التمرير إلى أسفل قائمة، يظل شريط علامات التبويب السائل بحجمه كما هو، مع بقاء جميع العلامات في أماكنها. أعد تشغيل Instagram بعد تغيير هذا الخيار.
+Shrink the pill as you scroll	تصغير الشريط أثناء التمرير
+With Liquid glass look off, scrolling a list down makes the pill smaller, and scrolling up or changing tab brings it back to full size. Hide the tab bar as you scroll takes over when it's on. Restart Instagram after changing it.	عند إيقاف مظهر الزجاج السائل، يؤدي التمرير إلى أسفل القائمة إلى تصغير الشريط، ويعيده التمرير إلى أعلى أو تغيير علامة التبويب إلى حجمه الكامل. تكون الأولوية لخيار إخفاء شريط علامات التبويب أثناء التمرير عند تفعيله. أعد تشغيل Instagram بعد تغيير هذا الخيار.
+Material look	مظهر Material
+With Liquid glass look off, the pill looks like Android's own Material 3 bars. It's solid, with no blur, in your phone's colors on Android 12 and newer, and a round marker sits on the tab you're on. Restart Instagram after changing it.	عند إيقاف مظهر الزجاج السائل، يتخذ الشريط تصميم أشرطة Material 3 في Android. يكون مصمتاً دون ضبابية، ويستخدم ألوان هاتفك في Android 12 والإصدارات الأحدث، مع مؤشر دائري على علامة التبويب الحالية. أعد تشغيل Instagram بعد تغيير هذا الخيار.
+Bend light at the edges	انكسار الضوء عند الحواف
+The pill's rim bends what's behind it like real glass, so what passes under the edge shows upside down. Android 13 and newer. Restart Instagram after changing it.	تكسر حافة الشريط الضوء وما يظهر خلفها كما يفعل الزجاج الحقيقي، فينعكس ما يمر أسفل الحافة بصورة مقلوبة. يتطلب Android 13 أو أحدث. أعد تشغيل Instagram بعد تغيير هذا الخيار.
+All of them. Tap to leave some out, and Ghost mode leaves those as you set them.	جميعها. اضغط لإلغاء تحديد بعض الخيارات، وسيُبقيها الوضع الشبح على إعداداتها الحالية.
+%1$s. The others stay as you set them.	%1$s. وتظل الخيارات الأخرى على إعداداتها الحالية.
+Switches Ghost mode turns	الإعدادات التي يغيّرها الوضع الشبح
+Ghost mode needs at least one switch to turn.	يجب اختيار إعداد واحد على الأقل ليغيّره الوضع الشبح.
