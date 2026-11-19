@@ -1,0 +1,130 @@
+# العربية الفصحى لـ HushGram: المفتاح الإنجليزي، ثم علامة جدولة، ثم الترجمة. سطر لكل نص.
+# بعد المراجعة، شغّل python scripts/gen-l10n.py من جذر المستودع.
+%1$d of them because storage is low.	%1$d منها بسبب انخفاض مساحة التخزين.
+%1$s of %2$s	%1$s من %2$s
+%1$s so far	حتى الآن: %1$s
+%1$s. It was set when you patched, so Pause can't turn it off. To rule it out, patch again and leave out that patch.	%1$s. تم تفعيله عند تطبيق التصحيحات، لذلك لا يمكن للإيقاف المؤقت تعطيله. لاستبعاده، أعد تطبيق التصحيحات مع عدم تضمين ذلك التصحيح.
+%1$s. They were set when you patched, so Pause can't turn them off. To rule one out, patch again and leave out the patch in brackets after it.	%1$s. تم تفعيلها عند تطبيق التصحيحات، لذلك لا يمكن للإيقاف المؤقت تعطيلها. لاستبعاد أحدها، أعد تطبيق التصحيحات مع عدم تضمين التصحيح المذكور بين قوسين بعده.
+A diagnostic report is already being saved.	يجري بالفعل حفظ تقرير التشخيص.
+A file named %1$s in %2$s paused HushGram.	أوقف ملف باسم %1$s في %2$s تطبيق HushGram مؤقتاً.
+About	حول
+Add the source to saved photos and videos	إضافة المصدر إلى الصور ومقاطع الفيديو المحفوظة
+Ads and privacy	الإعلانات والخصوصية
+Asks Android to run Instagram at your screen's fastest refresh rate, at the same resolution. Some phones keep their own limit for apps, and battery saver can still lower it.	يطلب من Android تشغيل Instagram بأعلى معدل تحديث تدعمه شاشتك مع الحفاظ على الدقة نفسها. تفرض بعض الهواتف حداً خاصاً بالتطبيقات، وقد يقلل وضع توفير البطارية معدل التحديث أيضاً.
+Back	رجوع
+Before you sign in	قبل تسجيل الدخول
+Cancel	إلغاء
+Chat saved in Downloads/HushGram.	تم حفظ المحادثة في Downloads/HushGram.
+Chat saved in the app's Download folder.	تم حفظ المحادثة في مجلد التنزيلات الخاص بالتطبيق.
+Clear diagnostic data	مسح بيانات التشخيص
+Copy a quick report or save the full one to %1$s. Links, IDs, cookies and sign-in details are left out. Check it for other private text before you share it.	انسخ تقريراً موجزاً أو احفظ التقرير الكامل في %1$s. لا يتضمن التقرير الروابط أو المعرّفات أو ملفات تعريف الارتباط أو بيانات تسجيل الدخول. راجعه بحثاً عن أي معلومات خاصة أخرى قبل مشاركته.
+Copy a short report to the clipboard.	نسخ تقرير مختصر إلى الحافظة.
+Copy quick report	نسخ التقرير الموجز
+Copying to the gallery	جارٍ النسخ إلى المعرض
+Couldn't find this chat's messages.	تعذر العثور على رسائل هذه المحادثة.
+Couldn't put back the diagnostic data. Try again.	تعذرت استعادة بيانات التشخيص. حاول مرة أخرى.
+Couldn't save the chat.	تعذر حفظ المحادثة.
+Couldn't start the report export. Try again shortly.	تعذر بدء تصدير التقرير. حاول مجدداً بعد قليل.
+Couldn't turn HushGram back on. Try again.	تعذر إعادة تشغيل HushGram. حاول مرة أخرى.
+Debug logging	تسجيل معلومات التصحيح
+Diagnostic data cleared. Tap again to put it back.	تم مسح بيانات التشخيص. اضغط مرة أخرى لاستعادتها.
+Diagnostic data put back.	تمت استعادة بيانات التشخيص.
+Diagnostic report copied to the clipboard.	تم نسخ تقرير التشخيص إلى الحافظة.
+Download failed	فشل التنزيل
+Downloading	جارٍ التنزيل
+Empties the activity log and any kept crash that a diagnostic report would include.	يمسح سجل النشاط وأي بيانات محفوظة عن تعطل قد يتضمنها تقرير التشخيص.
+Every switch but Debug logging acts as if it were off, and what was set when you patched stays in. Your settings stay as they are.	تتعامل جميع المفاتيح، باستثناء تسجيل معلومات التصحيح، كما لو كانت متوقفة، وتظل الإعدادات التي حُددت عند تطبيق التصحيحات سارية. تبقى تفضيلاتك محفوظة كما هي.
+Export a chat as text	تصدير محادثة كنص
+Export chat	تصدير المحادثة
+Export diagnostic report	تصدير تقرير التشخيص
+From the next start, every switch but Debug logging acts as if it were off. Changes made when you patched stay in, and your choices stay saved.	ابتداءً من التشغيل التالي، ستتعامل جميع المفاتيح، باستثناء تسجيل معلومات التصحيح، كما لو كانت متوقفة. تظل التغييرات التي أُجريت عند تطبيق التصحيحات سارية، وتبقى اختياراتك محفوظة.
+Here it is.	تفضل.
+Jump to a date	الانتقال إلى تاريخ
+Jump to the first message	الانتقال إلى الرسالة الأولى
+Jump to the first message or a date	الانتقال إلى الرسالة الأولى أو إلى تاريخ محدد
+Loading older messages.	جارٍ تحميل الرسائل الأقدم.
+Loading older messages. %1$d message so far.	جارٍ تحميل الرسائل الأقدم. عدد الرسائل حتى الآن: %1$d.
+Loading older messages. %1$d messages so far.	جارٍ تحميل الرسائل الأقدم. عدد الرسائل حتى الآن: %1$d.
+Lock these settings	قفل هذه الإعدادات
+Mark a chat seen when you reply	وضع علامة «مقروءة» على المحادثة عند الرد
+Mark a chat seen when you react	وضع علامة «مقروءة» على المحادثة عند التفاعل
+Reacting to a message in a chat lets the other person see that you've read up to that message. What they sent after it stays unseen to them.	يتيح التفاعل مع رسالة في محادثة للطرف الآخر معرفة أنك قرأت الرسائل حتى تلك الرسالة. أما الرسائل التي أرسلها بعدها فستظل غير مقروءة من وجهة نظره.
+No messages found to save.	لم يتم العثور على رسائل لحفظها.
+Pick a wait from 1 to 72 hours. Locked, nothing here changes until you ask to unlock and the wait is over.	اختر مدة انتظار من ساعة إلى 72 ساعة. أثناء القفل، لن يتغير أي شيء هنا حتى تطلب إلغاء القفل وتنتهي مدة الانتظار.
+Ask to unlock	طلب إلغاء القفل
+Saved to %1$s in lower quality because storage is low	تم الحفظ في %1$s بجودة أقل بسبب انخفاض مساحة التخزين
+Saved to the gallery in lower quality because storage is low	تم الحفظ في المعرض بجودة أقل بسبب انخفاض مساحة التخزين
+Sending a message in a chat lets the other person see that you've read what they sent before it. Chats you don't answer stay unseen to them.	يتيح إرسال رسالة في محادثة للطرف الآخر معرفة أنك قرأت الرسائل التي أرسلها قبلها. أما المحادثات التي لا ترد عليها فستظل غير مقروءة من وجهة نظره.
+That's as far back as this chat goes.	هذه أقدم الرسائل المتاحة في هذه المحادثة.
+These settings are locked. Tap to start the %1$s wait, then they open for 10 minutes.	هذه الإعدادات مقفلة. اضغط لبدء مدة الانتظار البالغة %1$s، وبعدها ستُفتح الإعدادات لمدة 10 دقائق.
+Unlock asked	تم طلب إلغاء القفل
+These settings open at %1$s, for 10 minutes.	ستُفتح هذه الإعدادات عند %1$s لمدة 10 دقائق.
+These settings open at %1$s, for 10 minutes. Tap to stop the wait.	ستُفتح هذه الإعدادات عند %1$s لمدة 10 دقائق. اضغط لإيقاف الانتظار.
+Stop the wait	إيقاف الانتظار
+Keep waiting	متابعة الانتظار
+Use the highest refresh rate	استخدام أعلى معدل تحديث
+Wait stopped. These settings stay locked.	تم إيقاف الانتظار. ستظل هذه الإعدادات مقفلة.
+Settings are open	الإعدادات مفتوحة
+They lock again at %1$s. Tap to lock them now or turn the lock off.	سيُعاد قفلها عند %1$s. اضغط لقفلها الآن أو لإيقاف القفل.
+# السياق: مدة انتظار قفل الإعدادات عندما تكون ساعة واحدة بالضبط؛ %1$d هو العدد
+%1$d hour	ساعة واحدة (%1$d)
+# السياق: مدة الانتظار نفسها لأي عدد آخر من الساعات؛ %1$d هو العدد
+%1$d hours	%1$d ساعة
+Turn the lock off	إيقاف القفل
+Settings locked	الإعدادات مقفلة
+Lock turned off	تم إيقاف القفل
+These settings are locked. Ask to unlock first.	هذه الإعدادات مقفلة. اطلب إلغاء القفل أولاً.
+Full report saved to %1$s	تم حفظ التقرير الكامل في %1$s
+GPL-3.0, with the notices of the projects this is built on	GPL-3.0، مع إشعارات المشاريع التي بُني عليها هذا التطبيق
+Gray out stories you've watched	إظهار القصص التي شاهدتها باللون الرمادي
+Hide ads	إخفاء الإعلانات
+How far a photo or video you're saving has got, with a button to cancel it	مدى تقدم حفظ الصورة أو مقطع الفيديو، مع زر لإلغاء العملية
+HushGram %1$s on Instagram %2$s	HushGram %1$s على Instagram %2$s
+HushGram is on	HushGram قيد التشغيل
+HushGram is paused	HushGram متوقف مؤقتاً
+HushGram pauses when Instagram restarts.	يتوقف HushGram مؤقتاً عند إعادة تشغيل Instagram.
+HushGram saves	عمليات الحفظ في HushGram
+HushGram settings	إعدادات HushGram
+HushGram settings couldn't open	تعذر فتح إعدادات HushGram
+HushGram settings are locked	إعدادات HushGram مقفلة
+HushGram turns back on when Instagram restarts.	يُعاد تشغيل HushGram عند إعادة تشغيل Instagram.
+Instagram crashed or froze within a minute of starting three times in a row, so HushGram paused itself.	تعطل Instagram أو تجمد خلال دقيقة من تشغيله ثلاث مرات متتالية، لذلك أوقف HushGram نفسه مؤقتاً.
+Instagram stops showing the screen that says this version is too old. A patched build doesn't update on its own, so this keeps it usable.	يمنع Instagram من عرض الشاشة التي تفيد بأن هذا الإصدار قديم جداً. لا يتلقى الإصدار المعدّل تحديثات تلقائية، لذا يحافظ هذا الخيار على إمكانية استخدامه.
+Instagram's own checks of who signed the app keep passing on this patched build.	يجعل هذا الإصدار المعدّل يجتاز فحوص Instagram الخاصة بجهة توقيع التطبيق.
+Joining the picture and sound	جارٍ دمج الصورة والصوت
+Licenses	التراخيص
+Link expired. Reopen the item and try again.	انتهت صلاحية الرابط. أعد فتح العنصر وحاول مرة أخرى.
+Nobody outside Meta knows what gets an account suspended. A patched Instagram can't pass Google's check that it came from the Play Store, and no patch changes that. If you'd rather not risk your account, try a spare one first. Installing updates over the top with the same signing key keeps Instagram's data and your sign-in. On a rooted phone, a Root Mount install keeps the sign-in you already have.	لا يعرف أحد خارج Meta الأسباب التي قد تؤدي إلى تعليق الحساب. لا يستطيع Instagram المعدّل اجتياز فحص Google الذي يتحقق من تثبيته من Play Store، ولا يمكن لأي تصحيح تغيير ذلك. إذا كنت لا تريد المخاطرة بحسابك، فجرّب حساباً احتياطياً أولاً. يؤدي تثبيت التحديثات فوق الإصدار الحالي باستخدام مفتاح التوقيع نفسه إلى الاحتفاظ ببيانات Instagram وبجلسة تسجيل الدخول. وعلى هاتف بصلاحيات root، يحافظ تثبيت Root Mount على جلسة تسجيل الدخول الحالية.
+# السياق: إشعار يظهر عندما لا يعثر صف «الشفرة المصدرية والمشكلات» أو صف Ko-fi على متصفح؛ ويعرض الإشعار التالي العنوان
+No app can open this link.	لا يوجد تطبيق يمكنه فتح هذا الرابط.
+# السياق: إشعار يظهر عندما لا يعثر خيار «الإبلاغ عن مشكلة» على متصفح؛ ويعرض الإشعار التالي عنوان GitHub
+No app can open the bug report.	لا يوجد تطبيق يمكنه فتح بلاغ الخطأ.
+Not saved: that isn't an Instagram photo or video	لم يتم الحفظ: هذا ليس صورة أو مقطع فيديو من Instagram
+Not saved: the file is over 512 MB	لم يتم الحفظ: حجم الملف يتجاوز 512 ميغابايت
+OK	حسناً
+Pause HushGram	إيقاف HushGram مؤقتاً
+Pause and diagnostics	الإيقاف المؤقت والتشخيص
+Instagram accepts this build	Instagram يقبل هذا الإصدار
+Record patch activity and show errors for a bug report. Leave off during normal use.	يسجل نشاط التصحيحات ويعرض الأخطاء لإرفاقها ببلاغ عن مشكلة. اتركه متوقفاً أثناء الاستخدام العادي.
+Remove build expired popup	إزالة النافذة المنبثقة لانتهاء صلاحية الإصدار
+Retry	إعادة المحاولة
+Sanitize sharing links	تنقية روابط المشاركة
+Save canceled	تم إلغاء الحفظ
+Save full report	حفظ التقرير الكامل
+Save the full report in %1$s.	احفظ التقرير الكامل في %1$s.
+Saved to %1$s	تم الحفظ في %1$s
+Saved to %1$s in lower quality than on Instagram	تم الحفظ في %1$s بجودة أقل من Instagram
+Saved to the gallery	تم الحفظ في المعرض
+Saved to the gallery in lower quality than on Instagram	تم الحفظ في المعرض بجودة أقل من Instagram
+Saved. Restart Instagram to apply this change.	تم الحفظ. أعد تشغيل Instagram لتطبيق هذا التغيير.
+Saving a photo	جارٍ حفظ صورة
+Saving a video	جارٍ حفظ مقطع فيديو
+Saving...	جارٍ الحفظ...
+Saving... You can cancel from Downloads in HushGram settings.	جارٍ الحفظ... يمكنك إلغاء العملية من «التنزيلات» في إعدادات HushGram.
+Set when you patched	تم ضبطه عند تطبيق التصحيحات
+Settings couldn't open	تعذر فتح الإعدادات
+Settings couldn't refresh completely. Reopen settings and try again.	تعذر تحديث الإعدادات بالكامل. أعد فتحها وحاول مرة أخرى.
+Source code and issues	الشفرة المصدرية والمشكلات
+Hides sponsored posts, reels, stories and the ad in comments. No empty gap is left where an ad would have been.	يخفي المنشورات ومقاطع Reels والقصص الدعائية والإعلانات في التعليقات. ولا يترك فراغاً في موضع الإعلان المحذوف.
+Hide Instagram Plus prompts	إخفاء اقتراحات Instagram Plus
+Takes Instagram's offers to try Plus out of chats, stories and menus. Nothing that comes with Plus is turned on.	يزيل عروض Instagram لتجربة Plus من المحادثات والقصص والقوائم. ولا يفعّل أياً من مزايا Plus.
