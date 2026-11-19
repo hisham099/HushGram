@@ -1883,3 +1883,53 @@ Hide the profile song	إخفاء أغنية الملف الشخصي
 Takes the song someone picked for their profile from under their bio. Yours keeps it.	يزيل الأغنية التي اختارها الآخرون لملفاتهم الشخصية من أسفل النبذة. وتظل أغنيتك ظاهرة.
 Hide interests	إخفاء الاهتمامات
 Takes the interests someone added, like reading or hiking, from under their bio. Yours keeps them.	يزيل الاهتمامات التي أضافها الآخرون، مثل القراءة أو المشي لمسافات طويلة، من أسفل نبذاتهم. وتظل اهتماماتك ظاهرة.
+Hide channel invites	إخفاء دعوات القنوات
+Takes the invite to someone's broadcast channel from under their bio. Yours keeps it.	يزيل الدعوة إلى قناة البث الخاصة بالآخرين من أسفل نبذاتهم. وتظل دعوتك ظاهرة.
+Hide the other profile banners	إخفاء اللافتات الأخرى في الملفات الشخصية
+Takes the rest of the banners under the bio off other people's profiles, like events, fundraisers, schools and business hours. Yours keeps them.	يزيل اللافتات الأخرى أسفل نبذات الملفات الشخصية للآخرين، مثل الفعاليات وحملات جمع التبرعات والمدارس وساعات العمل. وتظل لافتاتك ظاهرة.
+Hide links	إخفاء الروابط
+Takes the row of links, like a website or a business's links, from under the bio on other people's profiles. Yours keeps it.	يزيل صف الروابط، مثل روابط المواقع الإلكترونية أو روابط الأنشطة التجارية، من أسفل نبذات الملفات الشخصية للآخرين. وتظل روابطك ظاهرة.
+Save profile	حفظ الملف الشخصي
+Saved @%s	تم حفظ @%s
+Removed @%s from saved	تمت إزالة @%s من المحفوظات
+Save to folder	حفظ في مجلد
+New folder	مجلد جديد
+Rename folder	إعادة تسمية المجلد
+Remove folder	إزالة المجلد
+Saved @%1$s to %2$s	تم حفظ @%1$s في %2$s
+Removed the folder %s	تمت إزالة المجلد %s
+Renamed the folder to %s	تمت إعادة تسمية المجلد إلى %s
+Choose folders	اختيار المجلدات
+@%s is in no folder now	لم يعد @%s ضمن أي مجلد
+@%1$s is in %2$s now	أصبح @%1$s ضمن %2$s
+@%1$s is in %2$d folders now	أصبح @%1$s ضمن %2$d مجلدات
+Saved @%1$s to %2$d folders	تم حفظ @%1$s في %2$d مجلدات
+Saved profiles is full.	قائمة الملفات الشخصية المحفوظة ممتلئة.
+Saved profiles	الملفات الشخصية المحفوظة
+Adds Save profile to the menu on someone's profile, even one you don't follow. The list stays on this phone, apart from Instagram's Favorites and Following.	يضيف خيار «حفظ الملف الشخصي» إلى قائمة الملف الشخصي لأي شخص، حتى إن لم تكن تتابعه. تبقى القائمة على هذا الهاتف، بشكل منفصل عن قائمتي «المفضلة» و«المتابَعون» في Instagram.
+Your saved profiles	ملفاتك الشخصية المحفوظة
+Nothing saved yet. With Saved profiles on, tap Save profile in the menu on someone's profile and it shows up here.	لم يتم حفظ أي شيء بعد. عند تفعيل خيار الملفات الشخصية المحفوظة، اضغط على «حفظ الملف الشخصي» في قائمة ملف شخصي لشخص ما ليظهر هنا.
+Remove @%s from saved	إزالة @%s من المحفوظات
+Saved profiles added: %d.	عدد الملفات الشخصية المحفوظة المضافة: %d.
+Choose a file for your installed patches' settings and saved profiles. Your login and history stay on this device.	اختر ملفاً لحفظ إعدادات التصحيحات المثبتة والملفات الشخصية المحفوظة. تظل بيانات تسجيل الدخول والسجل على هذا الجهاز.
+Ask before a follow	طلب التأكيد قبل المتابعة
+Asks before a Follow or Follow back button follows someone or sends them a request, so a stray tap on a profile or in a Followers or Following list doesn't do it for you.	يطلب التأكيد قبل أن يؤدي زر «متابعة» أو «متابعة بالمثل» إلى متابعة شخص أو إرسال طلب إليه، لمنع حدوث ذلك عند لمس ملف شخصي أو قائمة المتابعين أو الحسابات التي تتابعها عن طريق الخطأ.
+Follow @%1$s?	هل تريد متابعة @%1$s؟
+Follow this account?	هل تريد متابعة هذا الحساب؟
+Follow	متابعة
+Sent follow requests	طلبات المتابعة المرسلة
+Keeps a list of the accounts you've asked to follow that haven't let you in yet, from what their follow buttons show while this is on. Nothing extra is asked of Instagram, and the list stays on your phone.	يحتفظ بقائمة الحسابات التي طلبت متابعتها ولم تقبل طلبك بعد، استناداً إلى ما تعرضه أزرار المتابعة أثناء تفعيل الخيار. لا يطلب أي بيانات إضافية من Instagram، وتبقى القائمة على هاتفك.
+Your sent requests	طلباتك المرسلة
+No requests waiting. With Sent follow requests on, a request you send, or one whose follow button you see, shows up here.	لا توجد طلبات معلقة. عند تفعيل خيار طلبات المتابعة المرسلة، يظهر هنا أي طلب ترسله أو يظهر لك زر المتابعة الخاص به.
+Clear sent requests	مسح الطلبات المرسلة
+Forgets every request on the list, for all your accounts. The requests stay sent on Instagram.	يمسح جميع الطلبات الموجودة في القائمة لكل حساباتك. وتظل الطلبات مرسلة على Instagram.
+Sent requests cleared.	تم مسح الطلبات المرسلة.
+Couldn't clear the sent requests. Try again.	تعذر مسح الطلبات المرسلة. حاول مرة أخرى.
+Tap an account to open its profile, where its follow button cancels the request. Instagram asks before it does.	اضغط على حساب لفتح ملفه الشخصي، حيث يتيح زر المتابعة إلغاء الطلب. سيطلب Instagram التأكيد قبل تنفيذ ذلك.
+Remove from the list	إزالة من القائمة
+Removed @%s from the list	تمت إزالة @%s من القائمة
+Open reel links on that reel	فتح روابط Reels على المقطع المقصود
+A reel link opens on the reel it points to. Instagram doesn't play another reel it kept on your phone while that one loads.	يفتح رابط Reels المقطع الذي يشير إليه مباشرة. ولا يشغّل Instagram مقطعاً آخر محفوظاً على هاتفك أثناء تحميل ذلك المقطع.
+Speed in the story menu	سرعة التشغيل في قائمة القصة
+Adds Playback speed to the menu a video story's three dots open, with the same 1x, 1.5x and 2x, and keeps the speed button off the story. Later video stories keep the speed you pick until you change it or restart Instagram.	يضيف خيار سرعة التشغيل إلى القائمة التي تفتحها النقاط الثلاث في قصة فيديو، مع الخيارات نفسها 1x و1.5x و2x، ويزيل زر السرعة من القصة. تحتفظ قصص الفيديو التالية بالسرعة التي تختارها حتى تغيّرها أو تعيد تشغيل Instagram.
+Hide the Create button on saved reels	إخفاء زر الإنشاء في مقاطع Reels المحفوظة
