@@ -117,7 +117,7 @@ jobs:
       - name: Upload verified MPP for review
         uses: actions/upload-artifact@v4
         with:
-          name: hushgram-arabic-mpp
+          name: hushgram-arabic-mpp-review
           path: |
             patches/build/release/*.mpp
             patches/build/release/bundle.sha256
