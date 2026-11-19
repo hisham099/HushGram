@@ -2068,3 +2068,10 @@ Takes the kinds of notifications you tick off the Notifications page. The list f
 %1$d kind of notification is hidden.	تم إخفاء نوع واحد من الإشعارات (%1$d).
 %1$d kinds of notification are hidden.	تم إخفاء %1$d من أنواع الإشعارات.
 No notifications seen yet. Open your notifications in Instagram once, then come back here.	لم يتم رصد أي إشعارات بعد. افتح صفحة الإشعارات في Instagram مرة واحدة، ثم عُد إلى هنا.
+Auto scroll in the reel menu	التمرير التلقائي في قائمة Reels
+Adds Turn on auto scroll or Turn off auto scroll to the menu a reel's three dots open, so one tap changes it from the next reel on. It works on accounts where Instagram doesn't offer auto scroll too. Restart Instagram to see the change.	يضيف خياري «تشغيل التمرير التلقائي» و«إيقاف التمرير التلقائي» إلى القائمة التي تفتحها النقاط الثلاث في مقطع Reels، بحيث يؤدي النقر إلى تغيير الإعداد بدءاً من المقطع التالي. يعمل ذلك أيضاً مع الحسابات التي لا يوفر لها Instagram ميزة التمرير التلقائي. أعد تشغيل Instagram لتطبيق التغيير.
+Turn off auto scroll	إيقاف التمرير التلقائي
+Turn on auto scroll	تشغيل التمرير التلقائي
+Auto scroll on	تم تشغيل التمرير التلقائي
+Auto scroll off	تم إيقاف التمرير التلقائي
+Auto scroll didn't change	لم يتغير إعداد التمرير التلقائي
