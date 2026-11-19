@@ -866,3 +866,76 @@ Cancel saving this voice message	إلغاء حفظ هذه الرسالة الص�
 Download voice messages	تنزيل الرسائل الصوتية
 Following each other	يتابع كل منكما الآخر
 Hide the comment bar on reposted reels	إخفاء شريط التعليق في مقاطع Reels المعاد نشرها
+Bio copied	تم نسخ النبذة
+Copy bio	نسخ النبذة
+Copy username and bio	نسخ اسم المستخدم والنبذة
+Profile extras button	زر إجراءات الملف الشخصي الإضافية
+Puts a button next to the three dots on profiles that opens HushGram's profile actions. Needs Save profile picture, View profile picture or Copy username and bio on. The rows in the three-dot menu stay too.	يضيف زرّاً بجوار النقاط الثلاث في الملفات الشخصية لفتح إجراءات الملف الشخصي في HushGram. يتطلب تفعيل «حفظ صورة الملف الشخصي» أو «عرض صورة الملف الشخصي» أو «نسخ اسم المستخدم والنبذة». وتظل الخيارات موجودة أيضاً في قائمة النقاط الثلاث.
+HushGram profile actions	إجراءات الملف الشخصي في HushGram
+Nothing to do for this profile	لا توجد إجراءات متاحة لهذا الملف الشخصي
+Couldn't copy the bio	تعذر نسخ النبذة
+Couldn't open the picture	تعذر فتح الصورة
+Profile picture	صورة الملف الشخصي
+View profile picture	عرض صورة الملف الشخصي
+Hide carousels	إخفاء المنشورات المتعددة
+Hide photos	إخفاء الصور
+Hide videos	إخفاء الفيديوهات
+Removes every single-photo post from Home, even from accounts you follow. Pull down on Home to refresh after changing it.	يزيل كل منشور يحتوي على صورة واحدة من الصفحة الرئيسية، حتى المنشورات القادمة من الحسابات التي تتابعها. اسحب الصفحة الرئيسية إلى أسفل لتحديثها بعد تغيير هذا الإعداد.
+Removes every single-video post and reel from Home, even from accounts you follow. Pull down on Home to refresh after changing it.	يزيل كل منشور يحتوي على فيديو واحد وكل مقطع Reels من الصفحة الرئيسية، حتى المحتوى القادم من الحسابات التي تتابعها. اسحب الصفحة الرئيسية إلى أسفل لتحديثها بعد تغيير هذا الإعداد.
+Removes every post with more than one photo or video from Home, even from accounts you follow. Pull down on Home to refresh after changing it.	يزيل كل منشور يحتوي على أكثر من صورة أو فيديو من الصفحة الرئيسية، حتى المنشورات القادمة من الحسابات التي تتابعها. اسحب الصفحة الرئيسية إلى أسفل لتحديثها بعد تغيير هذا الإعداد.
+Hide posts you've liked	إخفاء المنشورات التي أعجبتك
+Removes posts you've already liked from Home and Following. A post you like now stays until you pull down on Home to refresh.	يزيل المنشورات التي سبق أن أعجبتك من الصفحة الرئيسية وقائمة «المتابَعون». أما المنشور الذي تسجل إعجابك به الآن فيظل ظاهراً حتى تسحب الصفحة الرئيسية إلى أسفل لتحديثها.
+Hidden accounts	الحسابات المخفية
+Takes posts by the accounts you pick out of Home and Following. Each account you sign in to keeps its own list.	يخفي منشورات الحسابات التي تحددها من الصفحة الرئيسية وقائمة «المتابَعون». ويحتفظ كل حساب تسجل الدخول إليه بقائمته الخاصة.
+No accounts are hidden yet. Add a username to take that account's posts out of Home and Following.	لا توجد حسابات مخفية حتى الآن. أضف اسم مستخدم لإخفاء منشورات ذلك الحساب من الصفحة الرئيسية وقائمة «المتابَعون».
+Add a username	إضافة اسم مستخدم
+Hide their posts	إخفاء منشوراته
+Posts from @%1$s are hidden	تم إخفاء منشورات @%1$s
+@%1$s is hidden in Home and Following	تم إخفاء @%1$s من الصفحة الرئيسية وقائمة «المتابَعون»
+Posts from @%1$s show again	عادت منشورات @%1$s للظهور
+Up to 30 letters, numbers, dots and underscores	حتى 30 حرفاً أو رقماً أو نقطة أو شرطة سفلية
+Hide posts from this account	إخفاء منشورات هذا الحساب
+Couldn't hide this account	تعذر إخفاء هذا الحساب
+%1$d mentions	%1$d من الإشارات
+%1$s, see who this story mentions	%1$s، تعرّف على الأشخاص الذين تشير إليهم هذه القصة
+1 mention	إشارة واحدة
+A story's header says how many accounts it mentions, even when the mention is hidden. Tap that for the list, and tap someone to open their profile.	يعرض رأس القصة عدد الحسابات التي تشير إليها، حتى إذا كانت الإشارة مخفية. اضغط عليه لعرض القائمة، ثم اضغط على أي شخص لفتح ملفه الشخصي.
+Mentioned in this story	تمت الإشارة إليه في هذه القصة
+See who a story mentions	معرفة الأشخاص المشار إليهم في القصة
+Shows every emoji in Google's style instead of your phone's own. Restart Instagram to see the change.	يعرض جميع الرموز التعبيرية بتصميم Google بدلاً من تصميم هاتفك. أعد تشغيل Instagram لرؤية التغيير.
+Google's emoji everywhere	استخدام رموز Google التعبيرية في كل مكان
+Accent color	اللون المميز
+Turns Instagram's blue, on Follow buttons, links and the like, into the color you pick below. Restart Instagram to see the change.	يغيّر اللون الأزرق في Instagram، المستخدم في أزرار المتابعة والروابط وما شابه، إلى اللون الذي تختاره أدناه. أعد تشغيل Instagram لرؤية التغيير.
+Badges in the accent color	الشارات باللون المميز
+The red dots and counts for new messages and notifications take the color you picked. Restart Instagram to see the change.	تستخدم النقاط الحمراء وأعداد الرسائل والإشعارات الجديدة اللون الذي اخترته. أعد تشغيل Instagram لرؤية التغيير.
+Icons in the accent color	الأيقونات باللون المميز
+Instagram's icons on the top bar, the tab bar and under posts take the color you picked. Text stays as it is. Restart Instagram to see the change.	تستخدم أيقونات Instagram في الشريط العلوي وشريط علامات التبويب وأسفل المنشورات اللون الذي اخترته، بينما يظل النص كما هو. أعد تشغيل Instagram لرؤية التغيير.
+Story rings in the accent color	حلقات القصص باللون المميز
+Story rings take the color you picked instead of Instagram's gradient. A few other gradients share those colors and change with them. Restart Instagram to see the change.	تستخدم حلقات القصص اللون الذي اخترته بدلاً من تدرج Instagram. وتتغير معه بعض التدرجات اللونية الأخرى التي تشترك معه في الألوان. أعد تشغيل Instagram لرؤية التغيير.
+Solid story rings	حلقات قصص بلون موحد
+Story rings are one solid shade of the color you picked instead of running light to dark. Restart Instagram to see the change.	تظهر حلقات القصص بدرجة موحدة من اللون الذي اخترته بدلاً من التدرج من الفاتح إلى الداكن. أعد تشغيل Instagram لرؤية التغيير.
+Backgrounds in the accent color	الخلفيات باللون المميز
+Screens, panels, cards and menus take a dark or light shade of the color you picked. Story and reel viewers keep their own background. Wins over Pure black dark mode. Restart Instagram to see the change.	تستخدم الشاشات واللوحات والبطاقات والقوائم درجة داكنة أو فاتحة من اللون الذي اخترته. وتحتفظ شاشات عرض القصص ومقاطع Reels بخلفياتها الخاصة. يتقدم هذا الخيار على الوضع الداكن بالأسود الخالص. أعد تشغيل Instagram لرؤية التغيير.
+Classic colors	الألوان الكلاسيكية
+Dark mode turns navy blue with charcoal gray panels, and light mode turns off-white. Story and reel viewers keep their own background. Wins over Pure black dark mode and Backgrounds in the accent color. Restart Instagram to see the change.	يصبح الوضع الداكن باللون الأزرق الكحلي مع لوحات رمادية فحمية، بينما يصبح الوضع الفاتح بلون أبيض مائل إلى العاجي. وتحتفظ شاشات عرض القصص ومقاطع Reels بخلفياتها الخاصة. يتقدم هذا الخيار على الوضع الداكن بالأسود الخالص والخلفيات باللون المميز. أعد تشغيل Instagram لرؤية التغيير.
+Color	اللون
+Instagram blue	أزرق Instagram
+Purple	بنفسجي
+Pink	وردي
+Red	أحمر
+Orange	برتقالي
+Green	أخضر
+Teal	أزرق مخضر
+Material You	Material You
+Material You needs Android 12 or newer, so Instagram's blue stays.	يتطلب Material You نظام Android 12 أو أحدث، لذلك سيظل لون Instagram الأزرق كما هو.
+HushGram launch screen	شاشة بدء HushGram
+Shows HushGram's logo instead of Instagram's on the screen you see while Instagram starts, on Android 13 and newer. It shows from the next start.	يعرض شعار HushGram بدلاً من شعار Instagram على شاشة بدء التطبيق في Android 13 والإصدارات الأحدث. يظهر التغيير عند التشغيل التالي.
+Download video covers	تنزيل أغلفة الفيديوهات
+Adds Download cover to the menu of a feed post with a video, and of a carousel showing one. It saves the still picture shown before the video plays, at its largest size.	يضيف خيار «تنزيل الغلاف» إلى قائمة منشور في الموجز يحتوي على فيديو، وكذلك إلى المنشور المتعدد عند عرض فيديو. ويحفظ الصورة الثابتة التي تظهر قبل تشغيل الفيديو بأكبر حجم متاح.
+Download button on feed posts	زر التنزيل في منشورات الموجز
+Puts a download icon in the row under a post, left of Save, so one tap saves it without opening the menu. On a carousel it asks for this page or all of them. Needs Download feed videos or photos.	يضيف أيقونة تنزيل في الصف أسفل المنشور، إلى يسار زر الحفظ، ليكفي الضغط عليها مرة واحدة لحفظه دون فتح القائمة. وفي المنشورات المتعددة، يتيح اختيار حفظ الصفحة الحالية أو جميع الصفحات. يتطلب تفعيل تنزيل فيديوهات الموجز أو صوره.
+Download button on reels	زر التنزيل في مقاطع Reels
+Puts a download icon under Save beside a reel, so one tap saves it the way Download in its menu does. Needs Download on reels.	يضيف أيقونة تنزيل أسفل زر الحفظ بجوار مقطع Reels، بحيث يؤدي الضغط عليها مرة واحدة إلى حفظه كما يفعل خيار التنزيل في قائمته. يتطلب تفعيل التنزيل في Reels.
+Ask what to save	السؤال عما تريد حفظه
+A tap on the download icon beside a reel lets you pick the reel, its cover or its sound, whichever it has.	يتيح الضغط على أيقونة التنزيل بجوار مقطع Reels اختيار المقطع أو غلافه أو صوته، بحسب المحتوى المتاح.
+Nothing to download on this post	لا يوجد ما يمكن تنزيله في هذا المنشور
