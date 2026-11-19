@@ -346,6 +346,10 @@ Stop swipe to create	禁用滑动创建
 Full resolution photos	完整分辨率照片
 Loads photos in your feed, carousels and opened posts at the largest size Instagram offers. This can use more data.	以 Instagram 提供的最大尺寸加载动态首页、轮播帖子及已打开帖子中的照片。可能会使用更多数据。
 A sideways swipe on Home no longer opens the camera. The + button and every other way into the camera still work.	在首页左右滑动不再打开相机。+ 按钮及其他打开相机的方式仍可使用。
+# context: a switch in HushGram settings > Feed, right after Stop swipe to create; Messages is Instagram's inbox, named as in Swipe left for Messages (#770)
+Stop swipe to Messages	禁用滑动打开消息
+# context: summary under Stop swipe to Messages; the Messages button is the inbox button at the top of Home or on the tab bar (#770)
+A swipe left on Home no longer opens Messages. The Messages button still does.	在首页向左滑不再打开消息。消息按钮仍可使用。
 Swipe left for Messages	向左滑打开消息
 Swiping left on Home opens Messages, like Instagram used to. Carousels and the stories row still slide as before.	在首页向左滑会打开消息，就像以前的 Instagram。轮播帖子和快拍栏仍可照常滑动。
 Meta AI	Meta AI
@@ -2153,6 +2157,10 @@ Takes the song, the place and the other labels off the line under the name on po
 # context: "Sponsored" and "Paid partnership" are Instagram's own labels on reels; use the text Instagram shows in this language (#771)
 Hide the line under names on reels	隐藏 Reels 名称下方那一行
 Takes the song, the place and the other labels off the line under the name on reels. Sponsored and Paid partnership stay. Reels already on screen change when they load again.	移除 Reels 名称下方那一行的歌曲、地点和其他标签。“赞助内容”和“付费合作”会保留。屏幕上已有的 Reels 会在重新加载时改变。
+# context: a switch in HushGram settings > Reels; Not interested and Interested are the two buttons Instagram shows under a reel, named as in the Feed row's 'Are you interested?' summary (#769)
+Hide Not interested and Interested	隐藏“不感兴趣”和“感兴趣”
+# context: summary under Hide Not interested and Interested on the Reels page (#769)
+Hides the Not interested and Interested buttons at the bottom of a reel. Nothing is answered for you.	隐藏 Reels 底部的“不感兴趣”和“感兴趣”按钮。不会代你作答。
 # context: a switch on the Feed page; Save and Remove from saved are the rows it adds to a feed post's three-dot menu
 Save in the post menu	帖子菜单中的保存
 Adds Save to the menu behind a post's three dots, or Remove from saved when you saved it already.	在帖子三个点打开的菜单中加入“保存”，已保存的帖子则显示“从已保存移除”。

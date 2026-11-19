@@ -341,6 +341,10 @@ Stop swipe to create	Parar de deslizar para criar
 Full resolution photos	Fotos em resolução máxima
 Loads photos in your feed, carousels and opened posts at the largest size Instagram offers. This can use more data.	Carrega as fotos do seu feed, dos carrosséis e dos posts abertos no maior tamanho que o Instagram oferece. Pode gastar mais dados.
 A sideways swipe on Home no longer opens the camera. The + button and every other way into the camera still work.	Deslizar para o lado no Início não abre mais a câmera. O botão + e as outras formas de abrir a câmera continuam funcionando.
+# context: a switch in HushGram settings > Feed, right after Stop swipe to create; Messages is Instagram's inbox, named as in Swipe left for Messages (#770)
+Stop swipe to Messages	Parar de deslizar para Mensagens
+# context: summary under Stop swipe to Messages; the Messages button is the inbox button at the top of Home or on the tab bar (#770)
+A swipe left on Home no longer opens Messages. The Messages button still does.	Deslizar para a esquerda no Início não abre mais Mensagens. O botão de Mensagens continua funcionando.
 Swipe left for Messages	Deslize para a esquerda para Mensagens
 Swiping left on Home opens Messages, like Instagram used to. Carousels and the stories row still slide as before.	Deslizar para a esquerda no Início abre Mensagens, como o Instagram fazia antes. Carrosséis e a fileira de stories continuam deslizando como sempre.
 Meta AI	Meta AI
@@ -2150,6 +2154,10 @@ Takes the song, the place and the other labels off the line under the name on po
 # context: "Sponsored" and "Paid partnership" are Instagram's own labels on reels; use the text Instagram shows in this language (#771)
 Hide the line under names on reels	Ocultar a linha abaixo dos nomes nos reels
 Takes the song, the place and the other labels off the line under the name on reels. Sponsored and Paid partnership stay. Reels already on screen change when they load again.	Tira a música, o local e os outros rótulos da linha abaixo do nome nos reels. "Patrocinado" e "Parceria paga" ficam. Reels que já estão na tela mudam quando carregam de novo.
+# context: a switch in HushGram settings > Reels; Not interested and Interested are the two buttons Instagram shows under a reel, named as in the Feed row's 'Are you interested?' summary (#769)
+Hide Not interested and Interested	Ocultar Não tenho interesse e Tenho interesse
+# context: summary under Hide Not interested and Interested on the Reels page (#769)
+Hides the Not interested and Interested buttons at the bottom of a reel. Nothing is answered for you.	Oculta os botões Não tenho interesse e Tenho interesse na parte de baixo de um reel. Nada é respondido por você.
 # context: a switch on the Feed page; Save and Remove from saved are the rows it adds to a feed post's three-dot menu
 Save in the post menu	Salvar no menu do post
 Adds Save to the menu behind a post's three dots, or Remove from saved when you saved it already.	Adiciona Salvar ao menu dos três pontos de um post, ou Remover dos salvos quando você já salvou.

@@ -6,6 +6,8 @@ Every HushGram release, newest first.
 
 ### Improvements
 
+* `Hide Not interested and Interested` is new under Reels and takes those two buttons off the bottom of a reel. `Hide 'Are you interested?' bubbles` under Feed covers Home only now. If you had it on, the Reels one starts on too, so nothing comes back after the update. Asked for in #769.
+* `Stop swipe to Messages` is new under Feed, right after `Stop swipe to create`. On the classic tab bar a swipe left on Home slides Messages in, and with this on it doesn't. The Messages button still opens it, and `Swipe left to open the profile` on Reels keeps working. Starts off. Asked for in #770.
 * `Expand captions` is a new patch under Feed. Posts in your feed show their whole caption, with no "more" to tap. Pick `Caption lines before more` to get a set number of lines instead, from one to ten, and a longer caption ends with "more" like before. Reels and stories keep Instagram's short captions. Starts off. Requested in #771.
 * `Hide the line under names` is a new patch under Feed. It takes the song, the place and Instagram's other labels off the line under the name on feed posts, so nothing slides there anymore and the name sits on its own. Reels get a switch of their own under Reels, `Hide the line under names on reels`, for the song and the labels that take turns under a reel's author. Sponsored and Paid partnership stay on both. Both start off. Requested in #771.
 * `Hide Followers and Following on profiles` is a new patch under Profiles with two switches. `Hide follower counts` takes the numbers off Followers and Following at the top of a profile and leaves the words, which still open the lists. `Hide Followers and Following` takes both buttons away and the row closes up, so there's no gap. The post count stays either way. Both start off. Requested in #771.
@@ -27,6 +29,7 @@ Every HushGram release, newest first.
 * Tap to play's `Where videos wait` can treat Explore on its own now, with four new picks, `Everywhere but Explore`, `Only in Explore`, `Reels and Explore` and `Everywhere but Reels and Explore`. Reels opened from Explore count as Reels. Asked for in #762.
 * The video under the HushGram settings pauses while they're open, so it stops playing and loading where you can't see it. Closing the settings plays it again, and a video you'd tapped with Tap to play on stays tapped. Asked for in #762.
 * `Light settings page` sits under `Black settings page` in Settings entry. It turns the HushGram settings and the pages they open white, with dark text and status bar icons. The rest of Instagram keeps its own look. Asked for in #762.
+* In Manager's Expert mode the six comment patches have a Comments group of their own now, like the Comments page in HushGram settings, and `HushGram launch screen` moved to Settings. Interaction and Interface were getting too long to scan.
 * **Tooling:** The GitHub release notes leave out the Tooling bullets and the What was checked part now. They're still here in the changelog, and Manager's notes keep their Validation line.
 
 ### Bug Fixes

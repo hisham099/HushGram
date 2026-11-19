@@ -2630,3 +2630,8 @@ Hide Followers and Following	إخفاء «المتابعون» و«يتابع»
 Takes the Followers and Following buttons off the top of profiles, yours included, with no gap left. The post count stays.	يزيل زري «المتابعون» و«يتابع» من أعلى الملفات الشخصية، بما في ذلك ملفك الشخصي، دون ترك فراغ مكانهما. ويظل عدد المنشورات ظاهراً.
 Hide the line under names on reels	إخفاء السطر أسفل الأسماء في Reels
 Takes the song, the place and the other labels off the line under the name on reels. Sponsored and Paid partnership stay. Reels already on screen change when they load again.	يزيل اسم الأغنية والموقع والملصقات الأخرى من السطر أسفل اسم صاحب مقطع Reels. وتظل علامتا «مموّل» و«شراكة مدفوعة» ظاهرتين. وتتغير المقاطع المعروضة بالفعل عند إعادة تحميلها.
+
+# context: a switch in HushGram settings > Reels; Not interested and Interested are the two buttons Instagram shows under a reel (#769)
+Hide Not interested and Interested	إخفاء زري «غير مهتم» و«مهتم»
+# context: summary under Hide Not interested and Interested on the Reels page (#769)
+Hides the Not interested and Interested buttons at the bottom of a reel. Nothing is answered for you.	يخفي زري «غير مهتم» و«مهتم» أسفل مقطع Reels، دون اختيار أيٍّ منهما نيابةً عنك.
