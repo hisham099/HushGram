@@ -3,6 +3,7 @@ name: Arabic localization and MPP
 on:
   push:
     branches:
+      - main
       - full-arabic-localization
     paths:
       - "extensions/shared/library/src/main/l10n/**"
@@ -18,6 +19,7 @@ on:
       - ".github/workflows/arabic-localization-mpp.yml"
   pull_request:
     branches:
+      - main
       - full-arabic-localization
     paths:
       - "extensions/shared/library/src/main/l10n/**"
@@ -49,7 +51,7 @@ jobs:
       - name: Check out the requested branch
         uses: actions/checkout@v4
         with:
-          ref: ${{ github.event.pull_request.head.sha || 'full-arabic-localization' }}
+          ref: ${{ github.event.pull_request.head.sha || github.ref_name }}
           fetch-depth: 0
 
       - name: Set up Python
@@ -82,7 +84,7 @@ jobs:
           git diff --cached --check
           if ! git diff --cached --quiet; then
             git commit -m "chore(l10n): generate Arabic translation tables"
-            git push origin HEAD:full-arabic-localization
+            git push origin "HEAD:${GITHUB_REF_NAME}"
           fi
 
       - name: Build and verify Morphe Patch Bundle
