@@ -1680,3 +1680,67 @@ Your font	خطك
 Center the header text	توسيط النص في الشريط العلوي
 Puts your words or picture in the middle of the top of Home instead of where Instagram puts its logo.	يضع النص أو الصورة في منتصف الجزء العلوي من الصفحة الرئيسية بدلاً من موضع شعار Instagram.
 Takes the little round pictures off posts and reels that show a friend liked, commented on or reshared them. Posts already on screen change when they load again.	يزيل الصور الدائرية الصغيرة من المنشورات ومقاطع Reels التي تُظهر أن صديقاً أعجب بها أو علّق عليها أو أعاد نشرها. وتتغير المنشورات الظاهرة بالفعل عند إعادة تحميلها.
+Preview chats	معاينة المحادثات
+Long press a chat in your messages and tap Preview to read its newest messages without opening it, so nobody sees Seen. You can reply from there too.	اضغط مطولاً على محادثة في الرسائل، ثم اختر «معاينة» لقراءة أحدث رسائلها دون فتحها، حتى لا يظهر للطرف الآخر أنك شاهدتها. ويمكنك الرد من هناك أيضاً.
+Preview	معاينة
+Write a message	اكتب رسالة
+Loading	جارٍ التحميل
+Nothing here yet	لا يوجد شيء هنا بعد
+Couldn't load this chat	تعذر تحميل هذه المحادثة
+Sent	تم الإرسال
+Couldn't send	تعذر الإرسال
+Photo or video	صورة أو فيديو
+GIF or sticker	صورة GIF أو ملصق
+View once message	رسالة لمرة واحدة
+Attachment	مرفق
+Send	إرسال
+Dim stories too	تعتيم القصص أيضاً
+Burn-in guard also fades the top and bottom of a story while you watch without touching, the eye button too. Any tap brings them back.	تعمل ميزة الحماية من احتراق الشاشة على تخفيف سطوع أعلى القصة وأسفلها أيضاً أثناء المشاهدة دون لمس الشاشة، بما في ذلك زر العين. وتعيد أي لمسة العناصر إلى سطوعها الطبيعي.
+Speed button on reels	زر سرعة التشغيل في Reels
+Puts a speed icon beside a reel. Tap it to pick a speed from 0.5x to 3x. With Keep the reel speed on, the next reels play at it too.	يضيف رمز سرعة بجوار مقطع Reels. اضغط عليه لاختيار سرعة من 0.5x إلى 3x. عند تفعيل خيار الاحتفاظ بسرعة المقطع، تعمل المقاطع التالية بالسرعة نفسها أيضاً.
+Speed in the reel menu	سرعة التشغيل في قائمة Reels
+Adds Playback speed to the menu a reel's three dots open. Pick a speed there from 0.5x to 3x. With Keep the reel speed on, the next reels play at it too.	يضيف خيار سرعة التشغيل إلى القائمة التي تفتحها النقاط الثلاث في مقطع Reels. اختر سرعة من 0.5x إلى 3x. عند تفعيل خيار الاحتفاظ بسرعة المقطع، تعمل المقاطع التالية بالسرعة نفسها أيضاً.
+Full screen button on reels	زر ملء الشاشة في Reels
+Puts a Full screen icon beside a reel, so one tap does what Full screen in its menu does. Start every reel in clear mode opens every reel that way.	يضيف رمز ملء الشاشة بجوار مقطع Reels، بحيث يؤدي النقر عليه إلى تنفيذ وظيفة خيار ملء الشاشة في قائمة المقطع. ويؤدي خيار بدء كل مقطع بالوضع الواضح إلى فتح جميع المقاطع بهذه الطريقة.
+Playback speed	سرعة التشغيل
+Full screen	ملء الشاشة
+Speed didn't change	لم تتغير سرعة التشغيل
+Full screen didn't open	تعذر فتح وضع ملء الشاشة
+Stories fill the screen	القصص تملأ الشاشة
+On a tall screen a story covers the whole screen, with the reply bar on top of it like on shorter phones, instead of a rounded card above the bar.	على الشاشات الطويلة، تملأ القصة الشاشة بالكامل، ويظهر شريط الرد فوقها كما في الهواتف الأقصر، بدلاً من عرض القصة كبطاقة مستديرة فوق الشريط.
+Copy all	نسخ الكل
+Copied	تم النسخ
+Comment	تعليق
+Couldn't open the text	تعذر فتح النص
+Select text	تحديد النص
+Select text to copy	تحديد النص لنسخه
+Adds Select text to a selected comment's menu, a post's details and a profile's menu. It opens the text in a window where you can select part of it and copy it. Links work there.	يضيف خيار «تحديد النص» إلى قائمة التعليق المحدد وتفاصيل المنشور وقائمة الملف الشخصي. يفتح النص في نافذة تتيح لك تحديد جزء منه ونسخه. وتعمل الروابط داخلها.
+Unfollow alerts	تنبيهات إلغاء المتابعة
+Who stopped following you, after you open your Followers list	الحسابات التي ألغت متابعتك بعد فتح قائمة متابعيك
+1 person stopped following you	ألغى شخص واحد متابعتك
+%1$d people stopped following you	ألغى %1$d أشخاص متابعتك
+%1$s and %2$d more	%1$s و%2$d آخرين
+Notify me of unfollowers	إشعاري عند إلغاء المتابعة
+After you scroll your own Followers list to the end, posts a notification naming who has left since last time. Nothing extra is asked of Instagram.	بعد وصولك إلى نهاية قائمة متابعيك، يعرض إشعاراً بأسماء الحسابات التي ألغت متابعتك منذ المرة السابقة. ولا يطلب أي بيانات إضافية من Instagram.
+About this account	حول هذا الحساب
+About this account button	زر «حول هذا الحساب»
+Puts an (i) next to the three dots on a profile that opens Instagram's About this account for that account. Instagram took its own away.	يضيف رمز (i) بجوار النقاط الثلاث في الملف الشخصي لفتح صفحة «حول هذا الحساب» الخاصة به في Instagram، بعد إزالة Instagram لزرها الأصلي.
+Hide reels in other languages	إخفاء مقاطع Reels باللغات الأخرى
+Leaves out reels in the Reels tab whose caption is in a language you didn't list below. A caption too short to tell, or a reel you open yourself, still shows.	يخفي من علامة تبويب Reels المقاطع التي كُتب وصفها بلغة لم تدرجها أدناه. وتظل المقاطع ذات الأوصاف القصيرة جداً لتحديد اللغة، أو التي تفتحها بنفسك، ظاهرة.
+Languages to keep	اللغات المطلوب الإبقاء عليها
+Language codes or names, with a comma or a new line between them, like en, Hindi or Español. Leave it empty to keep your phone's languages.	أدخل رموز اللغات أو أسماءها، وافصل بينها بفاصلة أو سطر جديد، مثل en أو Hindi أو Español. اترك الحقل فارغاً للإبقاء على لغات هاتفك.
+Leaves out posts on Home whose caption is in another language too. Pull down on Home to refresh after changing it.	يخفي أيضاً المنشورات في الصفحة الرئيسية التي كُتب وصفها بلغة أخرى. اسحب الصفحة الرئيسية إلى الأسفل لتحديثها بعد تغيير هذا الخيار.
+Keeps %1$s	يُبقي %1$s
+Keeps your phone's languages: %1$s	يُبقي لغات هاتفك: %1$s
+Keeps %1$s. Didn't recognize: %2$s	يُبقي %1$s. لم يتم التعرف على: %2$s
+Didn't recognize: %1$s	لم يتم التعرف على: %1$s
+Keep playing in the background	متابعة التشغيل في الخلفية
+A video or reel playing with sound keeps going when you leave Instagram or turn the screen off. A notification lets you pause or stop it.	يستمر تشغيل الفيديو أو مقطع Reels المصحوب بالصوت عند مغادرة Instagram أو إطفاء الشاشة. يتيح لك إشعار إيقافه مؤقتاً أو إيقافه نهائياً.
+Background playback	التشغيل في الخلفية
+The video playing while Instagram is in the background, with buttons to pause or stop it	الفيديو الذي يعمل أثناء وجود Instagram في الخلفية، مع أزرار لإيقافه مؤقتاً أو نهائياً
+Playing in the background	يعمل في الخلفية
+Paused in the background	متوقف مؤقتاً في الخلفية
+Play	تشغيل
+Stop	إيقاف
+Can slow down older phones.	قد يؤدي إلى إبطاء الهواتف القديمة.
+Blend post edges	مزج حواف المنشورات
