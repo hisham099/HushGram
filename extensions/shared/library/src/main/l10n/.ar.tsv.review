@@ -386,4 +386,133 @@ People you're chatting with don't see the typing dots while you write, and you s
 Hide your active status	إخفاء حالة النشاط
 People don't see Active now for you while you use Instagram, and you still see when they're active. It takes effect the next time you come back to Instagram.	لن يرى الآخرون أنك نشط الآن أثناء استخدام Instagram، وستظل ترى متى يكونون نشطين. يبدأ تطبيق هذا التغيير عند عودتك إلى Instagram في المرة التالية.
 Start Home on Following	فتح الصفحة الرئيسية على «المتابَعون»
-Opens Home on posts from accounts you follow instead of For you. Tap the top of Home to switch. Restart Instagram to see the change.	يفتح الصفحة الرئيسية على منشورات الحسابات التي تتابعها بدلاً من قسم «لك». اضغط أعلى الصفحة الرئيسية للتبديل. أعد تشغيل Instagram لرؤية التغيير.
+Opens Home on posts from accounts you follow instead of For you. Tap the top of Home to switch. Restart Instagram to see the change.	يفتح الصفحة الرئيسية على منشورات الحسابات التي تتابعها بدلاً من قسم «لك». اضغط أعلى الصفحة الرئيسية للتبديل. أعد تشغيل Instagram لرؤية التغيير.Hide suggested stories	إخفاء القصص المقترحة
+Hides stories from accounts you don't follow, and accounts Instagram suggests, in the row at the top of Home. Stories from accounts you follow stay.	يخفي من الشريط أعلى الصفحة الرئيسية قصص الحسابات التي لا تتابعها والحسابات التي يقترحها Instagram. وتظل قصص الحسابات التي تتابعها ظاهرة.
+Hide the Stories tray	إخفاء شريط القصص
+Takes the whole row of stories off the top of Home, Your story included. Stories still open from a profile or a message.	يزيل صف القصص بالكامل من أعلى الصفحة الرئيسية، بما في ذلك قصتك. وتظل القصص قابلة للفتح من ملف شخصي أو رسالة.
+Keep the Stories tray in the feed	إبقاء شريط القصص ضمن الموجز
+Stops Instagram from floating the row of stories over Home when you come back to it mid-feed or scroll up fast. The row stays at the top of the feed and scrolls away with it.	يمنع Instagram من عرض صف القصص عائماً فوق الصفحة الرئيسية عند العودة إليها من منتصف الموجز أو التمرير سريعاً إلى الأعلى. يظل الصف في أعلى الموجز ويتحرك معه أثناء التمرير.
+Hide the Music for you card	إخفاء بطاقة «موسيقى من أجلك»
+Keeps Instagram's Music for you card from turning up between the stories you watch. The stories themselves stay.	يمنع ظهور بطاقة «موسيقى من أجلك» من Instagram بين القصص التي تشاهدها. وتظل القصص نفسها ظاهرة.
+Hide Suggested for you between stories	إخفاء «مقترح لك» بين القصص
+Leaves out the Suggested for you cards of accounts to follow that Instagram puts between the stories you tap through. The stories themselves stay.	يخفي بطاقات الحسابات المقترحة للمتابعة التي يضعها Instagram بين القصص التي تتصفحها. وتظل القصص نفسها ظاهرة.
+Hide Add Yours cards between stories	إخفاء بطاقات «أضف بطاقتك» بين القصص
+Leaves out the Add Yours cards, like Popular Add Yours and Join a trending Add Yours, that Instagram puts between the stories you tap through. The stories themselves stay.	يخفي بطاقات «أضف بطاقتك»، مثل البطاقات الشائعة أو الدعوات إلى المشاركة في صيحة رائجة، التي يضعها Instagram بين القصص التي تتصفحها. وتظل القصص نفسها ظاهرة.
+Download feed photos	تنزيل صور الموجز
+The same Download on a photo post, and on a carousel showing a photo. Saves the largest size Instagram has.	يضيف خيار «تنزيل» نفسه إلى منشور الصور وإلى الدوّارة عند عرض صورة. ويحفظ أكبر حجم متاح لدى Instagram.
+Save photos at full size	حفظ الصور بالحجم الكامل
+Download feed photos saves a photo at the size it was posted, not the 1080 pixel copy Instagram shows. Grid pictures load larger too, which uses more data. Restart Instagram to see the change.	يحفظ خيار تنزيل صور الموجز الصورة بالحجم الذي نُشرت به، وليس بنسخة 1080 بكسل التي يعرضها Instagram. كما تُحمّل صور الشبكة بحجم أكبر، ما يستهلك مزيداً من البيانات. أعد تشغيل Instagram لرؤية التغيير.
+the start-up fix for x86 devices	إصلاح بدء التشغيل لأجهزة x86
+# context: toasts when a long press of Home gave up waiting on Instagram's developer options to load
+Pure black dark mode	الوضع الداكن باللون الأسود الخالص
+Instagram's dark mode uses pure black instead of its near-black gray, and so do the menus that slide up from the bottom. Buttons keep their own grays.	يستخدم الوضع الداكن في Instagram اللون الأسود الخالص بدلاً من الرمادي الداكن القريب من الأسود، وينطبق ذلك أيضاً على القوائم التي تنزلق من أسفل الشاشة. وتحتفظ الأزرار بدرجات الرمادي الخاصة بها.
+Pure black dark mode isn't in this build	الوضع الداكن باللون الأسود الخالص غير متاح في هذا الإصدار
+To make dark mode pure black instead of dark gray, which can save battery on an OLED screen, pick Pure black dark mode in Morphe Manager the next time you patch Instagram.	لجعل الوضع الداكن أسود خالصاً بدلاً من الرمادي الداكن، ما قد يوفر طاقة البطارية على شاشات OLED، اختر «الوضع الداكن باللون الأسود الخالص» في Morphe Manager عند تطبيق التصحيحات على Instagram في المرة القادمة.
+the pure black dark mode	الوضع الداكن باللون الأسود الخالص
+No Play Store updates	منع تحديثات Play Store
+Google Play won't offer Meta's updates over this build. To go back to the normal Instagram, uninstall this one first, which deletes Instagram's data on this phone. Later HushGram builds need Change version code too, or they won't install over this one.	لن يعرض Google Play تحديثات Meta لهذا الإصدار. للعودة إلى Instagram العادي، أزل تثبيت هذا الإصدار أولاً، مع العلم أن ذلك سيحذف بيانات Instagram من هذا الهاتف. وستحتاج إصدارات HushGram اللاحقة أيضاً إلى خيار تغيير رمز الإصدار، وإلا فلن تُثبّت فوق هذا الإصدار.
+the raised version code	رمز الإصدار الذي تمت زيادته
+Sharing	المشاركة
+Hide group buttons	إخفاء أزرار المجموعات
+Leaves New group out of the share sheet, and the button that sends to the people you picked as a group. Send separately stays, and you can still start a group from your messages.	يخفي خيار «مجموعة جديدة» من نافذة المشاركة، وكذلك الزر الذي يرسل المحتوى إلى الأشخاص الذين اخترتهم كمجموعة. يظل خيار الإرسال بشكل منفصل متاحاً، ويمكنك إنشاء مجموعة من الرسائل كالمعتاد.
+Hide the search bar	إخفاء شريط البحث
+Takes the search bar off the top of the share sheet. The people you can send to still show.	يزيل شريط البحث من أعلى نافذة المشاركة. وتظل أسماء الأشخاص الذين يمكنك الإرسال إليهم ظاهرة.
+Story ring size	حجم حلقات القصص
+Hide rings outside the stories row	إخفاء الحلقات خارج صف القصص
+Takes the story and live rings off profile pictures on posts, comments, reels and profiles. The pictures stay, and so do the rings in the stories row.	يزيل حلقات القصص والبث المباشر من صور الملفات الشخصية في المنشورات والتعليقات ومقاطع Reels والملفات الشخصية. وتظل الصور والحلقات في صف القصص ظاهرة.
+Draws the rings in the stories row at the top of Home at the size below, and the rings of stories you haven't watched in the color below. Story rings take the thickness below. Restart Instagram to see a change.	يعرض الحلقات في صف القصص أعلى الصفحة الرئيسية بالحجم المحدد أدناه، ويعرض حلقات القصص التي لم تشاهدها باللون المحدد أدناه. ويستخدم حلقات القصص السُمك المحدد أدناه. أعد تشغيل Instagram لرؤية التغيير.
+Ring size	حجم الحلقة
+Instagram's size	حجم Instagram
+The rings are the size Instagram picks for your screen.	تكون الحلقات بالحجم الذي يختاره Instagram لشاشتك.
+The rings are %1$s of the size Instagram picks for your screen.	يبلغ حجم الحلقات %1$s من الحجم الذي يختاره Instagram لشاشتك.
+# context: Stories list under Story ring size; it picks the color of the ring around a story you haven't watched
+Ring color	لون الحلقة
+Instagram's colors	ألوان Instagram
+# context: two more colors in the Ring color list, beside Purple, Red and Orange
+Blue	أزرق
+Gold	ذهبي
+Hide the Repost button	إخفاء زر إعادة النشر
+Takes Repost and its count off posts and reels, so nothing gets reposted to your followers by mistake. Share still sends a post or reel to someone.	يزيل خيار إعادة النشر وعدّاده من المنشورات ومقاطع Reels، حتى لا تعيد نشر شيء لمتابعيك عن طريق الخطأ. ويظل خيار المشاركة يتيح إرسال منشور أو مقطع Reels إلى شخص آخر.
+Layout	التخطيط
+Remove the empty space at the bottom	إزالة المساحة الفارغة في الأسفل
+Removes the empty gap under Instagram's tab bar that appears when your phone hides its navigation bar or Instagram is in a pop-up window. Restart Instagram to see the change.	يزيل الفراغ أسفل شريط علامات التبويب في Instagram، الذي يظهر عندما يخفي هاتفك شريط التنقل أو عند تشغيل Instagram في نافذة منبثقة. أعد تشغيل Instagram لرؤية التغيير.
+Only accounts you follow	الحسابات التي تتابعها فقط
+Removes For you from the choices at the top of Home, so it stays on Following or Favorites. Needs Start Home on Following. Restart Instagram to see the change.	يزيل خيار «لك» من الاختيارات أعلى الصفحة الرئيسية، لتظل الصفحة على «المتابَعون» أو «المفضلة». يتطلب تفعيل «فتح الصفحة الرئيسية على المتابَعون». أعد تشغيل Instagram لرؤية التغيير.
+Instagram logo on Home	شعار Instagram على الصفحة الرئيسية
+Keeps Instagram's logo at the top of Home in place of the feed's name. Tap it to switch feeds. Restart Instagram to see the change.	يُبقي شعار Instagram أعلى الصفحة الرئيسية بدلاً من اسم الموجز. اضغط عليه للتبديل بين الموجزات. أعد تشغيل Instagram لرؤية التغيير.
+Profiles	الملفات الشخصية
+Show if a profile follows you	إظهار ما إذا كان الملف الشخصي يتابعك
+Adds Follows you or Doesn't follow you beside the name on someone's profile, after their pronouns if they've set any. Nothing shows until Instagram has checked.	يضيف عبارة «يتابعك» أو «لا يتابعك» بجوار الاسم في الملف الشخصي لشخص ما، بعد الضمائر إن كان قد حددها. لن تظهر العبارة حتى يتحقق Instagram من ذلك.
+Mark who doesn't follow you back	تحديد من لا يتابعك بالمقابل
+On your own Following list, adds Doesn't follow you before the name of each account that doesn't follow you back. Nothing shows until Instagram has checked.	يضيف عبارة «لا يتابعك» قبل اسم كل حساب لا يتابعك بالمقابل في قائمة الحسابات التي تتابعها. لن تظهر العبارة حتى يتحقق Instagram من ذلك.
+Put accounts that don't follow you back first	عرض الحسابات التي لا تتابعك بالمقابل أولاً
+On your own Following list, moves the accounts that don't follow you back to the top and keeps Instagram's order within each group. Accounts Instagram hasn't checked yet stay below.	ينقل الحسابات التي لا تتابعك بالمقابل إلى أعلى قائمة الحسابات التي تتابعها، مع الحفاظ على ترتيب Instagram داخل كل مجموعة. وتظل الحسابات التي لم يتحقق Instagram منها بعد في الأسفل.
+Follows you	يتابعك
+Doesn't follow you	لا يتابعك
+Hide suggested people	إخفاء الأشخاص المقترحين
+Takes Suggested for you and the Discover people button off profiles, yours included. Bios, counts, posts and follower lists stay.	يزيل قسم «مقترح لك» وزر «اكتشاف أشخاص» من الملفات الشخصية، بما في ذلك ملفك. وتظل النبذات والأعداد والمنشورات وقوائم المتابعين ظاهرة.
+Hide Suggested for you on follow lists	إخفاء «مقترح لك» في قوائم المتابعة
+Leaves the Suggested for you section off the followers, following and mutual lists and the screen where you approve follow requests, and the Suggested tab off other people's follow lists. Every account in the lists and every real request stays.	يزيل قسم «مقترح لك» من قوائم المتابعين والحسابات التي تتابعها والمتابعين المشتركين، ومن شاشة الموافقة على طلبات المتابعة، كما يزيل علامة تبويب «المقترحات» من قوائم متابعة الآخرين. وتظل جميع الحسابات والطلبات الفعلية ظاهرة.
+Hide Complete your profile	إخفاء «أكمل ملفك الشخصي»
+Takes the Complete your profile cards, like Add bio and Find people to follow, off your own profile. Your bio, counts and posts stay.	يزيل بطاقات «أكمل ملفك الشخصي»، مثل «إضافة نبذة» و«العثور على أشخاص لمتابعتهم»، من ملفك الشخصي. وتظل نبذتك والأعداد والمنشورات ظاهرة.
+Hide People you don't follow back	إخفاء «أشخاص لا تتابعهم بالمقابل»
+Takes the People you don't follow back section off the bottom of your notifications. Notifications about new followers stay.	يزيل قسم «أشخاص لا تتابعهم بالمقابل» من أسفل إشعاراتك. وتظل إشعارات المتابعين الجدد ظاهرة.
+Hide suggestions in notifications	إخفاء الاقتراحات في الإشعارات
+Takes rows that only suggest something off your notifications, like a thread from an account you don't follow or someone you might know. Likes, comments, mentions and new followers stay.	يزيل من إشعاراتك الصفوف التي تقتصر على تقديم اقتراحات، مثل سلسلة منشورات من حساب لا تتابعه أو شخص قد تعرفه. وتظل الإعجابات والتعليقات والإشارات والمتابعون الجدد ظاهرة.
+Hide channel invites in notifications	إخفاء دعوات القنوات في الإشعارات
+Takes invites to join someone's channel off your notifications. Everything else stays.	يزيل دعوات الانضمام إلى قنوات الآخرين من إشعاراتك. وتظل بقية الإشعارات كما هي.
+Hide Featured in notifications	إخفاء قسم «المميز» في الإشعارات
+Takes the Featured section off the top of your notifications, the posts and threads Instagram picks to show you there. Everything under it stays.	يزيل قسم «المميز» من أعلى إشعاراتك، بما في ذلك المنشورات وسلاسل المنشورات التي يختار Instagram عرضها هناك. ويظل كل ما تحته ظاهراً.
+Keep Featured off the heart's dot	منع ظهور «المميز» على نقطة رمز القلب
+Stops the red dot on the heart from showing up for Featured alone. Likes, comments and new followers still light it.	يمنع ظهور النقطة الحمراء على رمز القلب بسبب قسم «المميز» وحده. وتظل الإعجابات والتعليقات والمتابعون الجدد يُظهرونها.
+Hide highlights	إخفاء القصص المميزة
+Takes the row of story highlights off profiles, yours included. Bios, counts and posts stay, and so does Add to highlight on your stories.	يزيل صف القصص المميزة من الملفات الشخصية، بما في ذلك ملفك. وتظل النبذات والأعداد والمنشورات ظاهرة، وكذلك خيار «إضافة إلى القصص المميزة» في قصصك.
+Hide the Threads button	إخفاء زر Threads
+Takes the Threads button off the top of profiles, yours included. The menu and the other buttons stay where they were.	يزيل زر Threads من أعلى الملفات الشخصية، بما في ذلك ملفك. وتظل القائمة والأزرار الأخرى في مواضعها.
+Show profile posts as a list	عرض منشورات الملف الشخصي كقائمة
+Opening someone's profile takes you on to their posts as a scrolling list of full posts. Go Back for the grid. Your own profile keeps its grid.	عند فتح الملف الشخصي لشخص ما، تنتقل مباشرة إلى منشوراته في قائمة قابلة للتمرير تعرض المنشورات كاملة. ارجع للعودة إلى الشبكة. ويحتفظ ملفك الشخصي بشبكته.
+Jump a profile's posts to a date	الانتقال بمنشورات الملف الشخصي إلى تاريخ
+Puts a calendar on a profile's top bar. Pick a day and the posts grid goes back to that day. Pull down for the newest again.	يضيف تقويماً إلى الشريط العلوي للملف الشخصي. اختر يوماً للانتقال بشبكة المنشورات إلى ذلك التاريخ. اسحب إلى أسفل للعودة إلى أحدث المنشورات.
+Open the profile's posts first	فتح منشورات الملف الشخصي أولاً
+Still loading, try again	ما زال التحميل جارياً، حاول مرة أخرى
+Going to that date	جارٍ الانتقال إلى ذلك التاريخ
+# context: Profiles settings; Reels is the reels tab on a profile, Latest and Most viewed are the two sorts Instagram's arrow next to it offers (#679)
+Sort reels on profiles	ترتيب مقاطع Reels في الملفات الشخصية
+Puts the arrow next to Reels on every profile, so you can sort them by Latest or Most viewed where Instagram took the choice away.	يضيف السهم بجوار Reels في كل ملف شخصي، لتتمكن من ترتيب المقاطع حسب «الأحدث» أو «الأكثر مشاهدة» في المواضع التي أزال Instagram منها هذا الخيار.
+The cards of people and creators to follow that Instagram puts between reels. Every reel still plays.	بطاقات الأشخاص وصنّاع المحتوى الذين يقترح Instagram متابعتهم بين مقاطع Reels. ويظل كل مقطع Reels قابلاً للتشغيل.
+Hide stories in Reels	إخفاء القصص في Reels
+The Catch up with friends pages of stories that Instagram puts between reels. Stories stay at the top of Home.	صفحات القصص بعنوان «تابع أخبار أصدقائك» التي يضعها Instagram بين مقاطع Reels. وتظل القصص أعلى الصفحة الرئيسية.
+Leaves out reels with a Paid partnership label, and reels Instagram marks as boosted. Ads have their own switch.	يخفي مقاطع Reels التي تحمل علامة «شراكة مدفوعة» والمقاطع التي يصنفها Instagram على أنها مروّجة. وللإعلانات مفتاح مستقل.
+Turn on Start Home on Following to use this choice.	فعّل خيار «فتح الصفحة الرئيسية على المتابَعون» لاستخدام هذا الإعداد.
+# context: Settings page: the summary of a greyed-out slider in place of its value; %1$s is the title of the switch it waits on, like Glass tab bar
+Turn on %1$s to use this slider.	فعّل «%1$s» لاستخدام شريط التمرير هذا.
+Turn on Story ring size to use this choice.	فعّل خيار «حجم حلقات القصص» لاستخدام هذا الإعداد.
+# context: Settings page, Reels: the line under the greyed-out Fill the screen switch while Show the whole reel is on
+Turn off Show the whole reel to use this choice.	عطّل خيار «عرض مقطع Reels كاملاً» لاستخدام هذا الإعداد.
+Turn on Default playback quality to use this choice.	فعّل خيار «جودة التشغيل الافتراضية» لاستخدام هذا الإعداد.
+Updating remembered positions...	جارٍ تحديث مواضع التشغيل المحفوظة...
+Undo cleared positions	التراجع عن مسح المواضع
+Clear remembered positions	مسح مواضع التشغيل المحفوظة
+Undo is available until %1$s.	يمكن التراجع حتى %1$s.
+HushGram remembers where you stopped in up to 200 videos for 30 days. Tap to clear them from this device.	يتذكر HushGram موضع توقفك في ما يصل إلى 200 فيديو لمدة 30 يوماً. اضغط لمسح هذه المواضع من هذا الجهاز.
+Remembered playback positions restored.	تمت استعادة مواضع التشغيل المحفوظة.
+Undo has expired.	انتهت مهلة التراجع.
+You cleared the remembered playback positions.	لقد مسحت مواضع التشغيل المحفوظة.
+Couldn't update remembered playback positions.	تعذر تحديث مواضع التشغيل المحفوظة.
+Settings backup	نسخ الإعدادات احتياطياً
+Export HushGram settings	تصدير إعدادات HushGram
+Choose a file for your installed patches' settings. Accounts and history stay on this device.	اختر ملفاً لحفظ إعدادات التصحيحات المثبتة. تظل الحسابات وسجل النشاط على هذا الجهاز.
+Import HushGram settings	استيراد إعدادات HushGram
+Choose a settings file. All valid choices apply together, and ones this version doesn't know are skipped. The Undo row shows how long you can undo.	اختر ملف إعدادات. تُطبّق جميع الخيارات الصالحة معاً، وتُتجاهل الخيارات التي لا يتعرف عليها هذا الإصدار. يوضح صف التراجع المدة المتاحة للتراجع عن العملية.
+Undo settings import	التراجع عن استيراد الإعدادات
+Undo is available until %1$s. Restarting Instagram discards Undo.	يمكن التراجع حتى %1$s. تؤدي إعادة تشغيل Instagram إلى إلغاء إمكانية التراجع.
+No settings import to undo.	لا يوجد استيراد إعدادات للتراجع عنه.
+There's no file picker. Your settings haven't changed.	لا تتوفر أداة لاختيار الملفات. لم تتغير إعداداتك.
+Couldn't use that file. Your settings haven't changed.	تعذر استخدام هذا الملف. لم تتغير إعداداتك.
+HushGram settings exported.	تم تصدير إعدادات HushGram.
+Couldn't export HushGram settings. Try another file.	تعذر تصدير إعدادات HushGram. جرّب ملفاً آخر.
+Settings restored.	تمت استعادة الإعدادات.
+Imported %1$d settings. Skipped %2$d that this version doesn't know.	تم استيراد %1$d إعداداً. تم تخطي %2$d إعداداً لا يتعرف عليها هذا الإصدار.
+Imported %1$d settings.	تم استيراد %1$d إعداداً.
+Lock switches stay as they are until you change them here.	تظل مفاتيح القفل على حالها حتى تغيّرها من هنا.
+Restart Instagram to apply these choices.	أعد تشغيل Instagram لتطبيق هذه الاختيارات.
