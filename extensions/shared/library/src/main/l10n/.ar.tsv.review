@@ -1586,3 +1586,96 @@ Stop videos looping	إيقاف تكرار تشغيل الفيديوهات
 Feed videos and reels stop at their last frame instead of playing again. Reels still loop while auto scroll is on, so it can move on.	تتوقف فيديوهات الموجز ومقاطع Reels عند إطارها الأخير بدلاً من إعادة تشغيلها. وتظل مقاطع Reels تتكرر عند تفعيل التمرير التلقائي، حتى يتمكن من الانتقال إلى المقطع التالي.
 Not used while you've picked a folder. Saves go there.	لا يُستخدم هذا الخيار عند اختيار مجلد. تُحفظ الملفات في المجلد المحدد.
 All	الكل
+Privacy	الخصوصية
+Content	المحتوى
+Media and storage	الوسائط والتخزين
+Look	المظهر
+App	التطبيق
+Posts	المنشورات
+Nothing matches.	لا توجد نتائج مطابقة.
+Couldn't open that one.	تعذر فتح هذا العنصر.
+Tap to see all %1$d, by kind or by search.	اضغط لعرض جميع العناصر (%1$d)، حسب النوع أو من خلال البحث.
+Instagram gradient on dark	تدرج ألوان Instagram على خلفية داكنة
+Retro Instagram	Instagram بطابع كلاسيكي
+Menu button on Home's header	زر القائمة في الشريط العلوي للصفحة الرئيسية
+Adds a menu button at the top of Home with your viewing history, Ghost mode and HushGram settings. Restart Instagram to see the change.	يضيف زر قائمة أعلى الصفحة الرئيسية، يضم سجل المشاهدة والوضع الشبح وإعدادات HushGram. أعد تشغيل Instagram لتطبيق التغيير.
+History button on Home's header	زر السجل في الشريط العلوي للصفحة الرئيسية
+Adds a clock at the top of Home that opens your viewing history in one tap. Restart Instagram to see the change.	يضيف رمز ساعة أعلى الصفحة الرئيسية لفتح سجل المشاهدة بنقرة واحدة. أعد تشغيل Instagram لتطبيق التغيير.
+HushGram menu	قائمة HushGram
+Seek bar button on feed videos	زر شريط التقدم في فيديوهات الموجز
+Adds a small button at the bottom left of a feed video that shows or hides its seek bar. It works with Seek bar on feed videos on or off.	يضيف زراً صغيراً أسفل يسار فيديو الموجز لإظهار شريط التقدم أو إخفائه. يعمل هذا الزر سواء كان خيار شريط التقدم في فيديوهات الموجز مفعّلاً أم لا.
+Seek bar	شريط التقدم
+Tint intensity	شدة التلوين
+Refraction intensity	شدة انكسار الضوء
+Preview of the tab bar	معاينة شريط علامات التبويب
+Keep stories playing while zooming	متابعة تشغيل القصص أثناء التكبير
+A story keeps playing while you pinch to zoom it. Hold it still first and it stays paused while you zoom.	تستمر القصة في التشغيل أثناء تكبيرها بإصبعين. أوقفها مؤقتاً بالضغط المطول أولاً لتظل متوقفة أثناء التكبير.
+Follower history	سجل المتابعين
+Nothing logged yet. With Recent unfollowers on, each time you scroll your own Followers list to the end, changes since the last time are added here.	لم يتم تسجيل أي شيء بعد. عند تفعيل خيار «من ألغوا متابعتك مؤخراً»، تُضاف هنا التغييرات منذ آخر مرة كلما وصلت إلى نهاية قائمة متابعيك.
+%1$s unfollowed you, %2$s	ألغى %1$s متابعتك، %2$s
+%1$s followed you again, %2$s	عاد %1$s لمتابعتك، %2$s
+%1$s started following you, %2$s	بدأ %1$s بمتابعتك، %2$s
+Hide the Map bubble	إخفاء فقاعة الخريطة
+Takes only the Map bubble out of the row of notes. Your notes stay.	يزيل فقاعة الخريطة فقط من صف الملاحظات، مع الإبقاء على ملاحظاتك.
+Split the notes row	تقسيم صف الملاحظات
+Splits the row of notes into three stacks, Instants, Notes and Stories, the layout Instagram is trying out. Restart Instagram to see the change.	يقسم صف الملاحظات إلى ثلاثة أقسام: Instants والملاحظات والقصص، وفق التصميم الذي يختبره Instagram. أعد تشغيل Instagram لتطبيق التغيير.
+Hide Saved in the plus menu	إخفاء «المحفوظات» في قائمة علامة الجمع
+Takes Saved off the menu the plus button opens in a chat's message bar.	يزيل «المحفوظات» من القائمة التي يفتحها زر علامة الجمع في شريط الرسائل بالمحادثة.
+Hide AI images in the plus menu	إخفاء صور الذكاء الاصطناعي في قائمة علامة الجمع
+Takes AI images off the menu the plus button opens in a chat's message bar.	يزيل صور الذكاء الاصطناعي من القائمة التي يفتحها زر علامة الجمع في شريط الرسائل بالمحادثة.
+Hide Draw in the plus menu	إخفاء «الرسم» في قائمة علامة الجمع
+Takes Draw off the menu the plus button opens in a chat's message bar.	يزيل خيار «الرسم» من القائمة التي يفتحها زر علامة الجمع في شريط الرسائل بالمحادثة.
+Gallery and microphone in the plus menu	وضع المعرض والميكروفون في قائمة علامة الجمع
+Moves the gallery and microphone buttons off the message bar and into the plus menu. They work as before. Turn it off and they're back the next time a chat opens.	ينقل زري المعرض والميكروفون من شريط الرسائل إلى قائمة علامة الجمع. ويستمران في العمل كما كانا. عند إيقاف الخيار، يعودان عند فتح المحادثة في المرة التالية.
+Custom app icon	رمز مخصص للتطبيق
+Pick a picture, frame it and add it to your home screen as a shortcut to Instagram.	اختر صورة واضبط إطارها، ثم أضفها إلى الشاشة الرئيسية كاختصار لتطبيق Instagram.
+Drag to move, pinch to zoom.	اسحب للتحريك، وقرّب أو باعد بإصبعين للتكبير أو التصغير.
+Add to home screen	إضافة إلى الشاشة الرئيسية
+Couldn't read that picture.	تعذرت قراءة هذه الصورة.
+This launcher can't add it.	لا يدعم مشغّل التطبيقات هذا إضافتها.
+Glass in chats	مظهر زجاجي في المحادثات
+Gives a chat's top bar and message bar frosted glass and puts the back, call and video buttons on round glass circles. It shows the next time you open a chat. Needs Android 12 or newer for the blur.	يمنح الشريط العلوي وشريط الرسائل في المحادثة مظهراً زجاجياً مصنفراً، ويضع أزرار الرجوع والاتصال والفيديو داخل دوائر زجاجية. يظهر التغيير عند فتح المحادثة في المرة التالية. يتطلب تأثير الضبابية Android 12 أو أحدث.
+Glass top bar in chats	الشريط العلوي الزجاجي في المحادثات
+Turn it off to leave a chat's top bar as Instagram draws it, with no frosted band behind it. The round glass buttons and the glass message bar stay.	أوقفه لإبقاء الشريط العلوي للمحادثة بتصميم Instagram الأصلي دون خلفية زجاجية مصنفرة. وتظل الأزرار الزجاجية الدائرية وشريط الرسائل الزجاجي كما هي.
+Top bar tint in chats	تلوين الشريط العلوي في المحادثات
+Message bar tint	تلوين شريط الرسائل
+Hide reels with few views	إخفاء مقاطع Reels ذات المشاهدات القليلة
+Leaves out reels in the Reels tab with fewer views or likes than the numbers below. Reels from accounts you follow, reels sent to you and reels with no count still play.	يخفي من علامة تبويب Reels المقاطع التي تقل مشاهداتها أو إعجاباتها عن الأرقام المحددة أدناه. وتظل المقاطع المنشورة من الحسابات التي تتابعها، والمقاطع المرسلة إليك، والمقاطع التي لا تعرض أعداداً قابلة للتشغيل.
+Minimum views	الحد الأدنى للمشاهدات
+Reels with fewer views than this are left out. Type a whole number.	يتم إخفاء مقاطع Reels التي تقل مشاهداتها عن هذا العدد. أدخل عدداً صحيحاً.
+Fewer than %1$s views	أقل من %1$s مشاهدة
+Minimum likes	الحد الأدنى للإعجابات
+Reels with fewer likes than this are left out. Type a whole number, or 0 to not look at likes.	يتم إخفاء مقاطع Reels التي تقل إعجاباتها عن هذا العدد. أدخل عدداً صحيحاً، أو 0 لتجاهل عدد الإعجابات.
+Fewer than %1$s likes	أقل من %1$s إعجاب
+Likes aren't looked at	لا يتم احتساب الإعجابات
+Add to Stories priority	إضافة إلى أولوية القصص
+Remove from Stories priority	إزالة من أولوية القصص
+Added to Stories priority	تمت الإضافة إلى أولوية القصص
+Removed from Stories priority	تمت الإزالة من أولوية القصص
+Stories priority didn't change	لم تتغير أولوية القصص
+To add someone, tap Add to Stories priority in their story's menu.	لإضافة شخص، اضغط على «إضافة إلى أولوية القصص» في قائمة قصته.
+Stories priority	أولوية القصص
+Puts the accounts on your list first in the stories row at the top of Home while they have a story you haven't watched, in the order of the list. Once you've watched it, Instagram's own placement applies again. Your own story stays first.	يضع الحسابات الموجودة في قائمتك في مقدمة شريط القصص أعلى الصفحة الرئيسية، وفق ترتيب القائمة، ما دامت لديها قصص لم تشاهدها. بعد مشاهدة القصة، يعود Instagram إلى ترتيب العرض المعتاد. وتظل قصتك في المقدمة.
+Priority accounts	الحسابات ذات الأولوية
+Usernames, one on each line. The first line goes first. A leading @ and capital letters don't matter.	أسماء المستخدمين، اسم واحد في كل سطر. يظهر الاسم الأول أولاً. لا يؤثر وجود @ في البداية أو اختلاف حالة الأحرف.
+No accounts yet	لا توجد حسابات بعد
+%1$d account	حساب واحد (%1$d)
+%1$d accounts	%1$d حسابات
+Home header text	النص في الشريط العلوي للصفحة الرئيسية
+Your words	نصك
+Words of your own at the top of Home, in place of Instagram's logo. Up to %1$d characters. Leave it blank to keep the logo.	اكتب نصاً خاصاً بك ليظهر أعلى الصفحة الرئيسية بدلاً من شعار Instagram. بحد أقصى %1$d حرفاً. اترك الحقل فارغاً للإبقاء على الشعار.
+Header text font	خط نص الشريط العلوي
+The bold font the words have always had.	الخط العريض المستخدم للنص افتراضياً.
+The phone's font at its regular weight.	خط الهاتف بسُمكه العادي.
+A bold font with serifs, like a newspaper's.	خط عريض ذو زوائد، مثل خطوط الصحف.
+Joined-up handwriting.	خط يد متصل.
+Every letter the same width, like a typewriter.	خط تكون فيه جميع الأحرف بالعرض نفسه، مثل خط الآلة الكاتبة.
+The font picked under Font, in bold. Bold while Instagram's own is picked there.	الخط المحدد ضمن إعداد «الخط»، مع استخدام النمط العريض. ويظل عريضاً عند اختيار خط Instagram الأصلي هناك.
+Bold	عريض
+Regular	عادي
+Serif	ذو زوائد
+Script	خط يد
+Monospace	أحادي المسافة
+Your font	خطك
+Center the header text	توسيط النص في الشريط العلوي
+Puts your words or picture in the middle of the top of Home instead of where Instagram puts its logo.	يضع النص أو الصورة في منتصف الجزء العلوي من الصفحة الرئيسية بدلاً من موضع شعار Instagram.
