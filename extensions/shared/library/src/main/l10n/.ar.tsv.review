@@ -1933,3 +1933,60 @@ A reel link opens on the reel it points to. Instagram doesn't play another reel 
 Speed in the story menu	سرعة التشغيل في قائمة القصة
 Adds Playback speed to the menu a video story's three dots open, with the same 1x, 1.5x and 2x, and keeps the speed button off the story. Later video stories keep the speed you pick until you change it or restart Instagram.	يضيف خيار سرعة التشغيل إلى القائمة التي تفتحها النقاط الثلاث في قصة فيديو، مع الخيارات نفسها 1x و1.5x و2x، ويزيل زر السرعة من القصة. تحتفظ قصص الفيديو التالية بالسرعة التي تختارها حتى تغيّرها أو تعيد تشغيل Instagram.
 Hide the Create button on saved reels	إخفاء زر الإنشاء في مقاطع Reels المحفوظة
+Takes the plus button off the top of reels you open from Saved or a collection and closes up the gap. The Reels tab and other reels keep theirs.	يزيل زر علامة الجمع من أعلى مقاطع Reels التي تفتحها من «المحفوظات» أو إحدى المجموعات، ويغلق المساحة الفارغة. ويظل الزر ظاهراً في علامة تبويب Reels والمقاطع الأخرى.
+Seek bar position	موضع شريط التقدم
+Above the Send message box	فوق حقل إرسال رسالة
+Below the Send message box	أسفل حقل إرسال رسالة
+The bar sits just above the Send message box at the bottom of a story.	يظهر الشريط مباشرة فوق حقل إرسال رسالة أسفل القصة.
+The bar sits in the space under the Send message box. Where there's no room under it, the bar stays above it.	يظهر الشريط في المساحة أسفل حقل إرسال رسالة. وإذا لم تتوفر مساحة كافية، يظل الشريط فوقه.
+Launch screen in the accent color	شاشة بدء التشغيل بلون التمييز
+Fills that screen with the accent color, or Instagram's blue while Accent color is off. A custom color shows as the closest one in the list. It shows from the next start.	يملأ شاشة بدء التشغيل بلون التمييز، أو باللون الأزرق الخاص بـ Instagram عند إيقاف خيار لون التمييز. ويظهر اللون المخصص بأقرب درجة متاحة في القائمة. يُطبّق ذلك عند التشغيل التالي.
+Haptic strength	قوة الاهتزاز اللمسي
+Tap sound on the tab bar	صوت النقر على شريط علامات التبويب
+A click each time the highlight moves to another tab, even with the phone's touch sounds off. Silent and vibrate mode keep it quiet.	يصدر صوت نقرة كلما انتقل التحديد إلى علامة تبويب أخرى، حتى عند إيقاف أصوات اللمس في الهاتف. ويظل الصوت مكتوماً في الوضعين الصامت والاهتزاز.
+Tap sound volume	مستوى صوت النقر
+Auto scroll in Home	التمرير التلقائي في الصفحة الرئيسية
+Moves Home on to the next post by itself. A video moves on when it ends, a photo or carousel after Time on each post. Touch the screen to hold it.	ينقل الصفحة الرئيسية تلقائياً إلى المنشور التالي. ينتقل الفيديو عند انتهائه، أما الصورة أو المنشور المتعدد فينتقل بعد انتهاء مدة «الوقت لكل منشور». المس الشاشة لإيقاف التمرير مؤقتاً.
+Time on each post	الوقت لكل منشور
+Control the reel above comments	التحكم في مقطع Reels أعلى التعليقات
+With a reel's comments open, tap the reel above them to pause or play it, or hold it to play at 2x. The comments stay open.	عند فتح تعليقات مقطع Reels، اضغط على المقطع أعلاها لإيقافه مؤقتاً أو تشغيله، أو اضغط مطولاً لتشغيله بسرعة 2x. وتظل التعليقات مفتوحة.
+Hide the speed lock message	إخفاء رسالة قفل السرعة
+Keeps the message Instagram shows when you lock a reel's speed, and when the lock ends, off the screen. The lock still works.	يخفي الرسالة التي يعرضها Instagram عند قفل سرعة مقطع Reels وعند انتهاء القفل. وتظل ميزة قفل السرعة تعمل.
+Remove hidden data from saved photos	إزالة البيانات المخفية من الصور المحفوظة
+Takes Meta's FBMD tracking tag out of each photo you save, along with any camera, place and time details. The picture and its colors stay the same. With Add the source on, the source still goes in afterward. JPEG photos only.	يزيل علامة التتبع FBMD الخاصة بـ Meta من كل صورة تحفظها، إلى جانب بيانات الكاميرا والموقع والوقت. ولا تتغير الصورة أو ألوانها. عند تفعيل خيار إضافة المصدر، تظل معلومات المصدر تُضاف بعد ذلك. يقتصر هذا الخيار على صور JPEG.
+Ask for VP9 instead of AV1	طلب VP9 بدلاً من AV1
+Tells Instagram your phone has no AV1 decoder. Instagram doesn't always listen, so videos can still come as AV1. If they do, Convert to keep the full size gives you H.264. Takes a restart.	يخبر Instagram أن هاتفك لا يحتوي على وحدة فك ترميز AV1. وقد لا يستجيب Instagram دائماً، لذلك قد تظل الفيديوهات بصيغة AV1. عند حدوث ذلك، يمنحك خيار التحويل مع الاحتفاظ بالحجم الكامل صيغة H.264. يتطلب إعادة التشغيل.
+Two arrows flash on the side you double tapped, with the seconds skipped under them.	يومض سهمان على الجانب الذي نقرت عليه نقراً مزدوجاً، ويظهر أسفلهما عدد الثواني التي تم تخطيها.
+Feed seek bar shape	شكل شريط التقدم في الموجز
+Same as Seek bar shape	مثل شكل شريط التقدم
+Feed videos use the shape picked in Seek bar shape.	تستخدم فيديوهات الموجز الشكل المحدد في إعداد شكل شريط التقدم.
+The bar and round handle you know, on feed videos only.	الشريط والمقبض الدائري المعتادان، في فيديوهات الموجز فقط.
+A thin line with no handle on the bottom edge of feed videos, which grows while you drag it.	خط رفيع بلا مقبض على الحافة السفلية لفيديوهات الموجز، يزداد سُمكه أثناء سحبه.
+A thicker rounded bar with no handle, on feed videos only.	شريط أكثر سُمكاً واستدارة دون مقبض، في فيديوهات الموجز فقط.
+A rounded bar split by a tall handle, on feed videos only.	شريط مستدير يقسمه مقبض طويل، في فيديوهات الموجز فقط.
+A wavy line for the part played, with a tall handle, on feed videos only.	خط متموج يوضح الجزء الذي تم تشغيله، مع مقبض طويل، في فيديوهات الموجز فقط.
+Time on the seek bar	الوقت على شريط التقدم
+Shows the time played and the video's length over the seek bar on feed videos, like 0:12 / 0:45. Tap the time to see the time left instead.	يعرض الوقت الذي تم تشغيله ومدة الفيديو فوق شريط التقدم في فيديوهات الموجز، مثل 0:12 / 0:45. اضغط على الوقت لعرض الوقت المتبقي بدلاً من ذلك.
+Show the time left	إظهار الوقت المتبقي
+The time on the seek bar counts down what's left of the video, like -0:33 / 0:45. A tap on the time switches back.	يعرض الوقت على شريط التقدم المدة المتبقية من الفيديو تنازلياً، مثل -0:33 / 0:45. اضغط على الوقت للعودة إلى العرض السابق.
+Taps on feed videos stay in the feed	النقر على فيديوهات الموجز يبقيك في الموجز
+A tap on a feed video, or on the screen it shows when it ends, no longer opens it full screen in Reels. Tap a feed video to pause it still pauses it, and the buttons on that screen still work.	لم يعد النقر على فيديو في الموجز، أو على الشاشة التي تظهر عند انتهائه، يفتحه بملء الشاشة في Reels. ويظل النقر على الفيديو لإيقافه مؤقتاً يعمل، كما تظل الأزرار في تلك الشاشة فعالة.
+Report	إبلاغ
+Unfollow	إلغاء المتابعة
+Interested	مهتم
+Why you're seeing this post	لماذا يظهر لك هذا المنشور
+Items in the three-dot menus	العناصر في قوائم النقاط الثلاث
+Every item shows. Untick the ones you don't want in the menus behind the three dots on posts, reels and stories.	تظهر جميع العناصر. أزل علامة التحديد عن العناصر التي لا تريد ظهورها في القوائم التي تفتحها النقاط الثلاث في المنشورات ومقاطع Reels والقصص.
+Left off the three-dot menus: %1$s.	تمت إزالة العناصر التالية من قوائم النقاط الثلاث: %1$s.
+Keep 2x after you let go	الإبقاء على سرعة 2x بعد رفع إصبعك
+A feed video you hold for 2x keeps playing at 2x after you let go. Hold it again to go back to normal speed.	يواصل فيديو الموجز الذي تضغط عليه مطولاً لتشغيله بسرعة 2x العمل بهذه السرعة بعد رفع إصبعك. اضغط مطولاً مرة أخرى للعودة إلى السرعة العادية.
+Ring thickness	سُمك الحلقة
+Instagram's thickness	السُمك الافتراضي في Instagram
+Custom ring color	لون مخصص للحلقة
+A color as six hex digits, like #4A6B82. Saving it picks Custom under Ring color. Restart Instagram to see it.	أدخل اللون بصيغة ستة أرقام سداسية عشرية، مثل #4A6B82. يؤدي حفظه إلى اختيار «مخصص» ضمن لون الحلقة. أعد تشغيل Instagram لرؤيته.
+None yet. Custom keeps Instagram's colors until you type one.	لا يوجد لون بعد. يحتفظ الخيار المخصص بألوان Instagram حتى تدخل لوناً.
+Custom ring end color	اللون النهائي المخصص للحلقة
+A second color as six hex digits, like #FF8A00, that the ring fades into. Leave it empty for one solid color. Restart Instagram to see it.	أدخل لوناً ثانياً بصيغة ستة أرقام سداسية عشرية، مثل #FF8A00، لتتدرج الحلقة إليه. اتركه فارغاً لاستخدام لون واحد ثابت. أعد تشغيل Instagram لرؤية التغيير.
+None. The ring is one solid color.	لا يوجد. الحلقة بلون واحد ثابت.
+Friendship status	حالة الصداقة
+Yes	نعم
