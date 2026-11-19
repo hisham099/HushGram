@@ -92,7 +92,7 @@ jobs:
         with:
           name: hushgram-arabic-mpp
           path: |
-            ${{ steps.bundle.outputs.path }}
+            patches/build/release/*.mpp
             patches/build/release/bundle.sha256
           if-no-files-found: error
           retention-days: 30
