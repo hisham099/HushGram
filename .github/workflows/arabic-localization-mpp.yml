@@ -16,6 +16,21 @@ on:
       - "settings.gradle.kts"
       - "build.gradle.kts"
       - ".github/workflows/arabic-localization-mpp.yml"
+  pull_request:
+    branches:
+      - full-arabic-localization
+    paths:
+      - "extensions/shared/library/src/main/l10n/**"
+      - "extensions/shared/library/src/main/java/**"
+      - "extensions/instagram/src/main/java/**"
+      - "scripts/gen-l10n.py"
+      - "scripts/sync-l10n.py"
+      - "scripts/test-l10n.py"
+      - "patches/**"
+      - "gradle/**"
+      - "settings.gradle.kts"
+      - "build.gradle.kts"
+      - ".github/workflows/arabic-localization-mpp.yml"
   workflow_dispatch:
 
 permissions:
@@ -34,7 +49,7 @@ jobs:
       - name: Check out the requested branch
         uses: actions/checkout@v4
         with:
-          ref: full-arabic-localization
+          ref: ${{ github.event.pull_request.head.sha || 'full-arabic-localization' }}
           fetch-depth: 0
 
       - name: Set up Python
@@ -58,6 +73,7 @@ jobs:
         run: python scripts/test-l10n.py
 
       - name: Commit generated Java catalog on this branch
+        if: github.event_name != 'pull_request'
         shell: bash
         run: |
           git config user.name "github-actions[bot]"
@@ -97,3 +113,13 @@ jobs:
             patches/build/release/bundle.sha256
           if-no-files-found: error
           retention-days: 30
+ 
+      - name: Upload verified MPP for review
+        uses: actions/upload-artifact@v4
+        with:
+          name: hushgram-arabic-mpp
+          path: |
+            patches/build/release/*.mpp
+            patches/build/release/bundle.sha256
+          if-no-files-found: error
+          retention-days: 14
