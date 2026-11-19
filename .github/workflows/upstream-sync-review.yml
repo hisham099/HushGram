@@ -1,6 +1,11 @@
 name: Upstream sync review
 
 on:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/upstream-sync-review.yml"
   schedule:
     - cron: "17 5 * * *"
   workflow_dispatch:
@@ -78,21 +83,18 @@ jobs:
           echo "status=$status" >> "$GITHUB_OUTPUT"
           exit 0
 
-      - name: Publish review branch and open pull request
+      - name: Publish upstream review branch
         if: steps.sync.outputs.changed == 'true'
         shell: bash
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           VALIDATION: ${{ steps.validation.outputs.status }}
           SYNC_BRANCH: ${{ steps.sync.outputs.branch }}
         run: |
           set -euo pipefail
           git push origin "$SYNC_BRANCH"
-          gh pr create \
-            --base full-arabic-localization \
-            --head "$SYNC_BRANCH" \
-            --title "chore(sync): review upstream HushGram updates" \
-            --body "This PR contains upstream changes from SysAdminDoc/HushGram:main. It targets the Arabic localization branch and does not merge automatically.\n\nValidation status: **$VALIDATION**.\n\nIf the catalog check reports missing Arabic entries, translate only the new or changed English keys in extensions/shared/library/src/main/l10n/ar.tsv, regenerate with scripts/gen-l10n.py, and rerun scripts/test-l10n.py. Existing Arabic translations are preserved; merge conflicts must be resolved manually. Review and merge this PR only after validation passes."
+          echo "Review branch published: $SYNC_BRANCH"
+          echo "Localization validation: $VALIDATION"
+          echo "A pull request will be opened with the repository integration after this workflow."
 
       - name: Report review required
         if: steps.sync.outputs.changed == 'true' && steps.validation.outputs.status != 'passed'
