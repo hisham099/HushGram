@@ -195,7 +195,7 @@ Never save HDR video	عدم حفظ فيديو HDR مطلقاً
 For apps that show HDR with a yellow or green cast, such as Messenger. A video Instagram has at full size only in HDR is saved at its largest standard size instead.	للتطبيقات التي تعرض فيديو HDR بتدرج أصفر أو أخضر، مثل Messenger. إذا كان Instagram يوفر الفيديو بالحجم الكامل بصيغة HDR فقط، فسيُحفظ بدلاً من ذلك بأكبر حجم قياسي متاح.
 # context: Downloads settings: a switch that saves joined videos as Matroska (.mkv) files instead of .mp4 (#547)
 Save videos as MKV	حفظ مقاطع الفيديو بصيغة MKV
-Saves videos as .mkv files instead of .mp4, for galleries that show no thumbnail for VP9 or AV1 videos. Nothing is re-encoded. A video Instagram sends as one file stays .mp4.	يحفظ مقاطع الفيديو بصيغة ‎.mkv بدلاً من ‎.mp4، لمستخدمي تطبيقات المعرض التي لا تعرض صوراً مصغرة لفيديوهات VP9 أو AV1. لا يُعاد ترميز أي محتوى. ويظل الفيديو الذي يرسله Instagram كملف واحد بصيغة ‎.mp4.
+Saves videos as .mkv files instead of .mp4, for galleries that show no thumbnail for VP9 or AV1 videos. Nothing is re-encoded. A video Instagram sends as one file stays .mp4.	يحفظ مقاطع الفيديو بصيغة .mkv بدلاً من .mp4، لمستخدمي تطبيقات المعرض التي لا تعرض صوراً مصغرة لفيديوهات VP9 أو AV1. لا يُعاد ترميز أي محتوى. ويظل الفيديو الذي يرسله Instagram كملف واحد بصيغة .mp4.
 Saves videos other apps can open, at full size. A video Instagram only has as VP9 or AV1 is converted to H.264 on your phone instead of saved smaller. Slower, and videos over 3 minutes or in HDR stay smaller.	يحفظ مقاطع الفيديو التي يمكن للتطبيقات الأخرى فتحها بالحجم الكامل. وإذا كان Instagram يوفر الفيديو بصيغة VP9 أو AV1 فقط، فسيحوّله هاتفك إلى H.264 بدلاً من حفظه بحجم أصغر. تستغرق العملية وقتاً أطول، وتظل مقاطع الفيديو التي تزيد مدتها على 3 دقائق أو المسجلة بصيغة HDR بحجم أصغر.
 Converting to H.264	جارٍ التحويل إلى H.264
 Download quality	جودة التنزيل
@@ -1600,8 +1600,8 @@ the home screen icon you picked	رمز الشاشة الرئيسية الذي ا
 Your fonts in story text	خطوطك في نص القصة
 Adds the fonts below to the story text editor alongside Instagram's own fonts, which all stay. Pick one there like any other font.	يضيف الخطوط أدناه إلى محرر نص القصص بجانب خطوط Instagram الأصلية، مع الإبقاء عليها جميعاً. اختر أحدها من المحرر كما تختار أي خط آخر.
 Your story fonts	خطوط القصص الخاصة بك
-Add .ttf or .otf files from your phone. Uncheck one to take it out.	أضف ملفات ‎.ttf أو ‎.otf من هاتفك. أزل علامة التحديد عن أي خط لإزالته.
-No fonts added yet. Add a .ttf or .otf file and it shows up in the story text editor alongside Instagram's fonts.	لم تتم إضافة أي خطوط بعد. أضف ملف ‎.ttf أو ‎.otf ليظهر في محرر نص القصص بجانب خطوط Instagram.
+Add .ttf or .otf files from your phone. Uncheck one to take it out.	أضف ملفات .ttf أو .otf من هاتفك. أزل علامة التحديد عن أي خط لإزالته.
+No fonts added yet. Add a .ttf or .otf file and it shows up in the story text editor alongside Instagram's fonts.	لم تتم إضافة أي خطوط بعد. أضف ملف .ttf أو .otf ليظهر في محرر نص القصص بجانب خطوط Instagram.
 Add a font file	إضافة ملف خط
 Removed from your story fonts	تمت الإزالة من خطوط القصص
 That file isn't a usable font. Nothing was added.	هذا الملف ليس خطاً صالحاً للاستخدام. لم تتم إضافة أي شيء.
