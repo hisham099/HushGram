@@ -139,6 +139,10 @@ jobs:
           $checksum = "patches/build/release/bundle.sha256"
           if (-not (Test-Path $checksum)) { throw "SHA-256 checksum file not found" }
           if (gh release view hushgram-arabic-v0.0.22 *> $null) {
+            $assetNames = gh release view hushgram-arabic-v0.0.22 --json assets --jq '.assets[].name'
+            if ($assetNames -contains "patches-0.0.21.mpp") {
+              gh release delete-asset hushgram-arabic-v0.0.22 patches-0.0.21.mpp --yes
+            }
             gh release upload hushgram-arabic-v0.0.22 $bundle $checksum --clobber
           } else {
             gh release create hushgram-arabic-v0.0.22 $bundle $checksum --title "HushGram Arabic v0.0.22" --notes "Arabic localization release built from the latest upstream HushGram main, with verified MPP bundle and SHA-256 checksum." --target $env:GITHUB_SHA
