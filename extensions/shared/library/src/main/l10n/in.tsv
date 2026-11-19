@@ -2642,3 +2642,10 @@ Turn on auto scroll	Aktifkan gulir otomatis
 Auto scroll on	Gulir otomatis aktif
 Auto scroll off	Gulir otomatis mati
 Auto scroll didn't change	Gulir otomatis tidak berubah
+# context: a switch in HushGram settings > Feed, right after Stop swipe to create; Messages is Instagram's inbox, named as in Swipe left for Messages (#770)
+Stop swipe to Messages	Hentikan geser ke Pesan
+# context: summary under Stop swipe to Messages; the Messages button is the inbox button at the top of Home or on the tab bar (#770)
+A swipe left on Home no longer opens Messages. The Messages button still does.	Menggeser ke kiri di Beranda tidak lagi membuka Pesan. Tombol Pesan tetap berfungsi.
+The cards that Instagram puts between reels to get you onto Threads.	Kartu yang diselipkan Instagram di antara reel untuk mengajak Anda ke Threads.
+Expand captions on reels	Bentangkan keterangan di reel
+Reels show their whole caption, with no "more" to tap. A long caption covers more of the video.	Reel menampilkan seluruh keterangannya, tanpa "selengkapnya" untuk diketuk. Keterangan yang panjang menutupi lebih banyak bagian video.

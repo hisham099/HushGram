@@ -2642,3 +2642,10 @@ Turn on auto scroll	Activar el desplazamiento automático
 Auto scroll on	Desplazamiento automático activado
 Auto scroll off	Desplazamiento automático desactivado
 Auto scroll didn't change	El desplazamiento automático no cambió
+# context: a switch in HushGram settings > Feed, right after Stop swipe to create; Messages is Instagram's inbox, named as in Swipe left for Messages (#770)
+Stop swipe to Messages	Desactivar deslizar a Mensajes
+# context: summary under Stop swipe to Messages; the Messages button is the inbox button at the top of Home or on the tab bar (#770)
+A swipe left on Home no longer opens Messages. The Messages button still does.	Deslizar a la izquierda en Inicio ya no abre Mensajes. El botón de Mensajes sigue funcionando.
+The cards that Instagram puts between reels to get you onto Threads.	Las tarjetas que Instagram pone entre los reels para llevarte a Threads.
+Expand captions on reels	Expandir descripciones en reels
+Reels show their whole caption, with no "more" to tap. A long caption covers more of the video.	Los reels muestran su descripción entera, sin «más» que tocar. Una descripción larga tapa más parte del video.

@@ -2915,6 +2915,14 @@ public class Settings extends BaseSettings {
             new BooleanSetting("hushgram_hide_reels_stories", FALSE);
 
     /**
+     * The cards Instagram puts between reels to bring people over to Threads
+     * ({@link app.hushgram.extension.instagram.reels.ReelsSuggestions}, #765). Read as each page of
+     * reels arrives, so a change shows from the next page. Off to start.
+     */
+    public static final BooleanSetting HIDE_REELS_THREADS =
+            new BooleanSetting("hushgram_hide_reels_threads", FALSE);
+
+    /**
      * Reels whose post Instagram marks as a paid partnership, or as boosted
      * ({@link app.hushgram.extension.instagram.reels.PaidPartnershipReels}). Read as each page of
      * reels arrives, so a change shows from the next page. Off to start.
@@ -3314,6 +3322,14 @@ public class Settings extends BaseSettings {
      */
     public static final EnumSetting<CaptionLines> CAPTION_LINES =
             new EnumSetting<>("hushgram_caption_lines", CaptionLines.WHOLE, true, parent(EXPAND_CAPTIONS));
+
+    /**
+     * The whole caption on reels, in the Reels tab and wherever else a reel plays (#752,
+     * {@link app.hushgram.extension.instagram.feed.CaptionLength}), on a switch apart from the feeds'.
+     * Instagram keeps captions it has laid out, so it takes a restart. Off to start.
+     */
+    public static final BooleanSetting EXPAND_REEL_CAPTIONS =
+            new BooleanSetting("hushgram_expand_reel_captions", FALSE, true);
 
     /**
      * The small speaker icon in the corner of a feed video
