@@ -1030,3 +1030,89 @@ Messages button on Home's header	زر الرسائل أعلى الصفحة ال�
 Adds a Messages button at the top of Home when Instagram moved Messages to your tab bar. A tap opens your messages like the tab does. Restart Instagram to see the change.	يضيف زر الرسائل أعلى الصفحة الرئيسية عندما ينقل Instagram الرسائل إلى شريط علامات التبويب. يؤدي الضغط عليه إلى فتح الرسائل كما تفعل علامة التبويب. أعد تشغيل Instagram لرؤية التغيير.
 Turn on Show the Messages tab and restart.	فعّل خيار «إظهار علامة تبويب الرسائل» ثم أعد التشغيل.
 Restart Instagram to put Messages on your tab bar.	أعد تشغيل Instagram لإضافة الرسائل إلى شريط علامات التبويب.
+Center the logo on Home's header	توسيط الشعار أعلى الصفحة الرئيسية
+Puts Instagram's logo in the middle of the top of Home, even with header buttons hidden or added. A feed's name shown there is centered too. Restart Instagram to see the change.	يضع شعار Instagram في منتصف الجزء العلوي من الصفحة الرئيسية، حتى عند إخفاء أزرار الرأس أو إضافتها. ويُوسّط أيضاً اسم الموجز إذا ظهر هناك. أعد تشغيل Instagram لرؤية التغيير.
+Center the name on profiles	توسيط الاسم في الملفات الشخصية
+Puts the username in the middle of the bar at the top of a profile, yours and other people's. The buttons stay where they are.	يضع اسم المستخدم في منتصف الشريط أعلى ملفك الشخصي وملفات الآخرين. وتظل الأزرار في مواضعها.
+Center titles on other screens	توسيط العناوين في الشاشات الأخرى
+Puts the title in the middle of the bar at the top of other screens, like notifications, as far as the buttons beside it allow. The buttons stay where they are.	يضع العنوان في منتصف الشريط أعلى الشاشات الأخرى، مثل الإشعارات، وفق المساحة التي تتيحها الأزرار المجاورة. وتظل الأزرار في مواضعها.
+This button needs Search on your tab bar.	يتطلب هذا الزر وجود البحث في شريط علامات التبويب.
+Turn off Hide the Search tab and restart.	عطّل خيار «إخفاء علامة تبويب البحث» ثم أعد التشغيل.
+Restart Instagram to bring Search back to your tab bar.	أعد تشغيل Instagram لإعادة البحث إلى شريط علامات التبويب.
+Tab order	ترتيب علامات التبويب
+The tab bar keeps Instagram's order.	يحتفظ شريط علامات التبويب بترتيب Instagram.
+Tabs go in this order: %1$s. Restart Instagram to see the change.	يكون ترتيب علامات التبويب كما يلي: %1$s. أعد تشغيل Instagram لرؤية التغيير.
+Show and reorder tabs	إظهار علامات التبويب وإعادة ترتيبها
+Drag to move %1$s	اسحب لنقل %1$s
+Move up	نقل إلى أعلى
+Move down	نقل إلى أسفل
+%1$s is now %2$d of %3$d	أصبح موضع %1$s الآن %2$d من أصل %3$d
+Reset	إعادة ضبط
+Create	إنشاء
+Start tab	علامة تبويب البدء
+Instagram opens the way it always has, which can be Reels if you left it there.	يفتح Instagram بالطريقة المعتادة، وقد يفتح على Reels إذا كنت قد تركته هناك.
+Instagram opens on Home when you start it from its icon, even if you left it on Reels. A notification or a link still opens what it's for. Restart Instagram to see the change.	يفتح Instagram على الصفحة الرئيسية عند تشغيله من أيقونته، حتى إذا كنت قد تركته على Reels. وتظل الإشعارات والروابط تفتح المحتوى المقصود. أعد تشغيل Instagram لرؤية التغيير.
+Always Home	الرئيسية دائماً
+Instagram opens on %1$s when you start it from its icon. A notification or a link still opens what it's for. If that tab isn't on your bar, it opens on Home. Restart Instagram to see the change.	يفتح Instagram على %1$s عند تشغيله من أيقونته. وتظل الإشعارات والروابط تفتح المحتوى المقصود. إذا لم تكن علامة التبويب هذه موجودة في الشريط، فسيفتح على الصفحة الرئيسية. أعد تشغيل Instagram لرؤية التغيير.
+A tap on a reel	النقر على مقطع Reels
+Pause	إيقاف مؤقت
+Mute	كتم الصوت
+Instagram's default	الإعداد الافتراضي في Instagram
+A tap on a reel pauses it, and another tap plays it again.	يؤدي النقر على مقطع Reels إلى إيقافه مؤقتاً، ويؤدي النقر مرة أخرى إلى استئنافه.
+A tap on a playing reel turns its sound off or on and keeps it playing. A reel that's paused still plays on a tap.	يؤدي النقر على مقطع Reels قيد التشغيل إلى كتم صوته أو تشغيله مع استمرار تشغيل المقطع. أما المقطع المتوقف مؤقتاً فيُستأنف بالنقر عليه.
+A tap on a reel does what Instagram does.	يؤدي النقر على مقطع Reels الوظيفة الافتراضية نفسها في Instagram.
+Keep playing	مواصلة التشغيل
+A tap on a playing reel does nothing, so a stray touch doesn't stop it. A tap right on the play icon still pauses it, and a paused reel plays on a tap.	لا يؤدي النقر على مقطع Reels قيد التشغيل إلى أي إجراء، حتى لا توقفه لمسة عابرة. ويظل النقر مباشرة على أيقونة التشغيل يوقفه مؤقتاً، كما يُستأنف المقطع المتوقف مؤقتاً عند النقر عليه.
+Keep reels muted on the volume keys	إبقاء مقاطع Reels مكتومة عند استخدام أزرار الصوت
+Volume up still raises the phone's volume, but a muted reel stays muted until you unmute it.	يظل زر رفع الصوت يزيد مستوى صوت الهاتف، لكن مقطع Reels المكتوم يبقى مكتوماً حتى تلغي كتمه.
+Start stories with sound	بدء القصص مع تشغيل الصوت
+Stories open with their sound on, the same as tapping Instagram's speaker. Your phone's ringer and volume still count, so on silent or with the volume down, stories stay quiet.	تُفتح القصص والصوت مفعّل فيها، كما لو ضغطت على أيقونة مكبر الصوت في Instagram. ويظل وضع الرنين ومستوى صوت الهاتف مؤثرين، لذلك تبقى القصص صامتة عند تفعيل الوضع الصامت أو خفض الصوت.
+Stop swipe up to reply	إيقاف السحب إلى أعلى للرد
+A swipe up on someone's story no longer opens the reply box and its reactions. Tap Send message to reply.	لن يؤدي السحب إلى أعلى على قصة شخص ما إلى فتح مربع الرد وتفاعلاته. اضغط على «إرسال رسالة» للرد.
+Hide the reply box on stories	إخفاء مربع الرد في القصص
+Takes the Send message box off the bottom of other people's stories. The like and share buttons next to it stay where they are.	يزيل مربع «إرسال رسالة» من أسفل قصص الآخرين. ويظل زرا الإعجاب والمشاركة المجاوران في موضعيهما.
+Glass reply box on stories	مربع رد زجاجي في القصص
+Gives the Send message box on other people's stories frosted glass, so it's easy to read over any story. Needs Android 12 or newer for the blur.	يمنح مربع «إرسال رسالة» في قصص الآخرين مظهراً زجاجياً ضبابياً ليسهل قراءته فوق أي قصة. يتطلب تأثير التمويه Android 12 أو أحدث.
+Hide the Like button on stories	إخفاء زر الإعجاب في القصص
+Takes the heart off the bottom of other people's stories, so nothing gets liked by mistake. No empty space is left behind.	يزيل رمز القلب من أسفل قصص الآخرين لتجنب تسجيل إعجاب عن طريق الخطأ. ولا يترك مساحة فارغة مكانه.
+Hide the Comment button on stories	إخفاء زر التعليق في القصص
+Takes the Comment button off the bottom of other people's stories that have one. No empty space is left behind.	يزيل زر التعليق من أسفل قصص الآخرين التي يظهر فيها. ولا يترك مساحة فارغة مكانه.
+Hide the Share button on stories	إخفاء زر المشاركة في القصص
+Takes the paper plane off the bottom of other people's stories. No empty space is left behind.	يزيل رمز الطائرة الورقية من أسفل قصص الآخرين. ولا يترك مساحة فارغة مكانه.
+Queued. It starts once the post before it is saved.	أُضيف إلى قائمة الانتظار. سيبدأ بعد حفظ المنشور السابق.
+Not saved: %1$d posts are already waiting	لم يتم الحفظ: يوجد %1$d منشوراً في قائمة الانتظار بالفعل
+Show all settings as a list	عرض جميع الإعدادات كقائمة
+Show categories as a grid	عرض الفئات كشبكة
+Show categories as rows	عرض الفئات كصفوف
+Show settings by category	عرض الإعدادات حسب الفئة
+Tab bar height	ارتفاع شريط علامات التبويب
+Tab icon size	حجم أيقونات علامات التبويب
+The icons on the tab bar are the size Instagram gives them.	تكون أيقونات شريط علامات التبويب بالحجم الذي يحدده Instagram.
+The icons on the tab bar are %1$s of the size Instagram gives them.	يبلغ حجم أيقونات شريط علامات التبويب %1$s من الحجم الذي يحدده Instagram.
+Standard	قياسي
+Blur strength	قوة التمويه
+%1$d dp	%1$d dp
+%1$d%%	%1$d%%
+%1$s (standard)	%1$s (افتراضي)
+Compact	مضغوط
+Tall	طويل
+Tab bar corners	زوايا شريط علامات التبويب
+Rounder	أكثر استدارة
+Fully round	دائري بالكامل
+Space under the tab bar	المسافة أسفل شريط علامات التبويب
+A little more	أكثر قليلاً
+More	أكثر
+Hide the tab bar as you scroll	إخفاء شريط علامات التبويب أثناء التمرير
+Scrolling a list down slides the tab bar out of the way. Scrolling up, reaching the top, or changing tab brings it back. It works with or without Glass tab bar. Restart Instagram after changing it.	يؤدي التمرير إلى أسفل قائمة إلى إزاحة شريط علامات التبويب بعيداً. ويعيده التمرير إلى أعلى أو الوصول إلى بداية القائمة أو تغيير علامة التبويب. تعمل الميزة سواء كان شريط علامات التبويب الزجاجي مفعّلاً أم لا. أعد تشغيل Instagram بعد تغيير الإعداد.
+Hide the tab bar on Reels	إخفاء شريط علامات التبويب في Reels
+Never	أبداً
+After %1$d seconds	بعد %1$d ثانية
+Never. Pick a time and the tab bar slides away once a reel has played that long without a touch. Restart Instagram after changing it.	أبداً. اختر مدة زمنية، وسيختفي شريط علامات التبويب عندما يعمل مقطع Reels لهذه المدة دون لمس الشاشة. أعد تشغيل Instagram بعد تغيير الإعداد.
+On Reels, the tab bar slides away after %1$d seconds without a touch. Tap the bottom edge of the screen, change tab or press Back to bring it back. Restart Instagram after changing it.	في Reels، يختفي شريط علامات التبويب بعد مرور %1$d ثانية دون لمس الشاشة. اضغط على الحافة السفلية للشاشة أو غيّر علامة التبويب أو اضغط زر الرجوع لإظهاره مجدداً. أعد تشغيل Instagram بعد تغيير الإعداد.
+Start feed videos with sound	بدء فيديوهات الموجز مع تشغيل الصوت
+Videos on Home play with their sound on, the same as tapping a video's speaker. Mute one and the ones after it stay muted. Your phone's ringer and volume still count, so on silent or with the volume down, they stay quiet.	تعمل الفيديوهات في الصفحة الرئيسية مع تشغيل الصوت، كما لو ضغطت على أيقونة مكبر الصوت في الفيديو. إذا كتمت أحدها، فستظل الفيديوهات التالية مكتومة. ويظل وضع الرنين ومستوى صوت الهاتف مؤثرين، لذلك تبقى صامتة عند تفعيل الوضع الصامت أو خفض الصوت.
+Start feed videos muted	بدء فيديوهات الموجز مع كتم الصوت
+Videos on Home start silent, even after you turn the sound on in Reels, so reels keep their sound. Tap a video's speaker to hear that one. Wins over Start feed videos with sound.	تبدأ فيديوهات الصفحة الرئيسية مكتومة حتى بعد تشغيل الصوت في Reels، وبذلك تحتفظ مقاطع Reels بصوتها. اضغط على أيقونة مكبر الصوت في فيديو لتشغيل صوته. يتقدم هذا الخيار على خيار بدء فيديوهات الموجز مع تشغيل الصوت.
+Tap a feed video to pause it	النقر على فيديو الموجز لإيقافه مؤقتاً
+Tap the video playing in a feed to pause it in place instead of opening it in Reels, and tap it again to play it. Ads keep Instagram's own tap.	اضغط على الفيديو الذي يعمل في الموجز لإيقافه مؤقتاً في مكانه بدلاً من فتحه في Reels، واضغط عليه مرة أخرى لاستئناف تشغيله. وتحتفظ الإعلانات بسلوك النقر الأصلي في Instagram.
+Hold for 2x on feed videos	الضغط المطول لتشغيل فيديوهات الموجز بسرعة 2x
