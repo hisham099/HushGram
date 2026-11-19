@@ -58,6 +58,7 @@ jobs:
         run: python scripts/test-l10n.py
 
       - name: Commit generated Java catalog on this branch
+        shell: bash
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
