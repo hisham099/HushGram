@@ -31,6 +31,10 @@ Every HushGram release, newest first.
 * `Light settings page` sits under `Black settings page` in Settings entry. It turns the HushGram settings and the pages they open white, with dark text and status bar icons. The rest of Instagram keeps its own look. Asked for in #762.
 * In Manager's Expert mode the six comment patches have a Comments group of their own now, like the Comments page in HushGram settings, and `HushGram launch screen` moved to Settings. Interaction and Interface were getting too long to scan.
 * **Tooling:** The GitHub release notes leave out the Tooling bullets and the What was checked part now. They're still here in the changelog, and Manager's notes keep their Validation line.
+* `Expand captions on reels` is new under Reels and comes with `Expand captions`. Reels show their whole caption, so there's no "more" to tap. It's a switch of its own, apart from the feed one, since a long caption covers more of the video. Starts off. Asked for in #752.
+* `Hide Threads posts` is new under Reels, right after `Hide stories in Reels`. It takes out the cards Instagram slips between reels to get you onto Threads. Every reel still plays. Starts off. Asked for in #765.
+* `Expand captions` is a new patch under Feed. Posts in your feed show their whole caption, with no "more" to tap. Pick `Caption lines before more` to get a set number of lines instead, from one to ten, and a longer caption ends with "more" like before. Stories keep Instagram's short captions. Starts off. Requested in #771.
+
 
 ### Bug Fixes
 
@@ -51,6 +55,7 @@ Every HushGram release, newest first.
 * Reels that run behind the glass tab bar sit where they should again instead of up against the top of the screen with a black band under them. Reported in #763.
 * Unfolding a foldable with `Glass tab bar` on keeps every tab in Instagram's side rail now, lined up. Search and your profile used to go missing from it and the rest sat out of line. Reported in #764.
 * `Thicker story progress bar` makes the bar thicker again when you've picked a seek bar shape. 0.0.21 kept the shape at its own size so the waves wouldn't stretch, and that left the bar as thin as before. The shape's line now grows as much as the standard bar does, and its waves keep their size. Reported in #775.
+
 
 ## 0.0.21 (2026-11-18)
 
