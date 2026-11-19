@@ -138,6 +138,8 @@ jobs:
           if (-not (Test-Path $bundle)) { throw "Verified MPP bundle not found: $bundle" }
           $checksum = "patches/build/release/bundle.sha256"
           if (-not (Test-Path $checksum)) { throw "SHA-256 checksum file not found" }
+          git tag -f hushgram-arabic-v0.0.22 $env:GITHUB_SHA
+          git push --force origin refs/tags/hushgram-arabic-v0.0.22
           gh release view hushgram-arabic-v0.0.22 *> $null
           if ($LASTEXITCODE -eq 0) {
             $assetNames = gh release view hushgram-arabic-v0.0.22 --json assets --jq '.assets[].name'
