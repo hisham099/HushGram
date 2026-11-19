@@ -1818,3 +1818,68 @@ Mute button in clear mode	زر كتم الصوت في الوضع الواضح
 Keeps the speaker icon next to clear mode's exit button.	يُبقي رمز مكبر الصوت بجوار زر الخروج من الوضع الواضح.
 Sound	الصوت
 Sound didn't change	لم يتغير الصوت
+Keep story buttons below the story	إبقاء أزرار القصة أسفلها
+With a large font or display size, the reply box and buttons at the bottom of a story sit in the space under it instead of covering the story.	عند استخدام خط أو حجم عرض كبير، يظهر مربع الرد والأزرار أسفل القصة في المساحة الموجودة تحتها بدلاً من تغطية القصة.
+Keep hidden accounts in Favorites	إبقاء الحسابات المخفية في «المفضلة»
+Posts from your hidden accounts still show in Favorites. For you and Following leave them out. Pull down on Home to refresh after changing it.	تظل منشورات الحسابات المخفية ظاهرة في «المفضلة»، بينما يستبعدها موجها «لك» و«المتابَعون». اسحب الصفحة الرئيسية إلى الأسفل لتحديثها بعد تغيير هذا الخيار.
+Lock Saved	قفل «المحفوظات»
+Saved and everything in it stay covered until your fingerprint, face or screen lock says it's you.	تظل صفحة «المحفوظات» وكل محتوياتها مخفية حتى يتم التحقق من هويتك ببصمة الإصبع أو الوجه أو قفل الشاشة.
+Ask for each chat	طلب التحقق لكل محادثة
+Every chat you open asks again, and so does your inbox when you go back to it. Off, one unlock opens everything until you leave Instagram.	يطلب كل Chat تفتحه التحقق مجدداً، وكذلك صندوق الرسائل عند العودة إليه. عند إيقاف الخيار، تكفي عملية إلغاء قفل واحدة لفتح كل شيء حتى تغادر Instagram.
+Saved is locked	«المحفوظات» مقفلة
+Unlock Saved	إلغاء قفل «المحفوظات»
+Loop this video	تكرار تشغيل هذا الفيديو
+Stop looping this video	إيقاف تكرار تشغيل هذا الفيديو
+Looping this video	جارٍ تكرار تشغيل هذا الفيديو
+This video plays once	سيُشغّل هذا الفيديو مرة واحدة
+Loop didn't change	لم يتغير إعداد التكرار
+To loop one video anyway, tap Loop this video in its menu.	لتكرار تشغيل فيديو معين رغم ذلك، اضغط على «تكرار تشغيل هذا الفيديو» في قائمته.
+Loop this story	تكرار تشغيل هذه القصة
+Stop looping this story	إيقاف تكرار تشغيل هذه القصة
+Looping this story	جارٍ تكرار تشغيل هذه القصة
+This story plays once	ستُشغّل هذه القصة مرة واحدة
+To loop one story, tap Loop this story in its menu.	لتكرار تشغيل قصة معينة، اضغط على «تكرار تشغيل هذه القصة» في قائمتها.
+Hide posts from business and creator accounts	إخفاء منشورات الحسابات التجارية وحسابات المنشئين
+Removes posts by business and creator accounts from Home and Following, friends who use one included. Pull down on Home to refresh after changing it.	يزيل منشورات الحسابات التجارية وحسابات منشئي المحتوى من الصفحة الرئيسية وموجز «المتابَعون»، بما في ذلك حسابات أصدقائك من هذه الأنواع. اسحب الصفحة الرئيسية إلى الأسفل لتحديثها بعد تغيير الخيار.
+Favorites still shows them.	تظل ظاهرة في «المفضلة».
+Keep profile history	الاحتفاظ بسجل الملفات الشخصية
+Remembers the username, bio and profile picture of each profile you open, on this phone only, and tells you when one changed since your last visit. Pictures are copied from Instagram's image servers. Turn it off and it stops at once.	يحفظ اسم المستخدم والنبذة وصورة كل ملف شخصي تفتحه على هذا الهاتف فقط، وينبهك عند حدوث تغيير منذ زيارتك السابقة. تُنسخ الصور من خوادم صور Instagram. يتوقف ذلك فور إيقاف الخيار.
+Profile changes	تغييرات الملف الشخصي
+Nothing here yet. With Keep profile history on, the old usernames, bios and pictures of profiles you open show up here.	لا يوجد شيء هنا بعد. عند تفعيل سجل الملفات الشخصية، ستظهر هنا أسماء المستخدمين والنبذات والصور القديمة للملفات الشخصية التي تفتحها.
+Tap to see all %1$d, or search them.	اضغط لعرض جميع العناصر (%1$d) أو للبحث بينها.
+Was @%1$s, %2$s	كان @%1$s، %2$s
+Old profile picture, %s	صورة الملف الشخصي القديمة، %s
+Old bio, %s	النبذة القديمة، %s
+View picture	عرض الصورة
+Save picture	حفظ الصورة
+Seen from %1$s to %2$s	شوهدت من %1$s إلى %2$s
+Seen on %s	شوهدت في %s
+Clear profile history	مسح سجل الملفات الشخصية
+Forgets every username, bio and picture on the list, for all your accounts. The switch stays as it is.	يمسح جميع أسماء المستخدمين والنبذات والصور الموجودة في القائمة لكل حساباتك. ويظل المفتاح على حالته.
+Profile history cleared.	تم مسح سجل الملفات الشخصية.
+Couldn't clear the profile history. Try again.	تعذر مسح سجل الملفات الشخصية. حاول مرة أخرى.
+Keep online history	الاحتفاظ بسجل النشاط
+Notes when people in your messages come online and go offline, from the active status Instagram already shows, on this phone only. Turn it off and it stops at once.	يسجل أوقات اتصال الأشخاص الموجودين في رسائلك وانقطاعهم، استناداً إلى حالة النشاط التي يعرضها Instagram بالفعل، وعلى هذا الهاتف فقط. يتوقف التسجيل فور إيقاف الخيار.
+Online history	سجل النشاط
+Nothing here yet. With Keep online history on, the times people in your messages come online and go offline show up here.	لا يوجد شيء هنا بعد. عند تفعيل سجل النشاط، ستظهر هنا أوقات اتصال الأشخاص الموجودين في رسائلك وانقطاعهم.
+Came online, %s	اتصل بالإنترنت، %s
+Went offline, %s	انقطع عن الاتصال، %s
+Unknown account	حساب غير معروف
+Clear online history	مسح سجل النشاط
+Forgets everyone on the list, for all your accounts. The switch stays as it is.	يمسح جميع الأشخاص الموجودين في القائمة من كل حساباتك. ويظل المفتاح على حالته.
+Online history cleared.	تم مسح سجل النشاط.
+Couldn't clear the online history. Try again.	تعذر مسح سجل النشاط. حاول مرة أخرى.
+Used to be @%s	كان اسمه @%s
+New profile picture and bio	صورة شخصية ونبذة جديدتان
+New profile picture	صورة شخصية جديدة
+Their bio changed	تم تغيير النبذة
+Hide the Threads badge	إخفاء شارة Threads
+Takes the Threads badge from under the bio on other people's profiles. Yours keeps it.	يزيل شارة Threads من أسفل النبذة في الملفات الشخصية للآخرين. وتظل الشارة ظاهرة في ملفك الشخصي.
+Hide Facebook links	إخفاء روابط Facebook
+Takes the links to someone's Facebook profile, page or group from under their bio. Yours keeps them.	يزيل الروابط إلى ملف Facebook الشخصي أو صفحته أو مجموعته من أسفل نبذة الآخرين. وتظل روابطك ظاهرة.
+Hide the WhatsApp link	إخفاء رابط WhatsApp
+Takes the link to someone's WhatsApp from under their bio. Yours keeps it.	يزيل رابط WhatsApp من أسفل نبذة الآخرين. ويظل رابطك ظاهراً.
+Hide the profile song	إخفاء أغنية الملف الشخصي
+Takes the song someone picked for their profile from under their bio. Yours keeps it.	يزيل الأغنية التي اختارها الآخرون لملفاتهم الشخصية من أسفل النبذة. وتظل أغنيتك ظاهرة.
+Hide interests	إخفاء الاهتمامات
+Takes the interests someone added, like reading or hiking, from under their bio. Yours keeps them.	يزيل الاهتمامات التي أضافها الآخرون، مثل القراءة أو المشي لمسافات طويلة، من أسفل نبذاتهم. وتظل اهتماماتك ظاهرة.
