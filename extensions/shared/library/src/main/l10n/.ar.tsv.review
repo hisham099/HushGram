@@ -517,3 +517,134 @@ Imported %1$d settings. Skipped %2$d that this version doesn't know.	تم است
 Imported %1$d settings.	تم استيراد %1$d إعداداً.
 Lock switches stay as they are until you change them here.	تظل مفاتيح القفل على حالها حتى تغيّرها من هنا.
 Restart Instagram to apply these choices.	أعد تشغيل Instagram لتطبيق هذه الاختيارات.
+Restart Instagram to apply these choices.	أعد تشغيل Instagram لتطبيق هذه الاختيارات.
+Couldn't save the settings. The previous values were restored.	تعذر حفظ الإعدادات. تمت استعادة القيم السابقة.
+Undo couldn't fully restore the settings. Check the shown values. Undo has been used up.	تعذر على التراجع استعادة الإعدادات بالكامل. تحقق من القيم المعروضة. لم يعد التراجع متاحاً.
+Couldn't save or fully restore the settings. Check the shown values and try Undo.	تعذر حفظ الإعدادات أو استعادتها بالكامل. تحقق من القيم المعروضة وحاول التراجع.
+Couldn't start that. Try again.	تعذر بدء العملية. حاول مرة أخرى.
+A save stopped. Reopen the media and save again.	توقف الحفظ. أعد فتح الوسائط وحاول حفظها مجدداً.
+%1$d saves stopped. Reopen the media and save again.	توقفت %1$d عمليات حفظ. أعد فتح الوسائط وحاول حفظها مجدداً.
+A save was interrupted	تمت مقاطعة عملية حفظ
+%1$d saves were interrupted	تمت مقاطعة %1$d عمليات حفظ
+Reopen the media and save again.	أعد فتح الوسائط وحاول حفظها مجدداً.
+Search settings	البحث في الإعدادات
+Clear search	مسح البحث
+No matching settings	لا توجد إعدادات مطابقة
+Try another word. Settings only appear for patches included in this install.	جرّب كلمة أخرى. لا تظهر إلا إعدادات التصحيحات المضمنة في هذا التثبيت.
+Save all	حفظ الكل
+Saving a carousel	جارٍ حفظ منشور متعدد الصور
+Cancel saving this carousel	إلغاء حفظ هذا المنشور
+Page %1$d of %2$d	الصفحة %1$d من %2$d
+Not saved: a carousel can have at most %1$d pages	لم يتم الحفظ: يمكن أن يحتوي المنشور على %1$d صفحة كحد أقصى
+Carousel canceled. Saved %1$d. Failed %2$d. Skipped %3$d.	تم إلغاء الحفظ. تم حفظ %1$d، وفشل %2$d، وتم تخطي %3$d.
+Saved %1$d. Failed %2$d. Skipped %3$d.	تم حفظ %1$d، وفشل %2$d، وتم تخطي %3$d.
+%1$d saved in lower quality than on Instagram.	تم حفظ %1$d بجودة أقل من الجودة على Instagram.
+Last carousel save	آخر عملية حفظ لمنشور متعدد الصور
+Comments	التعليقات
+Copy comment	نسخ التعليق
+Adds Copy to a selected comment's menu. Copies the original text, including line breaks.	يضيف خيار «نسخ» إلى قائمة التعليق المحدد. وينسخ النص الأصلي بما في ذلك فواصل الأسطر.
+Copy without the @names at the start	النسخ دون أسماء @ في البداية
+When a comment starts with @names, like most replies do, Copy leaves them out. The comment in Instagram stays the same.	إذا بدأ التعليق بأسماء @، كما يحدث في معظم الردود، يستبعدها خيار «نسخ». ولا يتغير التعليق في Instagram.
+Copy the commenter's username	نسخ اسم المستخدم لصاحب التعليق
+Adds Copy username to a selected comment's menu, for the account that wrote it.	يضيف خيار «نسخ اسم المستخدم» إلى قائمة التعليق المحدد لنسخ اسم الحساب الذي كتبه.
+Comment copied	تم نسخ التعليق
+Couldn't copy comment	تعذر نسخ التعليق
+Save comment photo	حفظ صورة التعليق
+Press and hold a comment that has its own photo, GIF or sticker, and its menu gets Save. Saves the largest size Instagram sent.	اضغط مطولاً على تعليق يتضمن صورة أو GIF أو ملصقاً خاصاً به، وسيظهر خيار «حفظ» في قائمته. يحفظ أكبر حجم أرسله Instagram.
+Reply with a comment's GIF	الرد باستخدام GIF في تعليق
+When a comment has a GIF, its menu gets a GIF reply that sends that same GIF back as your reply, animated.	عندما يتضمن تعليق GIF، يظهر في قائمته خيار للرد به، فيرسل ملف GIF نفسه متحركاً ضمن ردك.
+Show a comment GIF's name	إظهار اسم GIF في التعليق
+When a comment has a GIF or sticker, its menu shows its name. Tap the name to copy it.	عندما يتضمن التعليق GIF أو ملصقاً، تعرض قائمته اسمه. اضغط على الاسم لنسخه.
+Send saved GIFs as GIFs	إرسال ملفات GIF المحفوظة بصيغة GIF
+A comment GIF you saved with Save comment photo, picked from your gallery in the comment box, goes up right away as the same GIF, animated. Other pictures go up as before.	عند اختيار GIF من التعليقات سبق أن حفظته باستخدام «حفظ صورة التعليق» من معرض الصور في مربع التعليق، يُرسل فوراً بصيغته المتحركة نفسها. وتُرسل الصور الأخرى كالمعتاد.
+Couldn't send this GIF	تعذر إرسال ملف GIF هذا
+GIF name	اسم GIF
+GIF name copied	تم نسخ اسم GIF
+Couldn't copy the GIF name	تعذر نسخ اسم GIF
+Couldn't reply with this GIF	تعذر الرد باستخدام ملف GIF هذا
+# context: label for the eye button in a story header while anonymous viewing is enabled
+Mark as seen button	زر «وضع علامة كمشاهَد»
+Adds an eye button to the top of each story while you view anonymously. Tap it to show up on that story's viewer list. The other stories stay hidden.	يضيف زر عين أعلى كل قصة أثناء المشاهدة دون الكشف عن هويتك. اضغط عليه ليظهر اسمك في قائمة مشاهدي تلك القصة وحدها. وتظل القصص الأخرى مخفية.
+Mark as seen	وضع علامة كمشاهَد
+Marked as seen. Tap again to undo.	تم وضع علامة «مشاهَد». اضغط مرة أخرى للتراجع.
+Marked as seen and sent	تم وضع علامة «مشاهَد» وإرسالها
+View DM photos and videos anonymously	مشاهدة صور وفيديوهات الرسائل دون الكشف عن الهوية
+Stops people seeing that you opened their view once photos and videos. They still disappear after you view them. This is a test feature and starts off.	يمنع الآخرين من معرفة أنك فتحت الصور ومقاطع الفيديو التي يمكن مشاهدتها مرة واحدة. لكنها تظل تختفي بعد مشاهدتها. هذه ميزة تجريبية وهي معطلة افتراضياً.
+Restored %1$d settings. Kept %2$d newer choices.	تمت استعادة %1$d إعداداً، مع الإبقاء على %2$d من الاختيارات الأحدث.
+Preparing diagnostic report...	جارٍ إعداد تقرير التشخيص...
+Saving diagnostic report...	جارٍ حفظ تقرير التشخيص...
+Diagnostic report saved.	تم حفظ تقرير التشخيص.
+Choose a file for the settings export.	اختر ملفاً لتصدير الإعدادات.
+Exporting HushGram settings...	جارٍ تصدير إعدادات HushGram...
+Settings export canceled.	تم إلغاء تصدير الإعدادات.
+Round handle on the seek bar	مقبض دائري على شريط التقدم
+Adds a white round handle to the seek bar that you can drag. Ads keep their own bar.	يضيف مقبضاً دائرياً أبيض إلى شريط التقدم يمكنك سحبه. وتحتفظ الإعلانات بشريطها الخاص.
+Bigger seek bar on reels	تكبير شريط التقدم في Reels
+Makes the seek bar thicker, with a round white handle and the time above it, over a soft dark fade so it shows on any video. Drag it to seek. It also keeps the bar on short reels.	يجعل شريط التقدم أكثر سُمكاً، مع مقبض دائري أبيض والوقت أعلاه، فوق تدرج داكن خفيف ليظل واضحاً على جميع الفيديوهات. اسحب الشريط لتغيير موضع التشغيل. كما يُبقيه ظاهراً في مقاطع Reels القصيرة.
+Seek bar like DM videos	شريط تقدم مماثل لفيديوهات الرسائل
+Gives reels the seek bar of a video in a chat, a thin gray line that turns white as it plays, with a big round white handle. The time shows above it. Drag it to seek. When Bigger seek bar on reels is on too, this look wins. It also keeps the bar on short reels.	يعرض في Reels شريط التقدم المستخدم في فيديوهات المحادثات: خطاً رمادياً رفيعاً يتحول إلى الأبيض أثناء التشغيل، مع مقبض دائري أبيض كبير والوقت أعلاه. اسحب الشريط لتغيير موضع التشغيل. تكون لهذا النمط الأولوية عند تفعيل خيار تكبير شريط التقدم في Reels أيضاً. كما يُبقي الشريط ظاهراً في المقاطع القصيرة.
+Seek bar on photos with music	شريط التقدم للصور المصحوبة بموسيقى
+Reels that are a photo with a song get the same seek bar and time as a video reel, following the song. Drag it to seek.	تحصل مقاطع Reels التي تعرض صورة مع أغنية على شريط التقدم والوقت نفسيهما المستخدمين في مقاطع الفيديو، ويتزامنان مع الأغنية. اسحب الشريط لتغيير موضع التشغيل.
+Hide the seek bar on reels	إخفاء شريط التقدم في Reels
+Takes the seek bar off the bottom of every reel, long ones too. Drag sideways along the bottom edge of a reel to bring it back and seek. Keep a seek bar and the seek bar looks above win over it. Restart Instagram to see the change.	يزيل شريط التقدم من أسفل جميع مقاطع Reels، بما فيها الطويلة. اسحب أفقياً على الحافة السفلية للمقطع لإظهاره مجدداً وتغيير موضع التشغيل. يتقدم خيارا إبقاء شريط التقدم وأنماط عرضه المذكورة أعلاه على هذا الخيار. أعد تشغيل Instagram لرؤية التغيير.
+Blur the bars around a reel	تمويه الأشرطة المحيطة بمقطع Reels
+A reel that doesn't fill the screen shows a blurred copy of itself above and below it instead of black bars, and the strip under the tab bar and the band behind the clock show the reel blurred too. The copy shows only where a reel leaves room, as with Show the whole reel on. Open Reels again after a change.	عندما لا يملأ مقطع Reels الشاشة، تظهر نسخة ضبابية منه أعلاه وأسفله بدلاً من الأشرطة السوداء. ويظهر المقطع مموهاً أيضاً في الشريط أسفل علامات التبويب والمنطقة خلف الساعة. لا تظهر النسخة إلا في المساحات التي يتركها المقطع، كما يحدث عند تفعيل خيار «عرض مقطع Reels كاملاً». افتح Reels مجدداً بعد تغيير الإعداد.
+# context: setting that chooses which tab opens HushGram after a long press
+Settings entry	مدخل الإعدادات
+Open settings with a tab long press	فتح الإعدادات بالضغط المطول على علامة تبويب
+Choose a tab	اختر علامة تبويب
+Home	الرئيسية
+Search	البحث
+Profile	الملف الشخصي
+Create (+)	إنشاء (+)
+Camera	الكاميرا
+Activity	النشاط
+Creator tools	أدوات صنّاع المحتوى
+Home feed picker	محدد موجز الصفحة الرئيسية
+Custom tab	علامة تبويب مخصصة
+Off	إيقاف
+Tab long presses keep Instagram's own action. Choose one to open HushGram instead.	يحتفظ الضغط المطول على علامات التبويب بإجراء Instagram الأصلي. اختر إحداها لفتح HushGram بدلاً منه.
+Long press %1$s to open HushGram instead of that tab's usual action. Normal taps and other tabs stay the same. Only tabs your account shows can be used.	اضغط مطولاً على %1$s لفتح HushGram بدلاً من الإجراء المعتاد لعلامة التبويب. تظل النقرات العادية وعلامات التبويب الأخرى كما هي. لا يمكن استخدام سوى علامات التبويب الظاهرة في حسابك.
+A sideways swipe no longer moves you between Home, Reels and the other main tabs. Tap the tab bar instead. Stop swipe to create covers the camera.	لن يؤدي السحب الجانبي إلى التنقل بين الرئيسية وReels وعلامات التبويب الرئيسية الأخرى. استخدم شريط علامات التبويب بدلاً من ذلك. ويتولى خيار «إيقاف السحب لفتح الكاميرا» تعطيل فتح الكاميرا.
+Ask for larger photos	طلب صور أكبر حجماً
+Empties Home on purpose, so you see the stories row and nothing under it. Profiles, Explore and Reels still show posts. Pull down on Home to refresh after changing it.	يفرغ الصفحة الرئيسية عمداً، بحيث لا يظهر سوى صف القصص وما تحته فارغ. تظل المنشورات ظاهرة في الملفات الشخصية و«استكشاف» وReels. اسحب الصفحة الرئيسية إلى أسفل لتحديثها بعد تغيير هذا الإعداد.
+Hide the home feed	إخفاء موجز الصفحة الرئيسية
+On a phone under 1440 pixels wide, asks Instagram for photos sized for a wider screen. This uses more data. Restart Instagram to see the change.	على الهواتف التي يقل عرضها عن 1440 بكسل، يطلب من Instagram صوراً بأحجام تناسب الشاشات الأعرض. يستهلك ذلك مزيداً من البيانات. أعد تشغيل Instagram لرؤية التغيير.
+Full size covers	أغلفة بالحجم الكامل
+Reel covers and grid pictures come at full size, so Download cover saves a picked cover at full size too. Grids use a lot more data. Restart Instagram to see the change.	تُحمّل أغلفة Reels وصور الشبكة بالحجم الكامل، ولذلك يحفظ خيار «تنزيل الغلاف» الغلاف المحدد بالحجم الكامل أيضاً. تستهلك الشبكات بيانات أكثر بكثير. أعد تشغيل Instagram لرؤية التغيير.
+Stop swiping between tabs	إيقاف التنقل بين علامات التبويب بالسحب
+%d notification	إشعار واحد
+%d notifications	%d إشعارات
+1 hour	ساعة واحدة
+1 minute	دقيقة واحدة
+15 minutes	15 دقيقة
+5 minutes	5 دقائق
+A group for each kind of notification, such as comments or messages, in place of one group.	إنشاء مجموعة مستقلة لكل نوع من الإشعارات، مثل التعليقات أو الرسائل، بدلاً من جمعها في مجموعة واحدة.
+After 1 hour	بعد ساعة واحدة
+After 1 minute	بعد دقيقة واحدة
+After 15 minutes	بعد 15 دقيقة
+After 5 minutes	بعد 5 دقائق
+All of Instagram stays covered until your fingerprint, face or screen lock says it's you, your messages too.	تظل واجهة Instagram بأكملها محجوبة، بما في ذلك الرسائل، حتى تؤكد هويتك ببصمة الإصبع أو الوجه أو قفل الشاشة.
+Group by type	التجميع حسب النوع
+Group notifications	تجميع الإشعارات
+Hide shopping	إخفاء التسوق
+Hide surveys	إخفاء الاستطلاعات
+Hide story rows	إخفاء صفوف القصص
+Hides the rows of stories that Instagram puts between posts, like stories that are about to expire. Pull down on Home to refresh after changing it.	يخفي صفوف القصص التي يضعها Instagram بين المنشورات، مثل القصص التي توشك على الانتهاء. اسحب الصفحة الرئيسية إلى أسفل لتحديثها بعد تغيير هذا الإعداد.
+Hide the caught up card	إخفاء بطاقة «اطّلعت على كل جديد»
+Hides the card after the posts from accounts you follow that says you've seen the latest ones, and its Older posts link. When Home has no new posts at all, only that line goes and the link stays. Pull down on Home to refresh after changing it.	يخفي البطاقة التي تظهر بعد منشورات الحسابات التي تتابعها وتفيد بأنك شاهدت أحدث المنشورات، كما يخفي رابط «منشورات أقدم». إذا لم تكن هناك منشورات جديدة في الصفحة الرئيسية، يُخفى ذلك السطر وحده ويبقى الرابط. اسحب الصفحة الرئيسية إلى أسفل لتحديثها بعد تغيير هذا الإعداد.
+Hide the Join bar on channel posts	إخفاء شريط الانضمام في منشورات القنوات
+Hides the bar under a post that asks you to join the account's channel. The post stays.	يخفي الشريط أسفل المنشور الذي يدعوك إلى الانضمام لقناة الحساب. ويظل المنشور ظاهراً.
+Instagram is locked	تم قفل Instagram
+Instagram locks as soon as you leave it or the screen turns off.	يُقفل Instagram بمجرد مغادرته أو إطفاء الشاشة.
+Instagram locks once you've been away from it for %1$s.	يُقفل Instagram بعد ابتعادك عنه لمدة %1$s.
+Lock again	إعادة القفل
+Lock all of Instagram	قفل Instagram بالكامل
+Lock your messages	قفل الرسائل
+New message	رسالة جديدة
+Notifications	الإشعارات
+Puts every notification from Instagram in one group that shows how many it holds, so they don't fill your notification shade. Tapping one still opens it.	يجمع جميع إشعارات Instagram في مجموعة واحدة تعرض عدد الإشعارات بداخلها، حتى لا تملأ لوحة الإشعارات. ويظل النقر على أي إشعار يفتحه كالمعتاد.
+Right away	فوراً
+Set a phone screen lock so HushGram can lock Instagram.	عيّن قفلاً لشاشة الهاتف حتى يتمكن HushGram من قفل Instagram.
+Set a phone screen lock so HushGram can lock messages.	عيّن قفلاً لشاشة الهاتف حتى يتمكن HushGram من قفل الرسائل.
+Set a phone screen lock so HushGram can lock Saved.	عيّن قفلاً لشاشة الهاتف حتى يتمكن HushGram من قفل العناصر المحفوظة.
