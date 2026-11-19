@@ -517,7 +517,6 @@ Imported %1$d settings. Skipped %2$d that this version doesn't know.	تم است
 Imported %1$d settings.	تم استيراد %1$d إعداداً.
 Lock switches stay as they are until you change them here.	تظل مفاتيح القفل على حالها حتى تغيّرها من هنا.
 Restart Instagram to apply these choices.	أعد تشغيل Instagram لتطبيق هذه الاختيارات.
-Restart Instagram to apply these choices.	أعد تشغيل Instagram لتطبيق هذه الاختيارات.
 Couldn't save the settings. The previous values were restored.	تعذر حفظ الإعدادات. تمت استعادة القيم السابقة.
 Undo couldn't fully restore the settings. Check the shown values. Undo has been used up.	تعذر على التراجع استعادة الإعدادات بالكامل. تحقق من القيم المعروضة. لم يعد التراجع متاحاً.
 Couldn't save or fully restore the settings. Check the shown values and try Undo.	تعذر حفظ الإعدادات أو استعادتها بالكامل. تحقق من القيم المعروضة وحاول التراجع.
@@ -613,7 +612,7 @@ On a phone under 1440 pixels wide, asks Instagram for photos sized for a wider s
 Full size covers	أغلفة بالحجم الكامل
 Reel covers and grid pictures come at full size, so Download cover saves a picked cover at full size too. Grids use a lot more data. Restart Instagram to see the change.	تُحمّل أغلفة Reels وصور الشبكة بالحجم الكامل، ولذلك يحفظ خيار «تنزيل الغلاف» الغلاف المحدد بالحجم الكامل أيضاً. تستهلك الشبكات بيانات أكثر بكثير. أعد تشغيل Instagram لرؤية التغيير.
 Stop swiping between tabs	إيقاف التنقل بين علامات التبويب بالسحب
-%d notification	إشعار واحد
+%d notification	%d إشعار
 %d notifications	%d إشعارات
 1 hour	ساعة واحدة
 1 minute	دقيقة واحدة
