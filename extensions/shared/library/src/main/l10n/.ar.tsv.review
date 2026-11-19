@@ -1744,3 +1744,77 @@ Play	تشغيل
 Stop	إيقاف
 Can slow down older phones.	قد يؤدي إلى إبطاء الهواتف القديمة.
 Blend post edges	مزج حواف المنشورات
+Fades the top and bottom of a post's photo or video into its glow, so the edge doesn't show as a hard line.	يمزج الحافتين العلوية والسفلية لصورة المنشور أو الفيديو مع التوهج المحيط به، حتى لا تظهر الحواف كخطوط حادة.
+Dusk blue	أزرق الغسق
+Pine	أخضر الصنوبر
+Slate	رمادي أردوازي
+Custom	مخصص
+Custom color	لون مخصص
+A color as six hex digits, like #4A6B82. HushGram makes it darker or lighter where text needs it. Restart Instagram to see it.	أدخل اللون بصيغة ستة أرقام سداسية عشرية، مثل #4A6B82. يضبط HushGram درجة سطوعه أو قتامةه حسب الحاجة لعرض النص. أعد تشغيل Instagram لتطبيقه.
+None yet. Custom stays Instagram's blue until you type one.	لا يوجد لون بعد. يظل اللون المخصص أزرق Instagram حتى تدخل لوناً.
+That isn't a color. Try #4A6B82.	هذه ليست قيمة لون صالحة. جرّب #4A6B82.
+Count on the heart	إظهار العدد على رمز القلب
+The heart at the top of Home shows how many notifications are waiting, like the number on Messages, in place of the red dot. Restart Instagram to see the change.	يعرض رمز القلب أعلى الصفحة الرئيسية عدد الإشعارات المنتظرة، مثل العدد الظاهر على الرسائل، بدلاً من النقطة الحمراء. أعد تشغيل Instagram لتطبيق التغيير.
+Seek bar on the bottom edge	شريط التقدم على الحافة السفلية
+Puts the seek bar right on the bottom edge of the video, so it's harder to touch by accident while you scroll.	يضع شريط التقدم بمحاذاة الحافة السفلية للفيديو، لتقليل لمسه عن طريق الخطأ أثناء التمرير.
+Hide Made with Edits	إخفاء عبارة Made with Edits
+Takes the "Made with Edits" label out of the line under a post's author. The song, the place and the other labels keep taking turns there.	يزيل عبارة «Made with Edits» من السطر أسفل اسم ناشر المنشور. وتستمر الأغنية والموقع والملصقات الأخرى في الظهور بالتناوب هناك.
+Save in the post menu	إضافة خيار الحفظ إلى قائمة المنشور
+Adds Save to the menu behind a post's three dots, or Remove from saved when you saved it already.	يضيف خيار «حفظ» إلى القائمة التي تفتحها النقاط الثلاث في المنشور، أو خيار «إزالة من المحفوظات» إذا كان المنشور محفوظاً بالفعل.
+Hide the Save button	إخفاء زر الحفظ
+Takes the Save button off the bottom of posts in your feed, so a stray tap can't save one.	يزيل زر الحفظ من أسفل المنشورات في موجزك، لمنع حفظ منشور عن طريق الخطأ.
+Hide the Like button	إخفاء زر الإعجاب
+Takes the heart and the like count off the bottom of posts in your feed. Double tap still likes a post.	يزيل رمز القلب وعدد الإعجابات من أسفل المنشورات في موجزك. ويظل النقر المزدوج يسجل الإعجاب بالمنشور.
+Hide counts on posts	إخفاء الأعداد في المنشورات
+Takes the like, comment, share and repost numbers off posts in your feed. The buttons stay. Posts already on screen change when they load again.	يزيل أعداد الإعجابات والتعليقات والمشاركات وإعادات النشر من المنشورات في موجزك. وتظل الأزرار ظاهرة. وتتغير المنشورات المعروضة بالفعل عند إعادة تحميلها.
+Hide Liked by	إخفاء عبارة «أُعجب به»
+Takes the "Liked by" line off posts in your feed.	يزيل سطر «أُعجب به» من المنشورات في موجزك.
+Remove from saved	إزالة من المحفوظات
+Hide lives in Reels	إخفاء البثوث المباشرة في Reels
+Leaves out the live broadcasts Instagram puts between reels in the Reels tab and when you swipe through reels from Explore.	يخفي البثوث المباشرة التي يضعها Instagram بين مقاطع Reels في علامة التبويب، وأثناء التمرير بين المقاطع من قسم «استكشاف».
+Watch again in the feed	إعادة المشاهدة في الموجز
+When a reel in your feed ends, Watch again plays it over right there instead of opening Reels.	عند انتهاء مقطع Reels في موجزك، يعيد خيار «إعادة المشاهدة» تشغيله في موضعه بدلاً من فتح علامة تبويب Reels.
+Hide Watch more reels	إخفاء زر «مشاهدة المزيد من Reels»
+Takes the Watch more reels button off the card a reel in your feed shows when it ends. Watch again stays.	يزيل زر «مشاهدة المزيد من Reels» من البطاقة التي تظهر عند انتهاء مقطع Reels في موجزك. ويظل خيار «إعادة المشاهدة» ظاهراً.
+Picture in picture for reels	وضع صورة داخل صورة لمقاطع Reels
+Leaving Instagram while a reel plays shrinks it into a small window over your other apps. Works in Reels and on reels opened from the feed, on Android 15 or newer.	عند مغادرة Instagram أثناء تشغيل مقطع Reels، يتحول إلى نافذة صغيرة فوق التطبيقات الأخرى. يعمل ذلك في علامة تبويب Reels وعلى المقاطع المفتوحة من الموجز، ويتطلب Android 15 أو أحدث.
+Picture in picture for stories	وضع صورة داخل صورة للقصص
+Leaving Instagram while a story plays shrinks it into a small window over your other apps, where it keeps going through the stories.	عند مغادرة Instagram أثناء تشغيل قصة، تتحول إلى نافذة صغيرة فوق التطبيقات الأخرى، وتواصل تشغيل القصص.
+Show it on the profile picture	إظهار الحالة على صورة الملف الشخصي
+Puts a green check on the picture of each account that follows you back and a red cross on each one that doesn't, instead of the words.	يضع علامة صح خضراء على صورة كل حساب يتابعك بالمقابل، وعلامة × حمراء على صورة كل حساب لا يتابعك، بدلاً من الكلمات.
+Who can call you	من يمكنه الاتصال بك
+Your call list	قائمة المكالمات الخاصة بك
+Usernames, one on each line. A leading @ and capital letters don't matter.	أسماء المستخدمين، اسم واحد في كل سطر. لا يؤثر وجود @ في البداية أو استخدام الأحرف الكبيرة.
+Nobody	لا أحد
+Only people on your list	الأشخاص الموجودون في قائمتك فقط
+Everyone except your list	الجميع باستثناء قائمتك
+Everyone	الجميع
+No call rings your phone. Callers just get no answer.	لن يرن هاتفك عند ورود أي اتصال. وسيظهر للمتصل أن المكالمة لم تتم الإجابة عنها.
+Only people on your list ring your phone. Anyone else gets no answer.	لن يرن هاتفك إلا عند اتصال الأشخاص الموجودين في قائمتك. أما الآخرون فلن تتم الإجابة عن مكالماتهم.
+People on your list don't ring your phone. Everyone else still does.	لن يرن هاتفك عند اتصال الأشخاص الموجودين في قائمتك، بينما ستظل مكالمات الآخرين ترن كالمعتاد.
+Everyone can ring your phone, as usual.	يمكن للجميع الاتصال بك، كما هو معتاد.
+Decline calls that don't ring	رفض المكالمات التي لا ترن
+Calls kept quiet by Who can call you are also declined, the same as tapping Decline, instead of being left unanswered.	يتم رفض المكالمات التي يمنعها إعداد «من يمكنه الاتصال بك» من الرنين، كما لو ضغطت على «رفض»، بدلاً من تركها دون إجابة.
+Seek bar shape	شكل شريط التقدم
+Thin line	خط رفيع
+Rounded	مستدير
+Expressive	مميز
+Wave	موجة
+The bar and round handle you know.	الشريط والمقبض الدائري المعتادان.
+A thin line with no handle that grows while you drag it. On feed videos it sits on the bottom edge.	خط رفيع بلا مقبض يزداد سُمكه أثناء سحبه. يظهر على الحافة السفلية في فيديوهات الموجز.
+A thicker rounded bar with no handle.	شريط أكثر سُمكاً واستدارة، دون مقبض.
+A rounded bar split by a tall handle.	شريط مستدير يقسمه مقبض طويل.
+A wavy line for the part played, with a tall handle.	خط متموج يوضح الجزء الذي تم تشغيله، مع مقبض طويل.
+Preview while you drag a seek bar	معاينة أثناء سحب شريط التقدم
+Shows the time above your finger while you drag a seek bar on a feed video, story or reel, and a small picture of that moment when Instagram has one for the video.	يعرض الوقت فوق إصبعك أثناء سحب شريط التقدم في فيديو بالموجز أو قصة أو مقطع Reels، كما يعرض صورة مصغرة لتلك اللحظة إذا وفر Instagram صورة للفيديو.
+Swipe right on Home opens	السحب لليمين في الصفحة الرئيسية يفتح
+The camera, as Instagram has it. Pick a tab and the same swipe opens that tab instead.	الكاميرا، كما في Instagram. اختر علامة تبويب لتفتح بدلاً منها عند تنفيذ حركة السحب نفسها.
+A swipe right on Home opens %1$s. The + button still opens the camera.	يؤدي السحب لليمين في الصفحة الرئيسية إلى فتح %1$s. ويظل زر + يفتح الكاميرا.
+Keep the tab bar on a reel's profile	إبقاء شريط علامات التبويب في ملف مقطع Reels
+A profile you open from a reel stays on the tab you're on, with the tab bar under it. Back goes back to the reel.	يظل الملف الشخصي الذي تفتحه من مقطع Reels على علامة التبويب الحالية، مع ظهور شريط علامات التبويب أسفله. ويعيدك زر الرجوع إلى المقطع.
+Mute button on reels	زر كتم الصوت في Reels
+Puts a speaker icon beside a reel. Tap it to turn the sound off or on while the reel keeps playing.	يضيف رمز مكبر صوت بجوار مقطع Reels. اضغط عليه لكتم الصوت أو تشغيله دون إيقاف المقطع.
+Mute button in clear mode	زر كتم الصوت في الوضع الواضح
+Keeps the speaker icon next to clear mode's exit button.	يُبقي رمز مكبر الصوت بجوار زر الخروج من الوضع الواضح.
+Sound	الصوت
+Sound didn't change	لم يتغير الصوت
