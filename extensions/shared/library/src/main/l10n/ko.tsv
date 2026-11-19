@@ -470,6 +470,11 @@ Keep Featured off the heart's dot	주요 항목 때문에 하트에 점이 뜨�
 Stops the red dot on the heart from showing up for Featured alone. Likes, comments and new followers still light it.	주요 항목만으로 하트에 빨간 점이 나타나지 않게 합니다. 좋아요, 댓글, 새 팔로워는 계속 점을 표시합니다.
 Hide highlights	하이라이트 숨기기
 Takes the row of story highlights off profiles, yours included. Bios, counts and posts stay, and so does Add to highlight on your stories.	모든 프로필에서 스토리 하이라이트 목록을 숨깁니다. 내 프로필에도 적용됩니다. 프로필 소개, 팔로워 & 팔로잉 수 및 게시물은 그대로 유지되며, 내 스토리의 ‘하이라이트에 추가’ 기능도 그대로 사용할 수 있습니다
+# context: "Followers" and "Following" are the two buttons under a profile's name, beside the post count; use the words Instagram shows there in this language (#771)
+Hide follower counts	팔로워 수 숨기기
+Takes the numbers off Followers and Following at the top of profiles, yours included. The words stay, and a tap still opens the list.	프로필 위쪽의 팔로워와 팔로잉에서 숫자를 없앱니다. 내 프로필도 포함됩니다. 글자는 그대로 있고, 누르면 여전히 목록이 열립니다.
+Hide Followers and Following	팔로워 및 팔로잉 숨기기
+Takes the Followers and Following buttons off the top of profiles, yours included, with no gap left. The post count stays.	프로필 위쪽의 팔로워와 팔로잉 버튼을 빈 공간 없이 없앱니다. 내 프로필도 포함됩니다. 게시물 수는 그대로 둡니다.
 Hide the Threads button	Threads 버튼 숨기기
 Takes the Threads button off the top of profiles, yours included. The menu and the other buttons stay where they were.	모든 프로필 상단에서 Threads 버튼을 숨깁니다. 내 프로필에도 적용됩니다. 메뉴와 다른 버튼은 원래 자리에 그대로 있습니다.
 Show profile posts as a list	프로필 게시물을 목록으로 보기
@@ -1673,6 +1678,22 @@ Start reels muted	릴스를 음소거로 시작
 Every reel starts silent, wherever you open it from. The volume keys or the speaker icon unmute it. Wins over Start reels with sound.	어디서 열든 모든 릴스가 소리 없이 시작됩니다. 볼륨 키나 스피커 아이콘으로 소리를 켤 수 있습니다. 릴스를 소리와 함께 시작보다 우선합니다.
 Hide captions	캡션 숨기기
 Takes the caption off posts in your feed and off reels. The post stays, and the comments sheet still shows it.	피드 게시물과 릴스에서 캡션을 없앱니다. 게시물은 그대로 두고, 댓글 창에는 캡션이 계속 보입니다.
+# context: "more" is the word Instagram puts at the end of a cut caption in the feed; use the word Instagram shows there in this language (#771)
+Expand captions	캡션 펼치기
+Shows more of a post's caption in your feed before "more", the whole caption to start. Reels and stories stay as they are.	피드 게시물의 캡션을 ‘더 보기’ 앞에서 더 많이 보여 줍니다. 처음에는 캡션 전체가 보입니다. 릴스와 스토리는 그대로 둡니다.
+Caption lines before more	‘더 보기’ 앞 줄 수
+The whole caption shows, with no "more" to tap.	캡션 전체가 보이고, 누를 ‘더 보기’가 없습니다.
+Captions longer than that end with "more", which opens the rest.	그보다 긴 캡션은 ‘더 보기’로 끝나며, 누르면 나머지가 열립니다.
+Turn on Expand captions to use this choice.	이 옵션을 사용하려면 ‘캡션 펼치기’를 켜세요
+Whole caption	캡션 전체
+1 line	1줄
+2 lines	2줄
+3 lines	3줄
+4 lines	4줄
+5 lines	5줄
+6 lines	6줄
+8 lines	8줄
+10 lines	10줄
 Keep Home's top bar	홈 상단 바 고정
 Keeps the Instagram logo and the buttons beside it at the top of Home while you scroll, instead of sliding them away.	스크롤할 때 Instagram 로고와 옆의 버튼을 밀어 올리지 않고 홈 맨 위에 그대로 둡니다.
 # context: Feed settings: the See-through top bar switch, right under Keep Home's top bar (#418). It blurs the posts that scroll under Home's header, the bar with the Instagram logo.
@@ -2122,6 +2143,12 @@ Puts the seek bar right on the bottom edge of the video, so it's harder to touch
 # context: "Made with Edits" is the label Instagram shows under a post's author for a video made in Meta's Edits app; it stays in English here
 Hide Made with Edits	"Made with Edits" 숨기기
 Takes the "Made with Edits" label out of the line under a post's author. The song, the place and the other labels keep taking turns there.	게시물 작성자 아래 줄에서 "Made with Edits" 라벨을 없앱니다. 노래, 장소와 다른 라벨은 계속 번갈아 표시됩니다.
+# context: "Sponsored" and "Paid partnership" are Instagram's own labels on feed posts; use the text Instagram shows in this language (#771)
+Hide the line under names	이름 아래 줄 숨기기
+Takes the song, the place and the other labels off the line under the name on posts in your feed. Sponsored and Paid partnership stay. Posts already on screen change when they load again.	피드 게시물에서 이름 아래 줄의 노래, 장소 및 기타 표시를 없앱니다. '광고'와 '유료 광고 포함'은 그대로 둡니다. 이미 화면에 있는 게시물은 다시 불러올 때 바뀝니다.
+# context: "Sponsored" and "Paid partnership" are Instagram's own labels on reels; use the text Instagram shows in this language (#771)
+Hide the line under names on reels	릴스의 이름 아래 줄 숨기기
+Takes the song, the place and the other labels off the line under the name on reels. Sponsored and Paid partnership stay. Reels already on screen change when they load again.	릴스에서 이름 아래 줄의 노래, 장소 및 기타 표시를 없앱니다. '광고'와 '유료 광고 포함'은 그대로 둡니다. 이미 화면에 있는 릴스는 다시 불러올 때 바뀝니다.
 # context: a switch on the Feed page; Save and Remove from saved are the rows it adds to a feed post's three-dot menu
 Save in the post menu	게시물 메뉴에 저장 추가
 Adds Save to the menu behind a post's three dots, or Remove from saved when you saved it already.	게시물의 점 세 개 메뉴에 저장을 추가합니다. 이미 저장한 게시물에는 저장됨에서 삭제가 표시됩니다.
@@ -2428,7 +2455,8 @@ Keeps the message Instagram shows when you lock a reel's speed, and when the loc
 Remove hidden data from saved photos	저장한 사진에서 숨겨진 데이터 제거
 Takes Meta's FBMD tracking tag out of each photo you save, along with any camera, place and time details. The picture and its colors stay the same. With Add the source on, the source still goes in afterward. JPEG photos only.	저장하는 사진마다 Meta의 FBMD 추적 태그와 카메라, 장소, 시간 정보를 제거합니다. 사진과 색상은 그대로입니다. ‘저장한 사진과 동영상에 출처 추가’를 켜 두면 출처는 그 뒤에 그대로 기록됩니다. JPEG 사진만 해당합니다.
 Ask for VP9 instead of AV1	AV1 대신 VP9 요청
-Tells Instagram your phone has no AV1 decoder. Instagram doesn't always listen, so videos can still come as AV1. If they do, Convert to keep the full size gives you H.264. Takes a restart.	휴대폰에 AV1 디코더가 없다고 Instagram에 알립니다. Instagram이 항상 따르지는 않아서 동영상이 여전히 AV1로 올 수 있습니다. 그럴 때는 원본 크기를 유지하도록 변환을 켜면 H.264로 받을 수 있습니다. 다시 시작해야 적용됩니다.
+# context: summary under Ask for VP9 instead of AV1 in HushGram settings > Downloads; Convert to keep the full size is the switch of that name a few rows up (#546)
+Tells Instagram your phone has no AV1 decoder, which takes a restart. A post or reel that still comes as AV1 is saved as VP9 from Instagram's website when it offers one. Stories can still be AV1, and Convert to keep the full size turns those into H.264.	휴대폰에 AV1 디코더가 없다고 Instagram에 알리며, 다시 시작해야 적용됩니다. 그래도 AV1로 오는 게시물이나 릴스는 Instagram 웹사이트에 VP9가 있으면 VP9로 저장됩니다. 스토리는 여전히 AV1일 수 있으며, 원본 크기를 유지하도록 변환을 켜면 H.264로 바뀝니다.
 # context: Summary of Show the skip arrows under Double tap to skip on feed videos in Feed settings (#562)
 Two arrows flash on the side you double tapped, with the seconds skipped under them.	두 번 탭한 쪽에 화살표 두 개가 잠깐 나타나고, 그 아래에 건너뛴 초가 표시됩니다.
 # context: Feed settings: choice under Seek bar shape that gives the seek bar on feed videos a shape of its own (#567)

@@ -466,6 +466,11 @@ Keep Featured off the heart's dot	ไม่ให้รายการแนะ�
 Stops the red dot on the heart from showing up for Featured alone. Likes, comments and new followers still light it.	ป้องกันไม่ให้จุดสีแดงบนรูปหัวใจแสดงขึ้นมาสำหรับรายการแนะนำเพียงอย่างเดียว ทั้งนี้การกดถูกใจ ความคิดเห็น และผู้ติดตามใหม่จะยังคงทำให้จุดแสดงอยู่
 Hide highlights	ซ่อนไฮไลท์
 Takes the row of story highlights off profiles, yours included. Bios, counts and posts stay, and so does Add to highlight on your stories.	นำแถวไฮไลท์สตอรี่ออกจากโปรไฟล์ รวมถึงโปรไฟล์ของคุณด้วย ทั้งนี้ประวัติย่อ จำนวนต่างๆ และโพสต์จะยังคงอยู่ รวมถึง "เพิ่มลงในไฮไลท์" บนสตอรี่ของคุณด้วย
+# context: "Followers" and "Following" are the two buttons under a profile's name, beside the post count; use the words Instagram shows there in this language (#771)
+Hide follower counts	ซ่อนจำนวนผู้ติดตาม
+Takes the numbers off Followers and Following at the top of profiles, yours included. The words stay, and a tap still opens the list.	นำตัวเลขออกจากผู้ติดตามและกำลังติดตามที่ด้านบนของโปรไฟล์ รวมถึงโปรไฟล์ของคุณ คำยังคงอยู่ และแตะเพื่อเปิดรายการได้เหมือนเดิม
+Hide Followers and Following	ซ่อนผู้ติดตามและกำลังติดตาม
+Takes the Followers and Following buttons off the top of profiles, yours included, with no gap left. The post count stays.	นำปุ่มผู้ติดตามและกำลังติดตามออกจากด้านบนของโปรไฟล์ รวมถึงโปรไฟล์ของคุณ โดยไม่เหลือช่องว่าง จำนวนโพสต์ยังคงอยู่
 Hide the Threads button	ซ่อนปุ่ม Threads
 Takes the Threads button off the top of profiles, yours included. The menu and the other buttons stay where they were.	นำปุ่ม Threads ออกจากด้านบนของโปรไฟล์ รวมถึงโปรไฟล์ของคุณด้วย ทั้งนี้เมนูและปุ่มอื่นๆ จะยังคงอยู่ที่เดิม
 Show profile posts as a list	แสดงโพสต์บนโปรไฟล์เป็นรายการ
@@ -1664,6 +1669,22 @@ Start reels muted	เริ่มเล่นรีลส์แบบปิด�
 Every reel starts silent, wherever you open it from. The volume keys or the speaker icon unmute it. Wins over Start reels with sound.	รีลส์ทุกคลิปจะเริ่มเล่นแบบไม่มีเสียง ไม่ว่าจะเปิดจากที่ใดก็ตาม ปุ่มปรับระดับเสียงหรือไอคอนลำโพงจะเปิดเสียง การตั้งค่านี้จะมีความสำคัญเหนือกว่า "เริ่มเล่นรีลส์แบบมีเสียง"
 Hide captions	ซ่อนคำบรรยาย
 Takes the caption off posts in your feed and off reels. The post stays, and the comments sheet still shows it.	นำคำบรรยายออกจากโพสต์ในฟีดและรีลส์ของคุณ โดยโพสต์จะยังคงอยู่ และแผ่นข้อคิดเห็นจะยังคงแสดงคำบรรยายดังกล่าว
+# context: "more" is the word Instagram puts at the end of a cut caption in the feed; use the word Instagram shows there in this language (#771)
+Expand captions	ขยายคำบรรยาย
+Shows more of a post's caption in your feed before "more", the whole caption to start. Reels and stories stay as they are.	แสดงคำบรรยายของโพสต์ในฟีดได้มากขึ้นก่อน "เพิ่มเติม" โดยเริ่มต้นจะแสดงคำบรรยายทั้งหมด รีลส์และสตอรี่จะยังคงเหมือนเดิม
+Caption lines before more	จำนวนบรรทัดก่อน "เพิ่มเติม"
+The whole caption shows, with no "more" to tap.	แสดงคำบรรยายทั้งหมด โดยไม่มี "เพิ่มเติม" ให้แตะ
+Captions longer than that end with "more", which opens the rest.	คำบรรยายที่ยาวกว่านั้นจะจบด้วย "เพิ่มเติม" ซึ่งแตะเพื่อเปิดส่วนที่เหลือได้
+Turn on Expand captions to use this choice.	เปิด "ขยายคำบรรยาย" เพื่อใช้ตัวเลือกนี้
+Whole caption	คำบรรยายทั้งหมด
+1 line	1 บรรทัด
+2 lines	2 บรรทัด
+3 lines	3 บรรทัด
+4 lines	4 บรรทัด
+5 lines	5 บรรทัด
+6 lines	6 บรรทัด
+8 lines	8 บรรทัด
+10 lines	10 บรรทัด
 Keep Home's top bar	คงแถบด้านบนของหน้าหลักไว้
 Keeps the Instagram logo and the buttons beside it at the top of Home while you scroll, instead of sliding them away.	คงโลโก้ Instagram และปุ่มต่างๆ ข้างโลโก้ไว้ที่ด้านบนของหน้าหลักขณะที่คุณเลื่อน แทนที่จะเลื่อนหายไป
 # context: Feed settings: the See-through top bar switch, right under Keep Home's top bar (#418). It blurs the posts that scroll under Home's header, the bar with the Instagram logo.
@@ -2110,6 +2131,12 @@ Puts the seek bar right on the bottom edge of the video, so it's harder to touch
 # context: "Made with Edits" is the label Instagram shows under a post's author for a video made in Meta's Edits app; it stays in English here
 Hide Made with Edits	ซ่อน "Made with Edits"
 Takes the "Made with Edits" label out of the line under a post's author. The song, the place and the other labels keep taking turns there.	นำป้ายกำกับ "Made with Edits" ออกจากบรรทัดใต้ชื่อผู้โพสต์ โดยชื่อเพลง สถานที่ และป้ายกำกับอื่นๆ จะยังคงสลับกันแสดงในตำแหน่งดังกล่าว
+# context: "Sponsored" and "Paid partnership" are Instagram's own labels on feed posts; use the text Instagram shows in this language (#771)
+Hide the line under names	ซ่อนบรรทัดใต้ชื่อ
+Takes the song, the place and the other labels off the line under the name on posts in your feed. Sponsored and Paid partnership stay. Posts already on screen change when they load again.	นำเพลง สถานที่ และป้ายอื่นๆ ออกจากบรรทัดใต้ชื่อในโพสต์บนฟีดของคุณ "ได้รับการสนับสนุน" และ "พาร์ทเนอร์ชิพแบบชำระเงิน" ยังคงอยู่ โพสต์ที่แสดงอยู่แล้วจะเปลี่ยนเมื่อโหลดใหม่
+# context: "Sponsored" and "Paid partnership" are Instagram's own labels on reels; use the text Instagram shows in this language (#771)
+Hide the line under names on reels	ซ่อนบรรทัดใต้ชื่อบนรีลส์
+Takes the song, the place and the other labels off the line under the name on reels. Sponsored and Paid partnership stay. Reels already on screen change when they load again.	นำเพลง สถานที่ และป้ายอื่นๆ ออกจากบรรทัดใต้ชื่อบนรีลส์ "ได้รับการสนับสนุน" และ "พาร์ทเนอร์ชิพแบบชำระเงิน" ยังคงอยู่ รีลส์ที่แสดงอยู่แล้วจะเปลี่ยนเมื่อโหลดใหม่
 # context: a switch on the Feed page; Save and Remove from saved are the rows it adds to a feed post's three-dot menu
 Save in the post menu	บันทึกในเมนูโพสต์
 Adds Save to the menu behind a post's three dots, or Remove from saved when you saved it already.	เพิ่ม "บันทึก" ลงในเมนูใต้จุดสามจุดของโพสต์ หรือ "ลบออกจากรายการที่บันทึกไว้" เมื่อคุณได้บันทึกไว้แล้ว
@@ -2426,7 +2453,8 @@ Keeps the message Instagram shows when you lock a reel's speed, and when the loc
 Remove hidden data from saved photos	ลบข้อมูลที่ซ่อนอยู่ออกจากรูปภาพที่บันทึก
 Takes Meta's FBMD tracking tag out of each photo you save, along with any camera, place and time details. The picture and its colors stay the same. With Add the source on, the source still goes in afterward. JPEG photos only.	นำแท็กติดตาม FBMD ของ Meta ออกจากรูปภาพทุกรูปที่คุณบันทึก รวมถึงข้อมูลกล้อง สถานที่ และเวลา ภาพและสีของภาพจะเหมือนเดิม เมื่อเปิด "เพิ่มแหล่งที่มาลงในรูปภาพและวิดีโอที่บันทึก" แหล่งที่มาจะยังถูกเขียนลงไปหลังจากนั้น เฉพาะรูปภาพ JPEG เท่านั้น
 Ask for VP9 instead of AV1	ขอ VP9 แทน AV1
-Tells Instagram your phone has no AV1 decoder. Instagram doesn't always listen, so videos can still come as AV1. If they do, Convert to keep the full size gives you H.264. Takes a restart.	บอก Instagram ว่าโทรศัพท์ของคุณไม่มีตัวถอดรหัส AV1 แต่ Instagram ไม่ได้ทำตามเสมอไป วิดีโอจึงอาจยังมาเป็น AV1 หากเป็นเช่นนั้น แปลงไฟล์เพื่อคงขนาดเต็มไว้จะให้ไฟล์ H.264 ต้องรีสตาร์ท
+# context: summary under Ask for VP9 instead of AV1 in HushGram settings > Downloads; Convert to keep the full size is the switch of that name a few rows up (#546)
+Tells Instagram your phone has no AV1 decoder, which takes a restart. A post or reel that still comes as AV1 is saved as VP9 from Instagram's website when it offers one. Stories can still be AV1, and Convert to keep the full size turns those into H.264.	บอก Instagram ว่าโทรศัพท์ของคุณไม่มีตัวถอดรหัส AV1 ซึ่งต้องรีสตาร์ท โพสต์หรือรีลส์ที่ยังมาเป็น AV1 จะบันทึกเป็น VP9 จากเว็บไซต์ Instagram เมื่อมีให้ สตอรี่อาจยังเป็น AV1 และแปลงไฟล์เพื่อคงขนาดเต็มไว้จะเปลี่ยนเป็น H.264
 # context: Summary of Show the skip arrows under Double tap to skip on feed videos in Feed settings (#562)
 Two arrows flash on the side you double tapped, with the seconds skipped under them.	ลูกศรสองอันจะกะพริบที่ด้านที่คุณแตะสองครั้ง พร้อมจำนวนวินาทีที่ข้ามอยู่ด้านล่าง
 # context: Feed settings: choice under Seek bar shape that gives the seek bar on feed videos a shape of its own (#567)

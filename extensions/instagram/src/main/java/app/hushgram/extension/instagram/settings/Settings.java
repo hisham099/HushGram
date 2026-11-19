@@ -16,6 +16,7 @@ import app.hushgram.extension.instagram.download.FileNameTemplate;
 import app.hushgram.extension.instagram.download.HoldFingers;
 import app.hushgram.extension.instagram.download.HoldTime;
 import app.hushgram.extension.instagram.download.SaveFolder;
+import app.hushgram.extension.instagram.feed.CaptionLines;
 import app.hushgram.extension.instagram.feed.FeedSeekShape;
 import app.hushgram.extension.instagram.feed.OverlayLook;
 import app.hushgram.extension.instagram.feed.SeekShape;
@@ -2646,6 +2647,22 @@ public class Settings extends BaseSettings {
             new BooleanSetting("hushgram_hide_highlights", FALSE);
 
     /**
+     * The numbers on Followers and Following at the top of profiles, so only the words stay (#771,
+     * {@link app.hushgram.extension.instagram.feed.ProfileFollowCounts}). Read before each frame of a
+     * resumed screen, so it needs no restart. Off to start.
+     */
+    public static final BooleanSetting HIDE_PROFILE_FOLLOW_COUNTS =
+            new BooleanSetting("hushgram_hide_profile_follow_counts", FALSE);
+
+    /**
+     * The Followers and Following buttons at the top of profiles, with no gap left (#771,
+     * {@link app.hushgram.extension.instagram.feed.ProfileFollowCounts}). Read before each frame of a
+     * resumed screen, so it needs no restart. Off to start.
+     */
+    public static final BooleanSetting HIDE_PROFILE_FOLLOW_BUTTONS =
+            new BooleanSetting("hushgram_hide_profile_follow_buttons", FALSE);
+
+    /**
      * The tabs Instagram leaves off other people's profiles, as Instagram's tab keys with commas between ({@link app.hushgram.extension.instagram.profile.ProfileTabs}):
      * any of profile_fan_club_grid (Subscriptions, #721), profile_clips, profile_reposts and profile_tagged_media_photos_of_you. Nothing named is the start, so every tab shows. The grid is
      * never offered. Read each time Instagram builds a profile's tabs, so it shows on the next profile opened. Before #296 it covered your own
@@ -3144,6 +3161,22 @@ public class Settings extends BaseSettings {
             new BooleanSetting("hushgram_hide_edits_label", FALSE);
 
     /**
+     * The line under a feed post's author: the song, the place and the other labels
+     * taking turns there (#771, {@link app.hushgram.extension.instagram.feed.HeaderLine}). Sponsored and
+     * Paid partnership stay. Read as each post's header is built, so it needs no restart. Off to start.
+     */
+    public static final BooleanSetting HIDE_FEED_HEADER_LINE =
+            new BooleanSetting("hushgram_hide_feed_header_line", FALSE);
+
+    /**
+     * The line under a reel's author: the song, the place and the other labels taking turns there
+     * (#771, {@link app.hushgram.extension.instagram.feed.HeaderLine#reelLine}). Sponsored and Paid
+     * partnership stay. Read as each reel's author row is built, so it needs no restart. Off to start.
+     */
+    public static final BooleanSetting HIDE_REEL_HEADER_LINE =
+            new BooleanSetting("hushgram_hide_reel_header_line", FALSE);
+
+    /**
      * A Save row in a feed post's menu, or Remove from saved on a saved post (#569,
      * {@link app.hushgram.extension.instagram.feed.FeedSaveRow}). Read as the menu opens. Off to start.
      */
@@ -3223,6 +3256,22 @@ public class Settings extends BaseSettings {
      */
     public static final BooleanSetting HIDE_CAPTIONS =
             new BooleanSetting("hushgram_hide_captions", FALSE);
+
+    /**
+     * More of a feed post's caption before Instagram's "more" (#771,
+     * {@link app.hushgram.extension.instagram.feed.CaptionLength}): as much as {@link #CAPTION_LINES}
+     * says, in Home, Explore and the other feeds. Reels and stories keep Instagram's count. Instagram
+     * keeps captions it has laid out, so it takes a restart. Off to start.
+     */
+    public static final BooleanSetting EXPAND_CAPTIONS =
+            new BooleanSetting("hushgram_expand_captions", FALSE, true);
+
+    /**
+     * How much of the caption {@link #EXPAND_CAPTIONS} shows: the whole caption to start, or a number
+     * of lines with "more" after them. Read as each caption is built, so it takes a restart too.
+     */
+    public static final EnumSetting<CaptionLines> CAPTION_LINES =
+            new EnumSetting<>("hushgram_caption_lines", CaptionLines.WHOLE, true, parent(EXPAND_CAPTIONS));
 
     /**
      * The small speaker icon in the corner of a feed video

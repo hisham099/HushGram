@@ -469,6 +469,11 @@ Keep Featured off the heart's dot	Featured nicht auf dem Punkt am Herz zeigen
 Stops the red dot on the heart from showing up for Featured alone. Likes, comments and new followers still light it.	Verhindert, dass der rote Punkt am Herz allein wegen „Empfohlen“ erscheint. Likes, Kommentare und neue Follower lassen ihn weiter leuchten.
 Hide highlights	Highlights ausblenden
 Takes the row of story highlights off profiles, yours included. Bios, counts and posts stay, and so does Add to highlight on your stories.	Entfernt die Reihe mit Story-Highlights von Profilen, auch von deinem. Bios, Zahlen und Beiträge bleiben, ebenso „Zu Highlight hinzufügen“ in deinen Storys.
+# context: "Followers" and "Following" are the two buttons under a profile's name, beside the post count; use the words Instagram shows there in this language (#771)
+Hide follower counts	Follower-Zahlen ausblenden
+Takes the numbers off Followers and Following at the top of profiles, yours included. The words stay, and a tap still opens the list.	Entfernt die Zahlen bei „Follower“ und „Gefolgt“ oben auf Profilen, auch auf deinem. Die Wörter bleiben, und ein Tippen öffnet weiter die Liste.
+Hide Followers and Following	„Follower“ und „Gefolgt“ ausblenden
+Takes the Followers and Following buttons off the top of profiles, yours included, with no gap left. The post count stays.	Entfernt die Schaltflächen „Follower“ und „Gefolgt“ oben auf Profilen, auch auf deinem, ohne eine Lücke zu lassen. Die Zahl der Beiträge bleibt.
 Hide the Threads button	Threads-Schaltfläche ausblenden
 Takes the Threads button off the top of profiles, yours included. The menu and the other buttons stay where they were.	Entfernt die Threads-Schaltfläche oben auf Profilen, auch auf deinem. Das Menü und die anderen Schaltflächen bleiben, wo sie waren.
 Show profile posts as a list	Profilbeiträge als Liste zeigen
@@ -1674,6 +1679,22 @@ Start reels muted	Reels stumm starten
 Every reel starts silent, wherever you open it from. The volume keys or the speaker icon unmute it. Wins over Start reels with sound.	Jedes Reel startet stumm, egal wo du es öffnest. Die Lautstärketasten oder das Lautsprechersymbol schalten den Ton ein. Hat Vorrang vor Reels mit Ton starten.
 Hide captions	Beschreibungen ausblenden
 Takes the caption off posts in your feed and off reels. The post stays, and the comments sheet still shows it.	Nimmt die Beschreibung von Beiträgen im Feed und von Reels weg. Der Beitrag bleibt, und die Kommentare zeigen sie weiterhin.
+# context: "more" is the word Instagram puts at the end of a cut caption in the feed; use the word Instagram shows there in this language (#771)
+Expand captions	Beschreibungen ausklappen
+Shows more of a post's caption in your feed before "more", the whole caption to start. Reels and stories stay as they are.	Zeigt im Feed mehr von der Beschreibung eines Beitrags vor „mehr“, zu Beginn die ganze Beschreibung. Reels und Stories bleiben, wie sie sind.
+Caption lines before more	Zeilen vor „mehr“
+The whole caption shows, with no "more" to tap.	Die ganze Beschreibung wird angezeigt, ohne „mehr“ zum Antippen.
+Captions longer than that end with "more", which opens the rest.	Längere Beschreibungen enden mit „mehr“, das den Rest öffnet.
+Turn on Expand captions to use this choice.	Aktiviere „Beschreibungen ausklappen“, um diese Auswahl zu nutzen.
+Whole caption	Ganze Beschreibung
+1 line	1 Zeile
+2 lines	2 Zeilen
+3 lines	3 Zeilen
+4 lines	4 Zeilen
+5 lines	5 Zeilen
+6 lines	6 Zeilen
+8 lines	8 Zeilen
+10 lines	10 Zeilen
 Keep Home's top bar	Obere Leiste der Startseite fixieren
 Keeps the Instagram logo and the buttons beside it at the top of Home while you scroll, instead of sliding them away.	Hält das Instagram-Logo und die Schaltflächen daneben beim Scrollen oben auf der Startseite, statt sie wegzuschieben.
 # context: Feed settings: the See-through top bar switch, right under Keep Home's top bar (#418). It blurs the posts that scroll under Home's header, the bar with the Instagram logo.
@@ -2123,6 +2144,12 @@ Puts the seek bar right on the bottom edge of the video, so it's harder to touch
 # context: "Made with Edits" is the label Instagram shows under a post's author for a video made in Meta's Edits app; it stays in English here
 Hide Made with Edits	„Made with Edits“ ausblenden
 Takes the "Made with Edits" label out of the line under a post's author. The song, the place and the other labels keep taking turns there.	Entfernt den Hinweis „Made with Edits“ aus der Zeile unter dem Namen eines Beitrags. Song, Ort und die anderen Hinweise wechseln sich dort weiter ab.
+# context: "Sponsored" and "Paid partnership" are Instagram's own labels on feed posts; use the text Instagram shows in this language (#771)
+Hide the line under names	Zeile unter Namen ausblenden
+Takes the song, the place and the other labels off the line under the name on posts in your feed. Sponsored and Paid partnership stay. Posts already on screen change when they load again.	Entfernt Song, Ort und die anderen Hinweise aus der Zeile unter dem Namen bei Beiträgen in deinem Feed. „Gesponsert“ und „Bezahlte Partnerschaft“ bleiben. Beiträge, die schon zu sehen sind, ändern sich, wenn sie neu laden.
+# context: "Sponsored" and "Paid partnership" are Instagram's own labels on reels; use the text Instagram shows in this language (#771)
+Hide the line under names on reels	Zeile unter Namen auf Reels ausblenden
+Takes the song, the place and the other labels off the line under the name on reels. Sponsored and Paid partnership stay. Reels already on screen change when they load again.	Entfernt Song, Ort und die anderen Hinweise aus der Zeile unter dem Namen auf Reels. „Gesponsert“ und „Bezahlte Partnerschaft“ bleiben. Reels, die schon zu sehen sind, ändern sich, wenn sie neu laden.
 # context: a switch on the Feed page; Save and Remove from saved are the rows it adds to a feed post's three-dot menu
 Save in the post menu	Speichern im Beitragsmenü
 Adds Save to the menu behind a post's three dots, or Remove from saved when you saved it already.	Fügt „Speichern“ zum Menü hinter den drei Punkten eines Beitrags hinzu, oder „Aus Gespeichertem entfernen“, wenn du ihn schon gespeichert hast.
@@ -2429,7 +2456,8 @@ Keeps the message Instagram shows when you lock a reel's speed, and when the loc
 Remove hidden data from saved photos	Versteckte Daten aus gespeicherten Fotos entfernen
 Takes Meta's FBMD tracking tag out of each photo you save, along with any camera, place and time details. The picture and its colors stay the same. With Add the source on, the source still goes in afterward. JPEG photos only.	Entfernt Metas FBMD-Tracking-Tag aus jedem Foto, das du speicherst, und dazu alle Angaben zu Kamera, Ort und Zeit. Das Bild und seine Farben bleiben gleich. Ist „Quelle zu gespeicherten Fotos und Videos hinzufügen“ an, wird die Quelle danach trotzdem eingetragen. Nur JPEG-Fotos.
 Ask for VP9 instead of AV1	VP9 statt AV1 anfordern
-Tells Instagram your phone has no AV1 decoder. Instagram doesn't always listen, so videos can still come as AV1. If they do, Convert to keep the full size gives you H.264. Takes a restart.	Sagt Instagram, dass dein Handy keinen AV1-Decoder hat. Instagram hält sich nicht immer daran, Videos können also trotzdem als AV1 kommen. Dann liefert dir Umwandeln, um die volle Größe zu behalten, H.264. Braucht einen Neustart.
+# context: summary under Ask for VP9 instead of AV1 in HushGram settings > Downloads; Convert to keep the full size is the switch of that name a few rows up (#546)
+Tells Instagram your phone has no AV1 decoder, which takes a restart. A post or reel that still comes as AV1 is saved as VP9 from Instagram's website when it offers one. Stories can still be AV1, and Convert to keep the full size turns those into H.264.	Sagt Instagram, dass dein Handy keinen AV1-Decoder hat, was einen Neustart braucht. Ein Beitrag oder Reel, der trotzdem als AV1 kommt, wird als VP9 von der Instagram-Website gespeichert, wenn sie eins anbietet. Stories können weiter AV1 sein, und Umwandeln, um die volle Größe zu behalten, macht daraus H.264.
 # context: Summary of Show the skip arrows under Double tap to skip on feed videos in Feed settings (#562)
 Two arrows flash on the side you double tapped, with the seconds skipped under them.	Zwei Pfeile blinken auf der Seite auf, auf die du doppelt getippt hast, darunter die übersprungenen Sekunden.
 # context: Feed settings: choice under Seek bar shape that gives the seek bar on feed videos a shape of its own (#567)
