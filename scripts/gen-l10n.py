@@ -515,7 +515,7 @@ def main():
               if name.endswith(".tsv")}
     try:
         keys, others = source_catalog()
-        for entries in tables.values():
+        for lang, entries in tables.items():
             validate_keys(entries, keys, others, lang)
         output = render(tables)
     except ValueError as error:
