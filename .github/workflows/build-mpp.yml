@@ -1,0 +1,72 @@
+name: Build HushGram MPP
+
+on:
+  push:
+    branches:
+      - arabic-translation-review
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  packages: read
+
+concurrency:
+  group: hushgram-mpp-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build-mpp:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - name: Check out source
+        uses: actions/checkout@v4
+
+      - name: Set up Java
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '21'
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+
+      - name: Set up Gradle
+        uses: gradle/actions/setup-gradle@v4
+
+      - name: Generate localization source
+        run: python scripts/gen-l10n.py
+
+      - name: Test localization tables
+        run: python scripts/test-l10n.py
+
+      - name: Build Morphe patch bundle
+        env:
+          GITHUB_ACTOR: ${{ github.actor }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: ./gradlew --no-daemon buildAndroid
+
+      - name: Check and hash MPP output
+        shell: bash
+        run: |
+          set -euo pipefail
+          shopt -s nullglob
+          bundles=(patches/build/libs/*.mpp)
+          if [ ${#bundles[@]} -eq 0 ]; then
+            echo "Gradle completed but no .mpp bundle was found in patches/build/libs/"
+            exit 1
+          fi
+          sha256sum "${bundles[@]}" > patches/build/libs/SHA256SUMS.txt
+          ls -lh "${bundles[@]}" patches/build/libs/SHA256SUMS.txt
+
+      - name: Upload MPP bundle
+        uses: actions/upload-artifact@v4
+        with:
+          name: HushGram-MPP-${{ github.sha }}
+          path: |
+            patches/build/libs/*.mpp
+            patches/build/libs/SHA256SUMS.txt
+          if-no-files-found: error
+          retention-days: 14
