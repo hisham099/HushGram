@@ -1,0 +1,1 @@
+Trigger the v0.0.22 Arabic MPP workflow after making artifact upload non-blocking on upstream patch test failures.
