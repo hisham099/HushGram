@@ -1,0 +1,78 @@
+name: Build exact HushGram v0.0.22 Arabic MPP
+
+on:
+  push:
+    branches: [arabic-v0.0.22-exact]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  packages: read
+
+jobs:
+  build:
+    runs-on: windows-latest
+    timeout-minutes: 120
+    env:
+      GITHUB_ACTOR: ${{ github.actor }}
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - name: Check out exact release tag source
+        uses: actions/checkout@v4
+        with:
+          ref: 30d2d105f0f70245ffe10d9a8cf904b0c900ddb6
+      - name: Check out Arabic work
+        uses: actions/checkout@v4
+        with:
+          ref: arabic-v0.0.22-exact
+          path: arabic-work
+      - name: Overlay Arabic files
+        shell: pwsh
+        run: |
+          Copy-Item 'arabic-work/extensions/shared/library/src/main/l10n/ar.tsv' 'extensions/shared/library/src/main/l10n/ar.tsv' -Force
+          Copy-Item 'arabic-work/scripts/prune-ar-v0022.py' 'scripts/prune-ar-v0022.py' -Force
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '21'
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+      - uses: gradle/actions/setup-gradle@v4
+      - name: Filter translations against release catalog
+        run: python scripts/prune-ar-v0022.py
+      - name: Generate localization source
+        run: python scripts/gen-l10n.py
+      - name: Test localization
+        run: python scripts/test-l10n.py
+      - name: Generate release patch catalog
+        run: .\\gradlew.bat --no-daemon :patches:generatePatchesList
+      - name: Build MPP
+        run: .\\gradlew.bat --no-daemon :patches:buildAndroid
+      - name: Run patch tests
+        run: .\\gradlew.bat --no-daemon :patches:test
+      - name: Verify bundle release metadata and hash
+        shell: pwsh
+        run: |
+          $bundles = @(Get-ChildItem -Path 'patches/build/release/*.mpp' -File)
+          if ($bundles.Count -ne 1) { throw "Expected one MPP, found $($bundles.Count)." }
+          Add-Type -AssemblyName System.IO.Compression.FileSystem
+          $zip = [System.IO.Compression.ZipFile]::OpenRead($bundles[0].FullName)
+          try {
+            $entry = $zip.GetEntry('META-INF/MANIFEST.MF')
+            if ($null -eq $entry) { throw 'MPP manifest is missing.' }
+            $reader = [System.IO.StreamReader]::new($entry.Open())
+            $manifest = $reader.ReadToEnd(); $reader.Dispose()
+            if ($manifest -notmatch '(?m)^Version: 0\.0\.22\s*$') { throw 'Wrong release version.' }
+            if ($manifest -notmatch '(?m)^Source: https://github\.com/SysAdminDoc/HushGram\s*$') { throw 'Wrong source.' }
+          } finally { $zip.Dispose() }
+          $hash = (Get-FileHash -Algorithm SHA256 -LiteralPath $bundles[0].FullName).Hash.ToLowerInvariant()
+          "$hash  $($bundles[0].Name)" | Set-Content "patches/build/release/SHA256SUMS.txt" -Encoding utf8NoBOM
+          Get-Item $bundles[0].FullName | Select-Object Name, Length
+      - name: Upload verified MPP
+        uses: actions/upload-artifact@v4
+        with:
+          name: HushGram-v0.0.22-Arabic-exact-${{ github.sha }}
+          path: patches/build/release/*.mpp
+          if-no-files-found: error
+          retention-days: 14
