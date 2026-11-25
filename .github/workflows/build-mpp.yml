@@ -49,31 +49,37 @@ jobs:
         uses: gradle/actions/setup-gradle@v4
       - name: Generate localization source
         run: python scripts/gen-l10n.py
+      - name: Generate complete patch catalog
+        run: .\gradlew.bat --no-daemon :patches:generatePatchesList
       - name: Build Morphe patch bundle
         env:
           GITHUB_ACTOR: ${{ github.actor }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: .\gradlew.bat --no-daemon buildAndroid
-      - name: Check and hash MPP output
+        run: .\gradlew.bat --no-daemon :patches:buildAndroid
+      - name: Run patch and extension tests
+        run: .\gradlew.bat --no-daemon :patches:test :extensions:instagram:testDebugUnitTest
+      - name: Check and hash release bundle
         shell: pwsh
         run: |
-          $bundles = @(Get-ChildItem -Path 'patches/build/libs/*.mpp' -File)
+          $bundles = @(Get-ChildItem -Path 'patches/build/release/*.mpp' -File)
           if ($bundles.Count -eq 0) {
-            throw 'Gradle completed but no .mpp bundle was found in patches/build/libs/.'
+            throw 'No .mpp bundle was found in patches/build/release/.'
           }
           $lines = foreach ($bundle in $bundles) {
             $hash = (Get-FileHash -Algorithm SHA256 -LiteralPath $bundle.FullName).Hash.ToLowerInvariant()
             "$hash  $($bundle.Name)"
           }
-          Set-Content -LiteralPath 'patches/build/libs/SHA256SUMS.txt' -Value $lines -Encoding utf8NoBOM
+          Set-Content -LiteralPath 'patches/build/release/SHA256SUMS.txt' -Value $lines -Encoding utf8NoBOM
           $bundles | Select-Object Name, Length
-          Get-Content 'patches/build/libs/SHA256SUMS.txt'
-      - name: Upload MPP bundle
+          Get-Content 'patches/build/release/SHA256SUMS.txt'
+          Get-ChildItem -Path 'patches/build/release/*.cdx.json' -File | Select-Object Name, Length
+      - name: Upload MPP bundle and release metadata
         uses: actions/upload-artifact@v4
         with:
           name: HushGram-MPP-${{ github.sha }}
           path: |
-            patches/build/libs/*.mpp
-            patches/build/libs/SHA256SUMS.txt
+            patches/build/release/*.mpp
+            patches/build/release/*.cdx.json
+            patches/build/release/SHA256SUMS.txt
           if-no-files-found: error
           retention-days: 14
