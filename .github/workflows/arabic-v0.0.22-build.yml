@@ -59,6 +59,14 @@ jobs:
       - name: Run patch tests (non-blocking for bundle export)
         continue-on-error: true
         run: .\gradlew.bat --no-daemon :patches:test
+      - name: Upload patch test reports for diagnosis
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: HushGram-v0.0.22-test-reports-${{ github.sha }}
+          path: patches/build/test-results/test/*.xml
+          if-no-files-found: warn
+          retention-days: 7
       - name: Check and hash release bundle
         if: always()
         shell: pwsh
