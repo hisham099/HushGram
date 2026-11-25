@@ -3,6 +3,15 @@
   "rules": [
     {
       "paths": [
+        "extensions/instagram/src/main/java/app/hushgram/extension/instagram/settings/ViewingHistoryViewer.java"
+      ],
+      "origin": "original",
+      "upstream": "https://github.com/SysAdminDoc/HushGram",
+      "license": "GPL-3.0-only",
+      "changes": "Written for HushGram: a full-screen viewer for one entry in the local viewing history, with horizontal navigation, profile and post links, and RTL-aware swiping."
+    },
+    {
+      "paths": [
         "extensions/shared/library/src/main/l10n/th.tsv"
       ],
       "origin": "ported",
