@@ -139,6 +139,6 @@ class ObfuscatedIdentityTest {
          * of the viewing history, the Saved screen's All tab Instagram names in its tab list, and the
          * artist tag in a saved MP4's metadata.
          */
-        val REAL_NAMES = setOf("Ads", "All", "ALL", "App", "ART", "Bio", "CBR", "AV1", "add","get", "put", "run", "id", "raw", "mp3", "mp4", "m4a", "m4v")
+        val REAL_NAMES = setOf("Ads", "All", "ALL", "App", "ART", "Bio", "CBR", "AV1", "add", "get", "put", "run", "id", "raw", "row", "mp3", "mp4", "m4a", "m4v")
     }
 }
