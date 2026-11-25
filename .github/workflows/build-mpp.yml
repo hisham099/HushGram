@@ -16,8 +16,8 @@ concurrency:
 
 jobs:
   build-mpp:
-    runs-on: ubuntu-latest
-    timeout-minutes: 90
+    runs-on: windows-latest
+    timeout-minutes: 120
     steps:
       - name: Check out source
         uses: actions/checkout@v4
@@ -46,20 +46,22 @@ jobs:
         env:
           GITHUB_ACTOR: ${{ github.actor }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: ./gradlew --no-daemon buildAndroid
+        run: .\gradlew.bat --no-daemon buildAndroid
 
       - name: Check and hash MPP output
-        shell: bash
+        shell: pwsh
         run: |
-          set -euo pipefail
-          shopt -s nullglob
-          bundles=(patches/build/libs/*.mpp)
-          if [ ${#bundles[@]} -eq 0 ]; then
-            echo "Gradle completed but no .mpp bundle was found in patches/build/libs/"
-            exit 1
-          fi
-          sha256sum "${bundles[@]}" > patches/build/libs/SHA256SUMS.txt
-          ls -lh "${bundles[@]}" patches/build/libs/SHA256SUMS.txt
+          $bundles = @(Get-ChildItem -Path 'patches/build/libs/*.mpp' -File)
+          if ($bundles.Count -eq 0) {
+            throw 'Gradle completed but no .mpp bundle was found in patches/build/libs/.'
+          }
+          $lines = foreach ($bundle in $bundles) {
+            $hash = (Get-FileHash -Algorithm SHA256 -LiteralPath $bundle.FullName).Hash.ToLowerInvariant()
+            "$hash  $($bundle.Name)"
+          }
+          Set-Content -LiteralPath 'patches/build/libs/SHA256SUMS.txt' -Value $lines -Encoding utf8NoBOM
+          $bundles | Select-Object Name, Length
+          Get-Content 'patches/build/libs/SHA256SUMS.txt'
 
       - name: Upload MPP bundle
         uses: actions/upload-artifact@v4
