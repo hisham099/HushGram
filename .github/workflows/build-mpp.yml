@@ -15,39 +15,45 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
+  localization-tests:
+    runs-on: windows-latest
+    timeout-minutes: 30
+    steps:
+      - name: Check out source
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+      - name: Generate localization source
+        run: python scripts/gen-l10n.py
+      - name: Test localization tables
+        run: python scripts/test-l10n.py
+
   build-mpp:
     runs-on: windows-latest
     timeout-minutes: 120
     steps:
       - name: Check out source
         uses: actions/checkout@v4
-
       - name: Set up Java
         uses: actions/setup-java@v4
         with:
           distribution: temurin
           java-version: '21'
-
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.13'
-
       - name: Set up Gradle
         uses: gradle/actions/setup-gradle@v4
-
       - name: Generate localization source
         run: python scripts/gen-l10n.py
-
-      - name: Test localization tables
-        run: python scripts/test-l10n.py
-
       - name: Build Morphe patch bundle
         env:
           GITHUB_ACTOR: ${{ github.actor }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: .\gradlew.bat --no-daemon buildAndroid
-
       - name: Check and hash MPP output
         shell: pwsh
         run: |
@@ -62,7 +68,6 @@ jobs:
           Set-Content -LiteralPath 'patches/build/libs/SHA256SUMS.txt' -Value $lines -Encoding utf8NoBOM
           $bundles | Select-Object Name, Length
           Get-Content 'patches/build/libs/SHA256SUMS.txt'
-
       - name: Upload MPP bundle
         uses: actions/upload-artifact@v4
         with:
