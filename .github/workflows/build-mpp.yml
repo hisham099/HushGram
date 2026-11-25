@@ -33,6 +33,9 @@ jobs:
   build-mpp:
     runs-on: windows-latest
     timeout-minutes: 120
+    env:
+      GITHUB_ACTOR: ${{ github.actor }}
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     steps:
       - name: Check out source
         uses: actions/checkout@v4
