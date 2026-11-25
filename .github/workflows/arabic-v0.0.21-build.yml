@@ -25,6 +25,8 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.13'
+      - name: Prepare Arabic table for v0.0.21
+        run: python scripts/prepare-ar-0.0.21.py
       - name: Generate localization source
         run: python scripts/gen-l10n.py
       - name: Diagnose Arabic catalog mismatch
@@ -53,6 +55,8 @@ jobs:
           python-version: '3.13'
       - name: Set up Gradle
         uses: gradle/actions/setup-gradle@v4
+      - name: Prepare Arabic table for v0.0.21
+        run: python scripts/prepare-ar-0.0.21.py
       - name: Generate localization source
         run: python scripts/gen-l10n.py
       - name: Generate complete patch catalog
