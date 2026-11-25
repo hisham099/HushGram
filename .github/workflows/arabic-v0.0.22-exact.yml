@@ -48,6 +48,11 @@ jobs:
         run: python scripts/test-l10n.py
       - name: Generate release patch catalog
         run: .\\gradlew.bat --no-daemon :patches:generatePatchesList
+      - name: Stage generated release inputs
+        shell: pwsh
+        run: |
+          git add --all
+          git add --force -- extensions/shared/library/src/main/l10n/ar.tsv scripts/prune-ar-v0022.py
       - name: Build MPP
         run: .\\gradlew.bat --no-daemon :patches:buildAndroid
       - name: Run patch tests
