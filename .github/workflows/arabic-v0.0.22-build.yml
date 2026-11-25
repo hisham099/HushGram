@@ -1,0 +1,82 @@
+name: Build HushGram v0.0.22 Arabic MPP
+
+on:
+  push:
+    branches:
+      - arabic-v0.0.22
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  packages: read
+
+concurrency:
+  group: hushgram-v0022-arabic-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  localization-tests:
+    runs-on: windows-latest
+    timeout-minutes: 30
+    steps:
+      - name: Check out exact v0.0.22 source plus Arabic localization
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+      - name: Generate localization source
+        run: python scripts/gen-l10n.py
+      - name: Test localization tables
+        run: python scripts/test-l10n.py
+
+  build-mpp:
+    runs-on: windows-latest
+    timeout-minutes: 120
+    env:
+      GITHUB_ACTOR: ${{ github.actor }}
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - name: Check out exact v0.0.22 source plus Arabic localization
+        uses: actions/checkout@v4
+      - name: Set up Java
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '21'
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+      - name: Set up Gradle
+        uses: gradle/actions/setup-gradle@v4
+      - name: Generate localization source
+        run: python scripts/gen-l10n.py
+      - name: Generate complete patch catalog
+        run: .\\gradlew.bat --no-daemon :patches:generatePatchesList
+      - name: Build Morphe patch bundle
+        run: .\\gradlew.bat --no-daemon :patches:buildAndroid
+      - name: Run patch tests
+        run: .\\gradlew.bat --no-daemon :patches:test
+      - name: Check and hash release bundle
+        shell: pwsh
+        run: |
+          $bundles = @(Get-ChildItem -Path 'patches/build/release/*.mpp' -File)
+          if ($bundles.Count -eq 0) { throw 'No .mpp bundle was found.' }
+          $lines = foreach ($bundle in $bundles) {
+            $hash = (Get-FileHash -Algorithm SHA256 -LiteralPath $bundle.FullName).Hash.ToLowerInvariant()
+            "$hash  $($bundle.Name)"
+          }
+          Set-Content -LiteralPath 'patches/build/release/SHA256SUMS.txt' -Value $lines -Encoding utf8NoBOM
+          Get-ChildItem -Path 'patches/build/release/*.mpp' | Select-Object Name, Length
+          Get-Content 'patches/build/release/SHA256SUMS.txt'
+      - name: Upload Arabic MPP bundle
+        uses: actions/upload-artifact@v4
+        with:
+          name: HushGram-v0.0.22-Arabic-${{ github.sha }}
+          path: |
+            patches/build/release/*.mpp
+            patches/build/release/*.cdx.json
+            patches/build/release/SHA256SUMS.txt
+          if-no-files-found: error
+          retention-days: 14
