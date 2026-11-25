@@ -71,7 +71,7 @@
 1.5 seconds	1.5 ثانية
 10 lines	10 أسطر
 15 minutes	15 دقيقة
-1m left	1 دقيقة متبقية
+1m left	تبقّت دقيقة واحدة
 2 lines	سطران
 3 lines	3 أسطر
 4 lines	4 أسطر
@@ -90,11 +90,11 @@ A chat you open stays unread in your messages on this phone until you long press
 A chat's message notification gets Android's bubble button, so the chat can float over other apps. Hidden and locked chats never get one. Needs Android 11 or newer.	تأخذ إشعارات رسائل المحادثة زر الفقاعة في Android، لتطفو المحادثة فوق التطبيقات الأخرى. أما المحادثات المخفية والمقفلة فلا تحصل عليه أبدًا. يتطلب Android 11 أو أحدث.
 A check mark shows at the top of a chat while it hasn't told the other person you've seen it. Tap it and they see Seen.	تظهر علامة صح أعلى المحادثة ما دامت لم تخبر الطرف الآخر أنك رأيتها. اضغط عليها ليظهر له تمت المشاهدة.
 A click each time the highlight moves to another tab, even with the phone's touch sounds off. Silent and vibrate mode keep it quiet.	نقرة عند كل انتقال للتمييز إلى تبويب آخر، حتى مع إيقاف أصوات اللمس في الهاتف. الوضع الصامت والاهتزاز يُبقيه هادئًا.
-A color as six hex digits, like #4A6B82. HushGram makes it darker or lighter where text needs it. Restart Instagram to see it.	لون كستة أرقام hex مثل #4A6B82. يجعله HushGram أغمق أو أفتح حيث يحتاج النص. أعد تشغيل Instagram لرؤيته.
-A color as six hex digits, like #4A6B82. Saving it picks Custom under Ring color. Restart Instagram to see it.	لون كستة أرقام hex مثل #4A6B82. حفظه يختار Custom ضمن لون الخاتم. أعد تشغيل Instagram لرؤيته.
+A color as six hex digits, like #4A6B82. HushGram makes it darker or lighter where text needs it. Restart Instagram to see it.	لون مكوّن من ست خانات بالنظام السداسي عشري، مثل #4A6B82. يجعل HushGram اللون أغمق أو أفتح بما يناسب النص. أعد تشغيل Instagram لرؤية التغيير.
+A color as six hex digits, like #4A6B82. Saving it picks Custom under Ring color. Restart Instagram to see it.	لون مكوّن من ست خانات بالنظام السداسي عشري، مثل #4A6B82. عند حفظه، يُختار Custom ضمن إعداد لون الحلقة. أعد تشغيل Instagram لرؤية التغيير.
 A comment GIF you saved with Save comment photo, picked from your gallery in the comment box, goes up right away as the same GIF, animated. Other pictures go up as before.	صورة GIF للتعليق تحفظها عبر Save comment photo وتختارها من معرضك في خانة التعليق، تُنشر فورًا بنفس الصورة GIF المتحركة. أما الصور الأخرى فتُنشر كما كانت.
 A diagnostic report is already being saved.	تقرير تشخيصي يُحفظ بالفعل.
-A double tap on a comment doesn't like it. Starts off, so comments keep double tap to like until you turn this on.	النقر المزدوج على تعليق لا يُعجبه. يبدأ مُعطّلًا، فتبقى التعليقات تستخدم النقر المزدوج للإعجاب حتى تشغّل هذا.
+A double tap on a comment doesn't like it. Starts off, so comments keep double tap to like until you turn this on.	لا يؤدي النقر المزدوج على تعليق إلى الإعجاب به. يكون هذا الخيار معطّلًا افتراضيًا، لذلك يظل النقر المزدوج وسيلة للإعجاب بالتعليقات حتى تفعّله.
 A double tap on a message in a chat doesn't react to it. Starts off. A long press still shows the reactions.	النقر المزدوج على رسالة في محادثة لا يُضيف إليها تفاعلًا. يبدأ مُعطّلًا. والضغط المطوّل لا يزال يعرض التفاعلات.
 A double tap on a post doesn't like it. Turn this off to keep double tap to like on posts.	النقر المزدوج على منشور لا يُعجبه. أوقف هذا للإبقاء على النقر المزدوج للإعجاب بالمنشورات.
 A double tap on a post or reel no longer likes it or shows a heart. A single tap and the Like button work as before.	لم يعد النقر المزدوج على منشور أو reel يُعجبه أو يُظهر قلبًا. وتعمل النقرة الواحدة وزر الإعجاب كما كانا.
