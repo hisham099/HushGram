@@ -67,14 +67,17 @@ jobs:
         if: failure()
         shell: pwsh
         run: |
-          $reports = @(
-            'patches/build/test-results/test/TEST-app.morphe.ObfuscatedIdentityTest.xml',
-            'patches/build/test-results/test/TEST-app.morphe.ReadmePatchNamesTest.xml'
-          )
+          $reports = @(Get-ChildItem -Path 'patches' -Recurse -File -Filter 'TEST-*.xml' -ErrorAction SilentlyContinue)
+          if ($reports.Count -eq 0) {
+            Write-Host 'No JUnit XML reports found under patches/.'
+            Get-ChildItem -Path 'patches/build' -Recurse -Directory -ErrorAction SilentlyContinue |
+              Where-Object { $_.FullName -match 'test-results|reports' } |
+              Select-Object -ExpandProperty FullName
+          }
           foreach ($report in $reports) {
-            if (Test-Path $report) {
-              Write-Host "===== $report ====="
-              Get-Content -LiteralPath $report
+            if ($report.Name -match 'ObfuscatedIdentityTest|ReadmePatchNamesTest') {
+              Write-Host "===== $($report.FullName) ====="
+              Get-Content -LiteralPath $report.FullName
             }
           }
       - name: Check and hash release bundle
