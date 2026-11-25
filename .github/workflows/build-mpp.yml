@@ -63,6 +63,20 @@ jobs:
         # Instagram unit-test compile currently fails upstream dependency verification for Bouncy Castle 1.85.
         # Keep verification strict; do not auto-trust dependencies or alter upstream checksums.
         run: .\gradlew.bat --no-daemon :patches:test
+      - name: Print failing patch test reports
+        if: failure()
+        shell: pwsh
+        run: |
+          $reports = @(
+            'patches/build/test-results/test/TEST-app.morphe.ObfuscatedIdentityTest.xml',
+            'patches/build/test-results/test/TEST-app.morphe.ReadmePatchNamesTest.xml'
+          )
+          foreach ($report in $reports) {
+            if (Test-Path $report) {
+              Write-Host "===== $report ====="
+              Get-Content -LiteralPath $report
+            }
+          }
       - name: Check and hash release bundle
         shell: pwsh
         run: |
