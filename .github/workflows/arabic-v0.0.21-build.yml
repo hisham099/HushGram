@@ -27,6 +27,9 @@ jobs:
           python-version: '3.13'
       - name: Generate localization source
         run: python scripts/gen-l10n.py
+      - name: Diagnose Arabic catalog mismatch
+        if: failure()
+        run: python scripts/report-l10n-diff.py
       - name: Test localization tables
         run: python scripts/test-l10n.py
 
