@@ -31,6 +31,7 @@ jobs:
         run: |
           Copy-Item 'arabic-work/extensions/shared/library/src/main/l10n/ar.tsv' 'extensions/shared/library/src/main/l10n/ar.tsv' -Force
           Copy-Item 'arabic-work/scripts/prune-ar-v0022.py' 'scripts/prune-ar-v0022.py' -Force
+          git add --force -- extensions/shared/library/src/main/l10n/ar.tsv scripts/prune-ar-v0022.py
       - uses: actions/setup-java@v4
         with:
           distribution: temurin
